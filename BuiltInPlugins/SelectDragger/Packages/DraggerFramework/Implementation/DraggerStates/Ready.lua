@@ -12,6 +12,8 @@ local StandardCursor = require(DraggerFramework.Utility.StandardCursor)
 
 local getEngineFeatureActiveInstanceHighlight = require(DraggerFramework.Flags.getEngineFeatureActiveInstanceHighlight)
 local getFFlagHoverBoxActiveColor = require(DraggerFramework.Flags.getFFlagHoverBoxActiveColor)
+local getFFlagSetInsertPointOnSelect = require(DraggerFramework.Flags.getFFlagSetInsertPointOnSelect)
+local getFFlagUpdateHoverOnMouseDown = require(DraggerFramework.Flags.getFFlagUpdateHoverOnMouseDown)
 
 local Ready = {}
 Ready.__index = Ready
@@ -108,6 +110,12 @@ end
 ]]
 function Ready:processMouseDown()
 	local draggerContext = self._draggerToolModel._draggerContext
+	if getFFlagUpdateHoverOnMouseDown() then
+		-- We have to do an update here for the edge case where the 3D view just
+		-- became selected thanks to the mouse down event, so we haven't received
+		-- a view change event yet.
+		self._hoverTracker:update(self._draggerToolModel._derivedWorldState, draggerContext)
+	end
 	local hoverHandleId = self._hoverTracker:getHoverHandleId()
 	if hoverHandleId then
 		local makeDraggedPartsTransparent =
@@ -135,6 +143,17 @@ function Ready:processMouseDown()
 			-- changes the selection, since we just changed the selection manually
 			-- we need to invoke it here.
 			self._draggerToolModel:_processSelectionChanged()
+
+			if getFFlagSetInsertPointOnSelect() then
+				-- If we have objects to transform, then change the insert point to
+				-- the selection's center. This makes it easier to paste and insert
+				-- objects at the position of a target object.
+				local parts, attachments = self._draggerToolModel._derivedWorldState:getObjectsToTransform()
+				if #parts > 0 or #attachments > 0 then
+					local cframe, offset = self._draggerToolModel._derivedWorldState:getBoundingBox()
+					draggerContext:setInsertPoint(cframe * offset)
+				end
+			end
 		end
 
 		local selectionContainsClickedPart = false
