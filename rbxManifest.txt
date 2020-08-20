@@ -615,7 +615,7 @@ f4e9a8d8d76d15dc454b9143f360a7c0
 ReflectionMetadata.xml
 621e75f4f890372b954fe58d141348f4
 RobloxStudioBeta.exe
-c9de8a335e63f70f18851627945a2ed3
+6db267781a982b30fd046217ddb9ee90
 RobloxStudioRibbon.xml
 79be18a5ec2c0313316b31d9c6221150
 d3dcompiler_46.dll
