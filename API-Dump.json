@@ -2963,6 +2963,110 @@
         },
         {
             "Members": [
+                {
+                    "MemberType": "Function",
+                    "Name": "GetAvatarRules",
+                    "Parameters": [
+                    ],
+                    "ReturnType": {
+                        "Category": "Group",
+                        "Name": "Dictionary"
+                    },
+                    "Security": "None",
+                    "Tags": [
+                        "Yields"
+                    ]
+                },
+                {
+                    "MemberType": "Function",
+                    "Name": "GetItemDetails",
+                    "Parameters": [
+                        {
+                            "Name": "itemId",
+                            "Type": {
+                                "Category": "Primitive",
+                                "Name": "int64"
+                            }
+                        },
+                        {
+                            "Name": "itemType",
+                            "Type": {
+                                "Category": "Enum",
+                                "Name": "ItemType"
+                            }
+                        }
+                    ],
+                    "ReturnType": {
+                        "Category": "Group",
+                        "Name": "Dictionary"
+                    },
+                    "Security": "None",
+                    "Tags": [
+                        "Yields"
+                    ]
+                },
+                {
+                    "MemberType": "Function",
+                    "Name": "GetRecommendedAssets",
+                    "Parameters": [
+                        {
+                            "Name": "assetType",
+                            "Type": {
+                                "Category": "Enum",
+                                "Name": "AvatarAssetType"
+                            }
+                        },
+                        {
+                            "Default": "0",
+                            "Name": "contextAssetId",
+                            "Type": {
+                                "Category": "Primitive",
+                                "Name": "int64"
+                            }
+                        }
+                    ],
+                    "ReturnType": {
+                        "Category": "Group",
+                        "Name": "Array"
+                    },
+                    "Security": "None",
+                    "Tags": [
+                        "Yields"
+                    ]
+                },
+                {
+                    "MemberType": "Function",
+                    "Name": "GetRecommendedBundles",
+                    "Parameters": [
+                        {
+                            "Name": "bundleId",
+                            "Type": {
+                                "Category": "Primitive",
+                                "Name": "int64"
+                            }
+                        }
+                    ],
+                    "ReturnType": {
+                        "Category": "Group",
+                        "Name": "Array"
+                    },
+                    "Security": "None",
+                    "Tags": [
+                        "Yields"
+                    ]
+                }
+            ],
+            "MemoryCategory": "Instances",
+            "Name": "AvatarEditorService",
+            "Superclass": "Instance",
+            "Tags": [
+                "NotCreatable",
+                "Service",
+                "NotReplicated"
+            ]
+        },
+        {
+            "Members": [
             ],
             "MemoryCategory": "Instances",
             "Name": "Backpack",
@@ -52285,6 +52389,17 @@
                 },
                 {
                     "MemberType": "Function",
+                    "Name": "GetStartupAssetId",
+                    "Parameters": [
+                    ],
+                    "ReturnType": {
+                        "Category": "Primitive",
+                        "Name": "string"
+                    },
+                    "Security": "RobloxScriptSecurity"
+                },
+                {
+                    "MemberType": "Function",
                     "Name": "GetStartupPluginId",
                     "Parameters": [
                     ],
@@ -61360,6 +61475,119 @@
         {
             "Items": [
                 {
+                    "Name": "TShirt",
+                    "Value": 2
+                },
+                {
+                    "Name": "Hat",
+                    "Value": 8
+                },
+                {
+                    "Name": "HairAccessory",
+                    "Value": 41
+                },
+                {
+                    "Name": "FaceAccessory",
+                    "Value": 42
+                },
+                {
+                    "Name": "NeckAccessory",
+                    "Value": 43
+                },
+                {
+                    "Name": "ShoulderAccessory",
+                    "Value": 44
+                },
+                {
+                    "Name": "FrontAccessory",
+                    "Value": 45
+                },
+                {
+                    "Name": "BackAccessory",
+                    "Value": 46
+                },
+                {
+                    "Name": "WaistAccessory",
+                    "Value": 47
+                },
+                {
+                    "Name": "Shirt",
+                    "Value": 11
+                },
+                {
+                    "Name": "Pants",
+                    "Value": 12
+                },
+                {
+                    "Name": "Gear",
+                    "Value": 19
+                },
+                {
+                    "Name": "Head",
+                    "Value": 17
+                },
+                {
+                    "Name": "Face",
+                    "Value": 18
+                },
+                {
+                    "Name": "Torso",
+                    "Value": 27
+                },
+                {
+                    "Name": "RightArm",
+                    "Value": 28
+                },
+                {
+                    "Name": "LeftArm",
+                    "Value": 29
+                },
+                {
+                    "Name": "LeftLeg",
+                    "Value": 30
+                },
+                {
+                    "Name": "RightLeg",
+                    "Value": 31
+                },
+                {
+                    "Name": "ClimbAnimation",
+                    "Value": 48
+                },
+                {
+                    "Name": "FallAnimation",
+                    "Value": 50
+                },
+                {
+                    "Name": "IdleAnimation",
+                    "Value": 51
+                },
+                {
+                    "Name": "JumpAnimation",
+                    "Value": 52
+                },
+                {
+                    "Name": "RunAnimation",
+                    "Value": 53
+                },
+                {
+                    "Name": "SwimAnimation",
+                    "Value": 54
+                },
+                {
+                    "Name": "WalkAnimation",
+                    "Value": 55
+                },
+                {
+                    "Name": "EmoteAnimation",
+                    "Value": 61
+                }
+            ],
+            "Name": "AvatarAssetType"
+        },
+        {
+            "Items": [
+                {
                     "Name": "Friend",
                     "Value": 0
                 },
@@ -63505,11 +63733,11 @@
                 },
                 {
                     "Name": "Analytics",
-                    "Value": 22
+                    "Value": 23
                 },
                 {
                     "Name": "Localization",
-                    "Value": 24
+                    "Value": 25
                 }
             ],
             "Name": "HttpRequestType"
@@ -63747,6 +63975,19 @@
                 }
             ],
             "Name": "InputType"
+        },
+        {
+            "Items": [
+                {
+                    "Name": "Asset",
+                    "Value": 0
+                },
+                {
+                    "Name": "Bundle",
+                    "Value": 1
+                }
+            ],
+            "Name": "ItemType"
         },
         {
             "Items": [

@@ -89,7 +89,7 @@ Studio.App.BetaFeatures.LuaDraggersDescription,,Migrates the Select/Move/Rotate/
 Studio.App.BetaFeatures.LuaDraggersTitle,,Lua Draggers Beta,Lua Draggers Beta
 Studio.App.BetaFeatures.ModelMeshComputerBetaDescription,,Automatically generate Impostor meshes to be rendered outside of streaming radius. Use LevelOfDetail property on Model to enable it.,Automatically generate Impostor meshes to be rendered outside of streaming radius. Use LevelOfDetail property on Model to enable it.
 Studio.App.BetaFeatures.ModelMeshComputerBetaTitle,,Automatic Impostors for Models,Automatic Impostors for Models
-Studio.App.BetaFeatures.NewFeaturesForChannelUserWarning1,,"New beta features are available now and reflected in this dialog. You must restart Studio for them to become available. <a href=""%1"">Restart Now</a>","New beta features are available now and reflected in this dialog. You must restart Studio for them to become available. <a href=""%1"">Restart Now</a>"
+Studio.App.BetaFeatures.NewFeaturesForChannelUserWarning1,,"New beta features have been automatically enabled above as you are enrolled in Beta Channel. You must restart Studio for them to be activated. <a href=""%1"">Restart Now</a>","New beta features have been automatically enabled above as you are enrolled in Beta Channel. You must restart Studio for them to be activated. <a href=""%1"">Restart Now</a>"
 Studio.App.BetaFeatures.NewScriptFoldStateDescription,,Enables new improved behavior for code folding in the Script Editor.,Enables new improved behavior for code folding in the Script Editor.
 Studio.App.BetaFeatures.NewScriptFoldStateTitle,,Script Editor Folds Behavior Beta,Script Editor Folds Behavior Beta
 Studio.App.BetaFeatures.PackagePermissionsDescription,,"Add any group, user, or role as a user or editor for your packages through the Package Management action in Game Explorer","Add any group, user, or role as a user or editor for your packages through the Package Management action in Game Explorer"
@@ -1540,6 +1540,8 @@ Studio.App.RBXMainWindow.QuickFindScript,,Type to quickly open another script,Ty
 Studio.App.RBXMainWindow.QuickFindScriptUseCtrlP,,"This Dialog is deprecated, please use Quick Open (Ctrl+P) instead","This Dialog is deprecated, please use Quick Open (Ctrl+P) instead"
 Studio.App.RBXMainWindow.QuitApplication,,Quit the application; prompts to save documents,Quit the application; prompts to save documents
 Studio.App.RBXMainWindow.RedoThePreviouslyUndo,,Redo the previously undone action,Redo the previously undone action
+Studio.App.RBXMainWindow.ReloadPlugin,,Reload Plugin,Reload Plugin
+Studio.App.RBXMainWindow.ReloadPluginTooltip,,Stop plugin execution. Reload from disk. Note this will lose any changes you may have made to the Plugin under Plugin Debug Service,Stop plugin execution. Reload from disk. Note this will lose any changes you may have made to the Plugin under Plugin Debug Service
 Studio.App.RBXMainWindow.ReloadScript,,Reload Script,Reload Script
 Studio.App.RBXMainWindow.Rename,,Rename,Rename
 Studio.App.RBXMainWindow.RenamesSelectedObject,,Renames selected object,Renames selected object
@@ -2282,6 +2284,7 @@ Studio.App.RobloxTeamCreateWidget.TurnOffTeamCreate,,Turn OFF Team Create,Turn O
 Studio.App.RobloxTextOutputWidget.ClearOutput,,Clear Output,Clear Output
 Studio.App.RobloxTextOutputWidget.Context,,Context,Context
 Studio.App.RobloxTextOutputWidget.Copy,,Copy,Copy
+Studio.App.RobloxTextOutputWidget.Filter,,Filter...,Filter...
 Studio.App.RobloxTextOutputWidget.LuaTableIndicator1,,table: %1,table: %1
 Studio.App.RobloxTextOutputWidget.MaxTableDepthReached,,Max table depth reached,Max table depth reached
 Studio.App.RobloxTextOutputWidget.Message,,Message,Message

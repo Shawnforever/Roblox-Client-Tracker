@@ -733,6 +733,7 @@ RBX
 	AttachmentDraggerTool
 	AttachmentTool
 	AutoJointSurfacePair
+	AvatarEditorService
 	Backpack
 	BackpackItem
 	BadgeService
