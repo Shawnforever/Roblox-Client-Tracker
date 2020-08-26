@@ -12,7 +12,6 @@ local Analytics = require(DraggerFramework.Utility.Analytics)
 local setInsertPoint = require(DraggerFramework.Utility.setInsertPoint)
 
 local getEngineFeatureActiveInstanceHighlight = require(DraggerFramework.Flags.getEngineFeatureActiveInstanceHighlight)
-local getFFlagSupportNoRotate = require(DraggerFramework.Flags.getFFlagSupportNoRotate)
 
 local DraggerContext = {}
 DraggerContext.__index = DraggerContext
@@ -147,6 +146,10 @@ function DraggerContext:viewportPointToRay(mouseLocation)
 	return self._workspace.CurrentCamera:ViewportPointToRay(mouseLocation.X, mouseLocation.Y)
 end
 
+function DraggerContext:worldToViewportPoint(worldPoint)
+	return self._workspace.CurrentCamera:WorldToViewportPoint(worldPoint)
+end
+
 function DraggerContext:setMouseIcon(icon)
 	self._mouse.Icon = icon
 end
@@ -206,7 +209,6 @@ function DraggerContext:shouldShowActiveInstanceHighlight()
 end
 
 function DraggerContext:shouldAlignDraggedObjects()
-	assert(getFFlagSupportNoRotate())
 	return self._studioService.AlignDraggedObjects
 end
 

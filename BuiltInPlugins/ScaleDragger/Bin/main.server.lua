@@ -37,6 +37,7 @@ local function openPlugin()
 		Mouse = plugin:GetMouse(),
 		AllowDragSelect = true,
 		AllowFreeformDrag = true,
+		ShowLocalSpaceIndicator = true,
 		ShowSelectionBoundingBox = true,
 		ShowSelectionDot = false,
 		DraggerContext = draggerContext,

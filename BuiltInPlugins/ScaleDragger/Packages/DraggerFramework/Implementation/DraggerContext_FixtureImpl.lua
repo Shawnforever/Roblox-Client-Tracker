@@ -13,7 +13,6 @@ local SelectionWrapper = require(DraggerFramework.Utility.SelectionWrapper)
 local MockAnalytics = require(DraggerFramework.Utility.MockAnalytics)
 
 local getEngineFeatureActiveInstanceHighlight = require(DraggerFramework.Flags.getEngineFeatureActiveInstanceHighlight)
-local getFFlagSupportNoRotate = require(DraggerFramework.Flags.getFFlagSupportNoRotate)
 
 local DraggerContext = {}
 DraggerContext.__index = DraggerContext
@@ -177,6 +176,14 @@ function DraggerContext:viewportPointToRay(screenPoint)
 	return Ray.new(at, self._cameraCFrame.LookVector)
 end
 
+function DraggerContext:worldToViewportPoint(worldPoint)
+	local point = self._cameraCFrame:Inverse() * worldPoint
+	local x = (point.X / self._cameraSize + 0.5) * VIEWPORT_SIZE
+	local y = (point.Y / self._cameraSize + 0.5) * VIEWPORT_SIZE
+	local onScreen = x >= 0 and x <= VIEWPORT_SIZE and y >= 0 and y <= VIEWPORT_SIZE
+	return Vector2.new(x, y), onScreen
+end
+
 function DraggerContext:getViewportSize()
 	return Vector2.new(VIEWPORT_SIZE, VIEWPORT_SIZE)
 end
@@ -271,7 +278,6 @@ function DraggerContext:shouldShowActiveInstanceHighlight()
 end
 
 function DraggerContext:shouldAlignDraggedObjects()
-	assert(getFFlagSupportNoRotate())
 	return true
 end
 

@@ -4,6 +4,7 @@ local Packages = DraggerFramework.Parent
 local Roact = require(Packages.Roact)
 local DraggerStateType = require(DraggerFramework.Implementation.DraggerStateType)
 local AnimatedHoverBox = require(DraggerFramework.Components.AnimatedHoverBox)
+local LocalSpaceIndicator = require(DraggerFramework.Components.LocalSpaceIndicator)
 local SelectionHelper = require(DraggerFramework.Utility.SelectionHelper)
 local getGeometry = require(DraggerFramework.Utility.getGeometry)
 local getFaceInstance = require(DraggerFramework.Utility.getFaceInstance)
@@ -12,7 +13,9 @@ local StandardCursor = require(DraggerFramework.Utility.StandardCursor)
 
 local getEngineFeatureActiveInstanceHighlight = require(DraggerFramework.Flags.getEngineFeatureActiveInstanceHighlight)
 local getFFlagHoverBoxActiveColor = require(DraggerFramework.Flags.getFFlagHoverBoxActiveColor)
+local getFFlagSetInsertPointOnSelect = require(DraggerFramework.Flags.getFFlagSetInsertPointOnSelect)
 local getFFlagUpdateHoverOnMouseDown = require(DraggerFramework.Flags.getFFlagUpdateHoverOnMouseDown)
+local getFFlagLocalSpaceWidget = require(DraggerFramework.Flags.getFFlagLocalSpaceWidget)
 
 local Ready = {}
 Ready.__index = Ready
@@ -39,13 +42,14 @@ end
 function Ready:render()
 	local elements = {}
 
+	local draggerContext = self._draggerToolModel._draggerContext
+
 	local hoverSelectable = self._hoverTracker:getHoverSelectable()
 	if hoverSelectable then
 		-- Don't show hover boxes for constraints with visible details, they
 		-- have their own special hover highlighting.
 		local isAttachmentOrConstraint =
 			hoverSelectable:IsA("Attachment") or hoverSelectable:IsA("Constraint")
-		local draggerContext = self._draggerToolModel._draggerContext
 		if not draggerContext:areConstraintDetailsShown() or not isAttachmentOrConstraint then
 			if draggerContext:shouldShowHover() then
 				local animatePeriod
@@ -79,6 +83,24 @@ function Ready:render()
 		self._draggerToolModel:setMouseCursor(StandardCursor.getOpenHand())
 	else
 		self._draggerToolModel:setMouseCursor(StandardCursor.getArrow())
+	end
+
+	if getFFlagLocalSpaceWidget() then
+		if self._draggerToolModel:shouldShowLocalSpaceIndicator() then
+			local objects = self._draggerToolModel._derivedWorldState:getObjectsToTransform()
+			if #objects > 0 and draggerContext:shouldUseLocalSpace() then
+				local forceLocal = true
+				local cframe, offset, size =
+					self._draggerToolModel._derivedWorldState:getBoundingBox(forceLocal)
+
+				elements.LocalSpaceIndicator = Roact.createElement(LocalSpaceIndicator, {
+					CFrame = cframe * CFrame.new(offset),
+					Size = size,
+					TextColor3 = draggerContext:getSelectionBoxColor(),
+					DraggerContext = draggerContext,
+				})
+			end
+		end
 	end
 
 	local toolImplementation = self._draggerToolModel._toolImplementation
@@ -142,6 +164,17 @@ function Ready:processMouseDown()
 			-- changes the selection, since we just changed the selection manually
 			-- we need to invoke it here.
 			self._draggerToolModel:_processSelectionChanged()
+
+			if getFFlagSetInsertPointOnSelect() then
+				-- If we have objects to transform, then change the insert point to
+				-- the selection's center. This makes it easier to paste and insert
+				-- objects at the position of a target object.
+				local parts, attachments = self._draggerToolModel._derivedWorldState:getObjectsToTransform()
+				if #parts > 0 or #attachments > 0 then
+					local cframe, offset = self._draggerToolModel._derivedWorldState:getBoundingBox()
+					draggerContext:setInsertPoint(cframe * offset)
+				end
+			end
 		end
 
 		local selectionContainsClickedPart = false

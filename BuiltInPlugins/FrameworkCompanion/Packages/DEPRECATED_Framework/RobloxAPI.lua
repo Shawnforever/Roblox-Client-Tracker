@@ -31,6 +31,11 @@
 local DevFrameworkRoot = script.Parent
 local Url = require(script.Url)
 local Networking = require(DevFrameworkRoot.Http).Networking
+local StudioService = game:GetService("StudioService")
+
+local strict = require(DevFrameworkRoot.Util.strict)
+
+local FFlagDevFrameworkStrictAPITables = game:DefineFastFlag("DevFrameworkStrictAPITables", false)
 
 -- helper functions
 -- dir : (Instance) a Folder to dig through
@@ -61,7 +66,11 @@ local function initDirectoryWithArgs(dir, ...)
 		warn(string.format("Could not find any children for %s", dir:GetFullName()))
 	end
 
-	return childrenMap
+	if FFlagDevFrameworkStrictAPITables then
+		return strict(childrenMap)
+	else
+		return childrenMap
+	end
 end
 
 local RobloxAPI = {}
@@ -101,11 +110,16 @@ function RobloxAPI.new(props)
 		Develop = initDirectoryWithArgs(script.Develop, networkingImpl, baseUrl),
 		TranslationRoles = initDirectoryWithArgs(script.TranslationRoles, networkingImpl, baseUrl),
 		WWW = initDirectoryWithArgs(script.WWW, networkingImpl, baseUrl),
+		ToolboxService = initDirectoryWithArgs(script.ToolboxService, networkingImpl, baseUrl),
 		-- add more endpoint domains here
 	}
 	setmetatable(robloxApi, RobloxAPI)
 
 	return robloxApi
+end
+
+function RobloxAPI:baseURLHasChineseHost()
+	return StudioService:BaseURLHasChineseHost()
 end
 
 return RobloxAPI

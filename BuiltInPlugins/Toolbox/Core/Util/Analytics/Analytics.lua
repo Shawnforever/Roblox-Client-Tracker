@@ -12,6 +12,7 @@ local platformId = 0
 local FFlagStudioToolboxEnablePlaceIDInAnalytics = settings():GetFFlag("StudioToolboxEnablePlaceIDInAnalytics")
 local FFlagStudioToolboxInsertAssetCategoryAnalytics = settings():GetFFlag("StudioToolboxInsertAssetCategoryAnalytics")
 local FFlagToolboxFixAnalyticsBugs = game:GetFastFlag("ToolboxFixAnalyticsBugs")
+local FFlagBootstrapperTryAsset = game:GetFastFlag("BootstrapperTryAsset")
 
 -- TODO CLIDEVSRVS-1689: StudioSession + StudioID
 local function getStudioSessionId()
@@ -86,6 +87,26 @@ function Analytics.onCreatorSearched(searchTerm, creatorId)
 	})
 end
 
+if FFlagBootstrapperTryAsset then
+	function Analytics.onTryAsset(assetId)
+		AnalyticsSenders.sendEventImmediately("studio", "toolbox", "tryAsset", {
+			assetId = assetId,
+			studioSid = getStudioSessionId(),
+			clientId = getClientId(),
+			userId = getUserId(),
+		})
+	end
+
+	function Analytics.onTryAssetFailure(assetId)
+		AnalyticsSenders.sendEventImmediately("studio", "toolbox", "tryAssetFailure", {
+			assetId = assetId,
+			studioSid = getStudioSessionId(),
+			clientId = getClientId(),
+			userId = getUserId(),
+		})
+	end
+end
+
 function Analytics.onSearchOptionsOpened()
 	AnalyticsSenders.sendEventImmediately("studio", "toolbox", "searchOptionsOpened", {
 		studioSid = getStudioSessionId(),
@@ -153,14 +174,6 @@ function Analytics.onAssetInsertDeleted(time, contentId, currentCategory)
 	else
 		AnalyticsSenders.trackEvent("Studio", ("InsertDeleted%d"):format(time), contentId)
 	end
-end
-
-function Analytics.DEPRECATED_onAssetInsertRemains(contentId)
-	AnalyticsSenders.trackEvent("Studio", "StudioInsertRemains", contentId)
-end
-
-function Analytics.DEPRECATED_onAssetInsertDeleted(contentId)
-	AnalyticsSenders.trackEvent("Studio", "StudioInsertDeleted", contentId)
 end
 
 function Analytics.trackEventAssetInsert(assetId)

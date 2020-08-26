@@ -28,6 +28,7 @@ function ToolboxServiceWrapper:render()
 	local theme = props.theme
 
 	return ContextServices.provide({
+		ContextServices.API.new(),
 		ContextServices.Plugin.new(plugin),
 		localization,
 		makeTheme(theme:getUILibraryTheme()),

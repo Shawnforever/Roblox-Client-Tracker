@@ -15,11 +15,6 @@ local FFlagDebugToolboxEnableRoactChecks = game:GetFastFlag("DebugToolboxEnableR
 
 local Plugin = script.Parent.Parent
 local Libs = Plugin.Libs
-local FFlagToolboxTabTooltips = game:GetFastFlag("ToolboxTabTooltips")
-if FFlagToolboxTabTooltips then
-	Libs:FindFirstChild("Roact"):Destroy()
-	Libs.RoactNext.Name = "Roact"
-end
 local Roact = require(Libs.Roact)
 
 if FFlagDebugToolboxEnableRoactChecks then

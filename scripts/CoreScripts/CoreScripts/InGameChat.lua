@@ -35,7 +35,9 @@ local WRONG_LENGTH_WARNING = "Message text %q is too long for chat event %q (exp
 local MALFORMED_DATA_WARNING = "Malformed message data sent to chat event %q. If you have modified the chat system, " ..
 	"check what you are firing to this event"
 
-local chatStore = Rodux.Store.new(chatReducer)
+local chatStore = Rodux.Store.new(chatReducer, nil, {
+	Rodux.thunkMiddleware,
+})
 
 local root = Roact.createElement(App, {
 	store = chatStore
@@ -143,15 +145,9 @@ Chat.Chatted:Connect(function(partOrModel, message)
 		userId = userId,
 		name = partOrModel.Name,
 		text = message,
-		timestamp = os.time()
+		timestamp = os.time(),
+		adornee = partOrModel
 	}
-
-	-- If we're dealing with a characterthat has no Player associated with it,
-	-- supply the adornee to use for the BillboardGui.
-	-- TODO: Set the adornee regardless: https://jira.rbx.com/browse/SOCIALAPP-138
-	if not player then
-		message.adornee = partOrModel
-	end
 
 	chatStore:dispatch(AddMessage(message))
 end)
