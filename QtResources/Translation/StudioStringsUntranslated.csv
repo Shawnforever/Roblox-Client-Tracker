@@ -2482,7 +2482,7 @@ Studio.App.TeamCreate.SyncProgressTitle,,<b>Data Sync Progress</b>,<b>Data Sync 
 Studio.App.TeamCreate.SyncTerrainProgressTitle,,<b>Terrain Sync Progress</b>,<b>Terrain Sync Progress</b>
 Studio.App.TeamCreate.SyncingGenericWarning,,Quitting Roblox Studio will cause you to lose data that is currently syncing.,Quitting Roblox Studio will cause you to lose data that is currently syncing.
 Studio.App.TeamCreate.SyncingTerrainWarning,,Quitting Roblox Studio will cause you to lose data that is currently syncing and might corrupt your Terrain.,Quitting Roblox Studio will cause you to lose data that is currently syncing and might corrupt your Terrain.
-Studio.App.TeamCreate.TurnOn,,Turn ON,Turn ON
+Studio.App.TeamCreate.TurnOn,,Turn On,Turn On
 Studio.App.TeamCreate.UnpublishedChangesWarning,,Other users are currently editing scripts. Turning off team create will lose these unpublished changes. Continue anyway?,Other users are currently editing scripts. Turning off team create will lose these unpublished changes. Continue anyway?
 Studio.App.TeamCreateConnectionDialog.YouHaveLostConnectionToTheServer,,You have lost connection to the server. Trying to reconnect...<br><br>Recent copy of the place has been saved. <a href='openautosave://file'>Click here</a> to open the saved place.,You have lost connection to the server. Trying to reconnect...<br><br>Recent copy of the place has been saved. <a href='openautosave://file'>Click here</a> to open the saved place.
 Studio.App.TemplatePage.Gameplay,,Gameplay,Gameplay

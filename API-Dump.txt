@@ -546,9 +546,14 @@ Class ContentProvider : Instance [NotCreatable] [Service] [NotReplicated]
 	Function int ContentProvider:CalculateNumTrianglesInMesh(string meshId) {RobloxScriptSecurity} [Yields]
 	Function int ContentProvider:CalculateNumTrianglesInMeshSync(string meshId) {RobloxScriptSecurity}
 	Function Array ContentProvider:GetFailedRequests() {RobloxScriptSecurity}
+	Function Array ContentProvider:ListEncryptedAssets()
 	Function void ContentProvider:Preload(Content contentId) [Deprecated]
 	Function void ContentProvider:PreloadAsync(Array contentIdList, Function callbackFunction = nil) [Yields]
+	Function void ContentProvider:RegisterDefaultEncryptionKey(string encryptionKey)
+	Function void ContentProvider:RegisterEncryptedAsset(Content assetId, string encryptionKey)
 	Function void ContentProvider:SetBaseUrl(string url) {LocalUserSecurity}
+	Function void ContentProvider:UnregisterDefaultEncryptionKey()
+	Function void ContentProvider:UnregisterEncryptedAsset(Content assetId)
 Class ContextActionService : Instance [NotCreatable] [Service]
 	Function void ContextActionService:BindAction(string actionName, Function functionToBind, bool createTouchButton, Tuple inputTypes)
 	Function void ContextActionService:BindActionAtPriority(string actionName, Function functionToBind, bool createTouchButton, int priorityLevel, Tuple inputTypes)
