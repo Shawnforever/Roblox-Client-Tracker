@@ -1,3 +1,6 @@
+--!nolint ImplicitReturn
+--^ DEVTOOLS-4493
+
 --[[
 	The main entry point for the Plugin Management window
 ]]

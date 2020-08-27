@@ -10,7 +10,7 @@ local Players = game:GetService("Players")
 
 local Types = require(script.Parent.Parent.Types)
 local maybeAssert = require(script.Parent.Parent.Helpers.maybeAssert)
-local AddMessage = require(script.Parent.AddMessage)
+local AddMessageWithTimeout = require(script.Parent.AddMessageWithTimeout)
 
 local function addMessageFromEvent(messageData)
 	maybeAssert(Types.IMessageData(messageData))
@@ -33,7 +33,7 @@ local function addMessageFromEvent(messageData)
 					adornee = character,
 				}
 
-				return store:dispatch(AddMessage(message))
+				return store:dispatch(AddMessageWithTimeout(message))
 			end
 		end
 	end

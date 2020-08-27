@@ -12,8 +12,6 @@ local CoreGui = game:GetService("CoreGui")
 local CorePackages = game:GetService("CorePackages")
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
-local RunService = game:GetService("RunService")
-local StarterGui = game:GetService("StarterGui")
 
 local RobloxGui = CoreGui:WaitForChild("RobloxGui", math.huge)
 
@@ -21,9 +19,9 @@ local Roact = require(CorePackages.Packages.Roact)
 local Rodux = require(CorePackages.Packages.Rodux)
 local App = require(RobloxGui.Modules.InGameChat.BubbleChat.Components.App)
 local chatReducer = require(RobloxGui.Modules.InGameChat.BubbleChat.Reducers.chatReducer)
-local AddMessage = require(RobloxGui.Modules.InGameChat.BubbleChat.Actions.AddMessage)
 local SetMessageText = require(RobloxGui.Modules.InGameChat.BubbleChat.Actions.SetMessageText)
 local AddMessageFromEvent = require(RobloxGui.Modules.InGameChat.BubbleChat.Actions.AddMessageFromEvent)
+local AddMessageWithTimeout = require(RobloxGui.Modules.InGameChat.BubbleChat.Actions.AddMessageWithTimeout)
 local getPlayerFromPart = require(RobloxGui.Modules.InGameChat.BubbleChat.Helpers.getPlayerFromPart)
 local validateMessage = require(RobloxGui.Modules.InGameChat.BubbleChat.Helpers.validateMessage)
 local Constants = require(RobloxGui.Modules.InGameChat.BubbleChat.Constants)
@@ -149,5 +147,5 @@ Chat.Chatted:Connect(function(partOrModel, message)
 		adornee = partOrModel
 	}
 
-	chatStore:dispatch(AddMessage(message))
+	chatStore:dispatch(AddMessageWithTimeout(message))
 end)

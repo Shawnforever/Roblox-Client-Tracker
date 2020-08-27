@@ -19,11 +19,12 @@ local StudioService = game:GetService("StudioService")
 local FFlagToolboxFixDuplicateAssetInsertions = game:DefineFastFlag("ToolboxFixDuplicateAssetInsertions", false)
 local FFlagEnableSearchedWithoutInsertionAnalytic = game:GetFastFlag("EnableSearchedWithoutInsertionAnalytic")
 local FFlagUseCategoryNameInToolbox = game:GetFastFlag("UseCategoryNameInToolbox")
-local FFlagEnableDefaultSortFix2 = game:GetFastFlag("EnableDefaultSortFix2")
 local FFlagBootstrapperTryAsset = game:GetFastFlag("BootstrapperTryAsset")
 local FFlagFixGroupPackagesCategoryInToolbox = game:GetFastFlag("FixGroupPackagesCategoryInToolbox")
 local FFlagToolboxFixAnalyticsBugs = game:GetFastFlag("ToolboxFixAnalyticsBugs")
 local FFlagToolboxInsertEventContextFixes = game:GetFastFlag("ToolboxInsertEventContextFixes")
+local FFlagEnableDefaultSortFix2 = game:GetFastFlag("EnableDefaultSortFix2")
+local FFlagToolboxNewAssetAnalytics = game:GetFastFlag("ToolboxNewAssetAnalytics")
 
 local Plugin = script.Parent.Parent.Parent
 
@@ -35,6 +36,7 @@ local Constants = require(Plugin.Core.Util.Constants)
 local ContextGetter = require(Plugin.Core.Util.ContextGetter)
 local ContextHelper = require(Plugin.Core.Util.ContextHelper)
 local Images = require(Plugin.Core.Util.Images)
+local AssetAnalyticsContextItem = require(Plugin.Core.Util.Analytics.AssetAnalyticsContextItem)
 
 local Util = Plugin.Core.Util
 local InsertToolPromise = require(Util.InsertToolPromise)
@@ -135,8 +137,14 @@ function AssetGridContainer:init(props)
 		if self.props.isPlaying then
 			self.props.pauseASound()
 		end
+
 		if FFlagToolboxFixAnalyticsBugs then
+			-- TODO STM-146: Remove this once we are happy with the new MarketplaceAssetPreview event
 			Analytics.onAssetPreviewSelected(assetData.Asset.Id)
+		end
+
+		if FFlagToolboxNewAssetAnalytics then
+			self.props.AssetAnalytics:get():logPreview(assetData)
 		end
 	end
 
@@ -298,6 +306,13 @@ function AssetGridContainer:init(props)
 			currentCategoryName = (not FFlagUseCategoryNameInToolbox) and (PageInfoHelper.getCategory(categories, categoryIndex))
 		end
 
+		local currentTab
+		if FFlagEnableDefaultSortFix2 then
+			currentTab = currentProps.currentTab
+		else
+			currentTab = props.currentTab
+		end
+
 		local plugin = self.props.Plugin:get()
 		InsertAsset.tryInsert({
 				plugin = plugin,
@@ -310,7 +325,7 @@ function AssetGridContainer:init(props)
 				categoryName = categoryName,
 				searchTerm = searchTerm,
 				assetIndex = assetIndex,
-				currentTab = (not FFlagUseCategoryNameInToolbox) and (props.currentTab),
+				currentTab = (not FFlagUseCategoryNameInToolbox) and currentTab,
 			},
 			self.insertToolPromise,
 			assetWasDragged
@@ -446,11 +461,7 @@ function AssetGridContainer:render()
 				isPackages = Category.categoryIsPackage(props.categoryName)
 			else
 				local categoryIndex = props.categoryIndex
-				if FFlagEnableDefaultSortFix2 then
-					isPackages = Category.categoryIsPackage(categoryIndex, currentTab)
-				else
-					isPackages = Category.categoryIsPackage(categoryIndex, FFlagFixGroupPackagesCategoryInToolbox and currentTab or categoryIsPackage)
-				end
+				isPackages = Category.categoryIsPackage(categoryIndex, FFlagFixGroupPackagesCategoryInToolbox and currentTab or categoryIsPackage)
 			end
 
 			local hoveredAssetId = modalStatus:canHoverAsset() and state.hoveredAssetId or 0
@@ -591,6 +602,7 @@ ContextServices.mapToProps(AssetGridContainer, {
 	API = ContextServices.API,
 	Localization = ContextServices.Localization,
 	Plugin = ContextServices.Plugin,
+	AssetAnalytics = FFlagToolboxNewAssetAnalytics and AssetAnalyticsContextItem or nil,
 })
 
 local function mapStateToProps(state, props)
