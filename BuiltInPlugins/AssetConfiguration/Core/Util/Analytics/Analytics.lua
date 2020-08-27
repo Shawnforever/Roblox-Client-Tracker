@@ -13,6 +13,7 @@ local FFlagStudioToolboxEnablePlaceIDInAnalytics = settings():GetFFlag("StudioTo
 local FFlagStudioToolboxInsertAssetCategoryAnalytics = settings():GetFFlag("StudioToolboxInsertAssetCategoryAnalytics")
 local FFlagToolboxFixAnalyticsBugs = game:GetFastFlag("ToolboxFixAnalyticsBugs")
 local FFlagBootstrapperTryAsset = game:GetFastFlag("BootstrapperTryAsset")
+local FFlagToolboxNewAssetAnalytics = game:GetFastFlag("ToolboxNewAssetAnalytics")
 
 -- TODO CLIDEVSRVS-1689: StudioSession + StudioID
 local function getStudioSessionId()
@@ -54,6 +55,13 @@ local function getPlaceId()
 end
 
 local Analytics = { }
+
+if FFlagToolboxNewAssetAnalytics then
+	Analytics.getPlaceId = getPlaceId
+	Analytics.getPlatformId = getPlatformId
+	Analytics.getClientId = getClientId
+	Analytics.getStudioSessionId = getStudioSessionId
+end
 
 function Analytics.sendReports(plugin)
 	AnalyticsSenders.sendReports(plugin)

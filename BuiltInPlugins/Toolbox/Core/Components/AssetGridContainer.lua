@@ -24,6 +24,7 @@ local FFlagBootstrapperTryAsset = game:GetFastFlag("BootstrapperTryAsset")
 local FFlagFixGroupPackagesCategoryInToolbox = game:GetFastFlag("FixGroupPackagesCategoryInToolbox")
 local FFlagToolboxFixAnalyticsBugs = game:GetFastFlag("ToolboxFixAnalyticsBugs")
 local FFlagToolboxInsertEventContextFixes = game:GetFastFlag("ToolboxInsertEventContextFixes")
+local FFlagToolboxNewAssetAnalytics = game:GetFastFlag("ToolboxNewAssetAnalytics")
 
 local Plugin = script.Parent.Parent.Parent
 
@@ -35,6 +36,7 @@ local Constants = require(Plugin.Core.Util.Constants)
 local ContextGetter = require(Plugin.Core.Util.ContextGetter)
 local ContextHelper = require(Plugin.Core.Util.ContextHelper)
 local Images = require(Plugin.Core.Util.Images)
+local AssetAnalyticsContextItem = require(Plugin.Core.Util.Analytics.AssetAnalyticsContextItem)
 
 local Util = Plugin.Core.Util
 local InsertToolPromise = require(Util.InsertToolPromise)
@@ -135,8 +137,14 @@ function AssetGridContainer:init(props)
 		if self.props.isPlaying then
 			self.props.pauseASound()
 		end
+
 		if FFlagToolboxFixAnalyticsBugs then
+			-- TODO STM-146: Remove this once we are happy with the new MarketplaceAssetPreview event
 			Analytics.onAssetPreviewSelected(assetData.Asset.Id)
+		end
+
+		if FFlagToolboxNewAssetAnalytics then
+			self.props.AssetAnalytics:get():logPreview(assetData)
 		end
 	end
 
@@ -591,6 +599,7 @@ ContextServices.mapToProps(AssetGridContainer, {
 	API = ContextServices.API,
 	Localization = ContextServices.Localization,
 	Plugin = ContextServices.Plugin,
+	AssetAnalytics = FFlagToolboxNewAssetAnalytics and AssetAnalyticsContextItem or nil,
 })
 
 local function mapStateToProps(state, props)

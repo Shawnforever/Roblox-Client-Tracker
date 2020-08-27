@@ -51,4 +51,6 @@ game:DefineFastFlag("ToolboxWaitForPluginOwnedStatus", false)
 
 game:DefineFastFlag("ToolboxInsertEventContextFixes", false)
 
+game:DefineFastFlag("ToolboxNewAssetAnalytics", false)
+
 return nil
