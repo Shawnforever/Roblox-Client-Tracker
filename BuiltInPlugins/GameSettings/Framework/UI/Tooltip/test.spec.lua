@@ -21,7 +21,7 @@ return function()
 	local DEFAULT_PROPS = {}
 	local function createTooltip(props)
 		local mouse = Mouse.new({})
-		local target = container or Instance.new("ScreenGui")
+		local target = Instance.new("ScreenGui")
 		local focus = Focus.new(target)
 		local theme
 		if FlagsList:get("FFlagRefactorDevFrameworkTheme") then

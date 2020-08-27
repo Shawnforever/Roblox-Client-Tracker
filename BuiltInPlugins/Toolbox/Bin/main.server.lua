@@ -1,3 +1,6 @@
+--!nolint ImportUnused
+--^ DEVTOOLS-4491
+
 if not plugin then
 	return
 end

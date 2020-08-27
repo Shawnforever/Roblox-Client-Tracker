@@ -19,11 +19,11 @@ local StudioService = game:GetService("StudioService")
 local FFlagToolboxFixDuplicateAssetInsertions = game:DefineFastFlag("ToolboxFixDuplicateAssetInsertions", false)
 local FFlagEnableSearchedWithoutInsertionAnalytic = game:GetFastFlag("EnableSearchedWithoutInsertionAnalytic")
 local FFlagUseCategoryNameInToolbox = game:GetFastFlag("UseCategoryNameInToolbox")
-local FFlagEnableDefaultSortFix2 = game:GetFastFlag("EnableDefaultSortFix2")
 local FFlagBootstrapperTryAsset = game:GetFastFlag("BootstrapperTryAsset")
 local FFlagFixGroupPackagesCategoryInToolbox = game:GetFastFlag("FixGroupPackagesCategoryInToolbox")
 local FFlagToolboxFixAnalyticsBugs = game:GetFastFlag("ToolboxFixAnalyticsBugs")
 local FFlagToolboxInsertEventContextFixes = game:GetFastFlag("ToolboxInsertEventContextFixes")
+local FFlagEnableDefaultSortFix2 = game:GetFastFlag("EnableDefaultSortFix2")
 local FFlagToolboxNewAssetAnalytics = game:GetFastFlag("ToolboxNewAssetAnalytics")
 
 local Plugin = script.Parent.Parent.Parent
@@ -306,6 +306,13 @@ function AssetGridContainer:init(props)
 			currentCategoryName = (not FFlagUseCategoryNameInToolbox) and (PageInfoHelper.getCategory(categories, categoryIndex))
 		end
 
+		local currentTab
+		if FFlagEnableDefaultSortFix2 then
+			currentTab = currentProps.currentTab
+		else
+			currentTab = props.currentTab
+		end
+
 		local plugin = self.props.Plugin:get()
 		InsertAsset.tryInsert({
 				plugin = plugin,
@@ -318,7 +325,7 @@ function AssetGridContainer:init(props)
 				categoryName = categoryName,
 				searchTerm = searchTerm,
 				assetIndex = assetIndex,
-				currentTab = (not FFlagUseCategoryNameInToolbox) and (props.currentTab),
+				currentTab = (not FFlagUseCategoryNameInToolbox) and currentTab,
 			},
 			self.insertToolPromise,
 			assetWasDragged
@@ -454,11 +461,7 @@ function AssetGridContainer:render()
 				isPackages = Category.categoryIsPackage(props.categoryName)
 			else
 				local categoryIndex = props.categoryIndex
-				if FFlagEnableDefaultSortFix2 then
-					isPackages = Category.categoryIsPackage(categoryIndex, currentTab)
-				else
-					isPackages = Category.categoryIsPackage(categoryIndex, FFlagFixGroupPackagesCategoryInToolbox and currentTab or categoryIsPackage)
-				end
+				isPackages = Category.categoryIsPackage(categoryIndex, FFlagFixGroupPackagesCategoryInToolbox and currentTab or categoryIsPackage)
 			end
 
 			local hoveredAssetId = modalStatus:canHoverAsset() and state.hoveredAssetId or 0

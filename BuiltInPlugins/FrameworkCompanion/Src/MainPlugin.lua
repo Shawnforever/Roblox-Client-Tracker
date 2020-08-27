@@ -1,3 +1,6 @@
+--!nolint LocalUnused
+--^ DEVTOOLS-4490
+
 --[[
 	The main plugin for the DevFramework Companion.
 	Consists of the PluginWidget, Toolbar, Button, and Roact tree.

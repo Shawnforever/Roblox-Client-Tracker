@@ -27,6 +27,7 @@ local FFlagDragFaceInstances = game:GetFastFlag("DragFaceInstances")
 local EFLuaDraggers = game:GetEngineFeature("LuaDraggers")
 local FFlagFixGroupPackagesCategoryInToolbox = game:GetFastFlag("FixGroupPackagesCategoryInToolbox")
 local FFlagToolboxInsertEventContextFixes = game:GetFastFlag("ToolboxInsertEventContextFixes")
+local FFlagEnableDefaultSortFix2 = game:GetFastFlag("EnableDefaultSortFix2")
 
 local INSERT_MAX_SEARCH_DEPTH = 2048
 local INSERT_MAX_DISTANCE_AWAY = 64
@@ -262,10 +263,15 @@ end
 
 local function dispatchInsertAsset(options, insertToolPromise)
 	local isPackage
+	local categoryKey
 	if FFlagUseCategoryNameInToolbox then
 		isPackage = Category.categoryIsPackage(options.categoryName)
 	else
-		local categoryKey = FFlagFixGroupPackagesCategoryInToolbox and Category.INVENTORY_KEY or Category.MARKETPLACE_KEY
+		if FFlagEnableDefaultSortFix2 then
+			categoryKey = options.currentTab
+		else
+			categoryKey = FFlagFixGroupPackagesCategoryInToolbox and Category.INVENTORY_KEY or Category.MARKETPLACE_KEY
+		end
 		isPackage = Category.categoryIsPackage(options.categoryIndex, categoryKey)
 	end
 
