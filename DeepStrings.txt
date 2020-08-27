@@ -5070,7 +5070,6 @@ CFrame.new
 CFrameDecal
 CFrameOnly
 CFrameValue
-Ch80bfWXyHSmQHO4MFvS8F7pGrTIQrCXKIuRAg
 ChainCAFile
 ChainCAPath
 Chalkboard
@@ -5920,7 +5919,6 @@ CoCreateInstance
 CODECAPI_AVDecMmcssClass
 CodeForActivation
 CoFreeUnusedLibraries
-CofUa6Xvf1UYDw
 CoGetClassObject
 CoInitialize
 CoInitializeEx
@@ -7957,7 +7955,6 @@ DeveloperTag
 DeveloperTouchCameraMovementMode
 DeveloperTouchMovementMode
 Development
-DevelopmentLanguage
 DevEnableMouseLock
 DevEnableMouseLockOption
 DevFrameworkEnumUtility
@@ -8008,7 +8005,6 @@ DF3F709311E28987EB530EBA4742
 DF40709311E28987EB530EBA4742
 DF41709311E28987EB530EBA4742
 DF42709311E28987EB530EBA4742
-Df6FUj0CGt4IarThKEyiR6w3ozQUo
 DFbxAMatrix
 DFbxMatrix
 DfNfXfbftf
@@ -9347,7 +9343,6 @@ ExecutionLevel
 ExistingDirectory
 ExitAction
 ExitProcess
-EXovlUpnd1ywEe
 EXPAND_ONLY
 ExpandedStateToggle
 ExpandedValue
@@ -10210,7 +10205,6 @@ FutureIsBrightPhase2GLES3
 FutureIsBrightPhase3
 FutureIsBrightPhase3iOS
 FutureIsBrightPhase3Vulkan
-FX2wVgUf9mk5hLJnS8
 FXCompositing
 FXCompositingFS
 FXCompositingLinearFS
@@ -10542,7 +10536,6 @@ GetConnectedGamepads
 GetConnectedParts
 GetConsoleMode
 GetContentMemoryData
-GetContents
 GetContextGPUIDAMD
 GetControllerVibrationState
 GetControlPointIndices
@@ -12800,7 +12793,6 @@ JointStepParallelBatchSize
 JointTime_TextureCooldown
 JointToolHelpDialogVerb
 JPEBUSG_INDEX_TRIANGLE
-JrdXWm4k0tI0kHbzhL
 JSON.parse
 JSON.stringify
 JSON_Parser
@@ -13236,7 +13228,6 @@ LiveThreadRef
 LivingRoom
 LLEo6Soxvx2
 LLLLLLLLLLLLLLLL]]]]]]]]]]]]]]]]]]]]
-LN7hhwtSgk12pSJ8NPjH6H5CIfb5wIpLsod2ZXOfPANoosrcCtmv8
 LOAD_CERT_CTRL
 Load_Package
 LoadAnimation
@@ -14879,7 +14870,6 @@ NextTabPage
 NfXf`fhfzf
 NHVVariant
 NinjaMask.mesh
-NL2ymfuzBcjFAieOkk8j5XLiFL8eITUWCTGr2Pccpa
 NNNNNNNNNNNNNNNNNNNNNN
 NNNNNNNSSSSSSSSSSSSSSSSSSSSSS
 NNW4SizeMode
@@ -15711,7 +15701,6 @@ PCertReqData
 PCertResTBS
 PCStudioApp
 PCStudioAppCJV
-PDm4b7spkd1zDYNI8GxzBo3OEzjIJWsTfDqrJEBZzR2s
 PE_MAX_NB_SUBFR
 PEA_NAEBV2
 PEA_NPEAVQDialog
@@ -17320,7 +17309,6 @@ QAbstractTableModel
 QActionEvent
 QActionGroup
 QActionTriggered
-QakFesqDCAPcgvKjQrGGEO
 QAnimationGroup
 QApplication
 QArrayData
@@ -20226,7 +20214,6 @@ SetChatStyle
 SetClickToWalkEnabled
 SetClipboardData
 SetConsoleMode
-SetContents
 SetContextSwitch
 SetControllerVibration
 SetCoreGuiEnabled
@@ -23743,7 +23730,6 @@ SXNET_add_id_INTEGER
 SXNET_add_id_ulong
 SXNET_get_id_asc
 SXNET_get_id_ulong
-SXTs4PoGZcLUhaJpVspq1p6kZlhDqM3
 SymantecPKI
 SymbolicLinkForPlace
 SymbolValue
@@ -24186,7 +24172,6 @@ TextXmlParser
 TextYAlignment
 TGenericSlotWrapper
 TGenericSlotWrapper.
-TgN4SvnO1fbB9Q5Co4kUzx
 ThatCausedFocusLoss
 ThawteTimestampingCA.crl0
 ThemeAtAppStart
@@ -25198,7 +25183,6 @@ UGlobalResult
 Ugravesmall
 UGroupRolesResult
 UGuiClusterRT
-UHTlplW4iIoRxyo5DPevoxbBOwkhDP
 UHttpApiRequest
 UHttpRequest
 UHttpResponseProxy
@@ -27424,7 +27408,6 @@ WithSHA224
 WithSHA256
 WithSHA384
 WithSHA512
-WklhdSxl4dlECAwEAAQ
 WM_ATLGETCONTROL
 WM_ATLGETHOST
 WMCreateProfileManager
@@ -27676,7 +27659,6 @@ XW4websocket_close_status
 XW4WebSocketEventType
 XwhvcEikuIaqb7nHhEJ
 XXXXXXXXXXXXXXXXuuuuuuuuuuuuuuuuppppppppppppppppppppppp
-XYEO6yNT9vvc5hRIJMWGXP
 XZP8CoreGuiService
 XZP8CRenderSettingsItem
 XZP8GuiObject
@@ -27726,9 +27708,7 @@ YieldFuncDesc
 YieldFunction
 YQByteArray
 YResolution
-YSbA05o5MBP2mpWrFhymRDSNP4kLYzAp
 YwBBvY55YvBBwY5
-YYeVZypArhqdQeBUwD5nsDnZdBSw
 YYYYYYYYYYYYYYYYYYYYYYYYY
 Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
