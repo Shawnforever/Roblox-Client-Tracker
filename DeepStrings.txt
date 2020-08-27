@@ -222,6 +222,7 @@ AddAcessory
 AddAssetCopyrightLog
 AddButtonClicked
 AddCenterDialog
+AddClicked
 AddCoreScriptLocal
 AddCustomStatus
 AddDebugger
@@ -241,6 +242,7 @@ AddMinStreamRadiusToReplicatorStats
 AddNewAction
 AddNewlineAboveOrBelow
 AddNewPlace
+AddOverrideDialog
 AddressChoice
 AddSelectionParent
 AddSelectionTuple
@@ -393,9 +395,9 @@ AEF9EAAED11E38B9D871882A8E559
 AEF9FAAED11E38B9D871882A8E559
 AEFA2AAED11E38B9D871882A8E559
 AEFA3AAED11E38B9D871882A8E559
+AEGEiydO4r7y3TZyCyYzvZTWFf1e1tBRqalJWfp1av3IRZzHCmq
 AesSettingsCipherMode
 AF1224888D11E18561866242201959
-AFbiQTShTIgX4I25P0xVc
 Affiliation
 AfterBufferedHandling
 AfterDisconnectChecks
@@ -1379,6 +1381,7 @@ AVActionsQuickOpenProvider
 AVActionsSearchContextHandler
 AVActionsSearchResult
 AVAddImageDialog
+AVAddOverrideDialog
 AVAdornContext
 AVAdornRender
 AVAdService
@@ -4103,7 +4106,6 @@ AXW4UiMessageType
 AXW4UserCFrame
 AXW4UserInputType
 AXW4VRTouchpad
-AZk0uvmtAEP7Fxh2DlrxO9e6bvOwbGBYVBJ
 BA447F42A91111E2B410EF351327957B
 BA886F11E18561866242201959
 BAA3C620681180838E23F0DC6224
@@ -4605,7 +4607,9 @@ BrowserWindow
 BrowserWindowClosed
 BrowserWindowWillNavigate
 BrushStyle
+BsM0DmkSh7vKVvjqGAq6wDPlQAw1AQ747fRunvDkLI0JAXD8JF677y
 BtnBackground.png
+BtX2YtFKrtjnJ8sCAwEAAQ
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
 BU_Simplex1to4
 BubbleChat
@@ -4716,7 +4720,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.446.0.410636
+ByVersion_0.446.0.410658
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -5238,7 +5242,6 @@ ChorusSoundEffect
 Chromecast
 ChunkShapes
 ChunkStitchMask
-Chxjj1bmLN1hs
 CIDFontName
 CIDFontType
 CIDFontVersion
@@ -6837,7 +6840,6 @@ CSGv2UnparentPartsBeforeModifyingCFrames
 CSGv2UseImprovedSphereAndCylinder
 CSGv2UseMegaAssetFetcher
 CSGVoxelizerFadeRadius
-CSilmmNcmdC63iUdR
 CSObject.Cpu
 CSObject.In
 CSObject.Out
@@ -7075,7 +7077,6 @@ CustomSort
 CustomStatusAdded
 CustomStatusRemoved
 CustomToolButton
-CvkGDXnpct3CRvDiPuh40dsYGhWmBmneDa9P9NGHABvdLTSoJzDEFDgXeorBPsD
 CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
@@ -7103,6 +7104,7 @@ CylinderMesh
 CylinderShapeData
 CylindricalConstraint
 CylindricalConstraintAction
+CZQX3R8SBJ
 D_Key_dn.png
 DA88D6583A11E29A3DBD856014A660
 DA88D7583A11E29A3DBD856014A660
@@ -7958,6 +7960,7 @@ DeveloperTag
 DeveloperTouchCameraMovementMode
 DeveloperTouchMovementMode
 Development
+DevelopmentLanguage
 DevEnableMouseLock
 DevEnableMouseLockOption
 DevFrameworkEnumUtility
@@ -8476,6 +8479,7 @@ DumpAction
 DumpFileCount
 DumpUtcCaptureTime
 DuplicateHandle
+DuplicateId48617
 DuplicatePlayer
 DuplicateSelectionVerb
 DuplicateTicket
@@ -8750,7 +8754,9 @@ EditingWindow.opacity
 EditModelIsCreated
 EditModelWillBeDestroyed
 EditorAction
+EditorAddButton
 EditorAdded
+EditorAddOverrideDialog
 EditorBlockCountChanged
 EditorColors
 EditorData
@@ -8807,7 +8813,6 @@ EFEAAF011E38B9D871882A8E559
 EFEPEZEdEnExE
 EffectBoundings
 EffectiveRetryCount
-EFMMCfwKSPEdWxzDdCj5PreiZZZB5MxOksbgDTsXcK6M8n
 EFrontVector
 Egravesmall
 EHcUgHc]oL
@@ -9140,6 +9145,7 @@ EnvironmentDiffuseScale
 EnvironmentSpecularScale
 EnviroSpeed
 EoOoZoaozo
+EP9JQv312jzQpMp0SzwT47Zw8dIViX8rQIuuvvzUyRDwGEhqoy73NS5ZuFcjp
 EphemeralCounter
 EphemeralCounterInfluxReportingEnabled
 EphemeralCounterInfluxReportingPriorityHundredthsPercent
@@ -9479,7 +9485,9 @@ FastClusters
 FastClusterUpdateWaitingBudgetMs
 FasterDataModelPatcherRollbacks
 FastFlagsLoadTime
+FastFlagUtilities
 FastLogValueChanged
+FastVarType
 FastVarValueType
 FastVisuallyMovingCounters2
 FastVisuallyMovingSleepOnRemove
@@ -9867,6 +9875,8 @@ FlagCreated
 FlagCursor.png
 FlagEditor
 FlagEditorDelegate
+FlagEditorEnableAddButton
+FlagEditorUseFlagConversionUtilities
 FlagInterlaced
 FlagStandCreated
 FlagStandService
@@ -9914,7 +9924,6 @@ FMODPlaybackDSP
 FMODReportDeviceInfo
 FMODSoundChannels
 FMODStudio
-FmQklVSaDcq30
 FocusChange
 FocusChanged
 FocusDistance
@@ -10037,6 +10046,7 @@ ForUnpublishedChanges
 ForwardScroll
 FoundItems
 FoundThread
+Fp8eRbeOvDP2n
 FpFramebuffer
 FpsVariance
 Fractional
@@ -10181,6 +10191,7 @@ FromRibbon
 FromServer
 FromSource
 FromString
+FromStringWithFlagType
 FrontAccessory
 FrontendProcessingUsesLaunchIntent
 FrontParamA
@@ -10539,6 +10550,7 @@ GetConnectedGamepads
 GetConnectedParts
 GetConsoleMode
 GetContentMemoryData
+GetContents
 GetContextGPUIDAMD
 GetControllerVibrationState
 GetControlPointIndices
@@ -11229,6 +11241,7 @@ GoToPreviousScriptLocation
 GoToSourceCodeTB
 GoToVersionFailed
 GpuVariance
+GQ4lLxvqNwND1Hj0zSGunlXJbbeQK3Qxk7TQU1orjujG8W
 GrabCursor.png
 GrabRotateCursor
 GrabRotateCursor.png
@@ -11406,10 +11419,8 @@ GunCursor.png
 GunWaitCursor.png
 GvEphfEUiHHoD6hYFI4xWGpAnIHcklKQCxrf46kAhDGeZnqIgeGszlGdWafunGE8
 GVKUTS[BXIWH\KbHi
-GvSnp4PSVaNljxaaLfwpYP8bFTyr
 GXGfGkGpGuG
 GxI9Gpu2E2
-GYA0DfySlVFumbCr7HKFnQNYZDh
 GyroscopeEnabled
 H_Key_dn.png
 H_NAEBVQString
@@ -11861,7 +11872,9 @@ HttpService
 HttpServiceBetterUserAgent
 HttpServiceBlacklist
 HttpServiceErrorCapLimit
+HttpServiceErrorEventLog
 HttpServiceErrorRateLimit
+HttpServiceException
 HttpServiceFailed
 HttpServiceLogPluginDomains
 HttpServiceNeverCache
@@ -12072,7 +12085,6 @@ IkDraggerSolveIterations
 IllegalTeleport
 ILoggedInUser
 ILoginManager
-ILOL6VGEarcz5MCAwEAAQ
 IMAEBVInstanceIdentifier
 Image.Loading
 Image.PreserveAspectFit
@@ -12824,6 +12836,7 @@ JW4InfoType
 JW4ItemType
 JW4TextFilterContext
 JW4ThumbnailType
+JwtI1muAnBar19
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -12892,7 +12905,6 @@ KnownPrefixIndex
 KodchiangUPC
 KPEAVICHull
 KPEIBX_K_KPEIAU_iobuf
-KPnQ55Co0F2Kcs3T4yxL6ZCKcGq9xY1vLeLMYYUCSv1Sl4dgUyz
 KSocialService
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
@@ -13226,7 +13238,6 @@ LiveCoding
 LiveScript
 LiveThreadRef
 LivingRoom
-LKxfTrrZRaYg
 LLEo6Soxvx2
 LLLLLLLLLLLLLLLL]]]]]]]]]]]]]]]]]]]]
 LOAD_CERT_CTRL
@@ -14262,7 +14273,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAoOjUQkvNKfCqzBf7Pt49jk3OSYQxQ11UQq1HkfhjAPvk
+MIICCgKCAgEAs8pM1s
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14684,6 +14695,7 @@ NavigationJobRunsPerSecond
 NavigationPathUpdatesPerSecond
 NavigationPathUpdatesPerStep
 NavigationPolygonMergePasses
+NavigationRemoveVertexCheckBounds
 NavigationRequest
 NavigationRequested
 NavigationSearchTileOffset
@@ -15700,6 +15712,7 @@ PCertReqData
 PCertResTBS
 PCStudioApp
 PCStudioAppCJV
+Pd7hMq57AiiVHh1uCnN2u5
 PE_MAX_NB_SUBFR
 PEA_NAEBV2
 PEA_NPEAVQDialog
@@ -16855,6 +16868,7 @@ PluginManagementFixYieldingAndRetries
 PluginManagementPrettifyDesign
 PluginManagementPrettifyDesign2
 PluginManagementRemoveUILibrary2
+PluginManagementSkipInvalidAssetIds
 PluginManager
 PluginManager.
 PluginManagerInterface
@@ -17245,6 +17259,7 @@ ProxiedRouter
 PROXY_CERT_INFO_EXTENSION
 PROXY_POLICY
 ProxyAction
+PSl8Qp5TEvOEsIzBwBtiRNCkyiAj0GF4HZSuV5wNFwfmRQ3OgQpWE9G7HZ
 PSPECIFIED
 PUBKEY_get0
 PUBKEY_set
@@ -17822,12 +17837,14 @@ QJsonObject
 QJsonValue
 QJsonValueRef
 QKeySequence
+QkXAPBPebdjL4v89nhPWkRs5c
 QLayoutItem
 QLinearGradient
 QListWidget
 QListWidgetItem
 QLocalServer
 QLocalSocket
+QLzk5KLJs2VWQ0saFiGaik6SR
 QMainWindow
 QMapDataBase
 QMapNodeBase
@@ -19303,7 +19320,6 @@ RigidBodyLazyUpdating
 RigidityEnabled
 RiseVelocity
 Rj0isQcnqX
-RJ0lif1R2acWv
 Roact.createElement
 ROBLOSECURITY
 Roblox.Hybrid
@@ -20215,6 +20231,7 @@ SetChatStyle
 SetClickToWalkEnabled
 SetClipboardData
 SetConsoleMode
+SetContents
 SetContextSwitch
 SetControllerVibration
 SetCoreGuiEnabled
@@ -20370,7 +20387,6 @@ SetWindowLongPtrA
 SetWindowPos
 SetWindowsHookExA
 SetWindowTextA
-SH3jSADwPU4SywK
 ShaderManagerHotloadsShadersInStudio
 ShaderSource
 ShadingLanguage
@@ -20661,6 +20677,7 @@ SlowDnsExternalRequestThresholdMs
 SlowDnsInfluxHundrethsPercentage
 SlowDnsPlatformRequestThresholdMs
 SlowHttpRequest
+SlrfJiouwKHoDukq4sJ5sSu2549X0xXmwSWYzWNeqJoN
 SM2_Ciphertext
 SMALL_CAP_SIZE
 Smartcardlogin
@@ -22647,6 +22664,8 @@ Studio.App.StudioDataModelLoadUtil.ErrorCannotOpenTCPlaceDueToConflictLuobu
 Studio.App.StudioDataModelLoadUtil.ErrorCannotOpenTCPlaceDueToTimeout
 Studio.App.StudioDataModelLoadUtil.ErrorCannotOpenTCPlaceGeneral
 Studio.App.StudioDataModelLoadUtil.ErrorCannotOpenTCPlaceWithErrorCode1
+Studio.App.StudioFlagEditor.AddButton
+Studio.App.StudioFlagEditor.AddOverrideTitle
 Studio.App.StudioFlagEditor.AppliesOverridesImmediately
 Studio.App.StudioFlagEditor.CantExportOverrides
 Studio.App.StudioFlagEditor.CloseWithoutSaving
@@ -22662,8 +22681,13 @@ Studio.App.StudioFlagEditor.FlagEditor
 Studio.App.StudioFlagEditor.FlagsApplied
 Studio.App.StudioFlagEditor.FlagsHaveBeenApplied
 Studio.App.StudioFlagEditor.JsonFile
+Studio.App.StudioFlagEditor.NameField
 Studio.App.StudioFlagEditor.NoLocalOverrides
+Studio.App.StudioFlagEditor.RemoveAllButton
+Studio.App.StudioFlagEditor.RemoveButton
 Studio.App.StudioFlagEditor.SaveChangesCurrentBuild
+Studio.App.StudioFlagEditor.TypeField
+Studio.App.StudioFlagEditor.ValueField
 Studio.App.StudioFlagEditor.ValuesHighlightedRed
 Studio.App.StudioPluginHost.BadFileFormat
 Studio.App.StudioPluginHost.CantDownload
@@ -23145,7 +23169,6 @@ StudioFixAssetPreviewCloseButton
 StudioFixCannotSetBreakPoint
 StudioFixChangeNameMacCrash
 StudioFixF2AfterAutoSelectionChange
-StudioFixFirePackageStatusChangedSignalCrash
 StudioFixFlatTerrainDefaultSaveLocation
 StudioFixFoldStateCalculation
 StudioFixGetClassIcon
@@ -23195,6 +23218,7 @@ StudioHttpServiceProtectLegacyPathsForPlugins
 StudioHttpServiceUsePluginPermissions
 StudioHttpUpgradeToHttps
 StudioIgnoreImageThrottleAndRetryThresholdSeconds
+StudioIgnoreShowHideSpontaneousEvents
 StudioImportLayeredHeightmaps
 StudioImportMaxAsset
 StudioImportSingleChannelColormaps
@@ -23513,6 +23537,7 @@ StudioToSChangeDate
 StudioToStringSelfArgument
 StudioTrackDeadRobloxIDEDocsThrottleEvents
 StudioTrackSessionTimeForLastWeek
+StudioTrackVersionHistoryNonTC
 StudioTranslateSettingsTooltips
 StudioTranslator
 StudioTranslatorObject
@@ -23753,7 +23778,6 @@ SystemOutputView
 SystemPopup
 SystemTimeToFileTime
 SystemUtil
-SZxA6kRcrudT0o9ugb7D
 TabBarModel
 TabBarModel.append
 TabBarTabLabel
@@ -25060,7 +25084,6 @@ Ubad_month
 Ubad_offset
 Ubad_weekday
 UBatchThumbnailResult
-UBd9noRIVDYxEjcxYW9Q
 UBlockAdditions
 UBlockGroup
 UBlockMore
@@ -25165,6 +25188,7 @@ UEBAXW4ComplexControl
 UEBAXW4ControlElement
 UEBAXW4PrimitiveElement
 UEditionEntry
+UendAMKPBZpJdE4aZEmoTy021zUke9Cbu49zFXiY3cmYXmfuM3L
 UEventInfo
 UEventInstance
 UEventSlot
@@ -25795,6 +25819,7 @@ Utag_original_exception_type
 UTagNotifyOnParseComplete
 UTagUseAsStart
 UTaskFunctor
+UtDDKrdYAfoGkUAVVd
 UTeleportThreadReportInfo
 UTextDocumentDidChangeNotification
 UTextDocumentDidCloseNotification
@@ -25869,6 +25894,7 @@ VAdvLuaDragger
 VAdvRotateTool
 VAdvScaleTool
 VAdvTranslateTool
+VAfWVbWGiHKXni9SdGntaKeHdQoao5
 VAliasRequestResult
 ValidateProgram
 Validation
@@ -26659,9 +26685,9 @@ VNetworkSendDataMegaJob
 VNetworkSenderScheduleJob
 VNetworkSettings
 VNetworkStream
-VNKEumVVbhJ5j0kmEhuVSdWSYkNNbhQ8R0
 VNoCollisionConstraint
 VNonReplicatedCSGDictionaryService
+VNonTeamCreateScriptTracker
 VNotificationService
 VNumberRange
 VNumberSequence
@@ -26759,6 +26785,7 @@ VQByteArray
 VQFileInfo
 VQGenericArgument
 VQGenericReturnArgument
+VqHJJtrUthfnH
 VQHostAddress
 VQItemSelectionRange
 VQKeySequence
@@ -27099,6 +27126,7 @@ VWorldRoot
 Vwspp_callback_client
 VWSUATAUAVAW
 VWXYZ[\]^_`a
+VXcwUj1bfiLDpjf
 VXmlElement
 VYieldFunctions
 VYieldFunctionStateObject
@@ -27703,10 +27731,8 @@ YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
 Z_KPEIBX_K_KPEIAU1
-ZcAR8m6DqoRL8a3y
 Zcaronsmall
 Zdotaccent
-ZDqvGa6AbtV4vKvez1c7OP
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
@@ -27721,7 +27747,6 @@ ZP6APEAX1PEBX
 ZP6AX1PEAX
 ZPEAVRBXMessageBox
 ZRZZZbZt[.[
-ZskdkTQGTmJaewAiIGE0iQGJRACO9Q8ajnxQyO9w3PXTpHLVjM1nrQEPoNRv
 ZVspecial_equipped_signal
 ZVTouchedSignal
 ZZZZZZZZZZZZZZZ
