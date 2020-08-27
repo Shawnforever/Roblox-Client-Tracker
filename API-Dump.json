@@ -9541,6 +9541,17 @@
                 },
                 {
                     "MemberType": "Function",
+                    "Name": "ListEncryptedAssets",
+                    "Parameters": [
+                    ],
+                    "ReturnType": {
+                        "Category": "Group",
+                        "Name": "Array"
+                    },
+                    "Security": "None"
+                },
+                {
+                    "MemberType": "Function",
                     "Name": "Preload",
                     "Parameters": [
                         {
@@ -9562,6 +9573,49 @@
                 },
                 {
                     "MemberType": "Function",
+                    "Name": "RegisterDefaultEncryptionKey",
+                    "Parameters": [
+                        {
+                            "Name": "encryptionKey",
+                            "Type": {
+                                "Category": "Primitive",
+                                "Name": "string"
+                            }
+                        }
+                    ],
+                    "ReturnType": {
+                        "Category": "Primitive",
+                        "Name": "void"
+                    },
+                    "Security": "None"
+                },
+                {
+                    "MemberType": "Function",
+                    "Name": "RegisterEncryptedAsset",
+                    "Parameters": [
+                        {
+                            "Name": "assetId",
+                            "Type": {
+                                "Category": "DataType",
+                                "Name": "Content"
+                            }
+                        },
+                        {
+                            "Name": "encryptionKey",
+                            "Type": {
+                                "Category": "Primitive",
+                                "Name": "string"
+                            }
+                        }
+                    ],
+                    "ReturnType": {
+                        "Category": "Primitive",
+                        "Name": "void"
+                    },
+                    "Security": "None"
+                },
+                {
+                    "MemberType": "Function",
                     "Name": "SetBaseUrl",
                     "Parameters": [
                         {
@@ -9577,6 +9631,35 @@
                         "Name": "void"
                     },
                     "Security": "LocalUserSecurity"
+                },
+                {
+                    "MemberType": "Function",
+                    "Name": "UnregisterDefaultEncryptionKey",
+                    "Parameters": [
+                    ],
+                    "ReturnType": {
+                        "Category": "Primitive",
+                        "Name": "void"
+                    },
+                    "Security": "None"
+                },
+                {
+                    "MemberType": "Function",
+                    "Name": "UnregisterEncryptedAsset",
+                    "Parameters": [
+                        {
+                            "Name": "assetId",
+                            "Type": {
+                                "Category": "DataType",
+                                "Name": "Content"
+                            }
+                        }
+                    ],
+                    "ReturnType": {
+                        "Category": "Primitive",
+                        "Name": "void"
+                    },
+                    "Security": "None"
                 },
                 {
                     "MemberType": "Function",
@@ -27227,6 +27310,28 @@
         {
             "Members": [
                 {
+                    "Category": "Localization",
+                    "MemberType": "Property",
+                    "Name": "DevelopmentLanguage",
+                    "Security": {
+                        "Read": "None",
+                        "Write": "None"
+                    },
+                    "Serialization": {
+                        "CanLoad": true,
+                        "CanSave": false
+                    },
+                    "Tags": [
+                        "Hidden",
+                        "NotReplicated",
+                        "Deprecated"
+                    ],
+                    "ValueType": {
+                        "Category": "Primitive",
+                        "Name": "string"
+                    }
+                },
+                {
                     "Category": "Behavior",
                     "MemberType": "Property",
                     "Name": "Root",
@@ -27264,6 +27369,20 @@
                         "Category": "Primitive",
                         "Name": "string"
                     }
+                },
+                {
+                    "MemberType": "Function",
+                    "Name": "GetContents",
+                    "Parameters": [
+                    ],
+                    "ReturnType": {
+                        "Category": "Primitive",
+                        "Name": "string"
+                    },
+                    "Security": "None",
+                    "Tags": [
+                        "Deprecated"
+                    ]
                 },
                 {
                     "MemberType": "Function",
@@ -27395,6 +27514,27 @@
                 },
                 {
                     "MemberType": "Function",
+                    "Name": "RemoveKey",
+                    "Parameters": [
+                        {
+                            "Name": "key",
+                            "Type": {
+                                "Category": "Primitive",
+                                "Name": "string"
+                            }
+                        }
+                    ],
+                    "ReturnType": {
+                        "Category": "Primitive",
+                        "Name": "void"
+                    },
+                    "Security": "None",
+                    "Tags": [
+                        "Deprecated"
+                    ]
+                },
+                {
+                    "MemberType": "Function",
                     "Name": "RemoveTargetLocale",
                     "Parameters": [
                         {
@@ -27413,6 +27553,27 @@
                 },
                 {
                     "MemberType": "Function",
+                    "Name": "SetContents",
+                    "Parameters": [
+                        {
+                            "Name": "contents",
+                            "Type": {
+                                "Category": "Primitive",
+                                "Name": "string"
+                            }
+                        }
+                    ],
+                    "ReturnType": {
+                        "Category": "Primitive",
+                        "Name": "void"
+                    },
+                    "Security": "None",
+                    "Tags": [
+                        "Deprecated"
+                    ]
+                },
+                {
+                    "MemberType": "Function",
                     "Name": "SetEntries",
                     "Parameters": [
                         {
@@ -27428,6 +27589,41 @@
                         "Name": "void"
                     },
                     "Security": "None"
+                },
+                {
+                    "MemberType": "Function",
+                    "Name": "SetEntry",
+                    "Parameters": [
+                        {
+                            "Name": "key",
+                            "Type": {
+                                "Category": "Primitive",
+                                "Name": "string"
+                            }
+                        },
+                        {
+                            "Name": "targetLocaleId",
+                            "Type": {
+                                "Category": "Primitive",
+                                "Name": "string"
+                            }
+                        },
+                        {
+                            "Name": "text",
+                            "Type": {
+                                "Category": "Primitive",
+                                "Name": "string"
+                            }
+                        }
+                    ],
+                    "ReturnType": {
+                        "Category": "Primitive",
+                        "Name": "void"
+                    },
+                    "Security": "None",
+                    "Tags": [
+                        "Deprecated"
+                    ]
                 },
                 {
                     "MemberType": "Function",

@@ -546,9 +546,14 @@ Class ContentProvider : Instance [NotCreatable] [Service] [NotReplicated]
 	Function int ContentProvider:CalculateNumTrianglesInMesh(string meshId) {RobloxScriptSecurity} [Yields]
 	Function int ContentProvider:CalculateNumTrianglesInMeshSync(string meshId) {RobloxScriptSecurity}
 	Function Array ContentProvider:GetFailedRequests() {RobloxScriptSecurity}
+	Function Array ContentProvider:ListEncryptedAssets()
 	Function void ContentProvider:Preload(Content contentId) [Deprecated]
 	Function void ContentProvider:PreloadAsync(Array contentIdList, Function callbackFunction = nil) [Yields]
+	Function void ContentProvider:RegisterDefaultEncryptionKey(string encryptionKey)
+	Function void ContentProvider:RegisterEncryptedAsset(Content assetId, string encryptionKey)
 	Function void ContentProvider:SetBaseUrl(string url) {LocalUserSecurity}
+	Function void ContentProvider:UnregisterDefaultEncryptionKey()
+	Function void ContentProvider:UnregisterEncryptedAsset(Content assetId)
 Class ContextActionService : Instance [NotCreatable] [Service]
 	Function void ContextActionService:BindAction(string actionName, Function functionToBind, bool createTouchButton, Tuple inputTypes)
 	Function void ContextActionService:BindActionAtPriority(string actionName, Function functionToBind, bool createTouchButton, int priorityLevel, Tuple inputTypes)
@@ -1572,14 +1577,19 @@ Class LocalizationService : Instance [NotCreatable] [Service] [NotReplicated]
 	Event LocalizationService.AutoTranslateWillRun() {RobloxScriptSecurity}
 Class LocalizationTable : Instance
 	Property Instance LocalizationTable.Root  [Hidden] [NotReplicated] [Deprecated]
+	Property string LocalizationTable.DevelopmentLanguage [<📁> LoadOnly] [Hidden] [NotReplicated] [Deprecated]
 	Property string LocalizationTable.SourceLocaleId
+	Function string LocalizationTable:GetContents() [Deprecated]
 	Function Array LocalizationTable:GetEntries()
 	Function string LocalizationTable:GetString(string targetLocaleId, string key) [Deprecated]
 	Function Instance LocalizationTable:GetTranslator(string localeId)
 	Function void LocalizationTable:RemoveEntry(string key, string source, string context)
 	Function void LocalizationTable:RemoveEntryValue(string key, string source, string context, string localeId)
+	Function void LocalizationTable:RemoveKey(string key) [Deprecated]
 	Function void LocalizationTable:RemoveTargetLocale(string localeId)
+	Function void LocalizationTable:SetContents(string contents) [Deprecated]
 	Function void LocalizationTable:SetEntries(Variant entries)
+	Function void LocalizationTable:SetEntry(string key, string targetLocaleId, string text) [Deprecated]
 	Function void LocalizationTable:SetEntryContext(string key, string source, string context, string newContext)
 	Function void LocalizationTable:SetEntryExample(string key, string source, string context, string example)
 	Function void LocalizationTable:SetEntryKey(string key, string source, string context, string newKey)
