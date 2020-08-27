@@ -556,6 +556,7 @@ AmdPowerXpressRequestHighPerformance
 AmericanExpress
 Amimjmwmxm
 AMMW4TweenEasingStyle
+AMOkWOhm4OzN6RImpa2KOuuO05XjSDpvv9rM0wX
 AMPROPSETID_Pin
 AMVVector3
 AMW4DeveloperTag
@@ -4528,6 +4529,7 @@ BQByteArray
 BQJsonValueRef
 BQPersistentModelIndex
 BQTextFormat
+BQuGTRkbAXjPyMu0CAwEAAQ
 BranchIcon
 BreakGroup
 BreakJoints
@@ -4721,7 +4723,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.446.0.410690
+ByVersion_0.447.0.410698
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -7080,7 +7082,6 @@ CustomSort
 CustomStatusAdded
 CustomStatusRemoved
 CustomToolButton
-CVJjNndKzHVVh3Fzep4bcE4Rg
 CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
@@ -8357,6 +8358,7 @@ DownSampleGjoel
 DownSampleGjoel8UVVS
 DownSampleGlowTemporal8x8FS
 DownSampleGlowTemporalLinear8x8FS
+DOworI3f24h
 DPERF_BeginEvent
 DPERF_EndEvent
 DPERF_GetStatus
@@ -8480,7 +8482,6 @@ Dst.YBegin
 DSVideoCaptureEngine
 DTLS_RECORD_LAYER_new
 DTLSv1_listen
-DuDDa2dvncsVIK882yvZdfT6I0WBxA4d4
 DumpAction
 DumpFileCount
 DumpUtcCaptureTime
@@ -8508,7 +8509,6 @@ DVCSRequestData
 DVCSResponseData
 DVPAES_ASM
 DWebBrowserEvents2
-DWJDggg2pOjgJbKavtNQgykYTuOfodUj
 DwmSetWindowAttribute
 DX25519_ASM
 DXCloseDeviceNV
@@ -8824,6 +8824,7 @@ EFrontVector
 Egravesmall
 EHcUgHc]oL
 EHERE\EfEpEzE
+EhGcAy3Qzf6kS2HUjFjMTm3MQaqbQf
 EJJJJJJJJJJJJJJJJJJJJ
 EJTU\^bcfguw
 ElapsedSeconds
@@ -8998,6 +8999,7 @@ EnablePerfAudioCollection
 EnablePerfDataCollection
 EnablePerfDataCoreTimersCollection
 EnablePerfDataExtendedMemoryCollection
+EnablePerfDataMemoryCategoriesCollection
 EnablePerfDataMemoryCollection
 EnablePerfDataTimerCollection
 EnablePerfPlaytestId
@@ -11172,7 +11174,6 @@ GIM_ShapeRetriever
 GImpactCollisionAlgorithm
 GImpactCompound
 GImpactCompoundShape
-GIREMUspVMXK9
 GiveFocusBackAfterClickingTextbox
 GizmoRaycast
 GL_ARB_pixel_buffer_object
@@ -11246,7 +11247,6 @@ GoToNextScriptLocation
 GoToPreviousScriptLocation
 GoToSourceCodeTB
 GoToVersionFailed
-GPOc4YUGwDgpkmmF
 GpuVariance
 GrabCursor.png
 GrabRotateCursor
@@ -11428,7 +11428,7 @@ GVKUTS[BXIWH\KbHi
 GXGfGkGpGuG
 GxI9Gpu2E2
 GyroscopeEnabled
-GzHIJ42xaq84U2e7qw
+GzFfekb3WzTP5MJ2lYp8tuFep5xUt90Ha7QT5tz
 H_Key_dn.png
 H_NAEBVQString
 H`CeIkHq7v4
@@ -11978,7 +11978,6 @@ HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdna
 HWYGOTH.ttf
 HybridEvent
 HyIyPyVy]y^yey
-HZpgNMz153T1a8zcESZTB6Glv67TeVFBF9WkU
 Iacutesmall
 IAEBVInstanceIdentifier
 IAutocompleter
@@ -12717,7 +12716,6 @@ ItemWasSet
 ItemWidget
 Iterations
 ITRedirect
-Iubw053X7B6KfmswcB4cck1VewmQXIKwl
 IUpdateUIManager
 IUserDataStoreServiceBase
 IVRApplications_006
@@ -12734,9 +12732,10 @@ IVRScreenshots_001
 IVRSettings_002
 IVRSystem_017
 IVRTrackedCamera_003
-IVtwbXOPcps
 IWebBrowser2
+IWMl9LkD7FtynqeSBj
 IWorldStage
+IwumuO1efWMq
 IXMLHTTPRequest2
 J_Key_dn.png
 J_NW4CurrencyType
@@ -12754,11 +12753,9 @@ JIRA_RIDE_192
 JIRA_RIDE_630
 JIRA_RIDE_711_V2
 JIRA_RIDE_785
-JItTtoW0rxGv8zUFD
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
-Jo3UjY5edvm6dZ
 JoinBlobInvalidateCountThresholdPercent
 JoinBlobInvalidateThresholdPercent
 JoinCommand
@@ -12908,8 +12905,6 @@ KFKPKXK`KhK
 KickByDatacenter_
 KiDszBCYB0gyp03Pc
 KillPtClicked
-KjcX5qnFUVK3pfBZxg
-KKcMySBos93UODqxIpA7L2kqJcp6
 KKKKKKKKKK
 KKKKKKKKKKKK
 KKKKKKKKKKKKKKKKKKKKKK
@@ -12918,6 +12913,7 @@ KnownPrefixIndex
 KodchiangUPC
 KPEAVICHull
 KPEIBX_K_KPEIAU_iobuf
+KQSm0Wenl28BVSZjTxM5FY6ZEwq7byDJ
 KSocialService
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
@@ -13471,7 +13467,6 @@ LogTeamCreateHeartbeat
 LogTeleportOutOfRetryFailurePerTenThousand
 LogWorkItemCompleted
 LogWorkItemStarted
-LoIrxlVg9B0
 LongestLabel
 LongPollingTransport
 LongRunUpdateCycle
@@ -13618,7 +13613,6 @@ LuauFixSelectCrash
 LuauImprovedBinaryOperatorInference
 LuauNonstrictArgumentCounts2
 LuauRecursionLimit
-LuauResolveModulesWithBfs
 LuauReworkDotVsColonWarnings
 LuauScriptTextProvider
 LuauSetmetatableUseMetatableField
@@ -14288,7 +14282,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA2afAUIXasd
+MIICCgKCAgEAp1dWWx8kydBLqrcOrMzEJGDhPgdYUXDQZ4SOQggte
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14639,7 +14633,6 @@ MutexLifetime
 MW4PartMaterial
 MyModelsAction
 MyWatchTreeWidget
-NaCPbSznxCPb
 NAEAVHttpResponse
 NAEBUPlaceLauncherRequestInfo
 NAEBVFbxTime
@@ -14897,6 +14890,7 @@ NextTabPage
 NfXf`fhfzf
 NHVVariant
 NinjaMask.mesh
+NmS9BLa3kYPe1VePBJ
 NNNNNNNNNNNNNNNNNNNNNN
 NNNNNNNSSSSSSSSSSSSSSSSSSSSSS
 NNW4SizeMode
@@ -15047,7 +15041,6 @@ NVWorkspace
 NW4FileSystemDir
 NW4PenStyle
 NW4UserInputType
-NZgViTV5tonaOKUTMkFz
 Oacutesmall
 OAEPEncryptionSET
 OAUTHBEARER
@@ -15485,7 +15478,7 @@ OverrideToMyBranch
 OverwriteMode
 OverwritePublish
 OwnProperty
-OYvCMU3HI9hLC1tgdryM4jFc9GZ66YsNQXV577rkPGTQ7ZQPrwuv1g3OEYx3cLD
+OYkCkfpuRU4DCi6cXps9b5fCo5gXc
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^]
 PA^A]A\_^][
@@ -17858,7 +17851,6 @@ QLayoutItem
 QLinearGradient
 QListWidget
 QListWidgetItem
-QLiVK13zX7unELFtuDjwrgzfW6fLommP08lN
 QLocalServer
 QLocalSocket
 QMainWindow
@@ -17933,7 +17925,6 @@ QSG_RENDER_LOOP
 QSharedPointer
 QSignalMapper
 QSizePolicy
-QsJljKqIILOf59UCAwEAAQ
 QSortFilterProxyModel
 QSpacerItem
 QSplashScreen
@@ -18386,7 +18377,6 @@ RCCUpdateBroadphaseDtAverage
 RCCUpdateBroadphaseDtAverage_Datacenter_
 RccUse64BitAppearanceId
 RcpReferenceTime
-RdAncexCiE
 ReachActorChest
 ReachActorChestRotation
 ReachActorHead
@@ -19225,7 +19215,7 @@ RevocationList
 RevocationRefs
 RevocationUrl
 RevokeFriendship
-RHCyQxbbzxC2y4uR4AwZn5FTaad77LB
+RF4wbaHVxcQ3Yyos85HkRIgQi5GreHE5TEtTvioLsEK7KKZTR8qQw4fF
 RibbonButton
 RibbonButtonControl
 RibbonGallery
@@ -19513,6 +19503,7 @@ RowsToRemove
 RowStretch
 RowVisibilityChanged
 RPCServers
+RpsHnbWucPXzo35YAdXGtTCTvItWYcW6cmkIvgCofQxwNPA9qlrb8C6F3L9lp3
 RRReceiptFail
 RRReceiptTotal
 RRRRRRRRzzzzzzzzzzzzzzzzzz
@@ -19592,6 +19583,7 @@ RVideoInternal
 RVideoMemLogging
 RVideoTrace
 RxRlReport
+RyP8NlbalPcWTbrKZJozSGlRQEUolfJkxQg8MGE8k5V
 S_Key_dn.png
 SA_KPEAPEBV123
 SA_KPEAPEBVfacet
@@ -20645,6 +20637,7 @@ SingletonTemplate
 SIO_KEEPALIVE_VALS
 SISQSZSsSuS
 SiteMessageBanner
+SiwjyKtwuGYACKSgHwsHkIDKw6mBFhKJgBJOoi612cW
 Size100x100
 Size150x150
 Size180x180
@@ -23187,6 +23180,7 @@ StudioFileWatcherDelayMs
 StudioFixAssetPreviewCloseButton
 StudioFixCannotSetBreakPoint
 StudioFixChangeNameMacCrash
+StudioFixCommandBarUndo
 StudioFixF2AfterAutoSelectionChange
 StudioFixFlatTerrainDefaultSaveLocation
 StudioFixFoldStateCalculation
@@ -23721,7 +23715,6 @@ SurfacesDefault.png
 SurfaceSelection
 SurfaceTransparency
 SurfaceType
-Susb3CjT2sgpFRzu
 Suspension
 SUVATAUAVAW
 SUVATAUAVAWH
@@ -24312,7 +24305,6 @@ Thumbstick
 Thumbstick1
 Thumbstick2
 ThwartPurchasePromptScams
-THwQMiTyg7f
 TI.pid.toString
 TI.tid.toString
 TickCountPreciseOverride
@@ -24469,7 +24461,6 @@ TipTimer.stop
 TitleBarProgress
 TitlebarText
 TitleBarVisible
-TjISVrkJL6FFXSIIga7pLKQDcGWnRq317HhEqpWpvIkG6xMuaSG7qGFJgnUMs
 TJNLerU][Wr
 TLS_AES_128_CCM_8_SHA256
 TLS_AES_128_CCM_SHA256
@@ -25216,7 +25207,6 @@ UEventInfo
 UEventInstance
 UEventSlot
 UExtraSelection
-UF4t1wmpIQrWAy7fsLWXfok
 UFileMeshData
 UFileMetadata
 UFMODSystemRelease
@@ -25510,7 +25500,6 @@ UnusedSounds
 Unverified
 Up_key.png
 Up_key_dn.png
-UP8kjfs6RHnlvyvM6Rg9SDRygCU4z1vZobOvMM
 UPackageAssetData
 UPackageInfo
 Upartial_date_rule_spec
@@ -25949,7 +25938,6 @@ VAnimation
 VAnimationController
 VAnimationId
 VAnimationTrack
-VaoYK8LuIWiQ0nTlBDFWPfUGx0zbYmn5ri
 VAppConfiguration
 VAppStorage
 VAppStorageService
@@ -26027,7 +26015,6 @@ VBrokenAssetResourceController
 VBrowserService
 VBrowserTrackerIdRequest
 VBrowserTrackerIdTask
-VBRTd0mHKuemjetjoRAXbfDlifDS
 VBufferD3D11
 VBufferedEmitter
 VBufferVulkan
@@ -26136,7 +26123,6 @@ VCylinderDecalTexture
 VCylinderHandleAdornment
 VCylinderMesh
 VCylindricalConstraint
-VDA1hIPnUG7gnGvN67lm0
 VDataModel
 VDataModelMesh
 VDataModelPackageManager
@@ -26370,7 +26356,6 @@ VFbxClassId
 VFbxStringListItem
 VfE9M2uOfE9MBuHfE9MRuAfE9Mbu
 VFFlagSetting
-VFIcAxoIRpp
 VFileSyncItem
 VFileSyncItemClient
 VFileSyncManagerListener
@@ -27267,7 +27252,6 @@ WeChatAuthWindow
 WedgeDecal
 WedgeDecalTexture
 WedgeLargeAction
-WEi1RQXRCDCre
 WEIGHT_NAME
 WeightCurrent
 WeightTarget
@@ -27461,7 +27445,6 @@ WithSHA224
 WithSHA256
 WithSHA384
 WithSHA512
-WJI9zrljFQ4mO7G6EM1VrxzHtfirWBaO
 WM_ATLGETCONTROL
 WM_ATLGETHOST
 WMCreateProfileManager
@@ -27525,6 +27508,7 @@ WSASocketW
 WSAstartup
 WSAStartup
 WSAStringToAddressW
+WSl5YFgovi9lg9
 WTHelperGetProvSignerFromChain
 WTHelperProvDataFromStateData
 WWWWWWWWWW
@@ -27758,7 +27742,6 @@ YffYZefYDNNDCOO
 YieldEvent
 YieldFuncDesc
 YieldFunction
-YPGdNC5J61t1tF5TjsNNv
 YQByteArray
 YResolution
 YwBBvY55YvBBwY5
@@ -27766,10 +27749,10 @@ YYYYYYYYYYYYYYYYYYYYYYYYY
 Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
 Zdotaccent
-ZEuhy9t5tDx
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
+ZJfcAhlxwpBcP5lTMKcHnN82xMTDSs261ECV
 ZLcJhLcGhM
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
@@ -27781,11 +27764,8 @@ ZP6APEAX1PEBX
 ZP6AX1PEAX
 ZPEAVRBXMessageBox
 ZRZZZbZt[.[
-ZSlE8uB0ohqi1Jabxog6EOTvN2vWl
-ZSYzXXcOjT1yYczxVNiyyp4XltTNhDwA4uiZuAGMyd9oJ6NIQGIPlam
-Zv09kYDdrxdYdm1NfeQW8xTwRziYMwDyvRd
 ZVspecial_equipped_signal
 ZVTouchedSignal
-ZWFIRuhP301KLBvZGHdEuv3KRLRp3gDJahn1PuVYV0vlvTzs3m6pwDWg
+ZVZniGyzc8nkWRk
 ZZZZZZZZZZZZZZZ
 ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
