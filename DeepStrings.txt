@@ -4108,6 +4108,7 @@ AXW4UiMessageType
 AXW4UserCFrame
 AXW4UserInputType
 AXW4VRTouchpad
+AYwGbEqflwfgFMVc64LZSA2il7
 BA447F42A91111E2B410EF351327957B
 BA886F11E18561866242201959
 BAA3C620681180838E23F0DC6224
@@ -4304,6 +4305,7 @@ BFixOutOfBoundsMouseLocation
 BFLuaDraggersRoleSet
 BFSupportPluginDebuggingRoleSet
 BFTableOutputViewRoleSet
+BgUaLFAFmETl1gc
 BgUpdateRedirectsDisable
 BgUpdateRedirectsHttpErrInfluxHundredthsPercentage
 BgUpdateRedirectsRejectInfluxHundredthsPercentage
@@ -4383,7 +4385,6 @@ BitArrayToObject
 BitstreamList
 Bkg_round.png
 Bkg_square.png
-BKWO54UILNO3IAGYbIaTlytmB13
 BL17qL9koPpyChCHbWVgSXbfxynzBupojeOEiuqDuGX0BFl
 BlackRegular1.033
 BlackSource
@@ -4463,7 +4464,6 @@ BN_rand_range
 BN_RECP_CTX_new
 BN_STACK_push
 BN_to_felem
-BneyMgAip96nlH9Se7YaFiIZOAGOOO9yfpNtl8kmczxgHXvTOLXGQUCAwEAAQ
 BodyAngularVelocity
 BodyBack_Att
 BodyBackAttachment
@@ -4722,7 +4722,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.447.0.410712
+ByVersion_0.447.0.410716
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -6525,6 +6525,7 @@ CountryRegionCode
 CountryRegionCodeReplicate
 CountShifted
 CountWidth
+CPdkA7DmSbRu49
 CrackedLava
 CrashDumpFileName
 CrashEvent
@@ -8506,6 +8507,8 @@ Durbanville1
 DVCSRequestData
 DVCSResponseData
 DVPAES_ASM
+DvQIq1fZHhCad0xM3whSImff16qd3zTpGfTh2xd1iJu7
+DVWoguC3SqT
 DWebBrowserEvents2
 DwmSetWindowAttribute
 DX25519_ASM
@@ -8563,7 +8566,6 @@ EAB0886F11E18561866242201959
 Eacutesmall
 EAEIESEUEaEwE
 EagerBulkExecution
-EAmLbWGMF0PoAffNXdz4kYUqvn38
 EarAccessory
 EARLY_EXPORTER_SECRET
 EarlyOutOnHttpRequestSendDuringShutdown
@@ -10228,6 +10230,7 @@ FXCompositing
 FXCompositingFS
 FXCompositingLinearFS
 FXComposition
+Ga9v4NsuSmmKP8sjnw7RbXdlTvo9UbH
 GainMakeup
 GameAbsenceInWeb.
 GameAction
@@ -11392,6 +11395,7 @@ GroupTime.Sum.toFixed
 GSSolverActive
 GSSS466FSSS455
 GTInfluxDB
+GttvcAAmKWNj6R
 Guaranteed
 GuestFriendCheckFailImmediate
 GuiApplyInsertionOrderSort2
@@ -11706,6 +11710,7 @@ HoverTokenLogIndex
 HoverTokenLogIndexNext
 HoverTokenNext
 HoverWindowShadow
+HOWN1EdfDxL
 HPEAU_iobuf
 HPEAUlua_State
 HPEAVQAction
@@ -12728,7 +12733,6 @@ IVRScreenshots_001
 IVRSettings_002
 IVRSystem_017
 IVRTrackedCamera_003
-Iwbgv9KDcdEsTypwnRbDt18o9L
 IWebBrowser2
 IWorldStage
 IXMLHTTPRequest2
@@ -12811,7 +12815,6 @@ JointStepParallelBatchSize
 JointTime_TextureCooldown
 JointToolHelpDialogVerb
 JPEBUSG_INDEX_TRIANGLE
-JqMxEdnTM2bviXGUtnTakumn
 JSON.parse
 JSON.stringify
 JSON_Parser
@@ -12832,6 +12835,7 @@ JumpRequest
 JumpScares
 JumpScaresP2
 JumpToIndex
+Jun9K4z2e4Vs
 JustEndedBusy
 JUUserNameResponseHandler
 JW4AppInstallType
@@ -12904,6 +12908,7 @@ KillPtClicked
 KKKKKKKKKK
 KKKKKKKKKKKK
 KKKKKKKKKKKKKKKKKKKKKK
+KL660ccNWJ3AvOgQ5LgFa7sKz5lt2LEx9dWgknGbqPkHq
 KnownHeaders
 KnownPrefixIndex
 KodchiangUPC
@@ -14261,6 +14266,7 @@ MethodQuery
 Metrics.width
 MetricsSets
 MetricType
+MH0sZrgUBC7rZ4tJQDrYEhxb8OveEYAT4tokCPfZTGqABSdV7gJdWYE6
 MHapV7R8MxA953
 MicroProfile
 MicroProfileFlip
@@ -14277,7 +14283,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAz2qSqvMuEHdYE7V
+MIICCgKCAgEA7te1u438ltRvjkxWGP
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14320,6 +14326,7 @@ MissingDumpFile
 MMW4IkDragCollisionsMode
 MMW4PartMaterial
 MMW4UserInputState
+MNPS5OiJ7n50rThMuYs8lhoI4NzrzYQqqK
 MobileWebsite
 MockAndroidBackButtonPressed
 MockGestureGenerator
@@ -14982,7 +14989,6 @@ NSNNNNNWNSNN_NSNSNSNNNNSNWN`N^^N
 NSNNNNNWNWNNN^^N
 NSNNNNNWNZP[\
 Ntildesmall
-NTQTz7bqOTWnuP3mVCpat2xilCZzU8AdUVQNx2JgEEazISSqp4Bs
 NullPassword
 NUMBER_OF_ORDERED_STREAMS
 NumberAnimation
@@ -15036,6 +15042,7 @@ NVWorkspace
 NW4FileSystemDir
 NW4PenStyle
 NW4UserInputType
+NWLGjR4w1gtASNzR5lMzj1nD
 Oacutesmall
 OAEPEncryptionSET
 OAUTHBEARER
@@ -16902,7 +16909,6 @@ PluginWidgetRelay
 PluginWidgetRelayForPluginGui
 PluginWriteTemp
 PlusButtonPressed
-PObeaRlBr1c54IbBY2uMTzCXNY7i5JiOk
 POINT_SIZE
 PointBalanceCacheInvalidateTimeMs
 PointDataChanged
@@ -17312,7 +17318,6 @@ PushPixels
 PVAdornment
 PVInstance
 PVK_header
-PXi9c61lNEb215zIKVAftTc6fn9uTo1Uqjjyr7neYuRA8zMFdEBHBcUNBUASwTAb
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
 QAbstractAnimation
@@ -19328,7 +19333,6 @@ RigidityEnabled
 RiseVelocity
 Rj0isQcnqX
 Roact.createElement
-RoAXL9b2QXdtXUFBioE6Ph57PD2DjUtznnCQDHWmC73
 ROBLOSECURITY
 Roblox.Hybrid
 Roblox.Hybrid.Bridge.emitEvent
@@ -19662,7 +19666,6 @@ SAXPEAUData
 SAXPEAVQObject
 SAXPEAVQStyle
 SAXPEBDP6AXAEAVQDataStream
-SbolXv7XjfuKiucTH
 Scale_Green.png
 ScaleButton.png
 ScaleButton_dn.png
@@ -20726,7 +20729,6 @@ SmoothWaterHQVSShadowedFSM
 SmoothWaterSuperHQFS
 SmoothWaterSuperHQFSShadowed
 SmoothWaterVS
-SN2Q5F9njXIcZ9jHy2eJM4kkp5fl48X
 SnapAttachmentsVerb
 SnapSelection
 Snowball.png
@@ -24458,6 +24460,7 @@ TitleBarProgress
 TitlebarText
 TitleBarVisible
 TJNLerU][Wr
+TjWezQLTtxsbk4BMJCaCF
 TLS_AES_128_CCM_8_SHA256
 TLS_AES_128_CCM_SHA256
 TLS_AES_128_GCM_SHA256
@@ -24861,6 +24864,7 @@ TouchTransmitter
 ToUniversalTime
 TownAndCity
 ToWorldSpace
+TPm8BIKMlh
 TraceMessage
 Track2Data
 TrackAudioDriversPerSystem
@@ -25217,7 +25221,6 @@ UGlobalResult
 Ugravesmall
 UGroupRolesResult
 UGuiClusterRT
-UhbjGXFedcJu45eOfXFvVzP3HipgHu91key6FkMjlSvODdxngPD3
 UHttpApiRequest
 UHttpRequest
 UHttpResponseProxy
@@ -25290,6 +25293,7 @@ UINumTicks
 UIPageLayout
 UIQuadTree
 UIQuadTreeCellAreaMin
+UIrHwmsposG
 Uis_continuation_if_running
 UISizeConstraint
 UITableLayout
@@ -25305,7 +25309,6 @@ ULayoutInlineHelper
 ULinkedScriptLoadData
 ULoadedImage
 ULuaCallbacks
-UlVGlxiPQHXB9WZw7
 UMasteringMetadata
 UMeshResource
 UMessageAndSenderId
@@ -27055,7 +27058,6 @@ VTweenBase
 VTweenInfo
 VTweenService
 VTypesetter
-VUApvOaDIsJmyHE4jRM3mXkWBW856c4388WTEgVs4Jrd9XkjbFqG5XsLZ2
 VUGCValidationService
 VUIAspectRatioConstraint
 VUIComponent
@@ -27362,6 +27364,7 @@ WidthArray
 WidthArray[i
 WidthArray[i]
 WidthScale
+WINbEpAm0qZN1pQY3ht7UGFCRk2F2vw
 Window.Invoke1
 Window.push
 WindowContainer
@@ -27486,7 +27489,6 @@ WorldToScreenPoint
 WorldToViewportPoint
 WP1Lk7UmX3No0NAVVrlNv8vM1TKYodC60fXpXkwOnxGMHelMkfu58xsxIB9tXB4U
 WPACKET_start_sub_packet_len__
-WQLgslTpM3sKMrdZk1hQ9iJ8gvDQWChBxLfAG8O1MgiKO
 WrappedDevFrameworkLinkText
 WristDisplacementDamping
 WristDisplacementDampingMode
@@ -27565,6 +27567,7 @@ XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XGetLastError
 XHW4Status_e
+XHYMwMj5XvHmBlRNyQQML5HsJ4Ql5P1AJpAUHluxrE1G5zimDBL
 XInputGetBatteryInformation
 XInputGetCapabilities
 XInputGetState
@@ -27744,6 +27747,7 @@ YieldFunction
 YQByteArray
 YResolution
 YwBBvY55YvBBwY5
+YY9UyNCeI0nWHx2o8xbjG3dKmdNqri6oAX36h4J2r9Ks1xLz8G4QYCW2MUY
 YYYYYYYYYYYYYYYYYYYYYYYYY
 Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
@@ -27751,8 +27755,8 @@ Zdotaccent
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
+ZJYzk6EooutGbrOTFa
 ZLcJhLcGhM
-ZmSOXqJX3GoZ
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
 ZoomActive
