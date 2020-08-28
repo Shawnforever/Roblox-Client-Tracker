@@ -36,7 +36,7 @@ dependencies = [
     "StringUtilities roblox/string-utilities 1.0.0 url+https://github.com/roblox/string-utilities",
     "TestEZ roblox/testez 0.3.1 url+https://github.com/roblox/testez",
     "UIBlox UIBlox c6dda82b git+https://github.com/roblox/uiblox#master",
-    "UrlBuilder roblox/url-builder 1.0.0 url+https://github.com/roblox/url-builder",
+    "UrlBuilder roblox/url-builder 1.0.1 url+https://github.com/roblox/url-builder",
     "enumerate roblox/enumerate 1.0.0 url+https://github.com/roblox/enumerate",
     "t roblox/t 1.2.5 url+https://github.com/roblox/t",
     "tutils tutils 0be577db git+https://github.rbx.com/roblox/tutils#master",
@@ -349,8 +349,8 @@ source = "url+https://github.com/roblox/testez"
 
 [[package]]
 name = "roblox/url-builder"
-version = "1.0.0"
-commit = "5d182993eea1e5f9843f103be4de25b1475c9dd7"
+version = "1.0.1"
+commit = "9ae0b3705f07b75f259ffa19e7e363ef4eb02ebe"
 source = "url+https://github.com/roblox/url-builder"
 dependencies = [
     "Cryo roblox/cryo 1.0.0 url+https://github.com/roblox/cryo",

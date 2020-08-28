@@ -4108,7 +4108,7 @@ AXW4UiMessageType
 AXW4UserCFrame
 AXW4UserInputType
 AXW4VRTouchpad
-AYwGbEqflwfgFMVc64LZSA2il7
+BA2AVXY0Wlfk3z9frVNJyI
 BA447F42A91111E2B410EF351327957B
 BA886F11E18561866242201959
 BAA3C620681180838E23F0DC6224
@@ -4305,7 +4305,6 @@ BFixOutOfBoundsMouseLocation
 BFLuaDraggersRoleSet
 BFSupportPluginDebuggingRoleSet
 BFTableOutputViewRoleSet
-BgUaLFAFmETl1gc
 BgUpdateRedirectsDisable
 BgUpdateRedirectsHttpErrInfluxHundredthsPercentage
 BgUpdateRedirectsRejectInfluxHundredthsPercentage
@@ -4612,6 +4611,7 @@ BrowserWindowClosed
 BrowserWindowWillNavigate
 BrushStyle
 BtnBackground.png
+BTUDvy1il4lvEZTWWIUkx03ePiGmeLCQakVIMet
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
 BU_Simplex1to4
 BubbleChat
@@ -4722,7 +4722,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.447.0.410716
+ByVersion_0.447.0.410726
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -6525,7 +6525,6 @@ CountryRegionCode
 CountryRegionCodeReplicate
 CountShifted
 CountWidth
-CPdkA7DmSbRu49
 CrackedLava
 CrashDumpFileName
 CrashEvent
@@ -6737,6 +6736,7 @@ CredRevResData
 CredRevResTBE
 CRenderSettings
 CRenderSettingsItem
+CRfkLmC8wjPlnONgmvCRrbqnZLTc9Nnwca
 CRL_add0_revoked
 CRL_DIST_POINTS
 CRL_METHOD_new
@@ -7694,6 +7694,7 @@ DefaultWaitTime
 DefaultWangHQFS[1]
 DefaultWangHQFS_
 DefaultWidget
+DefBmurQY8
 DeferedChunks
 DeferralConditionRecheck
 DeferralConditions
@@ -8019,6 +8020,7 @@ DF42709311E28987EB530EBA4742
 DFbxAMatrix
 DFbxMatrix
 DfNfXfbftf
+DFPU7JIGjPzMUtebyCIGlF
 DGHASH_ASM
 DgNg`ghgpgxg
 DgNgXgbglgvg
@@ -8309,6 +8311,7 @@ DoNotOpenClonedOriginalInEditMode
 DoNotRenderMeshLODByDefault
 DoNotRunAnimationEditorInPlayMode
 DontActivateIfNoDocsOpen
+DontAssignUnassigned
 DontCallOnMovingAssemblyRoot
 DontClearForwardRefMapOnGC
 DontDisconnectJointUpdateUnlessNecessary
@@ -8507,8 +8510,6 @@ Durbanville1
 DVCSRequestData
 DVCSResponseData
 DVPAES_ASM
-DvQIq1fZHhCad0xM3whSImff16qd3zTpGfTh2xd1iJu7
-DVWoguC3SqT
 DWebBrowserEvents2
 DwmSetWindowAttribute
 DX25519_ASM
@@ -9218,6 +9219,7 @@ EulerAnglesXYZ
 EulerAnglesYXZ
 EvaluatedKey
 EvaluateGlobalTransform
+EVD7XQBSXdFJrC75NnJm0MZXhiLXOP7caxb3ca91
 Event.button
 Event.clientX
 Event.clientY
@@ -10226,11 +10228,11 @@ FutureIsBrightPhase2GLES3
 FutureIsBrightPhase3
 FutureIsBrightPhase3iOS
 FutureIsBrightPhase3Vulkan
+FWbLRkgjIO4WYQXu2HLZ8elZuu
 FXCompositing
 FXCompositingFS
 FXCompositingLinearFS
 FXComposition
-Ga9v4NsuSmmKP8sjnw7RbXdlTvo9UbH
 GainMakeup
 GameAbsenceInWeb.
 GameAction
@@ -11395,7 +11397,6 @@ GroupTime.Sum.toFixed
 GSSolverActive
 GSSS466FSSS455
 GTInfluxDB
-GttvcAAmKWNj6R
 Guaranteed
 GuestFriendCheckFailImmediate
 GuiApplyInsertionOrderSort2
@@ -11666,6 +11667,8 @@ HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\DellBackupandRecovery
 HKEY_PERFORMANCE_DATA
 HKEY_PERFORMANCE_NLSTEXT
 HKEY_PERFORMANCE_TEXT
+HkQvqZKpdbBKAYo6Jvuz2mbB4v
+HlT2TeqeLQzUYXaxML
 HMACGostR3411
 HomePageLoaded
 HopperPanel.png
@@ -11710,7 +11713,6 @@ HoverTokenLogIndex
 HoverTokenLogIndexNext
 HoverTokenNext
 HoverWindowShadow
-HOWN1EdfDxL
 HPEAU_iobuf
 HPEAUlua_State
 HPEAVQAction
@@ -12572,6 +12574,7 @@ IRobloxDoc
 IRobloxDocManager
 IRobloxIDEDoc
 IRobloxMainWindow
+IrPDwS8Th9
 Is30FpsThrottleEnabled
 IsActivated
 IsActivatedWithExclusiveMouse
@@ -12755,6 +12758,7 @@ JIRA_RIDE_785
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
+JmBNwYCaxmcVPlT8aJhQDLSVDlalcsGbyAHG4nexCfai3xQH0llHynMCAwEAAQ
 JoinBlobInvalidateCountThresholdPercent
 JoinBlobInvalidateThresholdPercent
 JoinCommand
@@ -12815,6 +12819,7 @@ JointStepParallelBatchSize
 JointTime_TextureCooldown
 JointToolHelpDialogVerb
 JPEBUSG_INDEX_TRIANGLE
+JsAM5EwLsm94QE02ZGt7e
 JSON.parse
 JSON.stringify
 JSON_Parser
@@ -12835,7 +12840,6 @@ JumpRequest
 JumpScares
 JumpScaresP2
 JumpToIndex
-Jun9K4z2e4Vs
 JustEndedBusy
 JUUserNameResponseHandler
 JW4AppInstallType
@@ -12845,6 +12849,7 @@ JW4InfoType
 JW4ItemType
 JW4TextFilterContext
 JW4ThumbnailType
+JZFT9PYEbF05N
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -12908,13 +12913,14 @@ KillPtClicked
 KKKKKKKKKK
 KKKKKKKKKKKK
 KKKKKKKKKKKKKKKKKKKKKK
-KL660ccNWJ3AvOgQ5LgFa7sKz5lt2LEx9dWgknGbqPkHq
 KnownHeaders
 KnownPrefixIndex
 KodchiangUPC
 KPEAVICHull
 KPEIBX_K_KPEIAU_iobuf
+KsNm5uFsROvxKGjE9mBkAvrI2C8Wf2dflZXcfb
 KSocialService
+KuiOhnX5CE4HJGqkygdUoD8dI94obI6SXOkV32pxPsPnLqABW7z4oYbuBVkCkvS
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 LabelArray
@@ -13607,7 +13613,6 @@ Luau.TypeChecking.W
 LuauBetterNonstrictDotVsColon
 LuauCheckRecursionLimit
 LuauEnableAsKeyword
-LuauExtraAccurateRobloxTypes
 LuauFasterSub
 LuauFixSelectCrash
 LuauImprovedBinaryOperatorInference
@@ -14266,7 +14271,6 @@ MethodQuery
 Metrics.width
 MetricsSets
 MetricType
-MH0sZrgUBC7rZ4tJQDrYEhxb8OveEYAT4tokCPfZTGqABSdV7gJdWYE6
 MHapV7R8MxA953
 MicroProfile
 MicroProfileFlip
@@ -14283,7 +14287,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA7te1u438ltRvjkxWGP
+MIICCgKCAgEAwyl
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14326,7 +14330,6 @@ MissingDumpFile
 MMW4IkDragCollisionsMode
 MMW4PartMaterial
 MMW4UserInputState
-MNPS5OiJ7n50rThMuYs8lhoI4NzrzYQqqK
 MobileWebsite
 MockAndroidBackButtonPressed
 MockGestureGenerator
@@ -15042,7 +15045,6 @@ NVWorkspace
 NW4FileSystemDir
 NW4PenStyle
 NW4UserInputType
-NWLGjR4w1gtASNzR5lMzj1nD
 Oacutesmall
 OAEPEncryptionSET
 OAUTHBEARER
@@ -15175,6 +15177,7 @@ OLEAUT32.dll
 OleInitialize
 OleLockRunning
 OleUninitialize
+OmhBhQTUHAnnSrbLo9q2TwItPhZVgN7eEBHOR8E
 OnAllScriptErrorsAction
 OnBadgeAwarded
 OnboardingsCompleted
@@ -24460,7 +24463,6 @@ TitleBarProgress
 TitlebarText
 TitleBarVisible
 TJNLerU][Wr
-TjWezQLTtxsbk4BMJCaCF
 TLS_AES_128_CCM_8_SHA256
 TLS_AES_128_CCM_SHA256
 TLS_AES_128_GCM_SHA256
@@ -24864,7 +24866,6 @@ TouchTransmitter
 ToUniversalTime
 TownAndCity
 ToWorldSpace
-TPm8BIKMlh
 TraceMessage
 Track2Data
 TrackAudioDriversPerSystem
@@ -25051,6 +25052,7 @@ TwoStepVerificationWidgetShown
 TxtArray.length
 TxtArray[j]
 TXtComment
+TYoYP4dcKdNKCC8UZDiQ6YPwh
 TypeArray.length
 TypeArray.push
 TypeArray[glob
@@ -25293,7 +25295,6 @@ UINumTicks
 UIPageLayout
 UIQuadTree
 UIQuadTreeCellAreaMin
-UIrHwmsposG
 Uis_continuation_if_running
 UISizeConstraint
 UITableLayout
@@ -25605,6 +25606,7 @@ UQLatin1Char
 UQMetaObject
 UQPrivateSignal
 UQStringDataPtr
+Ur5UOT5h4bhH1XDmVWjUqi
 URawUntranslatedEntry
 UReplicatorPeerInfo
 UResponseError
@@ -27364,7 +27366,6 @@ WidthArray
 WidthArray[i
 WidthArray[i]
 WidthScale
-WINbEpAm0qZN1pQY3ht7UGFCRk2F2vw
 Window.Invoke1
 Window.push
 WindowContainer
@@ -27452,6 +27453,7 @@ WM_ATLGETHOST
 WMCreateProfileManager
 WMCreateSyncReader
 Wmvcore.dll
+WnUUuOupWVD85N5cRJKq2izzeegqkwHgN1D
 WoodPlanks
 WordWrapMode
 WorkersNeeded
@@ -27567,7 +27569,6 @@ XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XGetLastError
 XHW4Status_e
-XHYMwMj5XvHmBlRNyQQML5HsJ4Ql5P1AJpAUHluxrE1G5zimDBL
 XInputGetBatteryInformation
 XInputGetCapabilities
 XInputGetState
@@ -27747,7 +27748,6 @@ YieldFunction
 YQByteArray
 YResolution
 YwBBvY55YvBBwY5
-YY9UyNCeI0nWHx2o8xbjG3dKmdNqri6oAX36h4J2r9Ks1xLz8G4QYCW2MUY
 YYYYYYYYYYYYYYYYYYYYYYYYY
 Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
@@ -27755,7 +27755,6 @@ Zdotaccent
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
-ZJYzk6EooutGbrOTFa
 ZLcJhLcGhM
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
