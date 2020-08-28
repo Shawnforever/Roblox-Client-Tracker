@@ -549,10 +549,6 @@ RBX
 	}
 	ScriptEditor
 	{
-		HighlightFormats
-		{
-			NullHighlightFormatProvider
-		}
 		CmdConfig
 		CmdDeleteToStartOfLine
 		CmdDocumentFormatting

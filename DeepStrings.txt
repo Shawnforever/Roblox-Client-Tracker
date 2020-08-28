@@ -2804,7 +2804,6 @@ AVnoncopyable
 AVNonReplicatedCSGDictionaryService
 AVNotificationService
 AVNullFile
-AVNullHighlightFormatProvider
 AVNumberHandler
 AVNumberRange
 AVNumberRangePropertyItem
@@ -4310,7 +4309,6 @@ BgUpdateRedirectsHttpErrInfluxHundredthsPercentage
 BgUpdateRedirectsRejectInfluxHundredthsPercentage
 BHHHHHHHHHHHHHHHHHHHHHHHHHH
 BhHlLjJTiIfdnczsxX
-BHOh36szgOT4yOxqXdLwc92Z0d2fUH11B9uetBhmldgr
 BillboardGui
 BillboardGuiDistanceStepping2
 BinaryData
@@ -4385,6 +4383,7 @@ BitArrayToObject
 BitstreamList
 Bkg_round.png
 Bkg_square.png
+BKWO54UILNO3IAGYbIaTlytmB13
 BL17qL9koPpyChCHbWVgSXbfxynzBupojeOEiuqDuGX0BFl
 BlackRegular1.033
 BlackSource
@@ -4464,6 +4463,7 @@ BN_rand_range
 BN_RECP_CTX_new
 BN_STACK_push
 BN_to_felem
+BneyMgAip96nlH9Se7YaFiIZOAGOOO9yfpNtl8kmczxgHXvTOLXGQUCAwEAAQ
 BodyAngularVelocity
 BodyBack_Att
 BodyBackAttachment
@@ -4611,7 +4611,6 @@ BrowserWindow
 BrowserWindowClosed
 BrowserWindowWillNavigate
 BrushStyle
-BrzubYm3Ahn
 BtnBackground.png
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
 BU_Simplex1to4
@@ -4712,7 +4711,6 @@ BVTextureId
 BW4AlphaMode
 BW4ModelLevelOfDetail
 BWGradient.png
-BXPbtaEpVvQ5QY
 ByCongestionControl
 ByDatacenter_
 ByIPForDatacenterId_
@@ -4724,7 +4722,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.447.0.410706
+ByVersion_0.447.0.410712
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -8254,7 +8252,6 @@ DKECCAK1600_ASM
 DlcVersion
 DListenerAttributes
 DMinMaxDistance
-DmTBiVyTflUw0vb
 DnsResolve
 DNSResponseMS
 DocActivation
@@ -8566,6 +8563,7 @@ EAB0886F11E18561866242201959
 Eacutesmall
 EAEIESEUEaEwE
 EagerBulkExecution
+EAmLbWGMF0PoAffNXdz4kYUqvn38
 EarAccessory
 EARLY_EXPORTER_SECRET
 EarlyOutOnHttpRequestSendDuringShutdown
@@ -8918,7 +8916,6 @@ EmulatorMessageLabel
 EmulatorMessageWidget
 EmulatorToggleAction
 EmulatorToggleVerb
-EN6IoF8aTi9f80wH
 Enable17sNotifications
 EnableAnalyticsSeriveEventIngest
 EnableAnalyticsService2
@@ -9073,7 +9070,6 @@ EndFontMetrics
 EndFrameTrackingI3D
 EndKernData
 EndKernPairs
-EndMX3zJvVDoK8yLglYWOMYJNZFT6g2cYLrqrtQdb8co
 EndpointType
 ENDPROPERTIES
 EndRecording
@@ -9446,7 +9442,6 @@ ExtraSelectionStore
 ExtrudedPartInstance
 EXtSoftware
 EyeAccessory
-EYJO29aSSZL55U
 F_ObjectHasComponents
 F`JXKXWJYB[Cd
 FA6256811994CD24F935527E2
@@ -9615,7 +9610,6 @@ FFlagStudioSaveToCloudV2
 FFlagStudioSaveToCloudV3
 FFlagStudioUIItemsHighlightFixEnabled
 FFoRLVHHHHoTJVF
-FgSmo2EYF9R8
 FHFRF\FfFpFzF
 FidelityRequestTriggered
 FieldOfView
@@ -11612,7 +11606,6 @@ HighlightDraftActive
 HighlightDraftInactive
 Highlighted
 HighlightedIndex
-HighlightFormats
 HighlightResolvedActive
 HighlightServer
 HighlightServerActive
@@ -12735,8 +12728,8 @@ IVRScreenshots_001
 IVRSettings_002
 IVRSystem_017
 IVRTrackedCamera_003
+Iwbgv9KDcdEsTypwnRbDt18o9L
 IWebBrowser2
-IWLaK68r7AtjmxRAjtrJNt
 IWorldStage
 IXMLHTTPRequest2
 J_Key_dn.png
@@ -12758,7 +12751,6 @@ JIRA_RIDE_785
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
-Jm7JKcgMCop54ngoct2wWWUHHAtM9d8Nuvz
 JoinBlobInvalidateCountThresholdPercent
 JoinBlobInvalidateThresholdPercent
 JoinCommand
@@ -12819,6 +12811,7 @@ JointStepParallelBatchSize
 JointTime_TextureCooldown
 JointToolHelpDialogVerb
 JPEBUSG_INDEX_TRIANGLE
+JqMxEdnTM2bviXGUtnTakumn
 JSON.parse
 JSON.stringify
 JSON_Parser
@@ -12852,7 +12845,6 @@ K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
 KAXPEBDHAEAPEAVQChar
-KbMeEbzGn7HmlnIFp1MCAwEAAQ
 KBytesPerSec
 KeepAliveTimeout
 KeepPositionOnInsert
@@ -12915,7 +12907,6 @@ KKKKKKKKKKKKKKKKKKKKKK
 KnownHeaders
 KnownPrefixIndex
 KodchiangUPC
-KoTNgAgGjUP
 KPEAVICHull
 KPEIBX_K_KPEIAU_iobuf
 KSocialService
@@ -14286,7 +14277,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAl1YRjfc0HHUivrhgT8Urf8AiDHYSLuj9N7RNf
+MIICCgKCAgEAz2qSqvMuEHdYE7V
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14991,6 +14982,7 @@ NSNNNNNWNSNN_NSNSNSNNNNSNWN`N^^N
 NSNNNNNWNWNNN^^N
 NSNNNNNWNZP[\
 Ntildesmall
+NTQTz7bqOTWnuP3mVCpat2xilCZzU8AdUVQNx2JgEEazISSqp4Bs
 NullPassword
 NUMBER_OF_ORDERED_STREAMS
 NumberAnimation
@@ -16910,6 +16902,7 @@ PluginWidgetRelay
 PluginWidgetRelayForPluginGui
 PluginWriteTemp
 PlusButtonPressed
+PObeaRlBr1c54IbBY2uMTzCXNY7i5JiOk
 POINT_SIZE
 PointBalanceCacheInvalidateTimeMs
 PointDataChanged
@@ -17319,7 +17312,7 @@ PushPixels
 PVAdornment
 PVInstance
 PVK_header
-PXaIMvI5GwP4c968o7DpIkCzrSJ4iAREfQ0xCAAiZgfL9wc0qQG
+PXi9c61lNEb215zIKVAftTc6fn9uTo1Uqjjyr7neYuRA8zMFdEBHBcUNBUASwTAb
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
 QAbstractAnimation
@@ -17917,7 +17910,6 @@ QRadioButton
 QRegularExpression
 QRegularExpressionMatch
 QRegularExpressionMatchIterator
-QRqublEHYP3EXx0vgUWJOYTCDLxVd264tQCdKqKC
 QRubberBand
 QScopedPointer
 QScopedPointerDeleter
@@ -18136,7 +18128,6 @@ QWheelEvent
 QWidgetAction
 QWidgetPluginGui
 QWidgetWindow
-QzFAMU5eo25Evs49Zgqiz8aPtCo0Wtvc
 RadialBlurFS
 RagdollBallSocketConstraint
 RagdollDefaultTimerTenthSecond
@@ -19220,7 +19211,6 @@ RevocationList
 RevocationRefs
 RevocationUrl
 RevokeFriendship
-RF7xnrnAcpsYS2
 RibbonButton
 RibbonButtonControl
 RibbonGallery
@@ -19338,6 +19328,7 @@ RigidityEnabled
 RiseVelocity
 Rj0isQcnqX
 Roact.createElement
+RoAXL9b2QXdtXUFBioE6Ph57PD2DjUtznnCQDHWmC73
 ROBLOSECURITY
 Roblox.Hybrid
 Roblox.Hybrid.Bridge.emitEvent
@@ -19671,6 +19662,7 @@ SAXPEAUData
 SAXPEAVQObject
 SAXPEAVQStyle
 SAXPEBDP6AXAEAVQDataStream
+SbolXv7XjfuKiucTH
 Scale_Green.png
 ScaleButton.png
 ScaleButton_dn.png
@@ -20665,7 +20657,6 @@ SkinningIsland
 SkinningIslands
 SkinningIslandsForModel
 SkipFirstMechanismChangeReport
-SKrOjYm8Hz79SHX55jX
 Sky.SkyboxBk
 Sky.SkyboxDn
 Sky.SkyboxFt
@@ -20735,6 +20726,7 @@ SmoothWaterHQVSShadowedFSM
 SmoothWaterSuperHQFS
 SmoothWaterSuperHQFSShadowed
 SmoothWaterVS
+SN2Q5F9njXIcZ9jHy2eJM4kkp5fl48X
 SnapAttachmentsVerb
 SnapSelection
 Snowball.png
@@ -23152,6 +23144,7 @@ StudioDraftsServiceFullNameInDiff
 StudioDraftsServiceGetEditors
 StudioDraftsServiceHostCrashFix
 StudioDraftsServiceRemovedScriptsFix
+StudioDynamicPropertyItems
 StudioEmergencyMessageV3
 StudioEmulatedCountryRegionCode
 StudioEnableAvatarLoadingEventOrderingBeta2
@@ -24314,7 +24307,6 @@ TickCountPreciseOverride
 TickCountSampleMethod
 TickPosition
 TighterCylinderBoundingSpheres
-Tii2IK9UyHDlBcO76i
 Tildesmall
 Time.toFixed
 TIME_FORMAT_BYTE
@@ -25225,6 +25217,7 @@ UGlobalResult
 Ugravesmall
 UGroupRolesResult
 UGuiClusterRT
+UhbjGXFedcJu45eOfXFvVzP3HipgHu91key6FkMjlSvODdxngPD3
 UHttpApiRequest
 UHttpRequest
 UHttpResponseProxy
@@ -25312,6 +25305,7 @@ ULayoutInlineHelper
 ULinkedScriptLoadData
 ULoadedImage
 ULuaCallbacks
+UlVGlxiPQHXB9WZw7
 UMasteringMetadata
 UMeshResource
 UMessageAndSenderId
@@ -25408,7 +25402,6 @@ UnionOperation
 UnionSelection
 UniqueIdentifier
 UniqueNumber
-UnIueFpcMZ9d5dPV
 Universal.png
 UNIVERSAL_FRIENDS
 UniversalAppOnWindows
@@ -26694,7 +26687,6 @@ VMovingAssemblyStage
 Vmultiple_occurrences
 VMultipleDocumentInterfaceInstance
 VMultiRequestGroup
-Vn5Q5DYOe1ikBLgM
 VNavigationContext
 VNavigationDebugDraw
 VNavigationPath
@@ -27063,6 +27055,7 @@ VTweenBase
 VTweenInfo
 VTweenService
 VTypesetter
+VUApvOaDIsJmyHE4jRM3mXkWBW856c4388WTEgVs4Jrd9XkjbFqG5XsLZ2
 VUGCValidationService
 VUIAspectRatioConstraint
 VUIComponent
@@ -27493,6 +27486,7 @@ WorldToScreenPoint
 WorldToViewportPoint
 WP1Lk7UmX3No0NAVVrlNv8vM1TKYodC60fXpXkwOnxGMHelMkfu58xsxIB9tXB4U
 WPACKET_start_sub_packet_len__
+WQLgslTpM3sKMrdZk1hQ9iJ8gvDQWChBxLfAG8O1MgiKO
 WrappedDevFrameworkLinkText
 WristDisplacementDamping
 WristDisplacementDampingMode
@@ -27577,7 +27571,6 @@ XInputGetState
 XInputSetState
 Xinvalid_argument
 Xlength_error
-XMAuxxvWda0uXxXoqLCw
 Xout_of_range
 XP6AXAEBUTextFilterResult
 XP6AXAEBVQString
@@ -27702,7 +27695,6 @@ XW4websocket_close_status
 XW4WebSocketEventType
 XwhvcEikuIaqb7nHhEJ
 XXXXXXXXXXXXXXXXuuuuuuuuuuuuuuuuppppppppppppppppppppppp
-XYa4eLaWL87glE5RQ
 XZP8CoreGuiService
 XZP8CRenderSettingsItem
 XZP8GuiObject
@@ -27757,10 +27749,10 @@ Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
 Zdotaccent
 ZgnhKhWhci
-ZhM0E0FLxDdCae
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
 ZLcJhLcGhM
+ZmSOXqJX3GoZ
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
 ZoomActive
