@@ -13,7 +13,6 @@ local SetCurrentPage = require(Actions.SetCurrentPage)
 local SetOverrideCursor = require(Actions.SetOverrideCursor)
 
 local FFlagEnableOverrideAssetCursorFix = game:GetFastFlag("EnableOverrideAssetCursorFix")
-local FFlagEnableOverrideAssetGroupCreationApi = game:GetFastFlag("EnableOverrideAssetGroupCreationApi")
 local FFlagFixOverrideAssetGroupPlugins = game:DefineFastFlag("FixOverrideAssetGroupPlugins", false)
 
 local FFlagStudioUseNewAnimationImportExportFlow = settings():GetFFlag("StudioUseNewAnimationImportExportFlow")
@@ -62,13 +61,8 @@ local function getNextCursor(store)
 end
 
 local function getOverrideModels(store, networkInterface, category, targetPage, groupId)
-	if FFlagEnableOverrideAssetGroupCreationApi then
-		local nextCursor = getNextCursor(store)
-		return networkInterface:getAssetCreations(nil, nextCursor, category, groupId)
-	else
-		local numPerPage = AssetConfigConstants.GetOverrideAssetNumbersPerPage
-		return networkInterface:getOverrideModels(category, numPerPage, targetPage, "Relevance", groupId)
-	end
+	local nextCursor = getNextCursor(store)
+	return networkInterface:getAssetCreations(nil, nextCursor, category, groupId)
 end
 
 -- creatoryType can be "User" or "Group"
@@ -89,29 +83,6 @@ return function(networkInterface, assetTypeEnum, creatorType, creatorId, targetP
 		end
 
 		store:dispatch(SetLoadingPage(targetPage))
-
-		-- TODO Remove when EnableOverrideAssetGroupCreationApi flag is retired
-		local handleOverrideResult = function(result)
-
-			local response = result.responseBody
-			local totalResult = response.TotalResults
-			local resultsArray = response.Results
-			local filteredResultsArray = filterAssetByCreatorId(resultsArray, creatorId)
-
-			if targetPage == 1 then
-				-- TODO: Can remove and update this method after this change
-				store:dispatch(SetOverrideAssets(totalResult, resultsArray, filteredResultsArray))
-				store:dispatch(SetCurrentPage(1))
-			else
-				-- We can't check if we have fetched all asset by comparing resultsArray and totalResult.
-				-- So, we will be sending more request, until the results returned is smaller than a pre-defined number.
-				local fetchedAll = (#resultsArray <= 10)
-				store:dispatch(UpdateOverrideAssetData(totalResult, resultsArray, filteredResultsArray, fetchedAll))
-				store:dispatch(SetCurrentPage(targetPage))
-			end
-
-			SetLoadingPage(0)
-		end
 
 		local handleOverrideFailed = function(result)
 			store:dispatch(NetworkError(result))
@@ -162,24 +133,12 @@ return function(networkInterface, assetTypeEnum, creatorType, creatorId, targetP
 			SetLoadingPage(0)
 		end
 
-		if FFlagEnableOverrideAssetGroupCreationApi then
-			handleOverrideResult = handleGetCreationOverrideSuccess
-		end
-
 		local category = "Model"
 		local groupId = nil
 		if creatorType == "Group" then
 			groupId = creatorId
 			if FFlagFixOverrideAssetGroupPlugins then
-				if FFlagEnableOverrideAssetGroupCreationApi then
-					category = assetTypeEnum == Enum.AssetType.Plugin and "Plugin" or category
-				else
-					category = assetTypeEnum == Enum.AssetType.Model and "GroupModels" or "GroupPlugins"
-				end
-			else
-				if not FFlagEnableOverrideAssetGroupCreationApi then
-					category = assetTypeEnum == Enum.AssetType.Model and "GroupModels" or "GroupPlugins"
-				end
+				category = assetTypeEnum == Enum.AssetType.Plugin and "Plugin" or category
 			end
 			if FFlagStudioUseNewAnimationImportExportFlow then
 				category = assetTypeEnum == Enum.AssetType.Animation and "Animation" or category
@@ -204,7 +163,7 @@ return function(networkInterface, assetTypeEnum, creatorType, creatorId, targetP
 				end
 			else
 				getOverrideModels(store, networkInterface, category, targetPage, groupId):andThen(
-					handleOverrideResult,
+					handleGetCreationOverrideSuccess,
 					handleOverrideFailed
 				)
 			end
