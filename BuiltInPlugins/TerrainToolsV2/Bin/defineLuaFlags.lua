@@ -20,6 +20,8 @@ local function handleFlagDependencies(flag, requiredFlags)
 	end
 end
 
+handleFlagDependencies("TerrainToolsUseDevFramework", {"TerrainToolsUseMapSettingsWithPreview2"})
+
 -- Need to explicitly return something from a module
 -- Else you get an error "Module code did not return exactly one value"
 return nil

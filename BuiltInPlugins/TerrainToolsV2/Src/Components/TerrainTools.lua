@@ -1,14 +1,17 @@
 local Plugin = script.Parent.Parent.Parent
 
-local Framework = Plugin.Packages.Framework
+local Framework = require(Plugin.Packages.Framework)
 local Roact = require(Plugin.Packages.Roact)
 
-local ContextServices = require(Framework.ContextServices)
+local ContextServices = Framework.ContextServices
 
-local StudioUI = require(Framework.StudioUI)
+local StudioUI = Framework.StudioUI
 local DockWidget = StudioUI.DockWidget
 local PluginToolbar = StudioUI.PluginToolbar
 local PluginButton = StudioUI.PluginButton
+
+local Manager = require(Plugin.Src.Components.Manager)
+local ToolSelectionListener = require(Plugin.Src.Components.ToolSelectionListener)
 
 local EDITOR_META_NAME = "Editor"
 local TOOLBAR_NAME = "TerrainToolsLuaToolbarName"
@@ -132,7 +135,8 @@ function TerrainTools:render()
 			OnWidgetRestored = self.onRestore,
 			OnWidgetFocused = self.onFocused,
 		}, enabled and {
-			-- TODO: DEVTOOLS-4270 port the components to dev framework
+			UIManager = Roact.createElement(Manager),
+			ToolSelectionListener = Roact.createElement(ToolSelectionListener),
 		} or nil),
 	})
 end

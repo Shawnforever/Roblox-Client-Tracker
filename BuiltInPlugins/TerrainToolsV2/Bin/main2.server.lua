@@ -16,13 +16,13 @@ if not game:GetFastFlag("TerrainToolsUseDevFramework") then
 end
 
 -- Libraries
-local Framework = Plugin.Packages.Framework
+local Framework = require(Plugin.Packages.Framework)
 local Roact = require(Plugin.Packages.Roact)
 local Rodux = require(Plugin.Packages.Rodux)
 local UILibraryCompat = Plugin.Src.UILibraryCompat
 
 -- Context
-local ContextServices = require(Framework.ContextServices)
+local ContextServices = Framework.ContextServices
 local Analytics = ContextServices.Analytics
 local Mouse = ContextServices.Mouse
 local Store = ContextServices.Store
@@ -71,11 +71,12 @@ local function createTerrainContextItems()
 	}))
 
 	local theme = ContextItems.UILibraryTheme.new(PluginTheme.new())
-	local localization = ContextItems.UILibraryLocalization.new(Localization.new({
+	local localization = Localization.new({
 		pluginName = PLUGIN_NAME,
 		stringResourceTable = DevelopmentReferenceTable,
 		translationResourceTable = TranslationReferenceTable,
-	}))
+	})
+	local localizationItem = ContextItems.UILibraryLocalization.new(localization)
 
 	local terrainInstance = require(Plugin.Src.Util.getTerrain)()
 	local terrainItem = ContextItems.Terrain.new(terrainInstance)
@@ -112,7 +113,7 @@ local function createTerrainContextItems()
 		mouse = mouse,
 		store = store,
 		theme = theme,
-		localization = localization,
+		localization = localizationItem,
 		analytics = analytics,
 		terrain = terrainItem,
 		pluginActivationController = pluginActivationController,
