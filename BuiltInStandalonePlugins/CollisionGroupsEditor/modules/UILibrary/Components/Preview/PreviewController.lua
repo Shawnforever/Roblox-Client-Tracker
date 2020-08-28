@@ -1,3 +1,6 @@
+--!nolint DeprecatedGlobal
+--^ enables migration with FFlagPreviewControllerUseOsClock; remove with that flag.
+
 --[[
 	This component is used to render both mainPreview and TreeView.
 	MainView can be modelPreview, soundPreview, scriptPreview, imagePreview, otherPreview and audioPlay.
@@ -24,6 +27,8 @@ local FFlagHideOneChildTreeviewButton = game:GetFastFlag("HideOneChildTreeviewBu
 local FFlagStudioFixTreeViewForFlatList = settings():GetFFlag("StudioFixTreeViewForFlatList")
 local FFlagStudioAssetPreviewTreeFix2 = game:DefineFastFlag("StudioAssetPreviewTreeFix2", false)
 local FFlagEnableToolboxVideos = game:GetFastFlag("EnableToolboxVideos")
+
+local FFlagPreviewControllerUseOsClock = game:DefineFastFlag("PreviewControllerUseOsClock", false)
 
 local Library = script.Parent.Parent.Parent
 
@@ -170,12 +175,12 @@ function PreviewController:init(props)
 		if (not self.inModelPreview and not self.inTreeview) and
 			(newModelStatus or newTreeStatus) then
 			-- Time to start the timer
-			self.cacheTime = elapsedTime()
+			self.cacheTime = FFlagPreviewControllerUseOsClock and os.clock() or elapsedTime()
 		end
 
 		if (not newModelStatus and not newTreeStatus) and
 			(self.inModelPreview or self.inTreeview) then
-			local currentTime = elapsedTime()
+			local currentTime = FFlagPreviewControllerUseOsClock and os.clock() or elapsedTime()
 			local newTimeSpent = currentTime - self.cacheTime
 			if newTimeSpent > 0 then
 				self.totalTimeSpent = self.totalTimeSpent + math.floor(newTimeSpent * 1000)
