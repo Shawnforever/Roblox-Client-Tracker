@@ -71,7 +71,6 @@ Abandoning
 ABBBBBBBBBBBCBDE
 AbBcdHIjmMpSUwWxXyYzZ
 ABBF60C2168118C14FDE5E01E7934
-AbbuDZr5YrMSUyt4YtdOx4pymGGppAA70lAJFjN965mzE0ic
 ABCDEFbKGD
 ABCDEFGABCDEFGABCDEFGABCDEFGABCDEFGABCDEFGAHIIIIIIIIJJJJJJJJJJJJJJJJJJJJJJJJJ4KLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqqqrstlllllllllluuvwxlllllllllllllllyz
 ABCDEFGHIJKLMNOPQRS
@@ -4523,7 +4522,6 @@ BoxMappedMeshLODFix_v2
 BoxSelectCommand
 BPEAUIUnknown
 BPuVfD9B`uOfD9BpuH
-BpvxH5tBqQAflcTiYOdL0OgcyVIDY5NmnTmXLcOTUAfJ4vzX9RJHS5QkDmCy
 BQByteArray
 BQJsonValueRef
 BQPersistentModelIndex
@@ -4721,7 +4719,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.447.0.410732
+ByVersion_0.447.0.410742
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -5182,7 +5180,6 @@ ChatShareGameToChatFromChat
 ChatSignalMaxCachedRequestMilliseconds
 ChatTapConversationThumbnail
 ChatVisible
-CHCl6qCZB84jZqlonu3RaB4TDoWXyQTN
 CheapBokehFS
 CheckAssemblyWhenWakeFromContactRemove
 CheckBoxClicked
@@ -5256,7 +5253,6 @@ Ciphersuites
 CircularList
 Circumflexsmall
 CityBackground.png
-Cjk7WZTtZnOOpdsnPa
 ClampColor
 ClampOVLengthAtFirstParsingError
 ClassCategory
@@ -6525,6 +6521,7 @@ CountryName
 CountryRegionCode
 CountryRegionCodeReplicate
 CountShifted
+CountTimeout
 CountWidth
 CrackedLava
 CrashDumpFileName
@@ -9024,6 +9021,7 @@ EnableSafeUpdateBeta
 EnableScriptCollabByDefaultOnLoad
 EnableScriptCollabOnLoad
 EnableScriptCollabVersionHistoryOnLoad
+EnableSessionCount
 EnableSetInstanceDefaults
 EnableSkinnedMeshBeta
 EnableStrictRiffParsing
@@ -9153,6 +9151,7 @@ Environment
 EnvironmentDiffuseScale
 EnvironmentSpecularScale
 EnviroSpeed
+EOmF5crsJQre9yqmmk
 EoOoZoaozo
 EphemeralCounter
 EphemeralCounterInfluxReportingEnabled
@@ -9200,6 +9199,7 @@ ErrorUploadToBacktraceBaseUrl
 ErrorUploadToBacktraceLuaAppToken
 ErrorWindow
 ErrOutOfRetries
+Es12uDoogIpJEmLydMuDuF2ATQTKBuqdWTSUtQNhUFRaYVh9ojrHD2t2fm
 ESDHwith3DES
 ESDHwithRC2
 ESGamePerfMonitor
@@ -9209,6 +9209,7 @@ ESGamePerfMonitorHundredthsPercentage
 ESGamePerfMonitorReportDetails
 ESGamePerfMonitorReportTimerInSeconds
 ESGamePerfMonitorUseRandomSelection
+EsmtcZrdslMF
 Estrangelo
 ETCEffortLevel
 EThrottleType
@@ -9931,7 +9932,6 @@ FMODPlaybackDSP
 FMODReportDeviceInfo
 FMODSoundChannels
 FMODStudio
-FnIC0pESAZkVpTrFOeKXDSHCGZzGvHvwssY0CAwEAAQ
 FocusChange
 FocusChanged
 FocusDistance
@@ -10207,6 +10207,7 @@ FrontSurface
 FrontSurfaceInput
 FrustumOrdered
 FrustumRenderQueue
+FShib7PtUBC0y9l4XpDqS06UAwuvUZAJiRVZRJERq6Ptae4yg
 FStudioProfilerFlushPeriodSec
 FullRenderObjects
 Fullscreen
@@ -10226,6 +10227,7 @@ FutureIsBrightPhase2GLES3
 FutureIsBrightPhase3
 FutureIsBrightPhase3iOS
 FutureIsBrightPhase3Vulkan
+FVPkqJnpPLnrPqh8IzP2
 FXCompositing
 FXCompositingFS
 FXCompositingLinearFS
@@ -11134,7 +11136,6 @@ GF2m_simple_point_set_affine_coordinates
 GF2m_simple_point2oct
 GF2m_simple_points_mul
 GF2m_simple_set_compressed_coordinates
-GFkoapjbdG5E365m6Vf7stNHLyUCvqoKxc0uKbgAPjbguO747RALzem
 GFp_mont_field_decode
 GFp_mont_field_encode
 GFp_mont_field_inv
@@ -11575,6 +11576,7 @@ HeartbeatForStreamingEnabledGames
 HeartbeatForStreamingEnabledGames_
 HeartbeatMonitor
 HeartbeatTimeMs
+HEDEePD08y294
 HeightExpanded
 Heightfield
 HeightfieldBuilder
@@ -12299,6 +12301,7 @@ InitializeCriticalSectionEx
 Initialized
 InitializeDualGraph
 InitializeForUserId
+Initializer
 InitializeSListHead
 InitializeTouchSenderByteBudget
 Initializing
@@ -12813,7 +12816,6 @@ JointStepMaxParallelTasks
 JointStepParallelBatchSize
 JointTime_TextureCooldown
 JointToolHelpDialogVerb
-JOKWWG2zoyB71wAEFoGx17egcYZyCDNODEoGEbm4og4JP
 JPEBUSG_INDEX_TRIANGLE
 JSON.parse
 JSON.stringify
@@ -12909,10 +12911,12 @@ KKKKKKKKKKKK
 KKKKKKKKKKKKKKKKKKKKKK
 KnownHeaders
 KnownPrefixIndex
+Knx4BGiCBuItmEOpEHxFo
 KodchiangUPC
 KPEAVICHull
 KPEIBX_K_KPEIAU_iobuf
 KSocialService
+KtGkPYQ4OtRcu1g9dRrUE
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 LabelArray
@@ -12987,6 +12991,7 @@ LayoutOrder
 LazySubmitTask
 LC_MESSAGES
 LCMapStringW
+Lcu1PynJPUlIwzBD0
 LDLBuildProgramTimeReportRate
 LDLComponents
 LDLMaxBundleDimension
@@ -13248,6 +13253,7 @@ LiveThreadRef
 LivingRoom
 LLEo6Soxvx2
 LLLLLLLLLLLLLLLL]]]]]]]]]]]]]]]]]]]]
+LntMJmvMVQqn8lDgWf1puNhSrAJAnK2fhRa7
 LOAD_CERT_CTRL
 Load_Package
 LoadAnimation
@@ -14279,7 +14285,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAsb57OZcC46koz82PwMCtLGj7qLpgDcLK9S8BS8sl9FNTp9hNx
+MIICCgKCAgEA3PqGVjOjChahYqwSCuLy6aB
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14548,6 +14554,7 @@ MPEAVAdorn
 MpsRateLimit
 MpsRateLimitCapacity
 MpsRateLimitDuration
+Mq6MrsW86X
 MQDateTime
 MQListWidgetItem
 MQModelIndex
@@ -14571,6 +14578,7 @@ MSVCP140.dll
 MSWSOCK.dll
 MTU_Country_
 MTU_Platform_
+MTuWv7N97ale
 Mtx_current_owns
 Mtx_destroy
 Mtx_destroy_in_situ
@@ -14973,7 +14981,6 @@ NPCsAction
 NPEAVInstance
 NPEAVQString
 NPEAVQWidget
-NRv6sksGLoarMsaeWjrNPiKuoRC8NTZ6tmroVEJYmnVfO04Pha7
 NSNNNNNNTNh0ii
 NSNNNNNNTNPVR
 NSNNNNNNTNPVV
@@ -15170,6 +15177,7 @@ OLEAUT32.dll
 OleInitialize
 OleLockRunning
 OleUninitialize
+OmTvMM89j6yVfNAWPYgr
 OnAllScriptErrorsAction
 OnBadgeAwarded
 OnboardingsCompleted
@@ -16917,6 +16925,8 @@ PointParameteri
 PointParameteriv
 PointsAwarded
 PointSizeF
+PointsList
+PointsListMaxDataSize
 PointsService
 PointsServiceBatchingImplMaxDelaySeconds
 PointsServiceBatchingImplMinuteSeconds
@@ -17816,7 +17826,6 @@ QFutureInterface
 QFutureInterfaceBase
 QFutureWatcher
 QFutureWatcherBase
-QfZJLRj0FRzVllxofbFYYTzQSzsVZWfSR43Tnud2FlN
 QGenericArgument
 QGenericReturnArgument
 QGraphicsDropShadowEffect
@@ -18932,6 +18941,7 @@ ReportAnimationTrackSpamInfluxHundrethsPercent
 ReportAssetSale
 ReportAvatarAssetLoadTimesPerMyriad
 ReportAvatarRequestTimesPerMyriad
+ReportCallbackHolder
 ReportCertPathWithCurlErrors
 ReportCharacterLoadTimeMetricsInverseProbability
 ReportClientInfo
@@ -19328,6 +19338,7 @@ RigidBodyLazyUpdating
 RigidityEnabled
 RiseVelocity
 Rj0isQcnqX
+Rm4ID9hz4UH8SiA3nTw8ogTqsNHe4rVaQx7gh2wZxksDTpnTme
 Roact.createElement
 ROBLOSECURITY
 Roblox.Hybrid
@@ -19499,6 +19510,7 @@ RowsToRemove
 RowStretch
 RowVisibilityChanged
 RPCServers
+RqBjpQDB61iFXQrzmM0Lg86HgCMKdMmJG8p
 RRReceiptFail
 RRReceiptTotal
 RRRRRRRRzzzzzzzzzzzzzzzzzz
@@ -19592,6 +19604,7 @@ SafeZoneOffsetsInputWidget
 SAHAEBVQByteArray
 SAHAEBVQString
 SAHPEAVQWidget
+SAk4T8X3cPuiqfFfwgvFjID2nMIQ9ZvzlBqv2Rmwr0ARTNKK
 SameLineStatement
 SampleCoverage
 SampleMaski
@@ -19601,7 +19614,6 @@ SandboxedSource
 SandboxLocalCache
 SandboxLocalCacheInitialized
 SandboxUser
-SAnkZWKxXEY
 SANW4EMode
 SAPEAUNode
 SAPEAVQClipboard
@@ -20212,6 +20224,8 @@ SessionAlreadyOver
 SessionAsync
 SessionAuthenticationDone
 SessionCookie
+SessionCount
+SessionCountIntervalSeconds
 SessionCrypto
 SessionCrypto.
 SessionExists
@@ -23739,6 +23753,7 @@ SVWATAUAVH
 SVWATAUAWH
 SVWATAVAWH
 SVWAUAVAWH
+SvXtDCRWCzmf
 SwapAttachmentsVerb
 SwapBuffers
 SwapBuffersMscOML
@@ -23930,6 +23945,7 @@ TeamTestGame
 Technologies
 Technology
 TelegrafAddress
+TelegrafHTTPTransportUrl
 TelegrafPriorityThrottleHundredthsPercent
 TelegrafTCPPort
 TelegrafUDPPort
@@ -24694,7 +24710,6 @@ ToLatestPackageAction
 ToLineAction
 ToLinkedScript
 ToLocalTime
-ToMdEXlWEDJ9QfIA3RFzZPrPHjynh3CnFU4xsJjtB7pKJSIf5Ge
 ToNextHunkAction
 ToNextScriptLocation
 ToObjectSpace
@@ -25203,6 +25218,7 @@ UEventInfo
 UEventInstance
 UEventSlot
 UExtraSelection
+UFaHpk8hUA6Cin
 UFileMeshData
 UFileMetadata
 UFMODSystemRelease
@@ -25300,7 +25316,6 @@ UITransformedLitVS
 UITransformedVS
 UIViewportFrameCollectFrames
 UIViewportFrameWorkspace
-UJhXZgCIBki0rkDRpLxjDMDF92Rdn6GGpS5lTqH2cAr04GO
 ULayoutInlineHelper
 ULinkedScriptLoadData
 ULoadedImage
@@ -25789,6 +25804,7 @@ UseStudioLocaleForForceLocale
 UseSuperSafeChat
 UseSystemConfiguration
 UseTaskSchedulerThreadLimit
+UseTelegrafHTTPTransport
 UseThresholdForMotor6DWakes2
 UseTLSv1_2_a
 UseTouchSenderByteBudget
@@ -26854,6 +26870,7 @@ VReplicator
 VReplicatorCryptoContextOpenSSL
 VReplicatorCryptoSystem
 VReplicatorCryptoSystemOpenSSL
+VReportCallbackHolder
 VReporterRequest
 VRequestDataInQueue
 VRequestWrapper
@@ -27142,6 +27159,7 @@ VWXYZ[\]^_`a
 VXmlElement
 VYieldFunctions
 VYieldFunctionStateObject
+VzuOt2tZUVQxZPHV
 W_Key_dn.png
 WaistAccessory
 WaistBack_Att
@@ -27442,6 +27460,7 @@ WithSHA224
 WithSHA256
 WithSHA384
 WithSHA512
+WjtoIqQbAp
 WM_ATLGETCONTROL
 WM_ATLGETHOST
 WMCreateProfileManager
@@ -27505,9 +27524,9 @@ WSASocketW
 WSAstartup
 WSAStartup
 WSAStringToAddressW
-WSKkmvAYFJGjHkROG
 WTHelperGetProvSignerFromChain
 WTHelperProvDataFromStateData
+WVmBAGP7IujEwvZPvqI5
 WWWWWWWWWW
 WWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWW
@@ -27693,6 +27712,7 @@ XW4websocket_close_status
 XW4WebSocketEventType
 XwhvcEikuIaqb7nHhEJ
 XXXXXXXXXXXXXXXXuuuuuuuuuuuuuuuuppppppppppppppppppppppp
+XYohu2cCAwEAAQ
 XZP8CoreGuiService
 XZP8CRenderSettingsItem
 XZP8GuiObject
@@ -27749,6 +27769,7 @@ Zdotaccent
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
+ZJCcMyEiqyTXdusF0LEiPKMDumWrR
 ZLcJhLcGhM
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
