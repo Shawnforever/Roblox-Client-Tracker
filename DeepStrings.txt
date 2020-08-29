@@ -71,6 +71,7 @@ Abandoning
 ABBBBBBBBBBBCBDE
 AbBcdHIjmMpSUwWxXyYzZ
 ABBF60C2168118C14FDE5E01E7934
+AbbuDZr5YrMSUyt4YtdOx4pymGGppAA70lAJFjN965mzE0ic
 ABCDEFbKGD
 ABCDEFGABCDEFGABCDEFGABCDEFGABCDEFGABCDEFGAHIIIIIIIIJJJJJJJJJJJJJJJJJJJJJJJJJ4KLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqqqrstlllllllllluuvwxlllllllllllllllyz
 ABCDEFGHIJKLMNOPQRS
@@ -530,7 +531,6 @@ AlwaysChangePrimaryPartWithoutWarning
 AlwaysLongStep
 AlwaysOnTop
 AlwaysPutSoundsOnDiskWhenLowOnMemory
-AlwaysSelectOnInsertPart
 AM_INTERFACESETID_Standard
 AM_KSCATEGORY_AUDIO
 AM_KSCATEGORY_CAPTURE
@@ -4108,7 +4108,6 @@ AXW4UiMessageType
 AXW4UserCFrame
 AXW4UserInputType
 AXW4VRTouchpad
-BA2AVXY0Wlfk3z9frVNJyI
 BA447F42A91111E2B410EF351327957B
 BA886F11E18561866242201959
 BAA3C620681180838E23F0DC6224
@@ -4524,6 +4523,7 @@ BoxMappedMeshLODFix_v2
 BoxSelectCommand
 BPEAUIUnknown
 BPuVfD9B`uOfD9BpuH
+BpvxH5tBqQAflcTiYOdL0OgcyVIDY5NmnTmXLcOTUAfJ4vzX9RJHS5QkDmCy
 BQByteArray
 BQJsonValueRef
 BQPersistentModelIndex
@@ -4611,7 +4611,6 @@ BrowserWindowClosed
 BrowserWindowWillNavigate
 BrushStyle
 BtnBackground.png
-BTUDvy1il4lvEZTWWIUkx03ePiGmeLCQakVIMet
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
 BU_Simplex1to4
 BubbleChat
@@ -4722,7 +4721,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.447.0.410726
+ByVersion_0.447.0.410732
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -5183,6 +5182,7 @@ ChatShareGameToChatFromChat
 ChatSignalMaxCachedRequestMilliseconds
 ChatTapConversationThumbnail
 ChatVisible
+CHCl6qCZB84jZqlonu3RaB4TDoWXyQTN
 CheapBokehFS
 CheckAssemblyWhenWakeFromContactRemove
 CheckBoxClicked
@@ -5256,6 +5256,7 @@ Ciphersuites
 CircularList
 Circumflexsmall
 CityBackground.png
+Cjk7WZTtZnOOpdsnPa
 ClampColor
 ClampOVLengthAtFirstParsingError
 ClassCategory
@@ -6736,7 +6737,6 @@ CredRevResData
 CredRevResTBE
 CRenderSettings
 CRenderSettingsItem
-CRfkLmC8wjPlnONgmvCRrbqnZLTc9Nnwca
 CRL_add0_revoked
 CRL_DIST_POINTS
 CRL_METHOD_new
@@ -7694,7 +7694,6 @@ DefaultWaitTime
 DefaultWangHQFS[1]
 DefaultWangHQFS_
 DefaultWidget
-DefBmurQY8
 DeferedChunks
 DeferralConditionRecheck
 DeferralConditions
@@ -8020,7 +8019,6 @@ DF42709311E28987EB530EBA4742
 DFbxAMatrix
 DFbxMatrix
 DfNfXfbftf
-DFPU7JIGjPzMUtebyCIGlF
 DGHASH_ASM
 DgNg`ghgpgxg
 DgNgXgbglgvg
@@ -9219,7 +9217,6 @@ EulerAnglesXYZ
 EulerAnglesYXZ
 EvaluatedKey
 EvaluateGlobalTransform
-EVD7XQBSXdFJrC75NnJm0MZXhiLXOP7caxb3ca91
 Event.button
 Event.clientX
 Event.clientY
@@ -9934,6 +9931,7 @@ FMODPlaybackDSP
 FMODReportDeviceInfo
 FMODSoundChannels
 FMODStudio
+FnIC0pESAZkVpTrFOeKXDSHCGZzGvHvwssY0CAwEAAQ
 FocusChange
 FocusChanged
 FocusDistance
@@ -10228,7 +10226,6 @@ FutureIsBrightPhase2GLES3
 FutureIsBrightPhase3
 FutureIsBrightPhase3iOS
 FutureIsBrightPhase3Vulkan
-FWbLRkgjIO4WYQXu2HLZ8elZuu
 FXCompositing
 FXCompositingFS
 FXCompositingLinearFS
@@ -11137,6 +11134,7 @@ GF2m_simple_point_set_affine_coordinates
 GF2m_simple_point2oct
 GF2m_simple_points_mul
 GF2m_simple_set_compressed_coordinates
+GFkoapjbdG5E365m6Vf7stNHLyUCvqoKxc0uKbgAPjbguO747RALzem
 GFp_mont_field_decode
 GFp_mont_field_encode
 GFp_mont_field_inv
@@ -11265,6 +11263,7 @@ GraphicsGeometry
 GraphicsGeometryPacked
 GraphicsGL3UseUBO3
 GraphicsGLDisableTimerQueryAdreno
+GraphicsGLDoNotAllowDesktopGL2
 GraphicsGLESTextureDL
 GraphicsGLHD3000DisableGL3
 GraphicsGLHD3000DisableUBO
@@ -11667,8 +11666,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\DellBackupandRecovery
 HKEY_PERFORMANCE_DATA
 HKEY_PERFORMANCE_NLSTEXT
 HKEY_PERFORMANCE_TEXT
-HkQvqZKpdbBKAYo6Jvuz2mbB4v
-HlT2TeqeLQzUYXaxML
 HMACGostR3411
 HomePageLoaded
 HopperPanel.png
@@ -12574,7 +12571,6 @@ IRobloxDoc
 IRobloxDocManager
 IRobloxIDEDoc
 IRobloxMainWindow
-IrPDwS8Th9
 Is30FpsThrottleEnabled
 IsActivated
 IsActivatedWithExclusiveMouse
@@ -12758,7 +12754,6 @@ JIRA_RIDE_785
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
-JmBNwYCaxmcVPlT8aJhQDLSVDlalcsGbyAHG4nexCfai3xQH0llHynMCAwEAAQ
 JoinBlobInvalidateCountThresholdPercent
 JoinBlobInvalidateThresholdPercent
 JoinCommand
@@ -12818,8 +12813,8 @@ JointStepMaxParallelTasks
 JointStepParallelBatchSize
 JointTime_TextureCooldown
 JointToolHelpDialogVerb
+JOKWWG2zoyB71wAEFoGx17egcYZyCDNODEoGEbm4og4JP
 JPEBUSG_INDEX_TRIANGLE
-JsAM5EwLsm94QE02ZGt7e
 JSON.parse
 JSON.stringify
 JSON_Parser
@@ -12849,7 +12844,6 @@ JW4InfoType
 JW4ItemType
 JW4TextFilterContext
 JW4ThumbnailType
-JZFT9PYEbF05N
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -12918,9 +12912,7 @@ KnownPrefixIndex
 KodchiangUPC
 KPEAVICHull
 KPEIBX_K_KPEIAU_iobuf
-KsNm5uFsROvxKGjE9mBkAvrI2C8Wf2dflZXcfb
 KSocialService
-KuiOhnX5CE4HJGqkygdUoD8dI94obI6SXOkV32pxPsPnLqABW7z4oYbuBVkCkvS
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 LabelArray
@@ -14287,7 +14279,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAwyl
+MIICCgKCAgEAsb57OZcC46koz82PwMCtLGj7qLpgDcLK9S8BS8sl9FNTp9hNx
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14981,6 +14973,7 @@ NPCsAction
 NPEAVInstance
 NPEAVQString
 NPEAVQWidget
+NRv6sksGLoarMsaeWjrNPiKuoRC8NTZ6tmroVEJYmnVfO04Pha7
 NSNNNNNNTNh0ii
 NSNNNNNNTNPVR
 NSNNNNNNTNPVV
@@ -15177,7 +15170,6 @@ OLEAUT32.dll
 OleInitialize
 OleLockRunning
 OleUninitialize
-OmhBhQTUHAnnSrbLo9q2TwItPhZVgN7eEBHOR8E
 OnAllScriptErrorsAction
 OnBadgeAwarded
 OnboardingsCompleted
@@ -17824,6 +17816,7 @@ QFutureInterface
 QFutureInterfaceBase
 QFutureWatcher
 QFutureWatcherBase
+QfZJLRj0FRzVllxofbFYYTzQSzsVZWfSR43Tnud2FlN
 QGenericArgument
 QGenericReturnArgument
 QGraphicsDropShadowEffect
@@ -19608,6 +19601,7 @@ SandboxedSource
 SandboxLocalCache
 SandboxLocalCacheInitialized
 SandboxUser
+SAnkZWKxXEY
 SANW4EMode
 SAPEAUNode
 SAPEAVQClipboard
@@ -24700,6 +24694,7 @@ ToLatestPackageAction
 ToLineAction
 ToLinkedScript
 ToLocalTime
+ToMdEXlWEDJ9QfIA3RFzZPrPHjynh3CnFU4xsJjtB7pKJSIf5Ge
 ToNextHunkAction
 ToNextScriptLocation
 ToObjectSpace
@@ -25052,7 +25047,6 @@ TwoStepVerificationWidgetShown
 TxtArray.length
 TxtArray[j]
 TXtComment
-TYoYP4dcKdNKCC8UZDiQ6YPwh
 TypeArray.length
 TypeArray.push
 TypeArray[glob
@@ -25306,6 +25300,7 @@ UITransformedLitVS
 UITransformedVS
 UIViewportFrameCollectFrames
 UIViewportFrameWorkspace
+UJhXZgCIBki0rkDRpLxjDMDF92Rdn6GGpS5lTqH2cAr04GO
 ULayoutInlineHelper
 ULinkedScriptLoadData
 ULoadedImage
@@ -25606,7 +25601,6 @@ UQLatin1Char
 UQMetaObject
 UQPrivateSignal
 UQStringDataPtr
-Ur5UOT5h4bhH1XDmVWjUqi
 URawUntranslatedEntry
 UReplicatorPeerInfo
 UResponseError
@@ -27453,7 +27447,6 @@ WM_ATLGETHOST
 WMCreateProfileManager
 WMCreateSyncReader
 Wmvcore.dll
-WnUUuOupWVD85N5cRJKq2izzeegqkwHgN1D
 WoodPlanks
 WordWrapMode
 WorkersNeeded
@@ -27512,6 +27505,7 @@ WSASocketW
 WSAstartup
 WSAStartup
 WSAStringToAddressW
+WSKkmvAYFJGjHkROG
 WTHelperGetProvSignerFromChain
 WTHelperProvDataFromStateData
 WWWWWWWWWW
