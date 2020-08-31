@@ -804,10 +804,8 @@ AppStorageService
 AppsUseLightTheme
 AppVersion
 APSToggleClientServerFTUE
-AQ22mLrrZZPntKFj
 AQJsonArray
 AQJsonObject
-AqMjTS9Qm1ipwFar1JG3z
 ArcadeStick
 ArcHandles
 Archivable
@@ -1118,6 +1116,7 @@ AUIAxWinAmbientDispatchEx
 AUIAxWinHostWindow
 AUIAxWinHostWindowLic
 AUIBaseFilter
+AUIdempotentRequest
 AUIDispatch
 AUIDocHostUIHandler
 AUIDocHostUIHandlerDispatch
@@ -2841,8 +2840,12 @@ AVOutputBatchEventController
 AVOutputEmulated
 AVOutputFilterTextEdit
 AVOutputFindSearchBar
+AVOutputRibbonCombinedFilterDropdown
+AVOutputRibbonContextFilterDropdown
 AVOutputRibbonDropdownBase
 AVOutputRibbonDropdownWithSelectAll
+AVOutputRibbonFilterDropdownGroup
+AVOutputRibbonMessageTypeFilterDropdown
 AVOutputRibbonMoreDropdown
 AVOutputSoftware
 AVOutputTableHeader
@@ -4261,7 +4264,6 @@ BCFB4817B1F11E4A86BBBBE005A3BAD
 BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
 BCryptGenRandom
-BdTiFl1MPixq3DTQDgS
 BE20681180838E23F0DC6224
 BE42889BE20681180838E23F0DC6224
 BEA91211E2B410EF351327957B
@@ -4725,7 +4727,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.447.0.410764
+ByVersion_0.447.0.410774
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -6025,6 +6027,7 @@ ColumnStretch
 ColumnToContents
 ColumnWidth
 COMBFILTER_MINPERIOD
+CombinedFilterOptionClicked
 CombinedSignalChildRemoved
 CombinedSignalProperty
 ComboBoxAction
@@ -6529,7 +6532,6 @@ CountryRegionCodeReplicate
 CountShifted
 CountTimeout
 CountWidth
-CqzlOygePArmQ
 CrackedLava
 CrashDumpFileName
 CrashEvent
@@ -7159,7 +7161,6 @@ DataModelInstances
 DataModelJob
 DataModelJobs
 DataModelLoadException
-DataModelMenuOptionClicked
 DataModelMesh
 DataModelPatch
 DataModelPatch.rbxm
@@ -7274,6 +7275,7 @@ DateTimeLocaleConfig
 DateTimeLocaleConfigs
 DateTimeUtc
 DAttributes
+Db06VMTWKtPUe
 DB0BF11E395B6E5DB6211F344
 DB2068118C14FDE5E01E7934
 DB33CEAAF011E38B9D871882A8E559
@@ -7284,8 +7286,6 @@ DB33D6AAF011E38B9D871882A8E559
 DB33D7AAF011E38B9D871882A8E559
 DBD856014A660
 DBSAES_ASM
-DbxSGpcoAoIl
-DcNGtirhAJUNBoY
 Dconst_iterator
 DD11E2898E9FB8E4A9E79B
 DD4669DB402E11E3A29DA4266180AE0C
@@ -7304,7 +7304,6 @@ DDDE3BCA91511E2B410EF351327957B
 DDDE3BFA91511E2B410EF351327957B
 DDDE3C0A91511E2B410EF351327957B
 DDU_Mbstatet
-DE4mepMsrksW6x47V
 DE8FD5272E11E489A6CDE46C99CA59
 DE8FD6272E11E489A6CDE46C99CA59
 DE8FD7272E11E489A6CDE46C99CA59
@@ -7785,9 +7784,11 @@ DEPRECATED_onAcceptGameNotPublishedDialog
 DEPRECATED_onCloudEditConnectionAborted
 DEPRECATED_onCloudEditConnectionCancelled
 DEPRECATED_onCloudEditConnectionEstablished
+DEPRECATED_onDataModelMenuOptionClicked
 DEPRECATED_onDialogAccepted
 DEPRECATED_onDismissGameNotPublishedDialog
 DEPRECATED_onLoggedOut
+DEPRECATED_onMessageMenuOptionClicked
 DEPRECATED_OnPublishPlaceToRoblox
 DEPRECATED_onShowGameNotPublishedDialog
 DEPRECATED_onUserAccountInfoAcquired
@@ -10063,7 +10064,6 @@ ForwardScroll
 FoundItems
 FoundThread
 FpFramebuffer
-FPj6XuFopki9CC7TncCj0Ad8H2BaciPZyO2J8Tc8nh
 FpsVariance
 Fractional
 Frame_.LogEnd[nLog]
@@ -11185,6 +11185,7 @@ GImpactCompound
 GImpactCompoundShape
 GiveFocusBackAfterClickingTextbox
 GizmoRaycast
+GjNsQfkIGSVrGTsZjXbru9nrwL1L5aZ8M8L6R3AiWllUqz8O2JlwVSrIE0V7Ih7
 GL_ARB_pixel_buffer_object
 GL_ARB_texture_storage
 GL_EXT_texture_border_clamp
@@ -11455,6 +11456,7 @@ HA_A^A]A\_^[]
 HA_A^A]A\_^[]H
 HA_A^A]A\_^][
 HACDConcavityMillionth
+HACDFixCrashCoplanarFaceCrash
 HACDMaximumQuickhullReprocessAttempts
 HACDNormalizationDistanceMillionth
 HACDNumPreprocessSteps
@@ -11676,6 +11678,7 @@ HKEY_PERFORMANCE_DATA
 HKEY_PERFORMANCE_NLSTEXT
 HKEY_PERFORMANCE_TEXT
 HMACGostR3411
+HmrUJzdLZgjzCS6plSXxCiHvj3zRN4GsX3WTHiogZ9w
 HomePageLoaded
 HopperPanel.png
 Horizontal
@@ -11969,6 +11972,7 @@ Hungarumlautsmall
 HVChangeHistoryService
 HVQByteArray
 HVQRegularExpression
+HvquLaV3tBPIw1o
 HVQVariant
 HVSoundService
 HVStringView
@@ -12236,6 +12240,7 @@ IndicatorToolBarHandle
 IndicatorToolBarSeparator
 IndicatorViewItemCheck
 Individual
+IndividualFilterOptionClicked
 IndoorEnv.IndoorEnvBk
 IndoorEnv.IndoorEnvDn
 IndoorEnv.IndoorEnvFt
@@ -12742,7 +12747,6 @@ IVRScreenshots_001
 IVRSettings_002
 IVRSystem_017
 IVRTrackedCamera_003
-IWd2SJHS49
 IWebBrowser2
 IWorldStage
 IXMLHTTPRequest2
@@ -12753,9 +12757,11 @@ Javascript
 JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
+JBBC8QxeIOLw39tZK2LYaFOmUIBdPH
 Jcircumflex
 JDJNJXJbJlJvJ
 JHJRJ\JfJpJxJ
+JHRef0lLVf9tQiq
 JHW4MembershipType
 JIIIIIIIKI
 JIRA_RIDE_192
@@ -12854,6 +12860,7 @@ JW4InfoType
 JW4ItemType
 JW4TextFilterContext
 JW4ThumbnailType
+JYsyOcffuf9inVt3no
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -12923,6 +12930,7 @@ KodchiangUPC
 KPEAVICHull
 KPEIBX_K_KPEIAU_iobuf
 KSocialService
+KTRpFOy2fGRGGASYvtDb2TbLFrL
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 LabelArray
@@ -13496,6 +13504,7 @@ LowQMaterialFS
 LowQMaterialWangFallbackFS
 LowQMaterialWangFS
 LowResolution
+LQIHPToswhuhBaw2K3MLIIZKxspR
 Lslashsmall
 LSPManager
 LSPObservable
@@ -13625,7 +13634,6 @@ LuauScriptTextProvider
 LuauSetmetatableUseMetatableField
 LuauTypeInferRecursionLimit
 LuauTypeInferTypePackLoopLimit
-LuauUseClassesForRobloxApi
 LuauWatchdog
 LuaVersion
 LuaWebService
@@ -14095,6 +14103,7 @@ Medium.otf
 MEDIUM_PRIORITY
 MediumResolution
 MedKit.png
+MEDlnx6WilPMX
 Megacluster
 MegaCluster
 MegaClusterHelper
@@ -14210,7 +14219,6 @@ MessageFromClient
 MessageIdReq
 MessageInfo
 MessageLinkClicked
-MessageMenuOptionClicked
 MessageOut
 MessageOutput
 MessagePage
@@ -14274,7 +14282,6 @@ Metrics.width
 MetricsSets
 MetricType
 MHapV7R8MxA953
-MhyPIyAX8AKWPI
 MicroProfile
 MicroProfileFlip
 MicroprofileGroupAtLastStack
@@ -14290,7 +14297,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA7LixzJVQBXIt5QgNThM
+MIICCgKCAgEA7pt2pMcNtpWcUQT9uq0O3f
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14648,6 +14655,7 @@ NAEBVHttpError
 NAEBVQFileInfo
 NAEBVQString
 NAF_precompute_mult
+NaIDMSPEL8REnrVy
 NAKs.Deserialize
 Name.isEmpty
 Name.length
@@ -15327,6 +15335,7 @@ OptimizedContactWakeDepth
 OptionButton
 OptionButtonVisible
 OptionChanged
+OptionClicked
 OptionsMenu
 OptionState
 OPUS_ARCHMASK
@@ -15388,7 +15397,6 @@ OtherMechanismsAnchored
 OtherTextChanged
 OtherTopLabelOverride
 Otildesmall
-OtWyGxsJY5b6
 OutboundTotal
 OutBufferHealth
 OutClusters
@@ -15440,8 +15448,12 @@ OutputFilterTextEdit
 OutputFindSearchBar
 OutputInterface
 OutputLayoutMode
+OutputRibbonCombinedFilterDropdown
+OutputRibbonContextFilterDropdown
 OutputRibbonDropdownBase
 OutputRibbonDropdownWithSelectAll
+OutputRibbonFilterDropdownGroup
+OutputRibbonMessageTypeFilterDropdown
 OutputRibbonMoreDropdown
 OutputSearchBar_CloseDialogButton
 OutputSearchBar_ComboBox
@@ -15486,7 +15498,7 @@ OverrideToMyBranch
 OverwriteMode
 OverwritePublish
 OwnProperty
-OYJviDwGB7BJSuF3TbXOgyPV7tTWfpfFMe2AsT4QQ
+OxcAiSKQZlLRGoTNSwAGLtxri5MPmgpM2
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^]
 PA^A]A\_^][
@@ -16278,7 +16290,6 @@ PEBDHPEAUConverterState
 PEBDVQGenericArgument
 PEBDVQGenericReturnArgument
 PEBDW4ConnectionType
-PeBIrIK9ETo9sy8DmKlWckNH5B
 PEBUFileMeshData
 PEBUQMetaObject
 PEBUSG_VERT
@@ -16388,7 +16399,6 @@ PersistentEditor
 PersistentFifoComboBox
 PerThreadTimer
 PerThreadTimerTotal
-PF5AVpdWV8ZlO
 PGSAlign2AxesCorrectionDamping
 PGSAlign2AxesPStageFrictionConstant
 PGSAlign2AxesVStageFrictionConstant
@@ -17520,6 +17530,7 @@ QEAAXHPEAV1
 QEAAXHPEAVQAbstractItemDelegate
 QEAAXHPEAVQListWidgetItem
 QEAAXHPEAVQTreeWidgetItem
+QEAAXHPEAVQWidget
 QEAAXHW4CheckState
 QEAAXHW4ExitStatus
 QEAAXHW4MoveMode
@@ -17873,7 +17884,6 @@ QMessageBox
 QMessageLogger
 QMetaMethod
 QMetaObject
-QmKl1RDLVKdIlfOm0F58jL1lvA1EGYAjbb
 Qml2Imports
 QModelIndex
 QMouseEvent
@@ -19349,8 +19359,6 @@ RigidBodyLazyUpdating
 RigidityEnabled
 RiseVelocity
 Rj0isQcnqX
-RjabYS7edPy5Hgfpx
-RLO1Y4dJAX9
 Roact.createElement
 ROBLOSECURITY
 Roblox.Hybrid
@@ -21265,6 +21273,7 @@ StreamingAvgInstancesPerItem
 StreamingAvgPauseDuration
 StreamingAvgReadTimePerItem
 StreamingBandwidthQueueingLimitPercent
+StreamingClampRadiusConsistency
 StreamingCriticalLowMemWatermarkMB
 StreamingDebuggerMiniMap
 StreamingDontGCLocal
@@ -24086,7 +24095,6 @@ TerrainWeldsFixed
 Tessellation
 TEST_ENG_OPENSSL_PKEY
 TEST_ENG_OPENSSL_RC4
-TeSt470LuwQvB6shmKmr1
 TestBoundary
 TestBoundaryPoint
 TestComplexControl
@@ -24483,6 +24491,7 @@ TipTimer.stop
 TitleBarProgress
 TitlebarText
 TitleBarVisible
+Tjlz54L01mUljzEBbS2J0VC994SxuzJQXZaH9j1xgB6j6gnNNSMbxlnW3mlIda
 TJNLerU][Wr
 TLS_AES_128_CCM_8_SHA256
 TLS_AES_128_CCM_SHA256
@@ -24887,6 +24896,7 @@ TouchTransmitter
 ToUniversalTime
 TownAndCity
 ToWorldSpace
+TqLT0hKnGoTNuXhICHFyp4Nb12v0jH5HLzaR6PzX5le
 TraceMessage
 Track2Data
 TrackAudioDriversPerSystem
@@ -25121,6 +25131,7 @@ Ubad_month
 Ubad_offset
 Ubad_weekday
 UBatchThumbnailResult
+UBC1wRn2iATDtbS9lA7VqCeCOsoU
 UBlockAdditions
 UBlockGroup
 UBlockMore
@@ -25243,7 +25254,6 @@ UGlobalResult
 Ugravesmall
 UGroupRolesResult
 UGuiClusterRT
-UgwVRrLnmU4nabZz862M
 UHttpApiRequest
 UHttpRequest
 UHttpResponseProxy
@@ -25835,6 +25845,7 @@ UsingBrowserServiceCaptcha
 UsingMeshPart
 UsingNewCaptchaApi
 UsingSendMeasureBatch2
+USMcckQT9H
 USocketDescriptor
 USoundServiceStats
 USoundTask
@@ -25890,7 +25901,6 @@ UTrackEntry
 Utransport_config
 UUID_UdriTagTables
 UUID_WMDRMTagTables
-UukReiPjX6x5cfllAjYOhct14ZDKoN0eRaZZECAwEAAQ
 Uunspecified
 UUntranslatedSourceContexts
 UUserAgreementData
@@ -26358,7 +26368,6 @@ VertexAttribPointer
 VertexColor
 VertexStreamer
 VerticalAlignment
-VerticalFilterMenuOptionClicked
 VerticalModeFilterDropdown
 VerticalPolicy
 VerticalScrollBarInset
@@ -27084,7 +27093,6 @@ VTweenInfo
 VTweenService
 VTypesetter
 VUGCValidationService
-VUhHtkph6jBR9vojlP
 VUIAspectRatioConstraint
 VUIComponent
 VUIConstraint
@@ -27292,6 +27300,7 @@ WeldConstraintRelativeCFrame2
 WeldConstraintTool
 WeldCursor
 WeldsAction
+WeVlNTLhnlJOTodsvAavxJVPotamAMsFceVtCtn9nE2LtwsDS7
 WGL_3DFX_multisample
 WGL_3DL_stereo_control
 WGL_AMD_gpu_association
@@ -27535,13 +27544,11 @@ WSASocketW
 WSAstartup
 WSAStartup
 WSAStringToAddressW
-WsZWBkBz29D6
 WTHelperGetProvSignerFromChain
 WTHelperProvDataFromStateData
 WWWWWWWWWW
 WWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWW
-WXfWRX4FEDsgPdA1Fe
 X_JW4AssetType
 XA^A]A\_][
 XA_A]A\_^[
@@ -27563,6 +27570,10 @@ XAEAVNetworkStream
 XAEAW4AssetType
 XAEBUHttpResponseProxy
 XAEBUPlaceLauncherRequestInfo
+XAEBURobloxFindExecutablePositionRequest
+XAEBURobloxFindExecutablePositionResponse
+XAEBURobloxSuggestExtraSelectionsRequest
+XAEBURobloxSuggestExtraSelectionsResponse
 XAEBVBetaFeatureStruct
 XAEBVerror_code
 XAEBVexception
@@ -27590,7 +27601,6 @@ XboxPresencePolling
 XboxSaleAvatarPackageIds
 XboxUseCuratedGameSort2
 XboxUseNewValidUsernameCheck2
-XCq2rWlLW3FgZL
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XGetLastError
@@ -27601,6 +27611,7 @@ XInputGetState
 XInputSetState
 Xinvalid_argument
 Xlength_error
+XmBrvlVj6K9nqPvjXDN
 Xout_of_range
 XP6AXAEBUTextFilterResult
 XP6AXAEBVQString
@@ -27768,11 +27779,11 @@ Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
 YffYZefYDNNDCOO
+YGZMVU5bpIvwvN1nMtKcyZW2Q
 YieldEvent
 YieldFuncDesc
 YieldFunction
 YQByteArray
-Yr28JnH4ubMU
 YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
@@ -27782,7 +27793,6 @@ Zdotaccent
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
-Zj7BwDowbFXWlgG1coqZq0B8vmDQkCuFwTYqAs0
 ZLcJhLcGhM
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
