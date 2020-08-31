@@ -487,6 +487,7 @@ AllowMultipleHangReports
 AllowNoDHEKEX
 AllowPackageLinkAncestoryClone
 AllowPopups
+AllowSandboxing
 AllowSleep
 AllowTeamChangeOnTouch
 AllowTGAImageAssetExtension
@@ -503,6 +504,7 @@ AllThreads[nThreadIn]
 AllTutorialsDisabled
 AllUsers.Desktop.NewRobuxIcon
 AllUsers.GameDetails.PlayWithFriends
+AllUsers.GameDetails.UseAbbreviatedDescription
 AllUsers.GameExperience.InGameMenu
 AllUsers.GameSearch.Autocomplete
 AllUsers.GameSearch.Q2DRankingEmphasisHideBad
@@ -2306,6 +2308,7 @@ AVGamesPageController
 AVGamesPageModel
 AVGameStateTypeTableUserData
 AVGameTool
+AVGeneralBrowserDialog
 AVgeneric_error_category
 AVGenericJob
 AVGenericNumberHandler
@@ -4293,6 +4296,7 @@ BetaFeaturesController
 BetaFeaturesDialog
 BetaFeaturesForForumPosts
 BetaTester
+BetdTJniO0x1Fb1H
 BetterAddInstance
 BetterEmoji2
 BF11E395B6E5DB6211F344
@@ -4601,6 +4605,8 @@ BrowserService.ExecuteJavaScript
 BrowserService.JavaScriptCallback
 BrowserService.OpenBrowserWindow
 BrowserService.SendCommand
+BrowserServiceCommand
+BrowserServiceController
 BrowserServiceDiagnose
 BrowserServiceForAllPlatforms
 BrowserTracker
@@ -4727,7 +4733,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.447.0.410774
+ByVersion_0.447.0.410786
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -7270,12 +7276,12 @@ DataStoreWaitOnYieldingRequestsExpiration
 DataStoreWriteEnabled
 DataValidation
 DateFormat
+DateOfLastSession
 DatePickerDivider.png
 DateTimeLocaleConfig
 DateTimeLocaleConfigs
 DateTimeUtc
 DAttributes
-Db06VMTWKtPUe
 DB0BF11E395B6E5DB6211F344
 DB2068118C14FDE5E01E7934
 DB33CEAAF011E38B9D871882A8E559
@@ -9452,6 +9458,7 @@ ExtraSelectionStore
 ExtrudedPartInstance
 EXtSoftware
 EyeAccessory
+EYF3Ot2Fmv7XxBQA2aZzuHbaB5rwEWLi2LV
 F_ObjectHasComponents
 F`JXKXWJYB[Cd
 FA6256811994CD24F935527E2
@@ -9585,6 +9592,7 @@ FDA6E1EA211E49FA6F7D125AE5309
 FDA6F1EA211E49FA6F7D125AE5309
 FDE5E01E7934
 Fdossl_static.pdb
+FE4Fi0HGmSfO8ey7q1eKvTzAfbCLqkeh9EPecTd61vK14RxNLKKWSJ
 Feature_AppBridgeRewrite
 Feature_UniversalStartup
 FeatureAlert
@@ -9720,6 +9728,7 @@ FilterType
 FilterUpdate
 FilterValue
 FilterWidgetUpdate
+FIMK1eIGph6uk8dUnKneyT
 FinalQOgreWrapperWidgetResized
 FindAllDialog
 FindAllDialog_CloseButton
@@ -10235,6 +10244,7 @@ FutureIsBrightPhase2GLES3
 FutureIsBrightPhase3
 FutureIsBrightPhase3iOS
 FutureIsBrightPhase3Vulkan
+FVPjjmLnRA8wCdxia5bPcaDGB8yJ4
 FXCompositing
 FXCompositingFS
 FXCompositingLinearFS
@@ -10423,6 +10433,7 @@ GENERAL_NAME
 GENERAL_NAME_ex
 GENERAL_NAMES
 GENERAL_SUBTREE
+GeneralBrowserDialog
 GENERALIZEDTIME
 GeneralNames
 GeneralStats
@@ -10459,6 +10470,7 @@ GenlockSourceI3D
 GenQueries
 GenRenderbuffers
 GenTextures
+GeNUKTfyD1nugMOLlooJpVinvl1xge
 GenVertexArrays
 GeographicLatitude
 Geometries
@@ -11185,7 +11197,6 @@ GImpactCompound
 GImpactCompoundShape
 GiveFocusBackAfterClickingTextbox
 GizmoRaycast
-GjNsQfkIGSVrGTsZjXbru9nrwL1L5aZ8M8L6R3AiWllUqz8O2JlwVSrIE0V7Ih7
 GL_ARB_pixel_buffer_object
 GL_ARB_texture_storage
 GL_EXT_texture_border_clamp
@@ -11258,6 +11269,7 @@ GoToPreviousScriptLocation
 GoToSourceCodeTB
 GoToVersionFailed
 GpuVariance
+GR5P1asdn7tkGQsJuhVzN
 GrabCursor.png
 GrabRotateCursor
 GrabRotateCursor.png
@@ -11440,6 +11452,7 @@ GVKUTS[BXIWH\KbHi
 GXGfGkGpGuG
 GxI9Gpu2E2
 GyroscopeEnabled
+GZWBVFrU3jTpYV
 H_Key_dn.png
 H_NAEBVQString
 H`CeIkHq7v4
@@ -11596,6 +11609,7 @@ HelpForSelectionAction
 HelpPageLink
 HelpWindow
 HelpWindow.style[
+HEPcvu2SNoJjxb
 HHAEBVQModelIndex
 HHHHHAEBVQString
 HHPEAVQObject
@@ -11678,7 +11692,6 @@ HKEY_PERFORMANCE_DATA
 HKEY_PERFORMANCE_NLSTEXT
 HKEY_PERFORMANCE_TEXT
 HMACGostR3411
-HmrUJzdLZgjzCS6plSXxCiHvj3zRN4GsX3WTHiogZ9w
 HomePageLoaded
 HopperPanel.png
 Horizontal
@@ -11866,6 +11879,7 @@ HttpRbxApiSyncRetryWaitTimeMSec
 HttpRemoveInMemoryCache
 HttpReportRetries
 HttpRequest
+HttpRequest.AllowSandboxing
 HttpRequest.CachePolicy
 HttpRequest.Priority
 HttpRequest.RequestType
@@ -11972,7 +11986,6 @@ Hungarumlautsmall
 HVChangeHistoryService
 HVQByteArray
 HVQRegularExpression
-HvquLaV3tBPIw1o
 HVQVariant
 HVSoundService
 HVStringView
@@ -12497,6 +12510,7 @@ International
 InternetGetConnectedState
 InternetGetCookieExW
 InternetGetCookieW
+InternetSetCookieExW
 Interpolate
 InterpolateCullDistance
 Interpolated
@@ -12757,11 +12771,9 @@ Javascript
 JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
-JBBC8QxeIOLw39tZK2LYaFOmUIBdPH
 Jcircumflex
 JDJNJXJbJlJvJ
 JHJRJ\JfJpJxJ
-JHRef0lLVf9tQiq
 JHW4MembershipType
 JIIIIIIIKI
 JIRA_RIDE_192
@@ -12860,7 +12872,6 @@ JW4InfoType
 JW4ItemType
 JW4TextFilterContext
 JW4ThumbnailType
-JYsyOcffuf9inVt3no
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -12929,8 +12940,9 @@ KnownPrefixIndex
 KodchiangUPC
 KPEAVICHull
 KPEIBX_K_KPEIAU_iobuf
+KrtgxBEYLrL33QG4
 KSocialService
-KTRpFOy2fGRGGASYvtDb2TbLFrL
+KUSUCAwEAAQ
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 LabelArray
@@ -12952,7 +12964,6 @@ LanguageGroup
 LanguagePreference
 LanguageService
 LargeScript
-LastDayLogged
 LastEditTool
 LastEmulatedDeviceId
 LastGroupIndex
@@ -13266,6 +13277,7 @@ LiveThreadRef
 LivingRoom
 LLEo6Soxvx2
 LLLLLLLLLLLLLLLL]]]]]]]]]]]]]]]]]]]]
+Llwwsp27aaCHMULKAtgR02Ve8K42wpXORwk1Xp0LIFj1OK6ptHlB2kXiiKV3nI
 LOAD_CERT_CTRL
 Load_Package
 LoadAnimation
@@ -13504,7 +13516,6 @@ LowQMaterialFS
 LowQMaterialWangFallbackFS
 LowQMaterialWangFS
 LowResolution
-LQIHPToswhuhBaw2K3MLIIZKxspR
 Lslashsmall
 LSPManager
 LSPObservable
@@ -14103,7 +14114,6 @@ Medium.otf
 MEDIUM_PRIORITY
 MediumResolution
 MedKit.png
-MEDlnx6WilPMX
 Megacluster
 MegaCluster
 MegaClusterHelper
@@ -14297,7 +14307,8 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA7pt2pMcNtpWcUQT9uq0O3f
+MIICCgKCAgEAuqbf6c7S6zcLbctSaqghs
+MiJbcjTCbtWXC4fqC69VsUPVJETe5FB99UX8NP
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14655,7 +14666,6 @@ NAEBVHttpError
 NAEBVQFileInfo
 NAEBVQString
 NAF_precompute_mult
-NaIDMSPEL8REnrVy
 NAKs.Deserialize
 Name.isEmpty
 Name.length
@@ -15104,6 +15114,7 @@ ObjectWindow
 ObjectWindowExpandedView
 ObjectWithIface7
 ObscuredBy
+ObtainUserAgentString
 OccludeAll
 OccupancyDebugFS
 Ocircumflex
@@ -15498,7 +15509,6 @@ OverrideToMyBranch
 OverwriteMode
 OverwritePublish
 OwnProperty
-OxcAiSKQZlLRGoTNSwAGLtxri5MPmgpM2
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^]
 PA^A]A\_^][
@@ -16343,6 +16353,7 @@ PendingRequestCount
 PendingRequests
 PenJoinStyle
 PENTANOMIAL
+PEPlUUpzYqBvBLeNQYM2JodHv34VroBWrWfPQoECGDqINjbJvMP
 Percentage
 PercentageSuccesful_
 PercentageThresholdUsingFriendsV2A3
@@ -18403,6 +18414,7 @@ RCCUnthrottledWorldStepRealTimePerc_Datacenter_
 RCCUpdateBroadphaseDtAverage
 RCCUpdateBroadphaseDtAverage_Datacenter_
 RccUse64BitAppearanceId
+RcDZypfdc7zQB
 RcpReferenceTime
 ReachActorChest
 ReachActorChestRotation
@@ -18749,6 +18761,7 @@ RemoveTopRows
 RemoveVehicleSeatCameraCFrameSet
 RemoveVertex
 RENAME_ABTEST_AllUsers_GameDetails_PlayWithFriends
+RENAME_ABTEST_AllUsers_GameDetails_UseAbbreviatedDescription
 RENAME_ABTEST_AllUsers_GameSearch_Autocomplete
 RENAME_ABTEST_AllUsers_GameSearch_Q2DRankingEmphasisHideBad
 RENAME_ABTEST_AllUsers_LuaApp_FeaturedGameTileInSearch
@@ -19609,6 +19622,7 @@ RVideoInternal
 RVideoMemLogging
 RVideoTrace
 RxRlReport
+RyaPYyyVPeB1OfqYFRHHzwe3EIiZpOh6mDTK5WCxevj44ww0BjTGNGk1UzWHJuNq
 S_Key_dn.png
 SA_KPEAPEBV123
 SA_KPEAPEBVfacet
@@ -19629,6 +19643,7 @@ SampleMaski
 SampleMethod
 SampleRate
 SandboxedSource
+Sandboxing
 SandboxLocalCache
 SandboxLocalCacheInitialized
 SandboxUser
@@ -22855,6 +22870,8 @@ Studio.ArchiveGame.MakePublic.Failure
 Studio.ArchiveGame.Restored
 Studio.ArchiveGame.UndoArchived
 Studio.ArchiveGame.UndoRestored
+Studio.BrowserServiceController.Hidden
+Studio.BrowserServiceController.OSNotUpToDate
 Studio.ClientID.Reused
 Studio.ClientID.Updated
 Studio.Common.Action.Apply
@@ -23103,6 +23120,7 @@ StudioBootstrapperVersionNumber
 StudioBreakOnInfiniteLoopsRunFixEnabled
 StudioBreakpointInitializeEdgeCase
 StudioBRolesetPhysicsNewConvexDecompositionEnabled
+StudioBrowserSandboxing
 StudioBulkImportButtonClicked
 StudioBulkImportCanceled
 StudioBulkImporterMockUploadTimeInMs
@@ -24491,7 +24509,6 @@ TipTimer.stop
 TitleBarProgress
 TitlebarText
 TitleBarVisible
-Tjlz54L01mUljzEBbS2J0VC994SxuzJQXZaH9j1xgB6j6gnNNSMbxlnW3mlIda
 TJNLerU][Wr
 TLS_AES_128_CCM_8_SHA256
 TLS_AES_128_CCM_SHA256
@@ -24896,7 +24913,7 @@ TouchTransmitter
 ToUniversalTime
 TownAndCity
 ToWorldSpace
-TqLT0hKnGoTNuXhICHFyp4Nb12v0jH5HLzaR6PzX5le
+TR4C9YXE4ulMlJekwWQiSvUlJSawVUKC
 TraceMessage
 Track2Data
 TrackAudioDriversPerSystem
@@ -25114,6 +25131,7 @@ U_Unforced
 UActionsQuickOpenProviderSharedState
 Uacutesmall
 Uambiguous_result
+UAobUqJ4lTK
 Uasio_client
 Uasio_tls_client
 UAssetLoadingData
@@ -25131,7 +25149,6 @@ Ubad_month
 Ubad_offset
 Ubad_weekday
 UBatchThumbnailResult
-UBC1wRn2iATDtbS9lA7VqCeCOsoU
 UBlockAdditions
 UBlockGroup
 UBlockMore
@@ -25645,6 +25662,7 @@ URetryBehavior
 URLConstructionCleanup
 UrlFormattingOption
 URLHasChineseHost
+UrlMkSetSessionOption
 URLRequest
 URobloxApiGame
 URobloxFindExecutablePositionRequest
@@ -25845,7 +25863,6 @@ UsingBrowserServiceCaptcha
 UsingMeshPart
 UsingNewCaptchaApi
 UsingSendMeasureBatch2
-USMcckQT9H
 USocketDescriptor
 USoundServiceStats
 USoundTask
@@ -26048,6 +26065,7 @@ VBrickColor
 Vbroken_promise
 VBrokenAssetResourceController
 VBrowserService
+VBrowserServiceController
 VBrowserTrackerIdRequest
 VBrowserTrackerIdTask
 VBufferD3D11
@@ -26616,6 +26634,7 @@ VirtualUser
 Visibility
 VisibilityChanged
 VisibilitySlot
+VisibilityWithUpdatedAbsolutePosition
 VisibleBlock
 VisibleItemFound
 VisibleShadowObjectsList
@@ -27300,7 +27319,6 @@ WeldConstraintRelativeCFrame2
 WeldConstraintTool
 WeldCursor
 WeldsAction
-WeVlNTLhnlJOTodsvAavxJVPotamAMsFceVtCtn9nE2LtwsDS7
 WGL_3DFX_multisample
 WGL_3DL_stereo_control
 WGL_AMD_gpu_association
@@ -27487,6 +27505,7 @@ WMCreateProfileManager
 WMCreateSyncReader
 Wmvcore.dll
 WoodPlanks
+WOOorNhUtdsHhIHv64ywMRb896AgifQvapyIeZWJfk
 WordWrapMode
 WorkersNeeded
 Workspace.
@@ -27611,7 +27630,6 @@ XInputGetState
 XInputSetState
 Xinvalid_argument
 Xlength_error
-XmBrvlVj6K9nqPvjXDN
 Xout_of_range
 XP6AXAEBUTextFilterResult
 XP6AXAEBVQString
@@ -27779,7 +27797,6 @@ Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
 YffYZefYDNNDCOO
-YGZMVU5bpIvwvN1nMtKcyZW2Q
 YieldEvent
 YieldFuncDesc
 YieldFunction
