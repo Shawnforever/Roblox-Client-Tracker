@@ -2315,6 +2315,7 @@ AVGenericNumberHandler
 AVGenericResourceController
 AVGenericSlotWrapper
 AVGenericTask
+AVGenericTelemetryEnabledJob
 AVGeometry
 AVGeometryD3D11
 AVGeometryD3D9
@@ -2487,7 +2488,6 @@ AVImageWebFactory
 AVIMarketplaceApiClient
 AVIMDIManagerHost
 AVIModelModifier
-AVImportAssetDialog
 AVIndexBox
 AVIndexBufferD3D9
 AVIndexedMesh
@@ -3169,8 +3169,6 @@ AVQVariant
 AVQVariantAnimation
 AVQVBoxLayout
 AVQWebElement
-AVQWebHitTestResult
-AVQWebPage
 AVQWebSocket
 AVQWebSocketDataProcessor
 AVQWebSocketPrivate
@@ -3260,7 +3258,6 @@ AVRightMotorTool
 AVRigidJoint
 AVRobloxApplication
 AVRobloxBasicDoc
-AVRobloxBrowser
 AVRobloxCategoryItem
 AVRobloxCategoryItemDelegate
 AVRobloxChatWidget
@@ -3308,7 +3305,6 @@ AVRobloxTeamCreateWidget
 AVRobloxTutorials
 AVRobloxUser
 AVRobloxViewStudio
-AVRobloxWebPage
 AVRodConstraint
 AVRomarkPhaseTrackingJob
 AVRopeConstraint
@@ -4296,7 +4292,6 @@ BetaFeaturesController
 BetaFeaturesDialog
 BetaFeaturesForForumPosts
 BetaTester
-BetdTJniO0x1Fb1H
 BetterAddInstance
 BetterEmoji2
 BF11E395B6E5DB6211F344
@@ -4597,7 +4592,6 @@ BrokenAssetsResourceMenu
 BrokenResource
 BrowalliaUPC
 BrowserAction
-BrowserActivity
 BrowserService
 BrowserService.BrowserWindowClosed
 BrowserService.CloseBrowserWindow
@@ -4733,7 +4727,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.447.0.410786
+ByVersion_0.447.0.410797
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -5516,7 +5510,6 @@ ClientStepContactsDtAveMS_
 ClientStreamingRadiusRoundConsistency
 ClientTextureMemoryUsage_
 ClientTicket
-ClientToolbox.aspx
 ClientToScreen
 ClientToServer
 ClientToServerFilterMessageSignal
@@ -6343,7 +6336,6 @@ ContextSwitchThreads
 ContextSwitchThreads.length
 ContextSwitchThreads[i]
 ContextTitle
-Contextual
 ContextualMenu
 Continuation
 ContinuationTaskHandle
@@ -7934,6 +7926,7 @@ DetailedViewMouseX
 DetailedViewMouseY
 DetailsLoaded
 Detonator.png
+DEUHOJ0dbbWI88C7F4CkZJqp0HfHmR1YftTiv
 DevCameraOcclusion
 DevCameraOcclusionInvisi
 DevCameraOcclusionMode
@@ -9014,6 +9007,7 @@ EnablePerfDataCoreTimersCollection
 EnablePerfDataExtendedMemoryCollection
 EnablePerfDataMemoryCategoriesCollection
 EnablePerfDataMemoryCollection
+EnablePerfDataSubsystemTimersCollection
 EnablePerfDataTimerCollection
 EnablePerfPlaytestId
 EnablePerFrameSampling
@@ -9458,7 +9452,6 @@ ExtraSelectionStore
 ExtrudedPartInstance
 EXtSoftware
 EyeAccessory
-EYF3Ot2Fmv7XxBQA2aZzuHbaB5rwEWLi2LV
 F_ObjectHasComponents
 F`JXKXWJYB[Cd
 FA6256811994CD24F935527E2
@@ -9592,7 +9585,6 @@ FDA6E1EA211E49FA6F7D125AE5309
 FDA6F1EA211E49FA6F7D125AE5309
 FDE5E01E7934
 Fdossl_static.pdb
-FE4Fi0HGmSfO8ey7q1eKvTzAfbCLqkeh9EPecTd61vK14RxNLKKWSJ
 Feature_AppBridgeRewrite
 Feature_UniversalStartup
 FeatureAlert
@@ -9728,7 +9720,6 @@ FilterType
 FilterUpdate
 FilterValue
 FilterWidgetUpdate
-FIMK1eIGph6uk8dUnKneyT
 FinalQOgreWrapperWidgetResized
 FindAllDialog
 FindAllDialog_CloseButton
@@ -10244,7 +10235,6 @@ FutureIsBrightPhase2GLES3
 FutureIsBrightPhase3
 FutureIsBrightPhase3iOS
 FutureIsBrightPhase3Vulkan
-FVPjjmLnRA8wCdxia5bPcaDGB8yJ4
 FXCompositing
 FXCompositingFS
 FXCompositingLinearFS
@@ -10420,6 +10410,7 @@ GCNotAlwaysMemory
 GCReducesQuota2
 GCReducesQuotaCriticalPercent
 GCReducesQuotaPercent
+GdbicSFx7kZ
 Gdotaccent
 GE_package.png
 GE_packagefolder.png
@@ -10470,7 +10461,6 @@ GenlockSourceI3D
 GenQueries
 GenRenderbuffers
 GenTextures
-GeNUKTfyD1nugMOLlooJpVinvl1xge
 GenVertexArrays
 GeographicLatitude
 Geometries
@@ -11269,7 +11259,6 @@ GoToPreviousScriptLocation
 GoToSourceCodeTB
 GoToVersionFailed
 GpuVariance
-GR5P1asdn7tkGQsJuhVzN
 GrabCursor.png
 GrabRotateCursor
 GrabRotateCursor.png
@@ -11452,7 +11441,6 @@ GVKUTS[BXIWH\KbHi
 GXGfGkGpGuG
 GxI9Gpu2E2
 GyroscopeEnabled
-GZWBVFrU3jTpYV
 H_Key_dn.png
 H_NAEBVQString
 H`CeIkHq7v4
@@ -11609,7 +11597,6 @@ HelpForSelectionAction
 HelpPageLink
 HelpWindow
 HelpWindow.style[
-HEPcvu2SNoJjxb
 HHAEBVQModelIndex
 HHHHHAEBVQString
 HHPEAVQObject
@@ -12448,6 +12435,7 @@ InstanceCount
 InstancedClusters
 InstanceDefaultsView
 InstanceDelete
+InstanceHits
 InstanceId
 InstanceID
 InstanceItem
@@ -12462,6 +12450,7 @@ InstanceSelectionTool
 InstancesPerStreamData
 InstancesQuickOpenProviderWorker
 InstanceToFsAction
+InstanceTotal
 InstanceTree
 InstanceTreeManipulation
 InstanceTypeName
@@ -12524,7 +12513,6 @@ InterpolationFinished
 InterpolationMaxDelayMSec
 InterpolationNumParallelTasks
 InterruptConnectionThreadOnDestruct
-InterruptJavaScript
 IntersectingOthersCallsAllowedOnSpawn
 IntoAction
 IntoFileAction
@@ -12767,7 +12755,6 @@ IXMLHTTPRequest2
 J_Key_dn.png
 J_NW4CurrencyType
 JasmineUPC
-Javascript
 JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
@@ -12940,9 +12927,8 @@ KnownPrefixIndex
 KodchiangUPC
 KPEAVICHull
 KPEIBX_K_KPEIAU_iobuf
-KrtgxBEYLrL33QG4
 KSocialService
-KUSUCAwEAAQ
+KUVtiE1RQTN85sKCpAmRd
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 LabelArray
@@ -13277,7 +13263,6 @@ LiveThreadRef
 LivingRoom
 LLEo6Soxvx2
 LLLLLLLLLLLLLLLL]]]]]]]]]]]]]]]]]]]]
-Llwwsp27aaCHMULKAtgR02Ve8K42wpXORwk1Xp0LIFj1OK6ptHlB2kXiiKV3nI
 LOAD_CERT_CTRL
 Load_Package
 LoadAnimation
@@ -13299,7 +13284,6 @@ LoadDefaultChat
 LoadDisplayColorTableEXT
 LoadEditDataModel
 LoadedSignal
-LoadFinished
 LoadIconResponse
 Loading...
 LoadingAnimation
@@ -13308,7 +13292,6 @@ LoadingScreen
 LoadingScript
 LoadingScriptValidationFail
 LoadingStarted
-LoadingTimer
 LoadInstance
 LoadInstanceChangesTask
 LoadLibrary
@@ -13327,7 +13310,6 @@ LoadPlaySoloDataModelsTime
 LoadPluginsInSubmitTask3
 LoadResource
 LoadScriptVersion
-LoadStarted
 LoadStatus
 LoadString
 LoadStringEnabled
@@ -13634,6 +13616,7 @@ Luau.TypeChecking.ICE
 Luau.TypeChecking.W
 LuauBetterNonstrictDotVsColon
 LuauCheckRecursionLimit
+LuauCovariant
 LuauEnableAsKeyword
 LuauFasterSub
 LuauFixSelectCrash
@@ -13842,10 +13825,8 @@ MEAA_NPEAV1
 MEAA_NPEAVQEvent
 MEAA_NPEAVQObject
 MEAA_NPEAVQTreeWidgetItem
-MEAA_NPEAVQWebFrame
 MEAAPEAV12
 MEAAPEAVQNetworkReply
-MEAAPEAVQObject
 MEAAPEAVQSplitterHandle
 MEAAPEAVQTextObject
 MEAAPEAVQWidget
@@ -13854,7 +13835,6 @@ MEAAXAEBVQItemSelection
 MEAAXAEBVQMetaMethod
 MEAAXAEBVQModelIndex
 MEAAXAEBVQRect
-MEAAXAEBVQString
 MEAAXAEBVQTextCursor
 MEAAXAEBVQVariant
 MEAAXPEAVQActionEvent
@@ -13888,7 +13868,6 @@ MEAAXPEAVQShowEvent
 MEAAXPEAVQTabletEvent
 MEAAXPEAVQTimerEvent
 MEAAXPEAVQTouchEvent
-MEAAXPEAVQWebFrame
 MEAAXPEAVQWheelEvent
 MEAAXPEAVQWidget
 MEAAXPEBVQMimeData
@@ -14307,8 +14286,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAuqbf6c7S6zcLbctSaqghs
-MiJbcjTCbtWXC4fqC69VsUPVJETe5FB99UX8NP
+MIICCgKCAgEA3D9fKEfDD
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14732,7 +14710,6 @@ NavigationPathUpdatesPerSecond
 NavigationPathUpdatesPerStep
 NavigationPolygonMergePasses
 NavigationRemoveVertexCheckBounds
-NavigationRequest
 NavigationRequested
 NavigationSearchTileOffset
 NavigationService
@@ -14741,7 +14718,6 @@ NavigationServiceAnalyticsIntervalMillisec
 NavigationServicePercentStatsReported
 NavigationServiceTimingAnalytics
 NavigationServiceWorker
-NavigationType
 NavMeshTiles
 NCONF_dump_bio
 NCONF_dump_fp
@@ -14916,6 +14892,7 @@ NextTabPage
 NfXf`fhfzf
 NHVVariant
 NinjaMask.mesh
+NkGzf5A9XZHDFhGAnwCwDbGiLdJIluTYtm
 NNNNNNNNNNNNNNNNNNNNNN
 NNNNNNNSSSSSSSSSSSSSSSSSSSSSS
 NNW4SizeMode
@@ -15012,6 +14989,8 @@ NSNNNNNWNa
 NSNNNNNWNSNN_NSNSNSNNNNSNWN`N^^N
 NSNNNNNWNWNNN^^N
 NSNNNNNWNZP[\
+NsRJxNGMV5ChOjl1cOKMAhH2
+NTbIiV0NmmK79F07UicruimFu2WudGoXhHEYO
 Ntildesmall
 NullPassword
 NUMBER_OF_ORDERED_STREAMS
@@ -15908,7 +15887,6 @@ PEAVEventIngestService
 PEAVEvents
 PEAVexception
 PEAVExplosion
-PEAVExtensionReturn
 PEAVExtrudedPartInstance
 PEAVFbxManager
 PEAVFbxNode
@@ -16114,7 +16092,6 @@ PEAVQTextDocument
 PEAVQTextDocumentPrivate
 PEAVQToolBar
 PEAVQTreeWidgetItem
-PEAVQWebFrame
 PEAVQWidget
 PEAVQWidgetPluginGui
 PEAVQWindow
@@ -16304,7 +16281,6 @@ PEBUFileMeshData
 PEBUQMetaObject
 PEBUSG_VERT
 PEBVbtConvexShape
-PEBVExtensionOption
 PEBVKernel
 PEBVPropertyDescriptor
 PEBVQEvent
@@ -16353,7 +16329,6 @@ PendingRequestCount
 PendingRequests
 PenJoinStyle
 PENTANOMIAL
-PEPlUUpzYqBvBLeNQYM2JodHv34VroBWrWfPQoECGDqINjbJvMP
 Percentage
 PercentageSuccesful_
 PercentageThresholdUsingFriendsV2A3
@@ -17379,7 +17354,6 @@ QAWNcgRdAzOKj8pi5wAlnsdoumgAtB1J7d
 QBoxLayout
 QButtonGroup
 QByteArray
-QChildEvent
 QClipboard
 QColorDialog
 QCommonStyle
@@ -17587,7 +17561,6 @@ QEAAXPEAVQTextBlockUserData
 QEAAXPEAVQThreadPool
 QEAAXPEAVQToolBar
 QEAAXPEAVQTreeWidgetItem
-QEAAXPEAVQWebPage
 QEAAXPEAVQWidget
 QEAAXPEAVRibbonBar
 QEAAXPEAVRibbonGalleryItem
@@ -17612,7 +17585,6 @@ QEAAXW4ActionEvent
 QEAAXW4ApplicationState
 QEAAXW4Attribute
 QEAAXW4BGMode
-QEAAXW4BrushStyle
 QEAAXW4CaseSensitivity
 QEAAXW4CheckState
 QEAAXW4ChildIndicatorPolicy
@@ -17643,7 +17615,6 @@ QEAAXW4Mode
 QEAAXW4MoveOperation
 QEAAXW4Orientation
 QEAAXW4PatternSyntax
-QEAAXW4PenCapStyle
 QEAAXW4PenStyle
 QEAAXW4Policy
 QEAAXW4Priority
@@ -17678,7 +17649,6 @@ QEAAXW4ToolBarArea
 QEAAXW4ToolButtonPopupMode
 QEAAXW4ToolButtonStyle
 QEAAXW4UnderlineStyle
-QEAAXW4WebAttribute
 QEAAXW4WidgetAttribute
 QEAAXW4WindowModality
 QEAAXW4WrapMode
@@ -17804,7 +17774,6 @@ QEBAPEAVQToolButton
 QEBAPEAVQTreeWidgetItem
 QEBAPEAVQWebFrame
 QEBAPEAVQWebPage
-QEBAPEAVQWebSettings
 QEBAPEAVQWidget
 QEBAPEAVQWindow
 QEBAPEAVRibbonBar
@@ -17865,6 +17834,7 @@ QGraphicsScene
 QGraphicsView
 QGridLayout
 QGuiApplication
+QGYiSZ3P3nyWkzQc41jyv2kCZAdAbVYqAFMvr35We6ejiCo6jwi5FUCAwEAAQ
 QHBoxLayout
 QHeaderView
 QHostAddress
@@ -18156,8 +18126,6 @@ QVariantAnimation
 QVBoxLayout
 QVersionNumber
 QWebElement
-QWebHitTestResult
-QWebSettings
 QWebSocket
 QWebSocketDataProcessor
 QWebSocketHandshakeResponse
@@ -18414,7 +18382,6 @@ RCCUnthrottledWorldStepRealTimePerc_Datacenter_
 RCCUpdateBroadphaseDtAverage
 RCCUpdateBroadphaseDtAverage_Datacenter_
 RccUse64BitAppearanceId
-RcDZypfdc7zQB
 RcpReferenceTime
 ReachActorChest
 ReachActorChestRotation
@@ -19014,7 +18981,7 @@ ReportInterpolationPerformanceNumBuckets
 ReportInterpolationPerformanceNWideBuckets
 ReportJoinAllCount
 ReportJoinDataItemCacheEfficiencyHundrethsPercentage
-ReportJoinDataItemV2CacheEfficiencyHundrethsPercentage
+ReportJoinDataItemV2CacheEfficiencyHundrethsPercentage2
 ReportLegacySolverRccJoinAllUnthrottled
 ReportLightingTechnology
 ReportLuaKicks
@@ -19385,7 +19352,6 @@ RobloxAction
 RobloxAnalyticsSubDomain
 RobloxAnalyticsURL
 RobloxBasicDoc
-RobloxBrowser
 RobloxButton
 RobloxButtonDefault
 RobloxChatWidget
@@ -19622,7 +19588,6 @@ RVideoInternal
 RVideoMemLogging
 RVideoTrace
 RxRlReport
-RyaPYyyVPeB1OfqYFRHHzwe3EIiZpOh6mDTK5WCxevj44ww0BjTGNGk1UzWHJuNq
 S_Key_dn.png
 SA_KPEAPEBV123
 SA_KPEAPEBVfacet
@@ -19749,7 +19714,6 @@ ScreenToClient
 Scriptable
 ScriptAction
 ScriptAdded
-ScriptAlert
 ScriptAnalysisDockAction
 ScriptAnalysisTreeWidget
 ScriptAnalysisWidget
@@ -19767,8 +19731,6 @@ ScriptCollabVersionHistoryEnabled
 ScriptColorPropertyChanged
 ScriptComboBox
 ScriptComment
-ScriptConfirm
-ScriptConsoleMessage
 ScriptContentId
 ScriptContentQuickOpenProviderWorker
 ScriptContext
@@ -19859,7 +19821,6 @@ ScriptPerformanceDockAction
 ScriptPerformanceViewData
 ScriptPreprocessor
 ScriptPrint
-ScriptPrompt
 ScriptRecoveryDockAction
 ScriptRecoveryWidget
 ScriptRemoved
@@ -19894,7 +19855,6 @@ ScriptType
 ScriptVersionsLoaded
 ScriptWarning
 ScriptWhitespace
-ScriptWindowObjectCleared
 ScriptZoomAction
 Scrollable
 ScrollAtlasChart
@@ -23628,7 +23588,6 @@ StudioUseCJVAppName
 StudioUseDevelopAPIForPackages
 StudioUseLocalizedColorNamesText2
 StudioUseNativeBrowserForCookieConstraint
-StudioUseNewAnimationImportExportFlow
 StudioUseNewQtNetworkWrapper
 StudioUseProdBaseUrlForStartPage
 StudioUseQtNetworkReplyForUserAgreements
@@ -24071,6 +24030,7 @@ TemplateType
 TemporaryMeshFiles
 TencentAuthPath
 TentFilterFS
+TePJqXnfIjo
 TermChanged
 TerminalIdentifier
 TerminateProcess
@@ -24116,7 +24076,6 @@ TEST_ENG_OPENSSL_RC4
 TestBoundary
 TestBoundaryPoint
 TestComplexControl
-TestContent
 TestCooperativeLevel
 TestModeInitiated
 TestParamSet
@@ -24741,7 +24700,6 @@ ToggleViewMode
 ToHostEncrypted
 ToInstance
 ToJavaScript
-ToJavaScriptWindowObject
 TokenIdentifier
 ToLatestPackageAction
 ToLineAction
@@ -24913,7 +24871,6 @@ TouchTransmitter
 ToUniversalTime
 TownAndCity
 ToWorldSpace
-TR4C9YXE4ulMlJekwWQiSvUlJSawVUKC
 TraceMessage
 Track2Data
 TrackAudioDriversPerSystem
@@ -25131,7 +25088,6 @@ U_Unforced
 UActionsQuickOpenProviderSharedState
 Uacutesmall
 Uambiguous_result
-UAobUqJ4lTK
 Uasio_client
 Uasio_tls_client
 UAssetLoadingData
@@ -25190,7 +25146,6 @@ UEAA_NPEAVQEvent
 UEAA_NPEAVQHelpEvent
 UEAA_NPEAVQObject
 UEAA_NPEBVQMimeData
-UEAA_NW4Extension
 UEAAHW4Call
 UEAAMPEAVbtCollisionObject
 UEAAPEAV_Facet_base
@@ -25223,7 +25178,6 @@ UEAAXPEAVQPainter
 UEAAXPEAVQWidget
 UEAAXPEBUbtCollisionObjectWrapper
 UEAAXW4SocketOption
-UEAAXW4WebAction
 UEBA_NAEBV0
 UEBA_NAEBVQModelIndex
 UEBA_NAEBVQPainterPath
@@ -25232,7 +25186,6 @@ UEBA_NAEBVQString
 UEBA_NPEBV1
 UEBA_NPEBVQGraphicsItem
 UEBA_NPEBVQMimeData
-UEBA_NW4Extension
 UEBAHAEBVQModelIndex
 UEBAHPEAVQWidget
 UEBAHW4ControlType
@@ -25621,7 +25574,6 @@ UPlaceInfo
 UPlaceLauncherRequestResult
 UPlaceVersionHistoryItem
 Upload.ashx
-Upload.aspx
 UploadAliasRequest
 UploadChunk
 UploadCommit
@@ -25663,7 +25615,6 @@ URLConstructionCleanup
 UrlFormattingOption
 URLHasChineseHost
 UrlMkSetSessionOption
-URLRequest
 URobloxApiGame
 URobloxFindExecutablePositionRequest
 URobloxFindExecutablePositionResponse
@@ -25823,7 +25774,6 @@ UserShouldLocalizeGameChatBubble
 UserShouldLocalizeServerMessages
 UserShouldMuteUnfilteredMessage
 UserStorageService
-UserStyleSheetUrl
 UserTagChangeNotification
 UserThumbnailAsync
 UserToken_
@@ -25867,6 +25817,7 @@ USocketDescriptor
 USoundServiceStats
 USoundTask
 USpecialIdentifiersNotification
+USpUBx5lEeejVsMin5SdDdfwBBCZFKPxqolp3Ot7p1CTii0xMF
 UStandardOutMessage
 UStartGameStatistics
 UStatistics
@@ -25939,6 +25890,7 @@ UVWATAVAWH
 UVWAUAVAWH
 UWATAUAVAW
 UWATAUAVAWH
+UwcRSmOIoP66o8xIJzLCYKrM6bGkt3NAWFHSbxwZOs0PSBkBg8V2C55QtLwI
 Uweb_response
 UWebSocketNull
 UWhiteList
@@ -25964,6 +25916,7 @@ VAdvLuaDragger
 VAdvRotateTool
 VAdvScaleTool
 VAdvTranslateTool
+Vakm1RWSH0Aa
 VAliasRequestResult
 ValidateProgram
 Validation
@@ -25973,7 +25926,6 @@ ValueArray
 ValueChanged
 ValueGetSet
 ValueLength
-ValueOwnership
 ValueReturn
 ValueTable
 Vambiguous_option
@@ -26448,6 +26400,7 @@ VGAReporterState
 VGenericJob
 VGenericNumberHandler
 VGenericSlotWrapper
+VGenericTelemetryEnabledJob
 VGeometryD3D11
 VGeometryD3D9
 VGeometryGL
@@ -26648,6 +26601,7 @@ VisuallyMoved
 VisuallySleeping
 VisualStyle
 VisualTrussStyle
+ViZV2Wyx2xIEUKKL9ByILixsd1DZ849LECSqe69XfEGwUnn5N
 VJointInstance
 VJointsService
 VK_EXT_debug_report
@@ -27288,7 +27242,6 @@ WebDocAddressBarEnabled
 WebKitAuthentication
 WebkitAuthenticationDone
 WebKitFromHttp
-WebPageStyleSheet
 WebParserInfluxWriteNanInfPerMyriad
 WebParserWriteNanInf
 WebPluginInstall
@@ -27505,7 +27458,6 @@ WMCreateProfileManager
 WMCreateSyncReader
 Wmvcore.dll
 WoodPlanks
-WOOorNhUtdsHhIHv64ywMRb896AgifQvapyIeZWJfk
 WordWrapMode
 WorkersNeeded
 Workspace.
@@ -27629,6 +27581,7 @@ XInputGetCapabilities
 XInputGetState
 XInputSetState
 Xinvalid_argument
+XkR0OnmZPt
 Xlength_error
 Xout_of_range
 XP6AXAEBUTextFilterResult
@@ -27794,14 +27747,17 @@ YAXPEBVQObject
 YAXVexception_ptr
 YAXW4error_type
 Ycircumflex
+YDi18T6vy0VKq4DwVGrHeiMnlYYlcs1xnDT0DeEG8
 Ydieresissmall
 YDYHYQYTYbYsY
 YffYZefYDNNDCOO
 YieldEvent
 YieldFuncDesc
 YieldFunction
+YPI6JKbrqMmulL6J7
 YQByteArray
 YResolution
+YurdkyMigTr0mW3MejNITNiGHEdr
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
 Z_KPEIBX_K_KPEIAU1
@@ -27820,6 +27776,7 @@ ZoomToHighlight
 ZP6APEAX1PEBX
 ZP6AX1PEAX
 ZPEAVRBXMessageBox
+ZPTaxD91bSsCbI6ls0JItd6poEXhQFdZ28gATTruQ
 ZRZZZbZt[.[
 ZVspecial_equipped_signal
 ZVTouchedSignal

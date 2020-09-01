@@ -920,6 +920,7 @@ RBX
 	GameTool
 	GcJob
 	GenericNumberHandler
+	GenericTelemetryEnabledJob
 	Geometry
 	GeometryService
 	GfxBinding
