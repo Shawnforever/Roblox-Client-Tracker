@@ -8,6 +8,7 @@ game:DefineFastFlag("TerrainToolsUseMapSettingsWithPreview2", false)
 game:DefineFastFlag("TerrainEnableErrorReporting", false)
 game:DefineFastFlag("TerrainToolsReplaceSrcTogglesOff", false)
 game:DefineFastFlag("TerrainToolsFixRegionPreviewDeactivation", false)
+game:DefineFastFlag("TerrainToolsFixLargeSmoothAirFillerMaterial", false)
 
 local function handleFlagDependencies(flag, requiredFlags)
 	if not game:GetFastFlag(flag) then

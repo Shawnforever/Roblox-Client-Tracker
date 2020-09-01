@@ -71,8 +71,6 @@ local withTheme = Theming.withTheme
 
 local AssetType = require(Library.Utils.AssetType)
 
-local FFlagAssetPreviewGenreNotType = game:DefineFastFlag("AssetPreviewGenreNotType", false)
-
 local AssetPreview = Roact.PureComponent:extend("AssetPreview")
 
 -- TODO: Later, I will need to move all the unchanged numbers
@@ -468,7 +466,7 @@ function AssetPreview:render()
 				}),
 
 				Category = Roact.createElement(AssetDescription, {
-					LeftContent = FFlagAssetPreviewGenreNotType and "Genre" or "Type",
+					LeftContent = "Genre",
 					RightContent = getGenreString(assetGenres),
 
 					LayoutOrder = layoutIndex:getNextOrder(),

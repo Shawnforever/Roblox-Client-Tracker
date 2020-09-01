@@ -16,9 +16,6 @@
 local FFlagAssetConifgOverrideAssetScrollingFrame = game:DefineFastFlag("AssetConifgOverrideAssetScrollingFrame", false)
 local FFlagToolboxUseInfinteScroller = game:DefineFastFlag("ToolboxUseInfiniteScroller", false)
 local FFlagEnableOverrideAssetCursorFix = game:GetFastFlag("EnableOverrideAssetCursorFix")
-
--- FFlagAssetConfigOverrideAssetTooltip depends on FFlagToolboxTabTooltips for the Roact upgrade
-local FFlagToolboxTabTooltips = game:GetFastFlag("ToolboxTabTooltips")
 local FFlagAssetConfigOverrideAssetTooltip = game:DefineFastFlag("AssetConfigOverrideAssetTooltip", false)
 
 local Plugin = script.Parent.Parent.Parent.Parent
