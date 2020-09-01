@@ -2878,6 +2878,7 @@ Studio.App.IdeDoc.StatusSettingUp,,,Setting up...,Setting up...,,,
 Studio.App.MyWatchTreeWidget.DeleteAll,,,Delete All,Delete All,,,
 Studio.App.MyWatchTreeWidget.DeleteWatch,,,Delete Watch,Delete Watch,,,
 Studio.App.OSVersionWarning.MacOS1010,,,Beginning in October 2020 we will be discontinuing support for MacOS 10.10. Please upgrade to MacOS 10.11+ to continue to use Roblox Studio.,Beginning in October 2020 we will be discontinuing support for MacOS 10.10. Please upgrade to MacOS 10.11+ to continue to use Roblox Studio.,,,
+Studio.App.OSVersionWarning.LearnMoreTooltip,,,Learn More,Learn More,더 알아보기,Подробнее,了解更多
 Studio.Common.Action.Apply,,,Apply,Apply,적용,Применить,应用
 Studio.Common.Action.Back,,,Back,Back,뒤로,Назад,返回
 Studio.Common.Action.Cancel,,,Cancel,Cancel,취소,Отмена,取消

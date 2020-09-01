@@ -3714,6 +3714,7 @@ AVTriangleMesh
 AVTriangleMeshPart
 AVTriangleShapeRetriever
 AVTSJobItem
+AVtVA6zjEtjlM9rVfTiZxeJx64fwZZsIq3k
 AVTweenBase
 AVTweenInfo
 AVTweenService
@@ -4037,6 +4038,7 @@ AW4ZIndexBehavior
 AwardBadge
 AwardPoints
 AwareCompare
+AWpexiRL6R1
 AX_J0W4FriendService_FriendEventType
 AX_J0W4FriendService_FriendStatus
 AX_JW4FriendService_FriendEventType
@@ -4727,7 +4729,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.447.0.410797
+ByVersion_0.447.0.410825
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -6530,6 +6532,8 @@ CountryRegionCodeReplicate
 CountShifted
 CountTimeout
 CountWidth
+CPbqCtHcDR2EDBJ2D7JoBL3uO7b1KWf6KCqqKtQi5EczpcVQYR9TxDB9NVxgU
+CQ2qOylQkiWh
 CrackedLava
 CrashDumpFileName
 CrashEvent
@@ -7926,7 +7930,6 @@ DetailedViewMouseX
 DetailedViewMouseY
 DetailsLoaded
 Detonator.png
-DEUHOJ0dbbWI88C7F4CkZJqp0HfHmR1YftTiv
 DevCameraOcclusion
 DevCameraOcclusionInvisi
 DevCameraOcclusionMode
@@ -9163,6 +9166,7 @@ EnvironmentDiffuseScale
 EnvironmentSpecularScale
 EnviroSpeed
 EoOoZoaozo
+EOstBXqQ2G
 EphemeralCounter
 EphemeralCounterInfluxReportingEnabled
 EphemeralCounterInfluxReportingPriorityHundredthsPercent
@@ -10410,7 +10414,6 @@ GCNotAlwaysMemory
 GCReducesQuota2
 GCReducesQuotaCriticalPercent
 GCReducesQuotaPercent
-GdbicSFx7kZ
 Gdotaccent
 GE_package.png
 GE_packagefolder.png
@@ -11436,6 +11439,7 @@ GuiTrackInsertionOrder
 GuiVertices
 GunCursor.png
 GunWaitCursor.png
+GUxKjpIXS6Fm5IsthdSneZjpx9eTrKLUdtScu
 GvEphfEUiHHoD6hYFI4xWGpAnIHcklKQCxrf46kAhDGeZnqIgeGszlGdWafunGE8
 GVKUTS[BXIWH\KbHi
 GXGfGkGpGuG
@@ -11728,6 +11732,7 @@ HPEAVQAction
 HPEBDHW4CaseSensitivity
 HPEBDPEBDV
 HPEBVQMimeData
+HPFWs0e8OuTw8GI6SbQ9VtiQ60NoWsUzNravQG7GCp14fAhUHI
 HQEAPEAVQGraphicsItem
 HQFSShadowed
 HQFSShadowedFSM
@@ -12760,6 +12765,7 @@ JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
 Jcircumflex
 JDJNJXJbJlJvJ
+JfF8N28HoUk
 JHJRJ\JfJpJxJ
 JHW4MembershipType
 JIIIIIIIKI
@@ -12852,6 +12858,7 @@ JumpScaresP2
 JumpToIndex
 JustEndedBusy
 JUUserNameResponseHandler
+JuVDGvtePXxtoy85dF5A
 JW4AppInstallType
 JW4FriendService_FriendStatus
 JW4HttpRequestResult
@@ -12859,6 +12866,7 @@ JW4InfoType
 JW4ItemType
 JW4TextFilterContext
 JW4ThumbnailType
+JzwLPjOBZs0Du3bCzX02NSYxlqrVP6qjsVlGOezNbI9Rd5jFHo
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -12927,8 +12935,8 @@ KnownPrefixIndex
 KodchiangUPC
 KPEAVICHull
 KPEIBX_K_KPEIAU_iobuf
+KpvgkxPiezdEgjD
 KSocialService
-KUVtiE1RQTN85sKCpAmRd
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 LabelArray
@@ -13191,6 +13199,7 @@ LevelItemCount
 LevelOfDetail
 LevelOfDetailSetting
 LevelQuality
+Lg8wqGbvlZ9v8ohmFf9mmdaRr58pghv0AtkZLja7eKM8vw9i5ND8CAwEAAQ
 Liberation
 LIBOVR_DLL_DIR
 LibsodiumDRG
@@ -14106,7 +14115,6 @@ MegaReplicationDataForReplicator
 MegaReplicatorDisconnectSwapAndPop
 MegaReplicatorDisconnectTaskBatchSize
 MegaReplicatorStartMegaSenderJob
-MegaReplicatorStoreWeakDm
 MegaReplicatorUseMarkDeadHelper
 MegaReplicatorWorldExtentsRefreshTime
 MegaRepOnlyClearWhenNewlyAlive
@@ -14286,7 +14294,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA3D9fKEfDD
+MIICCgKCAgEA2NDTFtopipBPT80niELi6hK6wVWjl9Uy52Q11MnsgQJfeZUOzmXP
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14892,7 +14900,6 @@ NextTabPage
 NfXf`fhfzf
 NHVVariant
 NinjaMask.mesh
-NkGzf5A9XZHDFhGAnwCwDbGiLdJIluTYtm
 NNNNNNNNNNNNNNNNNNNNNN
 NNNNNNNSSSSSSSSSSSSSSSSSSSSSS
 NNW4SizeMode
@@ -14989,8 +14996,6 @@ NSNNNNNWNa
 NSNNNNNWNSNN_NSNSNSNNNNSNWN`N^^N
 NSNNNNNWNWNNN^^N
 NSNNNNNWNZP[\
-NsRJxNGMV5ChOjl1cOKMAhH2
-NTbIiV0NmmK79F07UicruimFu2WudGoXhHEYO
 Ntildesmall
 NullPassword
 NUMBER_OF_ORDERED_STREAMS
@@ -15047,6 +15052,7 @@ NW4PenStyle
 NW4UserInputType
 Oacutesmall
 OAEPEncryptionSET
+OaiNtp95hmLpyUVmw3WCyUUMe4LUnuwJ6
 OAUTHBEARER
 Obj.GroupColors
 Obj.GroupsActive
@@ -17834,7 +17840,6 @@ QGraphicsScene
 QGraphicsView
 QGridLayout
 QGuiApplication
-QGYiSZ3P3nyWkzQc41jyv2kCZAdAbVYqAFMvr35We6ejiCo6jwi5FUCAwEAAQ
 QHBoxLayout
 QHeaderView
 QHostAddress
@@ -18135,6 +18140,7 @@ QWheelEvent
 QWidgetAction
 QWidgetPluginGui
 QWidgetWindow
+Ra76KwqEvKBQK61qWi
 RadialBlurFS
 RagdollBallSocketConstraint
 RagdollDefaultTimerTenthSecond
@@ -18980,7 +18986,7 @@ ReportInterpolationPerformanceMinSampleCount
 ReportInterpolationPerformanceNumBuckets
 ReportInterpolationPerformanceNWideBuckets
 ReportJoinAllCount
-ReportJoinDataItemCacheEfficiencyHundrethsPercentage
+ReportJoinDataItemCacheEfficiencyHundrethsPercentage2
 ReportJoinDataItemV2CacheEfficiencyHundrethsPercentage2
 ReportLegacySolverRccJoinAllUnthrottled
 ReportLightingTechnology
@@ -21959,6 +21965,7 @@ Studio.App.OnPublishDialog.Title
 Studio.App.OpenIDEDocErr.CloudEditConnectCancelledByUser
 Studio.App.OpenIDEDocErr.HTTPCallFailed
 Studio.App.OpenIDEDocErr.Others
+Studio.App.OSVersionWarning.LearnMore
 Studio.App.PackageManagementVerbs.ConfirmGetLatest
 Studio.App.PackageManagementVerbs.ConfirmGetLatestWarn
 Studio.App.PackageManagementVerbs.ConfirmPublishChanges
@@ -23887,10 +23894,13 @@ TattletaleMinimumClientCountWithServerVerification
 TattletaleReportToRCCCooldownSeconds
 TattletaleReportUnfilteredJobFrequencySeconds
 TattletaleReportUnfilteredJobMaxReportsPerTick
+TattletaleReportWordCount
 TattletaleScanRichTextContent
 TattletaleShuffleCount
+TattletaleSwearWordDetected
 TattletaleUseNewWordListFeatures
 TattletaleUseOriginalWordList
+TcJ73mnQzEvBEF
 Tcommaaccent
 TCP_NODELAY
 TeachingCallouts
@@ -24030,7 +24040,6 @@ TemplateType
 TemporaryMeshFiles
 TencentAuthPath
 TentFilterFS
-TePJqXnfIjo
 TermChanged
 TerminalIdentifier
 TerminateProcess
@@ -24214,6 +24223,7 @@ TextWrapped
 TextXAlignment
 TextXmlParser
 TextYAlignment
+TgBniSLRUe
 TGenericSlotWrapper
 TGenericSlotWrapper.
 ThatCausedFocusLoss
@@ -25546,6 +25556,7 @@ UpdatePluginGuiEnabledTimeout
 UpdatePluginManagement
 UpdatePrepare
 UpdatePromptSpammer
+UpdateRichTextFits
 UpdateScaleBeforeBuildRig
 UpdateSelectedPlaceItems
 UpdateSelectedPlacesButtonClicked
@@ -25664,7 +25675,6 @@ UseKeyframeMarkersForEvents2
 UseLocalizationTable
 UseLocalSpace
 UseLockFreeVoronoiSimplexContainer
-UseMegaReplicatorAssemblyList
 UseMomentumThinning
 UseNativePathWaypoint
 UseNewPostAuthenticationRequest
@@ -25817,7 +25827,6 @@ USocketDescriptor
 USoundServiceStats
 USoundTask
 USpecialIdentifiersNotification
-USpUBx5lEeejVsMin5SdDdfwBBCZFKPxqolp3Ot7p1CTii0xMF
 UStandardOutMessage
 UStartGameStatistics
 UStatistics
@@ -25890,7 +25899,6 @@ UVWATAVAWH
 UVWAUAVAWH
 UWATAUAVAW
 UWATAUAVAWH
-UwcRSmOIoP66o8xIJzLCYKrM6bGkt3NAWFHSbxwZOs0PSBkBg8V2C55QtLwI
 Uweb_response
 UWebSocketNull
 UWhiteList
@@ -25916,7 +25924,6 @@ VAdvLuaDragger
 VAdvRotateTool
 VAdvScaleTool
 VAdvTranslateTool
-Vakm1RWSH0Aa
 VAliasRequestResult
 ValidateProgram
 Validation
@@ -26601,7 +26608,6 @@ VisuallyMoved
 VisuallySleeping
 VisualStyle
 VisualTrussStyle
-ViZV2Wyx2xIEUKKL9ByILixsd1DZ849LECSqe69XfEGwUnn5N
 VJointInstance
 VJointsService
 VK_EXT_debug_report
@@ -27554,6 +27560,7 @@ XAEBVQString
 XAEBVvalue
 XAEBVwebsocket_incoming_message
 XAlignment
+XARZjmqoY7ZYC5NqDAmMSq
 Xbad_alloc
 Xbad_function_call
 XbbXXbbXGSSGGSS
@@ -27581,7 +27588,6 @@ XInputGetCapabilities
 XInputGetState
 XInputSetState
 Xinvalid_argument
-XkR0OnmZPt
 Xlength_error
 Xout_of_range
 XP6AXAEBUTextFilterResult
@@ -27747,19 +27753,17 @@ YAXPEBVQObject
 YAXVexception_ptr
 YAXW4error_type
 Ycircumflex
-YDi18T6vy0VKq4DwVGrHeiMnlYYlcs1xnDT0DeEG8
 Ydieresissmall
 YDYHYQYTYbYsY
 YffYZefYDNNDCOO
 YieldEvent
 YieldFuncDesc
 YieldFunction
-YPI6JKbrqMmulL6J7
 YQByteArray
 YResolution
-YurdkyMigTr0mW3MejNITNiGHEdr
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
+Yz55Q9g987Mq6R2hKlHclyztBcSisHcG26kIHbRoONRoVle5b3ch0TGsToyHVcd
 Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
 Zdotaccent
@@ -27776,7 +27780,6 @@ ZoomToHighlight
 ZP6APEAX1PEBX
 ZP6AX1PEAX
 ZPEAVRBXMessageBox
-ZPTaxD91bSsCbI6ls0JItd6poEXhQFdZ28gATTruQ
 ZRZZZbZt[.[
 ZVspecial_equipped_signal
 ZVTouchedSignal

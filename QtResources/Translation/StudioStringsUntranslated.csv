@@ -875,7 +875,8 @@ Studio.App.MyGamesPage.GroupGames,,Group Games,Group Games
 Studio.App.MyGamesPage.SharedWithMe,,Shared With Me,Shared With Me
 Studio.App.MyWatchTreeWidget.DeleteAll,,Delete All,Delete All
 Studio.App.MyWatchTreeWidget.DeleteWatch,,Delete Watch,Delete Watch
-Studio.App.OSVersionWarning.MacOS1010,,Beginning in October 2020 we will be discontinuing support for MacOS 10.10. Please upgrade to MacOS 10.11+ to continue to use Roblox Studio.,Beginning in October 2020 we will be discontinuing support for MacOS 10.10. Please upgrade to MacOS 10.11+ to continue to use Roblox Studio.
+Studio.App.OSVersionWarning.LearnMore,Appears on a popup that warns users they are using an OS version that will soon no longer be supported. Links to a page with more information.,Learn More,Learn More
+Studio.App.OSVersionWarning.MacOS1010,,Beginning in November 2020 we will be discontinuing support for MacOS 10.10. Please upgrade to MacOS 10.11+ to continue to use Roblox Studio.,Beginning in November 2020 we will be discontinuing support for MacOS 10.10. Please upgrade to MacOS 10.11+ to continue to use Roblox Studio.
 Studio.App.OSVersionWarning.MacOS109,,Beginning in November 2019 we will be discontinuing support for MacOS 10.9. Please upgrade to MacOS 10.10+ to continue to use Roblox Studio.,Beginning in November 2019 we will be discontinuing support for MacOS 10.9. Please upgrade to MacOS 10.10+ to continue to use Roblox Studio.
 Studio.App.OnPublishDialog.BasicSettings,,Basic Settings,Basic Settings
 Studio.App.OnPublishDialog.Description,,Description:,Description:
