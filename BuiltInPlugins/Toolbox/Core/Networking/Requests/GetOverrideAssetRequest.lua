@@ -15,8 +15,6 @@ local SetOverrideCursor = require(Actions.SetOverrideCursor)
 local FFlagEnableOverrideAssetCursorFix = game:GetFastFlag("EnableOverrideAssetCursorFix")
 local FFlagFixOverrideAssetGroupPlugins = game:DefineFastFlag("FixOverrideAssetGroupPlugins", false)
 
-local FFlagStudioUseNewAnimationImportExportFlow = settings():GetFFlag("StudioUseNewAnimationImportExportFlow")
-
 local function filterAssetByCreatorId(resultsArray, creatorId)
 	local results = {}
 	for index, asset in pairs(resultsArray) do
@@ -140,19 +138,17 @@ return function(networkInterface, assetTypeEnum, creatorType, creatorId, targetP
 			if FFlagFixOverrideAssetGroupPlugins then
 				category = assetTypeEnum == Enum.AssetType.Plugin and "Plugin" or category
 			end
-			if FFlagStudioUseNewAnimationImportExportFlow then
-				category = assetTypeEnum == Enum.AssetType.Animation and "Animation" or category
-			end
+			category = assetTypeEnum == Enum.AssetType.Animation and "Animation" or category
 		else
 			if assetTypeEnum == Enum.AssetType.Plugin then
 				category = "Plugin"
-			elseif FFlagStudioUseNewAnimationImportExportFlow and assetTypeEnum == Enum.AssetType.Animation then
+			elseif assetTypeEnum == Enum.AssetType.Animation then
 				category = "Animation"
 			end
 		end
 
 		if creatorType == "Group" then
-			if FFlagStudioUseNewAnimationImportExportFlow and category == "Animation" then
+			if category == "Animation" then
 				if FFlagEnableOverrideAssetCursorFix then
 					local currentCursor = store:getState().overrideCursor
 					local targetCursor = currentCursor.nextPageCursor or ""
