@@ -6,5 +6,5 @@ source = "git+https://github.rbx.com/roblox/lua-chat-deps#master"
 dependencies = [
     "AssetCard asset-card c7b683fb git+https://github.com/roblox/asset-card#v1.0.2",
     "RoduxNetworking rodux-networking ea19cfe3 git+https://github.rbx.com/roblox/rodux-networking#v1.0.1",
-    "UIBlox UIBlox c6dda82b git+https://github.com/roblox/uiblox#master",
+    "UIBlox UIBlox 35fd56d3 git+https://github.com/roblox/uiblox#master",
 ]
