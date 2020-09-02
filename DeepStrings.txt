@@ -729,6 +729,7 @@ AnkleStabilizationRecoveryTime
 AnkleStabilizationRecoveryTimeMode
 AnkleStabilizationTime
 AnkleStabilizationTimeMode
+AnOjjXQyRfHelNpxrVToeRHvw2EniudcNX8CZPq1DxLIWrHnqpvB
 AnthroArtistIntentFBXImporterIntermediateState
 AnthroPercentInHundredths
 AnthroStandardPartIds
@@ -4059,6 +4060,7 @@ AXAEBVVariant
 AXAEBVVector2
 AXAEBVVector3
 AXAEBVwebsocket_incoming_message
+AXfck3NXCEIeraUxnIAXYz6MhpbuxEp7m9o6h18UBClbMr
 AXHHHW4CellMaterial
 AXHHHW4WaterCellForce
 AXHVVector3
@@ -4124,6 +4126,7 @@ AXW4UiMessageType
 AXW4UserCFrame
 AXW4UserInputType
 AXW4VRTouchpad
+AZT5vIWYMjrkZ1KO1VCzef
 BA447F42A91111E2B410EF351327957B
 BA886F11E18561866242201959
 BAA3C620681180838E23F0DC6224
@@ -5096,6 +5099,7 @@ CFrame.new
 CFrameDecal
 CFrameOnly
 CFrameValue
+Cftq8gTfaChIDcphp
 ChainCAFile
 ChainCAPath
 Chalkboard
@@ -5259,6 +5263,7 @@ ChildrenWaitingForTheirTurn
 ChildrenWaitingForTheirTurn[
 ChinaJointVenture
 ChinaLicensingApp
+ChlXOayYLJvTReWNeoIaTTyUaX3LleuMDjX6hh6RDI
 ChoosePixelFormat
 ChoosePixelFormatARB
 ChoosePixelFormatEXT
@@ -5939,6 +5944,7 @@ Cnd_register_at_thread_exit
 Cnd_signal
 Cnd_timedwait
 Cnd_unregister_at_thread_exit
+CNYidhNAeDR
 CoAddRefServerProcess
 Cobblestone
 CoCreateGuid
@@ -8856,6 +8862,7 @@ EHcUgHc]oL
 EHERE\EfEpEzE
 EJJJJJJJJJJJJJJJJJJJJ
 EJTU\^bcfguw
+EKpwdWnuMmnHeeOwk3Jg86tgCcwH1CQH3
 ElapsedSeconds
 ElapsedTime
 ElasticBehavior
@@ -10268,6 +10275,7 @@ FutureIsBrightPhase2GLES3
 FutureIsBrightPhase3
 FutureIsBrightPhase3iOS
 FutureIsBrightPhase3Vulkan
+FvpWvOJau1JpTVt
 FXCompositing
 FXCompositingFS
 FXCompositingLinearFS
@@ -11213,12 +11221,14 @@ GfxPartInvalidationBudgetMs
 GGGGGGGGGG
 GGGGGGGGGGGGGGGGGGGGGGGGGG
 GGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+Gig39OJfx9gC
 GIM_ShapeRetriever
 GImpactCollisionAlgorithm
 GImpactCompound
 GImpactCompoundShape
 GiveFocusBackAfterClickingTextbox
 GizmoRaycast
+GKX4NOuHulcreklyp1
 GL_ARB_pixel_buffer_object
 GL_ARB_texture_storage
 GL_EXT_texture_border_clamp
@@ -12021,6 +12031,7 @@ HW4PacketPriority
 HwngSmldAskhBcraMaweNegsOgnaT
 HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdnaNpnmHohcWsrhCkaiDstiKizeY
 HWYGOTH.ttf
+HXvQp2NmX9r4PZjyenlUwJaKOebQC591j2E3n70FpPGfeKS1x6
 HybridEvent
 HyIyPyVy]y^yey
 Iacutesmall
@@ -12603,6 +12614,7 @@ InvokePreloadCallbackFromDMJob
 InvokeServer
 InWithTheNew
 IObjectWithSiteImpl
+IOU36Mf25GCve
 IPAddrBlocks
 IPAddressChoice
 IPAddressFamily
@@ -12792,6 +12804,7 @@ JasmineUPC
 JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
+JCD4zDqrZrx
 Jcircumflex
 JD2bL41NJgZFJ
 JDJNJXJbJlJvJ
@@ -14926,6 +14939,7 @@ NextSpawnLocation
 NextTabPage
 NfXf`fhfzf
 NHVVariant
+NID09DYaSpd
 NinjaMask.mesh
 NNNNNNNNNNNNNNNNNNNNNN
 NNNNNNNSSSSSSSSSSSSSSSSSSSSSS
@@ -17320,6 +17334,7 @@ PROXY_CERT_INFO_EXTENSION
 PROXY_POLICY
 ProxyAction
 PSPECIFIED
+PtPFx5R1NlwKuVF3
 PUBKEY_get0
 PUBKEY_set
 PublicationInfo
@@ -17405,9 +17420,11 @@ QDebuggerClient
 QDesktopServices
 QDesktopWidget
 QDialogButtonBox
+QDIZkFNplcukHP7Aj0s12o64GL7Wvxv36l
 QDockWidget
 QDomDocument
 QDomElement
+QdOThI9wwproPW2sXeurF1GQuRh9Q0n5shNga0tt3SsSzmSjIZINhcCAwEAAQ
 QDoubleSpinBox
 QDoubleValidator
 QDragMoveEvent
@@ -19721,6 +19738,7 @@ SAXPEAUData
 SAXPEAVQObject
 SAXPEAVQStyle
 SAXPEBDP6AXAEAVQDataStream
+SBUyChudd5
 Scale_Green.png
 ScaleButton.png
 ScaleButton_dn.png
@@ -25508,6 +25526,7 @@ UnmapViewOfFile
 Unmodified
 UNonBlockingFmodSoundLoader
 UnopenedNewPost
+UNp97YaqI00gkPsQfEghitPUwv2goXZXQ8vYGM1xpcg
 Unpreferred
 Unpublished
 UnpublishedChanges
@@ -27639,6 +27658,7 @@ XInputGetState
 XInputSetState
 Xinvalid_argument
 Xlength_error
+XNFM6ZvX7V7Px8dT1c
 Xout_of_range
 XP6AXAEBUTextFilterResult
 XP6AXAEBVQString
