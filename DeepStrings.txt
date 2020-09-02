@@ -32,6 +32,7 @@ A_A^A]A\_^]H
 A_A^A]A\_H
 A_Key_dn.png
 A_KPEBX_K1PEAU_iobuf
+A_N_JVVector3
 A_NPEAVInstance
 A_NPEBVInstance
 A_NVRegion3
@@ -395,6 +396,7 @@ AEF9EAAED11E38B9D871882A8E559
 AEF9FAAED11E38B9D871882A8E559
 AEFA2AAED11E38B9D871882A8E559
 AEFA3AAED11E38B9D871882A8E559
+AERigImporterAttachRotFix
 AesSettingsCipherMode
 AF1224888D11E18561866242201959
 Affiliation
@@ -763,6 +765,8 @@ AppearanceAssetLoad_success
 AppearanceDidLoad
 AppearanceId
 AppearanceTable
+AppendTempAsset
+AppendVantagePoint
 AppInstallationId
 AppleDouble
 Application
@@ -936,6 +940,7 @@ AssetFetchMediator
 AssetFetchStatus
 AssetFolder
 AssetFormat
+AssetIdPrevalidationOnPublish
 AssetImported
 AssetLoadFailure
 AssetLoadTimeForDataCenterId_
@@ -2575,6 +2580,7 @@ AVIStudioSettingsWrapper
 AVIStudioUserPreferences
 AVISuperCluster
 AViterator
+AVIUniverseController
 AVIUpdateUIManager
 AVIUserDataStoreServiceBase
 AVIVersionControlService
@@ -2625,7 +2631,6 @@ AVLineHandleAdornment
 AVLinkedListNode
 AVLinkEnabledPlainTextEdit
 AVLinkEnabledTextEdit
-AVLintDeprecatedMeta
 AVLintFormatString
 AVLintForRange
 AVLintGlobalLocal
@@ -3714,7 +3719,6 @@ AVTriangleMesh
 AVTriangleMeshPart
 AVTriangleShapeRetriever
 AVTSJobItem
-AVtVA6zjEtjlM9rVfTiZxeJx64fwZZsIq3k
 AVTweenBase
 AVTweenInfo
 AVTweenService
@@ -3767,6 +3771,7 @@ AVunpublished_package_error
 AVUnSavedScripts
 AVUnsecuredStudioGame
 AVUntrackedMemoryStatsItem
+AVUnvalidatedAssetService
 AVUpdateArbiter
 AVUpdatePromptSpammer
 AVUpdateToLatestPackageVerb
@@ -4038,9 +4043,9 @@ AW4ZIndexBehavior
 AwardBadge
 AwardPoints
 AwareCompare
-AWpexiRL6R1
 AX_J0W4FriendService_FriendEventType
 AX_J0W4FriendService_FriendStatus
+AX_JVVector3
 AX_JW4FriendService_FriendEventType
 AX_NW4KeyCode
 AXAEAVexception
@@ -4156,6 +4161,7 @@ BadgeService
 BadgesServiceThrottleFirstBackoffMilliseconds
 BadgesServiceThrottleMaxBackoffMilliseconds
 BadgesServiceThrottleThreshold
+BadgesWriteEnabled
 BadLogInfluxHundredthsPercentage
 BadLogMask
 BadMessageId_
@@ -4729,7 +4735,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.447.0.410825
+ByVersion_0.447.0.410851
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -5925,6 +5931,7 @@ Cnd_register_at_thread_exit
 Cnd_signal
 Cnd_timedwait
 Cnd_unregister_at_thread_exit
+CNpSfBzPlnC9eYHOIh
 CoAddRefServerProcess
 Cobblestone
 CoCreateGuid
@@ -6474,6 +6481,7 @@ Corporation\Roblox\FilteredExceptionCrash
 Corporation0
 Corporation1
 Corporation1402
+CorrectTeamCreatePublishWorkflow
 CorrectTextBoundsForRichText
 CorrodedMetal
 CorrodedMetal.png
@@ -6532,8 +6540,6 @@ CountryRegionCodeReplicate
 CountShifted
 CountTimeout
 CountWidth
-CPbqCtHcDR2EDBJ2D7JoBL3uO7b1KWf6KCqqKtQi5EczpcVQYR9TxDB9NVxgU
-CQ2qOylQkiWh
 CrackedLava
 CrashDumpFileName
 CrashEvent
@@ -7806,6 +7812,7 @@ DEPRECATED_ScriptComboBox
 DEPRECATED_ScriptSyntaxHighlighter
 DEPRECATED_ServerConfigCloudEditServerSaveUrl
 DEPRECATED_share.png
+DEPRECATED_ShowPlaceVersionHistoryDialog
 DEPRECATED_uiEditorHelper
 DEPRECATED_updateFromPlaceID
 DEPRECATED_UploadSetting
@@ -9008,6 +9015,7 @@ EnablePerfAudioCollection
 EnablePerfDataCollection
 EnablePerfDataCoreTimersCollection
 EnablePerfDataExtendedMemoryCollection
+EnablePerfDataGatherTelemetry
 EnablePerfDataMemoryCategoriesCollection
 EnablePerfDataMemoryCollection
 EnablePerfDataSubsystemTimersCollection
@@ -9166,7 +9174,6 @@ EnvironmentDiffuseScale
 EnvironmentSpecularScale
 EnviroSpeed
 EoOoZoaozo
-EOstBXqQ2G
 EphemeralCounter
 EphemeralCounterInfluxReportingEnabled
 EphemeralCounterInfluxReportingPriorityHundredthsPercent
@@ -11190,6 +11197,7 @@ GImpactCompound
 GImpactCompoundShape
 GiveFocusBackAfterClickingTextbox
 GizmoRaycast
+GJDFZSAVZLgsGT5bMB5xh73AAAjcAWE0gulUvRq9UgD
 GL_ARB_pixel_buffer_object
 GL_ARB_texture_storage
 GL_EXT_texture_border_clamp
@@ -11232,6 +11240,7 @@ GLSL.std.450
 Glsles3Mediump1
 GlslesMediump1
 GlueCursor
+GMJtUbxQNPWciK8FGm9zGAzpogstbx33gVNKxFQd8CM4pYlS8hECn
 GoldenHashes
 GoodbyeChoiceActive
 GoodbyeChoiceActiveProperty
@@ -11261,6 +11270,7 @@ GoToNextScriptLocation
 GoToPreviousScriptLocation
 GoToSourceCodeTB
 GoToVersionFailed
+GPSybHBWPMzkxZnXi2
 GpuVariance
 GrabCursor.png
 GrabRotateCursor
@@ -11439,12 +11449,12 @@ GuiTrackInsertionOrder
 GuiVertices
 GunCursor.png
 GunWaitCursor.png
-GUxKjpIXS6Fm5IsthdSneZjpx9eTrKLUdtScu
 GvEphfEUiHHoD6hYFI4xWGpAnIHcklKQCxrf46kAhDGeZnqIgeGszlGdWafunGE8
 GVKUTS[BXIWH\KbHi
 GXGfGkGpGuG
 GxI9Gpu2E2
 GyroscopeEnabled
+GztziOZJ7eqAaY1jwcSTPOEpU5Y4NDSmrBnOYaEfeQnhH
 H_Key_dn.png
 H_NAEBVQString
 H`CeIkHq7v4
@@ -11591,6 +11601,7 @@ HeartbeatForStreamingEnabledGames
 HeartbeatForStreamingEnabledGames_
 HeartbeatMonitor
 HeartbeatTimeMs
+HeDdYwl546UH3tckXIqgIHOxMcyAlyPdlkF0CAwEAAQ
 HeightExpanded
 Heightfield
 HeightfieldBuilder
@@ -11732,7 +11743,6 @@ HPEAVQAction
 HPEBDHW4CaseSensitivity
 HPEBDPEBDV
 HPEBVQMimeData
-HPFWs0e8OuTw8GI6SbQ9VtiQ60NoWsUzNravQG7GCp14fAhUHI
 HQEAPEAVQGraphicsItem
 HQFSShadowed
 HQFSShadowedFSM
@@ -12738,6 +12748,7 @@ ItemWasSet
 ItemWidget
 Iterations
 ITRedirect
+IUniverseController
 IUpdateUIManager
 IUserDataStoreServiceBase
 IVRApplications_006
@@ -12765,7 +12776,6 @@ JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
 Jcircumflex
 JDJNJXJbJlJvJ
-JfF8N28HoUk
 JHJRJ\JfJpJxJ
 JHW4MembershipType
 JIIIIIIIKI
@@ -12858,7 +12868,6 @@ JumpScaresP2
 JumpToIndex
 JustEndedBusy
 JUUserNameResponseHandler
-JuVDGvtePXxtoy85dF5A
 JW4AppInstallType
 JW4FriendService_FriendStatus
 JW4HttpRequestResult
@@ -12866,7 +12875,7 @@ JW4InfoType
 JW4ItemType
 JW4TextFilterContext
 JW4ThumbnailType
-JzwLPjOBZs0Du3bCzX02NSYxlqrVP6qjsVlGOezNbI9Rd5jFHo
+JyvQ5fxM49
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -12935,7 +12944,6 @@ KnownPrefixIndex
 KodchiangUPC
 KPEAVICHull
 KPEIBX_K_KPEIAU_iobuf
-KpvgkxPiezdEgjD
 KSocialService
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
@@ -13199,7 +13207,6 @@ LevelItemCount
 LevelOfDetail
 LevelOfDetailSetting
 LevelQuality
-Lg8wqGbvlZ9v8ohmFf9mmdaRr58pghv0AtkZLja7eKM8vw9i5ND8CAwEAAQ
 Liberation
 LIBOVR_DLL_DIR
 LibsodiumDRG
@@ -13634,7 +13641,6 @@ LuauNonstrictArgumentCounts2
 LuauRecursionLimit
 LuauReworkDotVsColonWarnings
 LuauScriptTextProvider
-LuauSetmetatableUseMetatableField
 LuauTypeInferRecursionLimit
 LuauTypeInferTypePackLoopLimit
 LuauWatchdog
@@ -14294,7 +14300,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA2NDTFtopipBPT80niELi6hK6wVWjl9Uy52Q11MnsgQJfeZUOzmXP
+MIICCgKCAgEAv
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14337,6 +14343,7 @@ MissingDumpFile
 MMW4IkDragCollisionsMode
 MMW4PartMaterial
 MMW4UserInputState
+MNYWqvH6CE
 MobileWebsite
 MockAndroidBackButtonPressed
 MockGestureGenerator
@@ -14727,6 +14734,7 @@ NavigationServicePercentStatsReported
 NavigationServiceTimingAnalytics
 NavigationServiceWorker
 NavMeshTiles
+NaXTwIN1GJz
 NCONF_dump_bio
 NCONF_dump_fp
 NCONF_get_number_e
@@ -15052,7 +15060,6 @@ NW4PenStyle
 NW4UserInputType
 Oacutesmall
 OAEPEncryptionSET
-OaiNtp95hmLpyUVmw3WCyUUMe4LUnuwJ6
 OAUTHBEARER
 Obj.GroupColors
 Obj.GroupsActive
@@ -15174,6 +15181,7 @@ OgreWidget
 OgreWidgetForGameState
 OgreWidgetShowEvent
 Oh44\h44\Q
+OhHd0Tm3kGQk5
 Ohungarumlaut
 OiCCPPhotoshop
 OldActiveElement
@@ -16246,6 +16254,7 @@ PEAVUniversalTool
 PEAVUniverseController
 PEAVUnSavedScripts
 PEAVUntrackedMemoryStatsItem
+PEAVUnvalidatedAssetService
 PEAVUpdateUIManager
 PEAVUserInputService
 PEAVUserService
@@ -16433,6 +16442,7 @@ PGSWakeOtherIfOneAssemblyIsAwake
 PGWYcapabilities
 PgYlhgtIfaRB
 PGZKl8y6RXadfJMffKMAgK
+PHlRjt3sK8gGU5N91YYvikQTNcR
 PhysicalConfigData
 PhysicalProperties
 PhysicalProperties.new
@@ -18140,7 +18150,6 @@ QWheelEvent
 QWidgetAction
 QWidgetPluginGui
 QWidgetWindow
-Ra76KwqEvKBQK61qWi
 RadialBlurFS
 RagdollBallSocketConstraint
 RagdollDefaultTimerTenthSecond
@@ -18754,6 +18763,7 @@ RenameAlias
 RenameCollisionGroup
 RenameHandler
 RenamePlace
+RenameTempAsset
 Renderables
 RenderAdvSkyGroup
 RenderAlphaKey
@@ -23149,6 +23159,7 @@ StudioDebugPackage
 StudioDefaultNewTemplatePlaceId
 StudioDeprecateQuickFindScriptStep
 StudioDeprecateQuickFindScriptTotally
+StudioDeprecateRbxWorkspaceInStudioServiceHost
 StudioDeprecateUIThemeProperty
 StudioDevForumUpdateCategoryId
 StudioDevFrameworkPackage
@@ -23158,6 +23169,7 @@ StudioDisableAutoSaveToCloud
 StudioDisabledIconWorksForAllInstances
 StudioDocActivationHistoryPreventFocusLost
 StudioDoNotEndBlockForFunctionArgs
+StudioDontLoadLastItemInFifoComboBoxes
 StudioDraftsServiceFullNameInDiff
 StudioDraftsServiceGetEditors
 StudioDraftsServiceHostCrashFix
@@ -23212,7 +23224,6 @@ StudioFixPropertyWidgetEnumCrash
 StudioFixRibbonThemeHelperParent
 StudioFixScriptDatamodelMismatch
 StudioFixSetTitleMacCrash
-StudioFixSetupCrashHandling
 StudioFixShareIcon
 StudioFixTextBoxFocusAndToolTipCloseClashHang
 StudioFixTreeViewForFlatList
@@ -23390,6 +23401,7 @@ StudioPlaceFilterScriptVersionHistorySetting
 StudioPlaceVersionHistoryHelpLink
 StudioPlaceVersionHistoryMacModalityFix
 StudioPlaceVersionHistoryMockData
+StudioPlaceVersionHistoryShowCorrectPlace
 StudioPlayer
 StudioPlayerEmulatorPluginEnabled
 StudioPlaySolo
@@ -23900,7 +23912,6 @@ TattletaleShuffleCount
 TattletaleSwearWordDetected
 TattletaleUseNewWordListFeatures
 TattletaleUseOriginalWordList
-TcJ73mnQzEvBEF
 Tcommaaccent
 TCP_NODELAY
 TeachingCallouts
@@ -24223,9 +24234,9 @@ TextWrapped
 TextXAlignment
 TextXmlParser
 TextYAlignment
-TgBniSLRUe
 TGenericSlotWrapper
 TGenericSlotWrapper.
+TGyrMtkuItwMq4bQ5ij5ahWR
 ThatCausedFocusLoss
 ThawteTimestampingCA.crl0
 ThemeAtAppStart
@@ -24883,7 +24894,7 @@ TownAndCity
 ToWorldSpace
 TraceMessage
 Track2Data
-TrackAudioDriversPerSystem
+TrackAudioDriverUpdatesPerFmodSystem
 TrackCountryRegionAPIHundredthsPercent
 TrackCurlTimeProfile
 TrackDataTypes
@@ -25324,6 +25335,7 @@ ULuaCallbacks
 UMasteringMetadata
 UMeshResource
 UMessageAndSenderId
+UmHAFMJgyvCL3LmjbfltylryXf9XNWBLDi3lBWjo45kcfMMPSy5ga1QqIAqJaSU
 UMouseDownCaptureInfo
 Unaccounted
 UnAnchorCursor
@@ -25510,6 +25522,7 @@ UntranslatedStringsHeader
 UntranslatedStringsHeaderAction
 Unull_deleter
 UnusedSounds
+UnvalidatedAssetService
 Unverified
 Up_key.png
 Up_key_dn.png
@@ -25849,6 +25862,7 @@ Utag_original_exception_type
 UTagNotifyOnParseComplete
 UTagUseAsStart
 UTaskFunctor
+Utbo39YYf2IwH
 UTeleportThreadReportInfo
 UTextDocumentDidChangeNotification
 UTextDocumentDidCloseNotification
@@ -25880,6 +25894,7 @@ UUID_UdriTagTables
 UUID_WMDRMTagTables
 Uunspecified
 UUntranslatedSourceContexts
+UuqGpUpq0PBppjH8zCqmxEAeNw1SbtZPUeZc8uZnQb9BKxDU026pLL
 UUserAgreementData
 UUserIdResponseHandler
 UUUUUUUUUUUa
@@ -27093,6 +27108,7 @@ Vunknown_exception
 Vunknown_option
 VUnSavedScripts
 VUnsecuredStudioGame
+VUnvalidatedAssetService
 VUpdateTask
 VUploadMeshComponentRequestResult
 VUploadRequestResult
@@ -27521,6 +27537,7 @@ WSASocketW
 WSAstartup
 WSAStartup
 WSAStringToAddressW
+WSs9bizkmIehpoWStdvHqo7KL89nvZrPmtHXp5I7FoXZfVg8eGwo4UYK2DQ7GnTy
 WTHelperGetProvSignerFromChain
 WTHelperProvDataFromStateData
 WWWWWWWWWW
@@ -27560,7 +27577,6 @@ XAEBVQString
 XAEBVvalue
 XAEBVwebsocket_incoming_message
 XAlignment
-XARZjmqoY7ZYC5NqDAmMSq
 Xbad_alloc
 Xbad_function_call
 XbbXXbbXGSSGGSS
@@ -27755,6 +27771,7 @@ YAXW4error_type
 Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
+Ye5r2w8fP5gUrc6PTVlq71BoWAb5iPDdpNYiJal1umd54lnEiLJBx
 YffYZefYDNNDCOO
 YieldEvent
 YieldFuncDesc
@@ -27763,10 +27780,10 @@ YQByteArray
 YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
-Yz55Q9g987Mq6R2hKlHclyztBcSisHcG26kIHbRoONRoVle5b3ch0TGsToyHVcd
 Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
 Zdotaccent
+ZFaHo4LTvrrge
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior

@@ -2941,6 +2941,7 @@ Class StudioService : Instance [NotCreatable] [Service] [NotReplicated]
 	Function bool StudioService:BaseURLHasChineseHost() {RobloxScriptSecurity}
 	Function void StudioService:ConvertToPackageUpload(string uploadUrl) {RobloxScriptSecurity}
 	Function void StudioService:CopyToClipboard(string stringToCopy) {RobloxScriptSecurity}
+	Function void StudioService:DEPRECATED_ShowPlaceVersionHistoryDialog() {RobloxScriptSecurity}
 	Function void StudioService:EmitPlacePublishedSignal() {RobloxScriptSecurity}
 	Function Dictionary StudioService:GetClassIcon(string className) {PluginSecurity}
 	Function Dictionary StudioService:GetResourceByCategory(string category) {RobloxScriptSecurity}
@@ -2963,7 +2964,7 @@ Class StudioService : Instance [NotCreatable] [Service] [NotReplicated]
 	Function void StudioService:SetDocumentDisplayName(string newName) {RobloxScriptSecurity}
 	Function void StudioService:SetPluginEnabled(int64 assetId, bool state) {RobloxScriptSecurity}
 	Function void StudioService:SetUniverseDisplayName(string newName) {RobloxScriptSecurity}
-	Function void StudioService:ShowPlaceVersionHistoryDialog() {RobloxScriptSecurity}
+	Function void StudioService:ShowPlaceVersionHistoryDialog(int64 placeId) {RobloxScriptSecurity}
 	Function void StudioService:ShowPublishToRoblox() {RobloxScriptSecurity}
 	Function void StudioService:TryInstallPlugin(int64 assetId, int64 assetVersionId) {RobloxScriptSecurity} [Yields]
 	Function void StudioService:UninstallPlugin(int64 assetId) {RobloxScriptSecurity}
@@ -3183,6 +3184,10 @@ Class UIPadding : UIComponent
 	Property UDim UIPadding.PaddingTop
 Class UIScale : UIComponent
 	Property float UIScale.Scale
+Class UnvalidatedAssetService : Instance [NotCreatable] [Service]
+	Function void UnvalidatedAssetService:AppendTempAsset(int64 id, Vector3 lookAt, Vector3 camPos, string usage) {RobloxScriptSecurity}
+	Function bool UnvalidatedAssetService:AppendVantagePoint(int64 id, Vector3 lookAt, Vector3 camPos) {RobloxScriptSecurity}
+	Function bool UnvalidatedAssetService:RenameTempAsset(int64 tempId, int64 assetId) {RobloxScriptSecurity}
 Class UserGameSettings : Instance [NotCreatable] [UserSettings]
 	Property Enum<SavedQualitySetting> UserGameSettings.SavedQualityLevel
 	Property Enum<CustomCameraMode> UserGameSettings.CameraMode {RobloxScriptSecurity}
