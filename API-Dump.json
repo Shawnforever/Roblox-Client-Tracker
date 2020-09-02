@@ -51079,6 +51079,23 @@
                 {
                     "Category": "Advanced",
                     "MemberType": "Property",
+                    "Name": "Enable Internal Beta Features",
+                    "Security": {
+                        "Read": "None",
+                        "Write": "None"
+                    },
+                    "Serialization": {
+                        "CanLoad": true,
+                        "CanSave": true
+                    },
+                    "ValueType": {
+                        "Category": "Primitive",
+                        "Name": "bool"
+                    }
+                },
+                {
+                    "Category": "Advanced",
+                    "MemberType": "Property",
                     "Name": "Enable Internal Features",
                     "Security": {
                         "Read": "None",

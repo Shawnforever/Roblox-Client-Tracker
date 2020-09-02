@@ -1027,6 +1027,7 @@ Studio.App.Property.EditQualityLevel,,Edit Quality Level,Edit Quality Level
 Studio.App.Property.EnableAutocomplete,,Enable Autocomplete,Enable Autocomplete
 Studio.App.Property.EnableCoreScriptDebugger,,Enable CoreScript Debugger,Enable CoreScript Debugger
 Studio.App.Property.EnableHttpSandboxing,,Enable Http Sandboxing,Enable Http Sandboxing
+Studio.App.Property.EnableInternalBetaFeatures,,Enable Internal Beta Features,Enable Internal Beta Features
 Studio.App.Property.EnableInternalFeatures,,Enable Internal Features,Enable Internal Features
 Studio.App.Property.ErrorColor,,Error Color,Error Color
 Studio.App.Property.ErrorReporting,,Error Reporting,Error Reporting
@@ -2655,6 +2656,7 @@ Studio.Internal.RobloxMainWindow.UnableToSave,,Unable To Save,Unable To Save
 Studio.Internal.RobloxMainWindow.UnsavedScripts,,Unsaved Scripts,Unsaved Scripts
 Studio.Internal.RobloxRibbonMainWindow.DocHistoryBackwards,,Step backwards through tab history,Step backwards through tab history
 Studio.Internal.RobloxRibbonMainWindow.DocHistoryForwards,,Step forwards through tab history,Step forwards through tab history
+Studio.Internal.RobloxRibbonMainWindow.InternalBetaFeatures,,Roblox Internal – Beta,Roblox Internal – Beta
 Studio.Internal.RobloxRibbonMainWindow.InternalFeatures,,Roblox Internal,Roblox Internal
 Studio.Internal.RobloxRibbonMainWindow.InternalFeaturesAreEnabled,,Internal Features are enabled,Internal Features are enabled
 Studio.Internal.RobloxRibbonMainWindow.InternalFeaturesMessageBoxContent,,"Your account is associated with an @roblox.com email address or has Soothsayer permissions. You also have internal-only features turned on.

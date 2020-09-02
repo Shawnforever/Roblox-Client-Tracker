@@ -30,6 +30,7 @@ A_A^A]A\_^][
 A_A^A]A\_^][H
 A_A^A]A\_^]H
 A_A^A]A\_H
+A_A^A]A\_I
 A_Key_dn.png
 A_KPEBX_K1PEAU_iobuf
 A_N_JVVector3
@@ -2440,7 +2441,6 @@ AVHumanoidNullAssetRequirement
 AVHumanoidStage
 AVHumanoidState
 AVI3DLinearFunc
-AVI5GeBnILL6tnUzScTrXr
 AVIAdornable
 AVIAnalyticsHandler
 AVIAnimatableJoint
@@ -2536,6 +2536,7 @@ AVInstancesSearchResult
 AVInstanceUpdateHandler
 AVInteractingPair
 AVInteractionInterface
+AVInternalBetaFeaturesController
 AVInternalPermissionController
 AVIntPropertyItem
 AVinvalid_argument
@@ -4320,6 +4321,7 @@ BFixOutOfBoundsMouseLocation
 BFLuaDraggersRoleSet
 BFSupportPluginDebuggingRoleSet
 BFTableOutputViewRoleSet
+Bg8w3So4RGzRDT3C1LWFf8FqLM4QYdsG95S6
 BgUpdateRedirectsDisable
 BgUpdateRedirectsHttpErrInfluxHundredthsPercentage
 BgUpdateRedirectsRejectInfluxHundredthsPercentage
@@ -4397,6 +4399,7 @@ BIO_socket_nbio
 BIO_write_ex
 BitArrayToObject
 BitstreamList
+BJddNmfrwDQrh8tVBPth766s0
 Bkg_round.png
 Bkg_square.png
 BL17qL9koPpyChCHbWVgSXbfxynzBupojeOEiuqDuGX0BFl
@@ -4598,6 +4601,7 @@ BroadPhaseIslandBufferZoneMinPartLimit
 BroadPhaseIslandMaxPartLinearFactorTenth
 BroadPhaseIslandMaxSortDepth
 BroadPhaseIslandReprocess
+BroadphaseReportOnlyUnthrottled
 BrokenAssetsResourceMenu
 BrokenResource
 BrowalliaUPC
@@ -4726,6 +4730,7 @@ BVTextureId
 BW4AlphaMode
 BW4ModelLevelOfDetail
 BWGradient.png
+BXSncmgO6zjrfN55cN6YX
 ByCongestionControl
 ByDatacenter_
 ByIPForDatacenterId_
@@ -4737,13 +4742,12 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.447.0.410863
+ByVersion_0.447.0.410872
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
 CA2168118C14FDE5E01E7934
 CA583B11E29A3DBD856014A660
-Ca6jZOOBtig9xSRdh7ww56EB3M9eIGHH2EtsRaVAuLlzHSESC1CECAwEAAQ
 CAAED11E38B9D871882A8E559
 CacheableContentProvider
 CacheableHitRate
@@ -4912,6 +4916,7 @@ CanvasRect.width
 CanvasSize
 CAP_HEIGHT
 Capabilities
+CapacityBytes
 CAPEAV_Locimp
 CAPI_dsa_do_sign
 CAPI_rsa_sign
@@ -6931,6 +6936,7 @@ CtrlResistRightCollar
 CtrlResistRightElbow
 CtrlResistRightKnee
 CtrlSpineStiffness
+CUAUFgPztyInTprHJMSvUv7UmRuWIR
 CubeFramebuffer
 CubeMipGen
 CullDistance
@@ -7102,6 +7108,7 @@ CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
 CWinTraits
+CXajjLGMGdCKgzMq2J
 CxxFrameHandler3
 CxxThrowException
 CycleOffset
@@ -8037,6 +8044,8 @@ DF41709311E28987EB530EBA4742
 DF42709311E28987EB530EBA4742
 DFbxAMatrix
 DFbxMatrix
+DFFlagStudioLSP_V2
+DFFlagStudioLSPSpacesReplacing
 DfNfXfbftf
 DGHASH_ASM
 DgNg`ghgpgxg
@@ -8268,9 +8277,7 @@ Distribution_
 DistributionPoint
 DistributionPoints
 DistToShowBufferCountSqr
-DJXDwGJ0qDx8sni6sQLf
 DKECCAK1600_ASM
-DkxzfVCSFcFiShWps
 DlcVersion
 DListenerAttributes
 DMinMaxDistance
@@ -8520,6 +8527,7 @@ DurationArrays
 DurationArrays[nLog]
 DurationConnect
 DurationInQueue
+DurationInSeconds
 DurationMakeRequest
 DurationNameLookup
 DurationReceiveResponse
@@ -8718,6 +8726,7 @@ EC_PRIVATEKEY
 EC6197DBA8011E68B9ECD8848BAB4E2
 EC6197EBA8011E68B9ECD8848BAB4E2
 EC8D73A6D9981
+Ec93tiKZ1NUT8ahJX8
 ECDH_compute_key
 ECDHParameters
 ECDHSingle
@@ -9068,6 +9077,7 @@ EnableToolboxVoteFix
 EnableTrackingAccessoryDestoyedWithLiveSignals
 EnableUniversalAppUserAgentOnMacAndWin32
 EnableUsersEndpoint
+EnableVerboseFailedUrl
 EnableVertexAttribArray
 EnableVulkanScissor
 Encipherment
@@ -9626,16 +9636,23 @@ FFFFFFFFFFFFFFF
 FFFFFFFFFFFFFFFFFFFFFFFF
 FFFIIIIIIIIIIIIIIII
 FFFPFZFdFnFxF
+FFlagAddNewlineAboveOrBelow
 FFlagCreateAndUpdateDataReplicationCache4Adding
 FFlagDebugStartPageRefreshOnF5
 FFlagEditorExportHistory
+FFlagFixPluginFileSyncBreakpoints
 FFlagSpecular
+FFlagStudioCommandBarLocalState
+FFlagStudioDebuggerRefactorLuaArguments
 FFlagStudioMacThemeChangeFixesEnabled
+FFlagStudioNewTableOutputWidget
 FFlagStudioQTitanRibbon24bitQImageCrashFix
 FFlagStudioRemoveShareOptionFromLocalFiles
 FFlagStudioSaveToCloudV2
 FFlagStudioSaveToCloudV3
+FFlagStudioTableOutputMVCRefactor
 FFlagStudioUIItemsHighlightFixEnabled
+FFlagWatchWidgetSortVariables
 FFoRLVHHHHoTJVF
 FHFRF\FfFpFzF
 FidelityRequestTriggered
@@ -11743,7 +11760,6 @@ HPEAVQAction
 HPEBDHW4CaseSensitivity
 HPEBDPEBDV
 HPEBVQMimeData
-Hpon95mvsXW3a
 HQEAPEAVQGraphicsItem
 HQFSShadowed
 HQFSShadowedFSM
@@ -11949,7 +11965,6 @@ HttpTraceLight
 HttpUseContentCacheFlag3
 HttpUseMinGzip
 HttpUserId
-Hu7AJuFTsI9prEP3JAS3yooog5ivBZ7iWGFKqheOSQtf2SeitIonXIGUjyRlvX7
 HuaTianKaiTi
 HuaTianSongTi
 HubCallback
@@ -12778,9 +12793,9 @@ JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
 Jcircumflex
+JD2bL41NJgZFJ
 JDJNJXJbJlJvJ
 JHJRJ\JfJpJxJ
-JhOavOoqyjI9qpnuOVPOe0SkUyrA3fTCp
 JHW4MembershipType
 JIIIIIIIKI
 JIRA_RIDE_192
@@ -12861,7 +12876,6 @@ JsonFormat
 JSONObject
 JSONOverflowAbort
 JSONOverflowDepth
-JtVsLa5ubqqupkGr9BsfnWeZj4itU848Z26myAlD31BtCpTC6eaNgSsEpF9
 JUGroupRolesRequestRecord
 JumpAnimation
 JumpHeight
@@ -12885,6 +12899,7 @@ K_Key_dn.png
 KaiTi_GB2312
 KAXPEBDHAEAPEAVQChar
 KBytesPerSec
+Ke4OBvH1sld6WTVs6lEg3ygfD0CW7S9kzZyfbFfUMXDeUM0lrqYzLQR7I
 KeepAliveTimeout
 KeepPositionOnInsert
 KERNEL32.dll
@@ -14289,7 +14304,6 @@ MethodQuery
 Metrics.width
 MetricsSets
 MetricType
-MgpOImbeKV8
 MHapV7R8MxA953
 MicroProfile
 MicroProfileFlip
@@ -14306,7 +14320,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAuxvWS214dl0OEbdhi8r1npS1eUDzPq
+MIICCgKCAgEAnI0ZtwHPrdckOjQFvlgWEdPxjxlTG4BLAW8LaaMZL
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14578,6 +14592,7 @@ MpsRateLimitDuration
 MQDateTime
 MQListWidgetItem
 MQModelIndex
+MqNzYp1C7YLekqiB6pCtF
 MQStandardItem
 MQTableWidgetItem
 MQTreeWidgetItem
@@ -14909,9 +14924,7 @@ NextSelectionRight
 NextSelectionUp
 NextSpawnLocation
 NextTabPage
-NFTQdUbVTYc
 NfXf`fhfzf
-NHqu3sFV095Z4MGdcNssSrTxiCjmY2VpiPg
 NHVVariant
 NinjaMask.mesh
 NNNNNNNNNNNNNNNNNNNNNN
@@ -15067,7 +15080,6 @@ NW4UserInputType
 Oacutesmall
 OAEPEncryptionSET
 OAUTHBEARER
-OBgTx1zcFBXcTmDcKvBMrav0Ez1
 Obj.GroupColors
 Obj.GroupsActive
 Obj.GroupsAllActive
@@ -15524,6 +15536,7 @@ PA_A^A]A\_^
 PA_A^A]A\_^[
 PA_A^A]A\_^]
 PA_A^A]A\_^]H
+PA1pSVJAt1f
 PacakgeServiceReportFailedRequestsRate
 Package_Size
 PackageAction
@@ -15570,6 +15583,8 @@ PackageSavedTime
 PackageService
 PackageUtilities
 PacketAsync
+PacketBytes
+PacketBytesRe
 PacketContents
 PacketError
 PacketErrorInfluxHundredthsPercentage
@@ -16644,6 +16659,7 @@ PKCS8PrivateKey_bio
 PKCS8PrivateKey_fp
 PKEY_CRYPTO
 PKEY_USAGE_PERIOD
+PkHr3AyU7ACxmJxf
 PKIMessage
 PKIResponse
 PL_TeleportBackoffBaseMs
@@ -17038,8 +17054,11 @@ PpjClientBreak
 PpjEtrFill
 PpjEtrThreshold
 PpjPmThreshold
+PPJQ5SivTnEw3Lb0UXsRmmmxlzGjcoF
 PPLTaskHandle
+PPPe5FKuFEYafh6mEq7dwTjbKz8NGPb1j51OIGayqx7eZAZ31O7Qvm7ANw9tH
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+PQqvSY6HGUJ4TrG05kA4SoUgqFvrm91r8ig55IKPVrwQ9U50rIUNqMfzhTnbTA
 Prc.length
 Prc[MouseGraphX]
 Precertificate
@@ -17456,6 +17475,7 @@ QEAAPEAVFbxMesh
 QEAAPEAVFbxNode
 QEAAPEAVFbxNodeAttribute
 QEAAPEAVQAction
+QEAAPEAVQGraphicsPixmapItem
 QEAAPEAVQListWidgetItem
 QEAAPEAVQMenu
 QEAAPEAVQNetworkReply
@@ -17570,6 +17590,7 @@ QEAAXPEAVQNetworkCookieJar
 QEAAXPEAVQNetworkReply
 QEAAXPEAVQObject
 QEAAXPEAVQPaintDevice
+QEAAXPEAVQPainter
 QEAAXPEAVQPushButton
 QEAAXPEAVQRunnable
 QEAAXPEAVQScreen
@@ -18174,6 +18195,8 @@ RaknetBandwidthMetricsAddServerIp
 RaknetBandwidthMetricsReportValidPing
 RaknetBandwidthMetricsV2
 RaknetBandwidthPingSendEveryXSeconds
+RaknetBwStatsInfluxReportDurationInSeconds
+RakNetComputeTxBw
 RakNetConnectionStartWindow_HundredthsPercentage
 RakNetDatagramMessageIdArrayLength
 RakNetDetectNetUnreachable
@@ -18181,6 +18204,7 @@ RakNetDidNotStartConnectAttempt
 RakNetFixBwCollapse
 RakNetHealthStats
 RakNetIgnoredPercent_Platform_
+RaknetInfluxHundredthsPercentage
 RakNetLoopMs
 RakNetNakResendDelayMs
 RakNetNakResendDelayMsMax
@@ -18384,6 +18408,7 @@ RCCPhysicsUnthrottledRealTimePercStat
 RCCProfilerDataComplete
 RCCProfilerRecordFrameRate
 RCCProfilerRecordTimeFrame
+RccRakPeerTxBw
 RCCReceiveEventStringDataLimitBytes
 RCCReceiveEventVariantCountLimit
 RCCService
@@ -19360,6 +19385,7 @@ RigidBodyLazyUpdating
 RigidityEnabled
 RiseVelocity
 Rj0isQcnqX
+RJ5CCIS9VOGcEWlNyVC0o
 Roact.createElement
 ROBLOSECURITY
 Roblox.Hybrid
@@ -19568,6 +19594,7 @@ RSA_verify_ASN1_OCTET_STRING
 RSA_verify_PKCS1_PSS_mgf1
 RSAPrivateKey
 RSAPublicKey
+RSOxpvMHucJujsKhwuvboRMTL1D0CAwEAAQ
 RTDynamicCast
 RtlCaptureContext
 RtlLookupFunctionEntry
@@ -20550,6 +20577,7 @@ ShowHinteractableFilterResults2
 ShowImGuiAtStartup
 ShowingNoMatchesForTab
 ShowingTabWidgets
+ShowInternalBetaInSettings
 ShowLeaveConfirmation
 ShowLevelOfDetailMesh
 ShowNativeInput
@@ -22930,6 +22958,7 @@ Studio.Internal.RobloxMainWindow.UnableToSave
 Studio.Internal.RobloxMainWindow.UnsavedScripts
 Studio.Internal.RobloxRibbonMainWindow.DocHistoryBackwards
 Studio.Internal.RobloxRibbonMainWindow.DocHistoryForwards
+Studio.Internal.RobloxRibbonMainWindow.InternalBetaFeatures
 Studio.Internal.RobloxRibbonMainWindow.InternalFeatures
 Studio.Internal.RobloxRibbonMainWindow.InternalFeaturesAreEnabled
 Studio.Internal.RobloxRibbonMainWindow.InternalFeaturesMessageBoxContent
@@ -23344,6 +23373,7 @@ StudioMinorFixesForAssetPreview
 StudioMode
 StudioModeChanged
 StudioMousePanSensitivity
+StudioMultiTableIndent
 StudioMuteOnlyOnUnfocus
 StudioMuteOnlyOnUnfocus2
 StudioNativeCaptcha
@@ -25080,6 +25110,7 @@ TwoStepVerificationRequestAuth
 TwoStepVerificationRequired
 TwoStepVerificationStartingOver
 TwoStepVerificationWidgetShown
+TxBwStatLog
 TxtArray.length
 TxtArray[j]
 TXtComment
@@ -26456,6 +26487,7 @@ VHapticService
 VHCReadOnlyDocument_
 VHeartbeatTask
 VHeightfieldBuilder
+VHEOX7YVucf0JG2kw
 VHighlightFormats
 VHingeConstraint
 VHingeTool
@@ -27578,7 +27610,6 @@ XAEBVQString
 XAEBVvalue
 XAEBVwebsocket_incoming_message
 XAlignment
-XasbATFaUpvOYLd7ZNTXoNA1mGHF8BNdPIGmNoo
 Xbad_alloc
 Xbad_function_call
 XbbXXbbXGSSGGSS
@@ -27597,11 +27628,11 @@ XboxPresencePolling
 XboxSaleAvatarPackageIds
 XboxUseCuratedGameSort2
 XboxUseNewValidUsernameCheck2
-XEWU9GfF7hc7dQMYmXoD7dYrF5zWUb0lzW0vMhhJ5k8XnXut
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XGetLastError
 XHW4Status_e
+Xi10AAImba6pcFfI7
 XInputGetBatteryInformation
 XInputGetCapabilities
 XInputGetState
@@ -27775,7 +27806,6 @@ Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
 YffYZefYDNNDCOO
-YGrzhd4Y5cZk2kq35N
 YieldEvent
 YieldFuncDesc
 YieldFunction
@@ -27789,6 +27819,7 @@ Zdotaccent
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
+ZJWuKab2zYNf7wRNqsAUcfuHh2JGTY43V
 ZLcJhLcGhM
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
@@ -27802,6 +27833,5 @@ ZPEAVRBXMessageBox
 ZRZZZbZt[.[
 ZVspecial_equipped_signal
 ZVTouchedSignal
-ZyOERkNaa7YXre0Hq7SeE8Jz4l0M9WXPsIhy6G6vUzU6GIQA
 ZZZZZZZZZZZZZZZ
 ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
