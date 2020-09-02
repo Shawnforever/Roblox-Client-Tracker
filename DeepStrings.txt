@@ -737,7 +737,6 @@ AntiAddictionManager
 AntiAddictionReport401ToLua
 AntiReplay
 AntiSpamSpamLimit
-ANwxgW7XSk
 AnyWayYouHashItOut4
 APEAU_iobuf
 ApiGamesChanged
@@ -1055,6 +1054,7 @@ AUambiguous_result
 AUArcCollector
 AUAssignmentVisitor
 AUAutocompleteResultRoot
+AuaXb9ucBo
 AUbad_adjustment
 AUbad_alloc_
 AUbad_day_of_month
@@ -4740,7 +4740,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.447.0.410878
+ByVersion_0.447.0.410886
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -5275,6 +5275,7 @@ Ciphersuites
 CircularList
 Circumflexsmall
 CityBackground.png
+CKk8Aq4tUz
 ClampColor
 ClampOVLengthAtFirstParsingError
 ClassCategory
@@ -8535,7 +8536,6 @@ DVCSResponseData
 DVPAES_ASM
 DWebBrowserEvents2
 DwmSetWindowAttribute
-DwXUAXPiED4ULt4RVyIJCnijHvN
 DX25519_ASM
 DXCloseDeviceNV
 DXLockObjectsNV
@@ -8557,6 +8557,7 @@ DynamicReloaderFileFailureInfluxHundrethsPercentage
 DynamicRotate
 DynamicThumbstick
 DynamicTToolReplacement
+Dzcf1rB8j36WHcjp
 E\HTH\HfHrH
 E_disc_bottom_link.png
 E_modified.png
@@ -8591,6 +8592,7 @@ EAB0886F11E18561866242201959
 Eacutesmall
 EAEIESEUEaEwE
 EagerBulkExecution
+EAnBUyelV542zfWdE0OO
 EarAccessory
 EARLY_EXPORTER_SECRET
 EarlyOutOnHttpRequestSendDuringShutdown
@@ -9628,6 +9630,7 @@ FetchUniverse
 FetchUserId
 FetchUsername
 FF65B11E38470F846885BB6FB
+FFbGuZvo8t0RTt6xV6742HvGFSAgZhjkh3fuoXOyMTebXp
 FFFFFFFFFFFFFFF
 FFFFFFFFFFFFFFFFFFFFFFFF
 FFFIIIIIIIIIIIIIIII
@@ -10094,7 +10097,6 @@ FoundItems
 FoundThread
 FpFramebuffer
 FpsVariance
-FQFQe64rYW
 Fractional
 Frame_.LogEnd[nLog]
 Frame_.LogStart[nLog]
@@ -12015,14 +12017,17 @@ HW4Initialization
 HW4MatchType
 HW4Orientation
 HW4PacketPriority
+HWn1jjNCe1tYE
 HwngSmldAskhBcraMaweNegsOgnaT
 HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdnaNpnmHohcWsrhCkaiDstiKizeY
 HWYGOTH.ttf
 HybridEvent
 HyIyPyVy]y^yey
+HYzchs1jfZ3cvji
 Iacutesmall
 IAEBVInstanceIdentifier
 IAutocompleter
+Iaz7dQOHMV
 IBusyStateModel
 ICCProfile
 ICharacterSubject
@@ -12132,7 +12137,6 @@ IKCollisionsMode
 IkDragCollisionsMode
 IkDraggerAnchorMode
 IkDraggerSolveIterations
-IkvmwvWIKBXgXCHwQsk7rqzwQnSiFngmnYa
 IllegalTeleport
 ILoggedInUser
 ILoginManager
@@ -12801,7 +12805,6 @@ JIRA_RIDE_711_V2
 JIRA_RIDE_785
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
-JJnyPu38pc2fJgM2cIrNFAbbA
 JKLMNOPQRSTU
 JoinBlobInvalidateCountThresholdPercent
 JoinBlobInvalidateThresholdPercent
@@ -12874,7 +12877,6 @@ JsonFormat
 JSONObject
 JSONOverflowAbort
 JSONOverflowDepth
-JtR2Ms5YdiuYPtwr6nId5GQRA84zTvdfWwZXTdpT68J
 JUGroupRolesRequestRecord
 JumpAnimation
 JumpHeight
@@ -12950,6 +12952,7 @@ KeywordFilterType
 KfaO3j5BbG6ijHHxFy22YNNJwxKTT
 KfE9k0uDfE9k
 KFKPKXK`KhK
+KG5xpdctz1c9j3
 KickByDatacenter_
 KiDszBCYB0gyp03Pc
 KillPtClicked
@@ -13537,6 +13540,7 @@ LSPObservable
 LSPServerTextCache
 LSPWarning
 LSRemoveFilePathUsingRegEx
+LTeKMniq13vozRJcEbgYiYnsH7
 LUA_UNAUTHORIZED_LOG_OUT
 LuaAnalyticsReleasePeriod
 LuaAppABTestGameDetailsPeekView
@@ -13665,7 +13669,6 @@ LuauWatchdog
 LuaVersion
 LuaWebService
 LVvuOx39]O
-Lz54wUKDu2AVjMgShUb2ZwiG2kMauuhna1c8Vdogqx
 M_NVWeakFunctionRef
 MacGamepadUseGCController
 MachineAddress
@@ -14319,7 +14322,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAwdaGc
+MIICCgKCAgEApslCcypfIFEwn1MWLGb5D0AVlIbmBDNcREq4oRt8iTg3bxosRz1K
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14667,7 +14670,6 @@ MultTransposeMatrixd
 MultTransposeMatrixf
 MusicalInstruments
 MutexLifetime
-MvZEuYhxbSht
 MW4PartMaterial
 MyModelsAction
 MyWatchTreeWidget
@@ -14926,8 +14928,6 @@ NextTabPage
 NfXf`fhfzf
 NHVVariant
 NinjaMask.mesh
-NmAMcvEh0CAwEAAQ
-NMzbKbA6BziR86CsWyvYydlVjIQzyuKleXcR
 NNNNNNNNNNNNNNNNNNNNNN
 NNNNNNNSSSSSSSSSSSSSSSSSSSSSS
 NNW4SizeMode
@@ -14941,7 +14941,6 @@ NoCoreScripts
 NoDataModelInstances
 Node_class
 NodeAndRebalance
-NoExceptionsToPartsInStreaming
 NoExperiment
 NoGraphics
 NoInfiniteLoopOnChatInfoLoadFailure
@@ -15363,7 +15362,6 @@ OptionsMenu
 OptionState
 OPUS_ARCHMASK
 OpusCustomMode
-OpYEAfRF2J38yb1AdD5
 OrCharacter
 OrCreateFileSyncItemClient
 OrderArray
@@ -16422,7 +16420,6 @@ PersistentEditor
 PersistentFifoComboBox
 PerThreadTimer
 PerThreadTimerTotal
-Pf8igFmZ5gUEaGl8Z0TKUc8hcdLEzqtPI6UXCFyi
 PGSAlign2AxesCorrectionDamping
 PGSAlign2AxesPStageFrictionConstant
 PGSAlign2AxesVStageFrictionConstant
@@ -16952,6 +16949,8 @@ PluginWidgetRelay
 PluginWidgetRelayForPluginGui
 PluginWriteTemp
 PlusButtonPressed
+Pm3jDX5fSdqouxH9C3VlEbUdEuSWMyNbfcacmfJ7Ej1wM3hl
+Pn1MRP8BJp4jVq2Oc
 POINT_SIZE
 PointBalanceCacheInvalidateTimeMs
 PointDataChanged
@@ -17366,6 +17365,7 @@ PVInstance
 PVK_header
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
+PYs6jWATg5E6aSUHZ2UEo8tucTVN3HVygHF8yemfPnimvckdXaZ4ByZwuRhVFgjC
 QAbstractAnimation
 QAbstractButton
 QAbstractConcatenable
@@ -17382,6 +17382,7 @@ QAbstractTableModel
 QActionEvent
 QActionGroup
 QActionTriggered
+QAl1ZRSDm21akOKkHrk
 QAnimationGroup
 QApplication
 QArrayData
@@ -17950,7 +17951,6 @@ QQQQQQQQQQQQQQQQQQ
 QQQQQQQQQQQQQQQQQQQQQQ
 QQQQQQQQQxxxxxxxxxxxxxxxxttttttttttttttttttttttttttttttt
 QQSupportBuildGenericApiUrl
-QqtKLTqMEu29ud8eyeDL8If
 QQuickImageProvider
 QQuickView
 QQuickWindow
@@ -18427,7 +18427,6 @@ RCCUpdateBroadphaseDtAverage
 RCCUpdateBroadphaseDtAverage_Datacenter_
 RccUse64BitAppearanceId
 RcpReferenceTime
-RDBGDk0FmwxCIu5ekDRAAf5D
 ReachActorChest
 ReachActorChestRotation
 ReachActorHead
@@ -19385,6 +19384,7 @@ RigidBodyLazyUpdating
 RigidityEnabled
 RiseVelocity
 Rj0isQcnqX
+RkBl8ytPvhDvzJ3VzOv
 Roact.createElement
 ROBLOSECURITY
 Roblox.Hybrid
@@ -20148,9 +20148,7 @@ SerializedValue
 SerializeInstance
 SerializeInstances
 Serializer
-SerializerIgnoresMD5
 SerializerPugi
-SerializerWritesB2b
 SerializeSubtree
 Serializing
 SerializingJoinInstances
@@ -20963,7 +20961,6 @@ Src.YBegin
 SrcPlaceId
 SrcUniverseId
 SRGBToLinearFS
-SrghrQ9AB3AqOIq
 SRTP_AEAD_AES_128_GCM
 SRTP_AEAD_AES_256_GCM
 SRTP_AES128_CM_SHA1_32
@@ -22974,6 +22971,7 @@ Studio.LoginManager.Login.Failure.
 Studio.LoginManager.Login.Success
 Studio.LoginManager.LogOut.Failure
 Studio.LoginManager.LogOut.Success
+Studio.LoginManager.RequestAccountInfo.Forbidden
 Studio.LoginManager.TwoStepVerification.Failure.
 Studio.LoginManager.TwoStepVerification.Success
 Studio.MassPackageUpdate.Cancelled
@@ -23022,6 +23020,7 @@ Studio.ScriptVersionHistory.CommitTime.SavePlaceVersion
 Studio.ScriptVersionHistory.CommitTime.Total
 Studio.ShareGameFromRibbon
 Studio.ShareGameFromStartPage
+Studio.ShareModalWindow.Forbidden
 Studio.TeamCreate.Active.
 Studio.TeamCreate.CollabEdit.
 Studio.TeamCreate.CollabEditVersionHistory.
@@ -23069,6 +23068,7 @@ Studio.Upload.
 Studio.UserAgreements.FailedToAccept
 Studio.UserAgreements.FailedToGet
 Studio.UserAgreements.NotAccepted
+Studio.UserDataStoreService.Forbidden
 Studio.WhatsNewWindowEvents
 Studio.Win.Active.
 Studio.Win.Active.Elevated.
@@ -23582,6 +23582,7 @@ StudioSunsetMac1010
 StudioSurfaceErrorDetail
 StudioSwitchQNetworkToHttp
 StudioSwitchQNetworkToHttp2
+StudioSwitchQNetworkToHttpLoginRequestAuth
 StudioSyncPluginSource
 StudioSyntaxCheckTimerInterval
 StudioTableOutputFocusFix
@@ -23879,6 +23880,7 @@ TakeDamage
 TakenSignal
 TakeScreenshot
 TakeThumbnail
+TaoPGO3SGJ52BW5o7RCikGnHb51GtIjeZANwa8jsDnO9ZQsK
 TapAvatarTab
 TapChatTab
 TapConversationEntry
@@ -25175,6 +25177,7 @@ UChapterDisplay
 UCharacterAppearanceAssetInfo
 Ucircumflex
 Ucircumflexsmall
+UcNjwyraPnGLxPEXXQDzRAoRiLZj1OWrU4xd3NK0dBpWJ
 UColorBlock
 UContentEncAesSettings
 UContentEncoding
@@ -25694,7 +25697,6 @@ UseAntiAddictionService
 UseBandwidthManagerForPhysicsSend
 UseBaseUrlInPlugins
 UseBaseUrlNotHardcodedUrl
-UseBlake2BHashInSharedString2
 UseBottomBar
 UseChaCha20Encryption
 UseCharArrayForKeyMaterial
@@ -25852,7 +25854,7 @@ UseTaskSchedulerThreadLimit
 UseTelegrafHTTPTransport
 UseThresholdForMotor6DWakes2
 UseTLSv1_2_a
-UseTouchSenderByteBudget
+UseTouchSenderByteBudget2
 UseUniverseConfigurationPermissionsFlags
 UseVelocityGateForMoment
 UseVersionedEncryptionFormat
@@ -26443,6 +26445,7 @@ VFunctions
 VFunctionScriptSlot
 Vfuture_already_retrieved
 Vfuture_uninitialized
+VfZSLK7rAJnvC4I9l09QDFi5PFR9IpN8p5DA
 VGameBasicSettings
 VGameConfigurer
 VGamepadService
@@ -26478,7 +26481,6 @@ VGuiObject
 VGUIObject
 VGuiService
 VGuiTextButton
-VGYrERCHuJDK
 VHammerTool
 VHandleAdornment
 VHandlesBase
@@ -27286,7 +27288,6 @@ WaterWaveSpeed
 WaypointIdx
 WCharArray
 Wcircumflex
-WDDKDFz6IXun74QtNiD1D
 WDU_Mbstatet
 WeakFunctionRef
 WeakThreadRef
@@ -27662,7 +27663,6 @@ XPEAVQNetworkReply
 XPEAVQToolButton
 XPEAVRobloxScriptDiffDoc
 XQColorDialog
-XqHGpxrUdr9Ehk
 Xregex_error
 XResolution
 Xtime_get_ticks
@@ -27808,21 +27808,18 @@ YffYZefYDNNDCOO
 YieldEvent
 YieldFuncDesc
 YieldFunction
-YP6bxrWwz2foFF0780Xmi
 YQByteArray
 YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
 Z_KPEIBX_K_KPEIAU1
-ZBUso5RgZG3SH8T2256kRaO56SlgCggHn
+ZBgMmAGFrCWHYD
 Zcaronsmall
 Zdotaccent
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
-ZjQ3we6HH8L9cQa9xJ
 ZLcJhLcGhM
-ZLTKH6gBJ5VM7UgYUyJoyL5oBmGfmgV7rih
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
 ZoomActive
