@@ -2440,6 +2440,7 @@ AVHumanoidNullAssetRequirement
 AVHumanoidStage
 AVHumanoidState
 AVI3DLinearFunc
+AVI5GeBnILL6tnUzScTrXr
 AVIAdornable
 AVIAnalyticsHandler
 AVIAnimatableJoint
@@ -2579,6 +2580,7 @@ AVIStudioServiceHost
 AVIStudioSettingsWrapper
 AVIStudioUserPreferences
 AVISuperCluster
+AVISystemOutputView
 AViterator
 AVIUniverseController
 AVIUpdateUIManager
@@ -4735,12 +4737,13 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.447.0.410851
+ByVersion_0.447.0.410863
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
 CA2168118C14FDE5E01E7934
 CA583B11E29A3DBD856014A660
+Ca6jZOOBtig9xSRdh7ww56EB3M9eIGHH2EtsRaVAuLlzHSESC1CECAwEAAQ
 CAAED11E38B9D871882A8E559
 CacheableContentProvider
 CacheableHitRate
@@ -5931,7 +5934,6 @@ Cnd_register_at_thread_exit
 Cnd_signal
 Cnd_timedwait
 Cnd_unregister_at_thread_exit
-CNpSfBzPlnC9eYHOIh
 CoAddRefServerProcess
 Cobblestone
 CoCreateGuid
@@ -8266,7 +8268,9 @@ Distribution_
 DistributionPoint
 DistributionPoints
 DistToShowBufferCountSqr
+DJXDwGJ0qDx8sni6sQLf
 DKECCAK1600_ASM
+DkxzfVCSFcFiShWps
 DlcVersion
 DListenerAttributes
 DMinMaxDistance
@@ -9018,6 +9022,7 @@ EnablePerfDataExtendedMemoryCollection
 EnablePerfDataGatherTelemetry
 EnablePerfDataMemoryCategoriesCollection
 EnablePerfDataMemoryCollection
+EnablePerfDataMemoryPressureCollection
 EnablePerfDataSubsystemTimersCollection
 EnablePerfDataTimerCollection
 EnablePerfPlaytestId
@@ -11197,7 +11202,6 @@ GImpactCompound
 GImpactCompoundShape
 GiveFocusBackAfterClickingTextbox
 GizmoRaycast
-GJDFZSAVZLgsGT5bMB5xh73AAAjcAWE0gulUvRq9UgD
 GL_ARB_pixel_buffer_object
 GL_ARB_texture_storage
 GL_EXT_texture_border_clamp
@@ -11240,7 +11244,6 @@ GLSL.std.450
 Glsles3Mediump1
 GlslesMediump1
 GlueCursor
-GMJtUbxQNPWciK8FGm9zGAzpogstbx33gVNKxFQd8CM4pYlS8hECn
 GoldenHashes
 GoodbyeChoiceActive
 GoodbyeChoiceActiveProperty
@@ -11270,7 +11273,6 @@ GoToNextScriptLocation
 GoToPreviousScriptLocation
 GoToSourceCodeTB
 GoToVersionFailed
-GPSybHBWPMzkxZnXi2
 GpuVariance
 GrabCursor.png
 GrabRotateCursor
@@ -11454,7 +11456,6 @@ GVKUTS[BXIWH\KbHi
 GXGfGkGpGuG
 GxI9Gpu2E2
 GyroscopeEnabled
-GztziOZJ7eqAaY1jwcSTPOEpU5Y4NDSmrBnOYaEfeQnhH
 H_Key_dn.png
 H_NAEBVQString
 H`CeIkHq7v4
@@ -11601,7 +11602,6 @@ HeartbeatForStreamingEnabledGames
 HeartbeatForStreamingEnabledGames_
 HeartbeatMonitor
 HeartbeatTimeMs
-HeDdYwl546UH3tckXIqgIHOxMcyAlyPdlkF0CAwEAAQ
 HeightExpanded
 Heightfield
 HeightfieldBuilder
@@ -11743,6 +11743,7 @@ HPEAVQAction
 HPEBDHW4CaseSensitivity
 HPEBDPEBDV
 HPEBVQMimeData
+Hpon95mvsXW3a
 HQEAPEAVQGraphicsItem
 HQFSShadowed
 HQFSShadowedFSM
@@ -11948,6 +11949,7 @@ HttpTraceLight
 HttpUseContentCacheFlag3
 HttpUseMinGzip
 HttpUserId
+Hu7AJuFTsI9prEP3JAS3yooog5ivBZ7iWGFKqheOSQtf2SeitIonXIGUjyRlvX7
 HuaTianKaiTi
 HuaTianSongTi
 HubCallback
@@ -12708,6 +12710,7 @@ IsVerified
 IsVertexArray
 IsVibrationSupported
 IsVIPDeveloper
+ISystemOutputView
 ITALIC_ANGLE
 ItalicAngle
 Item.forceActiveFocus
@@ -12777,6 +12780,7 @@ Jba5qWkYU5nARYZm1gQVP
 Jcircumflex
 JDJNJXJbJlJvJ
 JHJRJ\JfJpJxJ
+JhOavOoqyjI9qpnuOVPOe0SkUyrA3fTCp
 JHW4MembershipType
 JIIIIIIIKI
 JIRA_RIDE_192
@@ -12857,6 +12861,7 @@ JsonFormat
 JSONObject
 JSONOverflowAbort
 JSONOverflowDepth
+JtVsLa5ubqqupkGr9BsfnWeZj4itU848Z26myAlD31BtCpTC6eaNgSsEpF9
 JUGroupRolesRequestRecord
 JumpAnimation
 JumpHeight
@@ -12875,7 +12880,6 @@ JW4InfoType
 JW4ItemType
 JW4TextFilterContext
 JW4ThumbnailType
-JyvQ5fxM49
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -13631,6 +13635,7 @@ Luau.TypeChecking.
 Luau.TypeChecking.ICE
 Luau.TypeChecking.W
 LuauBetterNonstrictDotVsColon
+LuauBetterPropertyAccessOnUnion
 LuauCheckRecursionLimit
 LuauCovariant
 LuauEnableAsKeyword
@@ -14284,6 +14289,7 @@ MethodQuery
 Metrics.width
 MetricsSets
 MetricType
+MgpOImbeKV8
 MHapV7R8MxA953
 MicroProfile
 MicroProfileFlip
@@ -14300,7 +14306,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAv
+MIICCgKCAgEAuxvWS214dl0OEbdhi8r1npS1eUDzPq
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14343,7 +14349,6 @@ MissingDumpFile
 MMW4IkDragCollisionsMode
 MMW4PartMaterial
 MMW4UserInputState
-MNYWqvH6CE
 MobileWebsite
 MockAndroidBackButtonPressed
 MockGestureGenerator
@@ -14734,7 +14739,6 @@ NavigationServicePercentStatsReported
 NavigationServiceTimingAnalytics
 NavigationServiceWorker
 NavMeshTiles
-NaXTwIN1GJz
 NCONF_dump_bio
 NCONF_dump_fp
 NCONF_get_number_e
@@ -14905,7 +14909,9 @@ NextSelectionRight
 NextSelectionUp
 NextSpawnLocation
 NextTabPage
+NFTQdUbVTYc
 NfXf`fhfzf
+NHqu3sFV095Z4MGdcNssSrTxiCjmY2VpiPg
 NHVVariant
 NinjaMask.mesh
 NNNNNNNNNNNNNNNNNNNNNN
@@ -15061,6 +15067,7 @@ NW4UserInputType
 Oacutesmall
 OAEPEncryptionSET
 OAUTHBEARER
+OBgTx1zcFBXcTmDcKvBMrav0Ez1
 Obj.GroupColors
 Obj.GroupsActive
 Obj.GroupsAllActive
@@ -15181,7 +15188,6 @@ OgreWidget
 OgreWidgetForGameState
 OgreWidgetShowEvent
 Oh44\h44\Q
-OhHd0Tm3kGQk5
 Ohungarumlaut
 OiCCPPhotoshop
 OldActiveElement
@@ -16442,7 +16448,6 @@ PGSWakeOtherIfOneAssemblyIsAwake
 PGWYcapabilities
 PgYlhgtIfaRB
 PGZKl8y6RXadfJMffKMAgK
-PHlRjt3sK8gGU5N91YYvikQTNcR
 PhysicalConfigData
 PhysicalProperties
 PhysicalProperties.new
@@ -23550,6 +23555,7 @@ StudioSwitchQNetworkToHttp
 StudioSwitchQNetworkToHttp2
 StudioSyncPluginSource
 StudioSyntaxCheckTimerInterval
+StudioTableOutputFocusFix
 StudioTableOutputMVCRefactor
 StudioTCSaveAsLock
 StudioTCShowPermissionsMovedMessage
@@ -24236,7 +24242,6 @@ TextXmlParser
 TextYAlignment
 TGenericSlotWrapper
 TGenericSlotWrapper.
-TGyrMtkuItwMq4bQ5ij5ahWR
 ThatCausedFocusLoss
 ThawteTimestampingCA.crl0
 ThemeAtAppStart
@@ -25335,7 +25340,6 @@ ULuaCallbacks
 UMasteringMetadata
 UMeshResource
 UMessageAndSenderId
-UmHAFMJgyvCL3LmjbfltylryXf9XNWBLDi3lBWjo45kcfMMPSy5ga1QqIAqJaSU
 UMouseDownCaptureInfo
 Unaccounted
 UnAnchorCursor
@@ -25862,7 +25866,6 @@ Utag_original_exception_type
 UTagNotifyOnParseComplete
 UTagUseAsStart
 UTaskFunctor
-Utbo39YYf2IwH
 UTeleportThreadReportInfo
 UTextDocumentDidChangeNotification
 UTextDocumentDidCloseNotification
@@ -25894,7 +25897,6 @@ UUID_UdriTagTables
 UUID_WMDRMTagTables
 Uunspecified
 UUntranslatedSourceContexts
-UuqGpUpq0PBppjH8zCqmxEAeNw1SbtZPUeZc8uZnQb9BKxDU026pLL
 UUserAgreementData
 UUserIdResponseHandler
 UUUUUUUUUUUa
@@ -27537,7 +27539,6 @@ WSASocketW
 WSAstartup
 WSAStartup
 WSAStringToAddressW
-WSs9bizkmIehpoWStdvHqo7KL89nvZrPmtHXp5I7FoXZfVg8eGwo4UYK2DQ7GnTy
 WTHelperGetProvSignerFromChain
 WTHelperProvDataFromStateData
 WWWWWWWWWW
@@ -27577,6 +27578,7 @@ XAEBVQString
 XAEBVvalue
 XAEBVwebsocket_incoming_message
 XAlignment
+XasbATFaUpvOYLd7ZNTXoNA1mGHF8BNdPIGmNoo
 Xbad_alloc
 Xbad_function_call
 XbbXXbbXGSSGGSS
@@ -27595,6 +27597,7 @@ XboxPresencePolling
 XboxSaleAvatarPackageIds
 XboxUseCuratedGameSort2
 XboxUseNewValidUsernameCheck2
+XEWU9GfF7hc7dQMYmXoD7dYrF5zWUb0lzW0vMhhJ5k8XnXut
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XGetLastError
@@ -27771,8 +27774,8 @@ YAXW4error_type
 Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
-Ye5r2w8fP5gUrc6PTVlq71BoWAb5iPDdpNYiJal1umd54lnEiLJBx
 YffYZefYDNNDCOO
+YGrzhd4Y5cZk2kq35N
 YieldEvent
 YieldFuncDesc
 YieldFunction
@@ -27783,7 +27786,6 @@ YYYYYYYYYYYYYYYYYYYYYYYYY
 Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
 Zdotaccent
-ZFaHo4LTvrrge
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
@@ -27800,5 +27802,6 @@ ZPEAVRBXMessageBox
 ZRZZZbZt[.[
 ZVspecial_equipped_signal
 ZVTouchedSignal
+ZyOERkNaa7YXre0Hq7SeE8Jz4l0M9WXPsIhy6G6vUzU6GIQA
 ZZZZZZZZZZZZZZZ
 ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
