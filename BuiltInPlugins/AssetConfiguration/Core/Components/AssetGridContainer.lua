@@ -24,6 +24,7 @@ local FFlagToolboxFixAnalyticsBugs = game:GetFastFlag("ToolboxFixAnalyticsBugs")
 local FFlagToolboxInsertEventContextFixes = game:GetFastFlag("ToolboxInsertEventContextFixes")
 local FFlagEnableDefaultSortFix2 = game:GetFastFlag("EnableDefaultSortFix2")
 local FFlagToolboxNewAssetAnalytics = game:GetFastFlag("ToolboxNewAssetAnalytics")
+local FFlagToolboxNewInsertAnalytics = game:GetFastFlag("ToolboxNewInsertAnalytics")
 
 local Plugin = script.Parent.Parent.Parent
 
@@ -247,7 +248,7 @@ function AssetGridContainer:init(props)
 		ContextMenuHelper.tryCreateContextMenu(plugin, assetId, assetTypeId, showEditOption, localizedContent, props.tryOpenAssetConfig, isPackageAsset)
 	end
 
-	self.tryInsert = function(assetData, assetWasDragged)
+	self.tryInsert = function(assetData, assetWasDragged, insertionMethod)
 		if FFlagToolboxFixDuplicateAssetInsertions then
 			self.lastInsertAttemptTime = tick()
 		end
@@ -288,7 +289,11 @@ function AssetGridContainer:init(props)
 				assetId = assetId,
 				assetName = assetName,
 				assetTypeId = assetTypeId,
-				onSuccess = self.onAssetInsertionSuccesful,
+				onSuccess = FFlagToolboxNewAssetAnalytics and FFlagToolboxNewInsertAnalytics and function(assetId, insertedInstance)
+					self.onAssetInsertionSuccesful(assetId)
+					insertionMethod = insertionMethod or (assetWasDragged and "DragInsert" or "ClickInsert")
+					self.props.AssetAnalytics:get():logInsert(assetData, insertionMethod, insertedInstance)
+				end or self.onAssetInsertionSuccesful,
 				categoryIndex = (not FFlagUseCategoryNameInToolbox) and categoryIndex,
 				currentCategoryName = currentCategoryName,
 				categoryName = categoryName,
