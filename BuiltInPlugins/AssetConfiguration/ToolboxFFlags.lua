@@ -14,9 +14,7 @@ game:DefineFastFlag("EnableNonWhitelistedToggle", false)
 game:DefineFastFlag("EnablePurchaseV2", false)
 game:DefineFastFlag("EnableDefaultSortFix2", false)
 game:DefineFastFlag("EnableOverrideAssetCursorFix", false)
-game:DefineFastFlag("EnableOverrideAssetGroupCreationApi", false)
 game:DefineFastFlag("FixAssetUploadName", false)
-game:DefineFastFlag("EnableSearchedWithoutInsertionAnalytic", false)
 game:DefineFastFlag("UseCategoryNameInToolbox", false)
 -- Need to explicitly return something from a module
 -- Else you get an error "Module code did not return exactly one value"

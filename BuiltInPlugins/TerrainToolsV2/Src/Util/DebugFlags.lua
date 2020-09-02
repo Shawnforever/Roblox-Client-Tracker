@@ -17,4 +17,6 @@ local DebugFlags = {}
 DebugFlags.RunningUnderCLI = defineFlag("RunningUnderCLI")
 -- TODO: Maybe flag combo, if RunningUnderCLI is true then RunTests is also true?
 DebugFlags.RunTests = defineFlag("RunTests")
+DebugFlags.LogTestsQuiet = defineFlag("LogTestsQuiet")
+DebugFlags.RunDeveloperFrameworkTests = defineFlag("RunDeveloperFrameworkTests")
 return DebugFlags

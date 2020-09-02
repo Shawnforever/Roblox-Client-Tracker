@@ -17,7 +17,6 @@
 local StudioService = game:GetService("StudioService")
 
 local FFlagToolboxFixDuplicateAssetInsertions = game:DefineFastFlag("ToolboxFixDuplicateAssetInsertions", false)
-local FFlagEnableSearchedWithoutInsertionAnalytic = game:GetFastFlag("EnableSearchedWithoutInsertionAnalytic")
 local FFlagUseCategoryNameInToolbox = game:GetFastFlag("UseCategoryNameInToolbox")
 local FFlagBootstrapperTryAsset = game:GetFastFlag("BootstrapperTryAsset")
 local FFlagFixGroupPackagesCategoryInToolbox = game:GetFastFlag("FixGroupPackagesCategoryInToolbox")
@@ -90,39 +89,15 @@ function AssetGridContainer:init(props)
 		self.lastInsertAttemptTime = 0
 	end
 
-	if FFlagEnableSearchedWithoutInsertionAnalytic then
-
-		self.canInsertAsset = function()
-
-			if FFlagToolboxFixDuplicateAssetInsertions then
-				return (tick() - self.lastInsertAttemptTime > Constants.TIME_BETWEEN_ASSET_INSERTION)
-					and not self.insertToolPromise:isWaiting()
-			else
-				return (tick() - self.props.mostRecentAssetInsertTime > Constants.TIME_BETWEEN_ASSET_INSERTION)
-					and not self.insertToolPromise:isWaiting()
-			end
-		end
-
-	else
+	self.canInsertAsset = function()
 
 		if FFlagToolboxFixDuplicateAssetInsertions then
-			self.canInsertAsset = function()
-				return tick() - self.lastInsertAttemptTime > Constants.TIME_BETWEEN_ASSET_INSERTION
-			end
+			return (tick() - self.lastInsertAttemptTime > Constants.TIME_BETWEEN_ASSET_INSERTION)
+				and not self.insertToolPromise:isWaiting()
 		else
-			-- Keep track of the timestamp an asset was last inserted
-			-- Prevents double clicking on assets inserting 2 instead of just 1
-			self.lastAssetInsertedTime = 0
-
-			self.canInsertAsset = function()
-				return (tick() - self.lastAssetInsertedTime > Constants.TIME_BETWEEN_ASSET_INSERTION)
-			end
-
-			self.onAssetInserted = function()
-				self.lastAssetInsertedTime = tick()
-			end
+			return (tick() - self.props.mostRecentAssetInsertTime > Constants.TIME_BETWEEN_ASSET_INSERTION)
+				and not self.insertToolPromise:isWaiting()
 		end
-
 	end
 
 	self.openAssetPreview = function(assetData)
@@ -248,13 +223,7 @@ function AssetGridContainer:init(props)
 
 	self.onAssetInsertionSuccesful = function(assetId)
 		self.props.onAssetInserted(getNetwork(self), assetId)
-		if FFlagEnableSearchedWithoutInsertionAnalytic then
-			self.props.onAssetInsertionSuccesful()
-		else
-			if not FFlagToolboxFixDuplicateAssetInsertions then
-				self.onAssetInserted()
-			end
-		end
+		self.props.onAssetInsertionSuccesful()
 	end
 
 	self.tryCreateContextMenu = function(assetData, showEditOption, localizedContent)

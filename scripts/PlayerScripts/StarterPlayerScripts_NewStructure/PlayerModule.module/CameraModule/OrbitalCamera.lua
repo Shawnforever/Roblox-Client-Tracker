@@ -97,7 +97,6 @@ function OrbitalCamera:LoadOrCreateNumberValueParameter(name, valueType, updateF
 		valueObj.Parent = script
 		valueObj.Value = self.externalProperties[name]
 	else
-		print("externalProperties table has no entry for ",name)
 		return
 	end
 
@@ -198,7 +197,6 @@ function OrbitalCamera:GetCameraToSubjectDistance()
 end
 
 function OrbitalCamera:SetCameraToSubjectDistance(desiredSubjectDistance)
-	print("OrbitalCamera SetCameraToSubjectDistance ",desiredSubjectDistance)
 	local player = PlayersService.LocalPlayer
 	if player then
 		self.currentSubjectDistance = math.clamp(desiredSubjectDistance, self.minDistance, self.maxDistance)

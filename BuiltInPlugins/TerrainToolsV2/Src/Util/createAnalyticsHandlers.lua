@@ -23,13 +23,13 @@ return function(analyticsService)
 	end
 
 	return {
-		changeTool = function(action)
+		changeTool = function(_, action)
 			sendEvent("ToolSelected", {
 				name = action.currentTool,
 			})
 		end,
 
-		changeTab = function(action)
+		changeTab = function(_, action)
 			sendEvent("TabSelected", {
 				name = action.tabName,
 			})
@@ -50,7 +50,7 @@ return function(analyticsService)
 			sendEvent("CloseWidget")
 		end,
 
-		generateTerrain = function(numVoxels, biomeSize, seed)
+		generateTerrain = function(_, numVoxels, biomeSize, seed)
 			sendEvent("GenerateTerrain", {
 				numVoxels = numVoxels,
 				biomesize = biomeSize,
@@ -58,13 +58,13 @@ return function(analyticsService)
 			})
 		end,
 
-		useBrushTool = function(toolName)
+		useBrushTool = function(_, toolName)
 			sendEvent("UseTerrainTool", {
 				toolName = toolName,
 			})
 		end,
 
-		importTerrain = function(region, heightmap, colormap)
+		importTerrain = function(_, region, heightmap, colormap)
 			sendEvent("ImportTerrain", {
 				regionDims = ("%d,%d,%d)"):format(region.Size.x, region.Size.y, region.Size.z),
 				colorMapUrl = heightmap,
