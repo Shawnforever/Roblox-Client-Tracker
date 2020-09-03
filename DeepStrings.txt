@@ -73,7 +73,6 @@ Abandoning
 ABBBBBBBBBBBCBDE
 AbBcdHIjmMpSUwWxXyYzZ
 ABBF60C2168118C14FDE5E01E7934
-ABCDEFbKGD
 ABCDEFGABCDEFGABCDEFGABCDEFGABCDEFGABCDEFGAHIIIIIIIIJJJJJJJJJJJJJJJJJJJJJJJJJ4KLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqqqrstlllllllllluuvwxlllllllllllllllyz
 ABCDEFGHIJKLMNOPQRS
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
@@ -738,6 +737,7 @@ AntiAddictionReport401ToLua
 AntiReplay
 AntiSpamSpamLimit
 AnyWayYouHashItOut4
+AoUxoIfq8RtFXsnH7JKOsFB8MXrFIbgcpAKaWpZCywJw
 APEAU_iobuf
 ApiGamesChanged
 ApiKeyResult
@@ -1091,7 +1091,6 @@ AudioSpeakerMode
 AudioSpeakerModeChannels
 AudioSystemRate
 Auditorium
-AuDLH2dyA8c5cJgc
 AUDocumentLocation
 AUduDebugDraw
 AUDWebBrowserEvents2
@@ -4725,7 +4724,6 @@ BVQVariant
 BVRegion3int16
 BVSystemAddress
 BVTextureId
-Bw0SBQDx09d
 BW4AlphaMode
 BW4ModelLevelOfDetail
 BWGradient.png
@@ -4740,7 +4738,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.447.0.410915
+ByVersion_0.447.0.410923
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -5261,7 +5259,6 @@ ChoosePixelFormat
 ChoosePixelFormatARB
 ChoosePixelFormatEXT
 ChorusSoundEffect
-ChQOtV18OszihLP0LVneNR
 Chromecast
 ChunkShapes
 ChunkStitchMask
@@ -5847,6 +5844,7 @@ CmdUpdateBuffer
 CmdWaitEvents
 CmdWriteBufferMarkerAMD
 CmdWriteTimestamp
+CmgAKZOf0jOjvs80wSsEQco0LP4axsSoAGalt2X7kjrio2PDiyMTo7ShAUMH37J
 CMS_add0_cert
 CMS_add0_recipient_key
 CMS_add0_recipient_password
@@ -7275,6 +7273,7 @@ DataStoreServiceThrottleThreshold
 DataStoreStopUsingSerializedVersion
 DataStoreThrottleMsg
 DataStoreTouchTimeoutInSeconds
+DataStoreTrackNewAPIRequest
 DataStoreUpdateGetAPI
 DataStoreUpdateGetSortedAPI
 DataStoreUpdateIncrementAPI
@@ -7303,6 +7302,7 @@ DB33D6AAF011E38B9D871882A8E559
 DB33D7AAF011E38B9D871882A8E559
 DBD856014A660
 DBSAES_ASM
+DcHNNqGvleSyk9nfX9qT9Q1AU15kkb4t6DIXFAiqV7XuTTLSqF2sVL3
 Dconst_iterator
 DD11E2898E9FB8E4A9E79B
 DD4669DB402E11E3A29DA4266180AE0C
@@ -8856,10 +8856,8 @@ EFrontVector
 Egravesmall
 EHcUgHc]oL
 EHERE\EfEpEzE
-Eho7gsYPL9gDUqGOXrfyWNQ87tCd2SJ5Oxs
 EJJJJJJJJJJJJJJJJJJJJ
 EJTU\^bcfguw
-EkZbjXpeK0oyg4c3pYu4ud4lyK5PKLajUj3EwYT
 ElapsedSeconds
 ElapsedTime
 ElasticBehavior
@@ -9626,6 +9624,7 @@ FeatureLevel
 FeaturesAction
 FeaturesMap
 FeaturesWindow
+FesEotdEbYmbiwOdn8W
 FetchAndLoadSettingsFromCdn
 FetchAssetFailure_
 FetchCachedKeys
@@ -9660,7 +9659,6 @@ FFlagStudioTableOutputMVCRefactor
 FFlagStudioUIItemsHighlightFixEnabled
 FFlagWatchWidgetSortVariables
 FFoRLVHHHHoTJVF
-FGXiMCAwEAAQ
 FHFRF\FfFpFzF
 FidelityRequestTriggered
 FieldOfView
@@ -11223,6 +11221,7 @@ GFp_simple_set_compressed_coordinates
 GfxClusters
 GfxClustersFull
 GfxPartInvalidationBudgetMs
+GGdyMaCP78YRbrOvq6PQkVej6WWDVxWN
 GGGGGGGGGG
 GGGGGGGGGGGGGGGGGGGGGGGGGG
 GGGGGGGGGGGGGGGGGGGGGGGGGGGGG
@@ -12015,7 +12014,6 @@ HumanoidRootPart.
 HumanoidStateType
 HumanoidWithPGSConstraintsUsePhysicsState
 Hungarumlautsmall
-HUXL7SqQaBqgAKtZ
 HVChangeHistoryService
 HVQByteArray
 HVQRegularExpression
@@ -12035,6 +12033,7 @@ HW4PacketPriority
 HwngSmldAskhBcraMaweNegsOgnaT
 HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdnaNpnmHohcWsrhCkaiDstiKizeY
 HWYGOTH.ttf
+HXjfI3jIVdEuH3MCAwEAAQ
 HybridEvent
 HyIyPyVy]y^yey
 Iacutesmall
@@ -12145,7 +12144,6 @@ IID_IVPObject
 IID_IVPVBIConfig
 IID_IVPVBINotify
 IID_IVPVBIObject
-IIFHDNLZVpYHEq9NaaHMn7VDh2T2tiNpzB1KOd1UQs
 IKCollisionsMode
 IkDragCollisionsMode
 IkDraggerAnchorMode
@@ -12730,6 +12728,7 @@ IStudioPluginHost
 IStudioServiceHost
 IStudioUserPreferences
 IsUnknownOrUnder13
+IsUQNjpoGs1cyZwiA3SLDY2yjb44xy2B5rPLnOWmDbuf
 IsUserAvailableForExperiment
 IsUserAvailableForFilteringExperiment
 IsUserFeatureEnabled
@@ -12807,6 +12806,7 @@ JasmineUPC
 JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
+JcAQRPhZtn0ZmozOY
 Jcircumflex
 JDJNJXJbJlJvJ
 JHJRJ\JfJpJxJ
@@ -12890,7 +12890,6 @@ JsonFormat
 JSONObject
 JSONOverflowAbort
 JSONOverflowDepth
-JudSJvTjBDtkn
 JUGroupRolesRequestRecord
 JumpAnimation
 JumpHeight
@@ -12909,6 +12908,7 @@ JW4InfoType
 JW4ItemType
 JW4TextFilterContext
 JW4ThumbnailType
+Jxyhega4Tg7Vhd
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -12978,7 +12978,6 @@ KodchiangUPC
 KPEAVICHull
 KPEIBX_K_KPEIAU_iobuf
 KSocialService
-KTfv8BNT0cl6tMKmGwYv1gAAgomgktJR5bVwnqUo9UmhsaGCx2hbb7v
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 LabelArray
@@ -14211,7 +14210,6 @@ MenuOptionSelected
 MenuTitleChanged
 MenuToMenuInternal
 MenuTrigger
-MePjfRTcy1qY
 MERCHANTABILITY
 MergeDisable
 MergeLineNumberTextEdit
@@ -14337,7 +14335,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAyBvMsn70nFK
+MIICCgKCAgEA7D5Vgog4OBImY2Di4iVXYXuGLaHHWEgHLe5WEAyjYA0Y9b1Et0uJ
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14792,6 +14790,7 @@ NegateSelection
 NegativePart
 Negotiation
 NeighborSleepThresholdMult
+NestedPackages
 Net_PacketReceive
 Net_Peer_Send
 NETSCAPE_CERT_SEQUENCE
@@ -15094,6 +15093,7 @@ NVWorkspace
 NW4FileSystemDir
 NW4PenStyle
 NW4UserInputType
+NZylGf52ql
 Oacutesmall
 OAEPEncryptionSET
 OAUTHBEARER
@@ -15202,6 +15202,7 @@ OffsetYOriginal
 OffsetYTarget
 OffTeamCreateMainThread
 OfInstances
+OfNestedPackages
 OfOperation
 OfPacketsSent
 OfPlayerWhoOwnsTheLock
@@ -15430,7 +15431,6 @@ OSSL_STORE_SEARCH_by_alias
 OSSL_STORE_SEARCH_by_issuer_serial
 OSSL_STORE_SEARCH_by_key_fingerprint
 OSSL_STORE_SEARCH_by_name
-Ota79fpw6a1mXfBsLaN
 OtherBlues
 OtherDisconnect
 OtherError
@@ -15562,6 +15562,9 @@ PackageAlwaysPublish
 PackageAlwaysUpdate
 PackageAssetDataCallback
 PackageAutoUpdateDelayMs
+PackageContentProviderRequestFailure
+PackageContentProviderRequestStart
+PackageContentProviderRequestSuccess
 Packaged_state
 PackageDecorators
 PackageErrorCode
@@ -15591,6 +15594,8 @@ PackagePermissionPullingIntervalInSeconds
 PackagePermissionsCallback
 PackagePermissionsData
 PackagePermissionsManager
+PackagePermissionsRequestStart
+PackagePermissionsRequestSuccess
 PackageRequestWebCopy
 PackageRequestWebCopyError
 PackageRequestWebCopyStart
@@ -15780,7 +15785,6 @@ PatternOptions
 PatternSyntax
 PauseAction
 PauseSound
-PBd10pd7rlpjMjJr7rgEMJHmsTEBjmPJ8hqlSx0Gu50G
 PBKDF2PARAM
 PCDesktopClient
 PCertReqData
@@ -16440,7 +16444,6 @@ PersistentEditor
 PersistentFifoComboBox
 PerThreadTimer
 PerThreadTimerTotal
-PfuxMAIopS46bf
 PGSAlign2AxesCorrectionDamping
 PGSAlign2AxesPStageFrictionConstant
 PGSAlign2AxesVStageFrictionConstant
@@ -16745,6 +16748,7 @@ PlacePackageRelationToSymbolicLinkEndpoint
 PlacePageUrl
 PlacePercentDynamicAssemblies
 PlacePrimitives
+PlacePublishBlockedByPackage
 PlacePublishButNotDirty
 PlacePublishedToDifferentSlot
 PlacePublishFailed
@@ -17345,6 +17349,8 @@ PublicChat
 PublishAllDescendantPartOperationAsset
 PublishAsPluginVerb
 PublishAsync
+PublishBlockedByModifiedPackage
+PublishBlockedByPendingPackage
 PublishButtonClicked
 PublishCSGFailure
 PublishedGamesPageController
@@ -17365,6 +17371,7 @@ PublishSelectionToRobloxVerb
 PublishToDifferentGame
 PublishToRobloxAsVerb
 PublishToRobloxVerb
+PublishWasNotBlockedByPendingOrModifiedPackages
 PugiCrashOnUnhandledXml
 PullIterationCount
 PURCHASE_ROBUX
@@ -18194,6 +18201,7 @@ QWheelEvent
 QWidgetAction
 QWidgetPluginGui
 QWidgetWindow
+QYcfjzeXsAh0RYu3Wt
 RadialBlurFS
 RagdollBallSocketConstraint
 RagdollDefaultTimerTenthSecond
@@ -20992,7 +21000,6 @@ SRTP_AEAD_AES_128_GCM
 SRTP_AEAD_AES_256_GCM
 SRTP_AES128_CM_SHA1_32
 SRTP_AES128_CM_SHA1_80
-SrYeZXC9ertuwk6q1a8f73eu5ntTyk98nyKPfdhZDhu1Pd5S0hsj03nXm8XLV9C8
 SSAOBlurXFS
 SSAOBlurYFS
 SSAOCompositFS
@@ -23565,6 +23572,7 @@ StudioScriptEditorEventsCrashFix
 StudioScriptSize
 StudioSearchWithoutInsertionTimeSeconds
 StudioSecondsBeforeInactive
+StudioSendsMorePackageAnalytics
 StudioSendsPackageDownloadTime
 StudioServer
 StudioService
@@ -25690,7 +25698,6 @@ UQMetaObject
 UQPrivateSignal
 UQStringDataPtr
 URawUntranslatedEntry
-UrCeVrst5a6hF1iZ4fl
 UReplicatorPeerInfo
 UResponseError
 UResultDetail
@@ -25750,6 +25757,7 @@ UseLockFreeVoronoiSimplexContainer
 UseMomentumThinning
 UseNativePathWaypoint
 UseNewPostAuthenticationRequest
+UseNewReportFuntion
 UseNewSleepStage2
 UseNewTelegrafMethod
 UseNewTelegrafPriorityTag
@@ -25981,7 +25989,6 @@ UWindowShowMessageRequest
 UWindowShowMessageResponse
 UXImprovementAddSearchBar
 UXImprovementsFixEscKeyClosing
-UYq1uTjbf1fe2ZFc49oCsr5sJVsxbiGJPKJU3qjGWR1hgh
 V_http_request
 V_http_response
 VABTestEnrollmentsRequest
@@ -27590,7 +27597,6 @@ WritePluginSettingsFile
 WriteReference
 WriteSelection
 WriteVoxels
-WRVAHacPJUN
 WS2_32.dll
 WSAAddressToStringW
 WSASocketW
@@ -27654,7 +27660,6 @@ XboxPresencePolling
 XboxSaleAvatarPackageIds
 XboxUseCuratedGameSort2
 XboxUseNewValidUsernameCheck2
-XCb7OytVlU9E330OHWxuDBbXI43pFiWsw5BX
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XGetLastError
@@ -27835,15 +27840,17 @@ YffYZefYDNNDCOO
 YieldEvent
 YieldFuncDesc
 YieldFunction
+YLvQk2fTTop8AiakdD9xBl7mtm7xuewlqHS66gbDix06Zdw0uHjIm7J9XhI
 YQByteArray
 YResolution
+YvVjVCwjPn9f3S8raQWv4Ia1cIWpOlWT8EfFWQu57372Og6DmuYHeb1Pd8gt1row
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
+YZP5oFCLntOOJMX65m5QZxYz2msy16tihIXGrkhOoJsDtKSB51Zc6Y
 Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
 Zdotaccent
 ZgnhKhWhci
-ZHeTrKs1jYn4ZHhD2sDM4zgweMtfUScKTo
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
 ZLcJhLcGhM
