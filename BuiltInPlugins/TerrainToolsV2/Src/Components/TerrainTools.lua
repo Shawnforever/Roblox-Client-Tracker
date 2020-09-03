@@ -28,22 +28,27 @@ function TerrainTools:init()
 
 	self.toggleEnabled = function()
 		self:setState(function(state)
+			local newEnabled = not state.enabled
+			self:sendWindowEnabledAnalytics(newEnabled)
 			return {
-				enabled = not state.enabled,
+				enabled = newEnabled,
 			}
 		end)
 	end
 
 	self.onClose = function()
-		self:setState({
-			enabled = false,
-		})
+		local initiatedByUser = true
+		self:setEnabled(false, initiatedByUser)
 	end
 
 	self.onRestore = function(enabled)
-		self:setState({
-			enabled = enabled,
-		})
+		local initiatedByUser = false
+		self:setEnabled(enabled, initiatedByUser)
+	end
+
+	self.onWidgetEnabledChanged = function(widget)
+		local initiatedByUser = true
+		self:setEnabled(widget.Enabled, initiatedByUser)
 	end
 
 	self.onFocused = function()
@@ -63,18 +68,36 @@ function TerrainTools:init()
 				Icon = "rbxasset://textures/TerrainTools/icon_terrain_big.png",
 
 				OnClick = self.toggleEnabled,
-			})
+			}),
 		}
 	end
 end
 
-function TerrainTools:didUpdate(prevProps, prevState)
-	-- Widget open/close analytics
-	if prevState.enabled ~= self.state.enabled then
-		self.props.analytics:report("toggleWidget")
-		self.props.analytics:report(self.state.enabled and "openWidget" or "closeWidget")
+function TerrainTools:sendWindowEnabledAnalytics(enabled)
+	if not self.props.analytics then
+		return
 	end
+	self.props.analytics:report("toggleWidget")
+	self.props.analytics:report(enabled and "openWidget" or "closeWidget")
+end
 
+function TerrainTools:setEnabled(newEnabled, initiatedByUser)
+	self:setState(function(state)
+		if state.enabled == newEnabled then
+			return nil
+		end
+
+		if initiatedByUser then
+			self:sendWindowEnabledAnalytics(newEnabled)
+		end
+
+		return {
+			enabled = newEnabled,
+		}
+	end)
+end
+
+function TerrainTools:didUpdate(prevProps, prevState)
 	-- Pause the tool when hiding the dock widget
 	if prevState.enabled ~= self.state.enabled and not self.state.enabled then
 		self.props.pluginActivationController:pauseActivatedTool()
@@ -134,6 +157,8 @@ function TerrainTools:render()
 			ShouldRestore = true,
 			OnWidgetRestored = self.onRestore,
 			OnWidgetFocused = self.onFocused,
+
+			[Roact.Change.Enabled] = self.onWidgetEnabledChanged,
 		}, enabled and {
 			UIManager = Roact.createElement(Manager),
 			ToolSelectionListener = Roact.createElement(ToolSelectionListener),

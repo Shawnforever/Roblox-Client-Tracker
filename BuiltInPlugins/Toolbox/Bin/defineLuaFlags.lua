@@ -50,6 +50,7 @@ game:DefineFastFlag("ToolboxWaitForPluginOwnedStatus", false)
 game:DefineFastFlag("ToolboxInsertEventContextFixes", false)
 
 game:DefineFastFlag("ToolboxNewAssetAnalytics", false)
+game:DefineFastFlag("ToolboxNewInsertAnalytics", false)
 
 game:DefineFastFlag("AssetConfigFixAssetIdTypo", false)
 

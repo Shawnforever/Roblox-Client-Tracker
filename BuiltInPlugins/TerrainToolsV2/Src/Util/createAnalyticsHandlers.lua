@@ -2,6 +2,9 @@ local Plugin = script.Parent.Parent.Parent
 
 local Cryo = require(Plugin.Packages.Cryo)
 
+local DebugFlags = require(Plugin.Src.Util.DebugFlags)
+
+local HttpService = game:GetService("HttpService")
 local StudioService = game:GetService("StudioService")
 
 return function(analyticsService)
@@ -15,23 +18,33 @@ return function(analyticsService)
 			userId = StudioService:GetUserId(),
 		}, additionalArgs)
 
+		if DebugFlags.LogAnalytics() then
+			print(("Terrain SendEvent eventName=%s args=%s"):format(
+				tostring(eventName), HttpService:JSONEncode(args)))
+		end
+
 		analyticsService:SendEventDeferred("studio", "Terrain", eventName, args)
 	end
 
 	local function reportCounter(counterName, count)
-		analyticsService:ReportCounter(counterName, count or 1)
+		count = count or 1
+		if DebugFlags.LogAnalytics() then
+			print(("Terrain ReportCounter counterName=%s count=%s"):format(
+				tostring(counterName), tostring(count)))
+		end
+		analyticsService:ReportCounter(counterName, count)
 	end
 
 	return {
-		changeTool = function(_, action)
+		changeTool = function(_, tool)
 			sendEvent("ToolSelected", {
-				name = action.currentTool,
+				name = tool,
 			})
 		end,
 
-		changeTab = function(_, action)
+		changeTab = function(_, tab)
 			sendEvent("TabSelected", {
-				name = action.tabName,
+				name = tab,
 			})
 		end,
 
