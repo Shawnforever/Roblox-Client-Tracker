@@ -1178,6 +1178,7 @@ Class GuiService : Instance [NotCreatable] [Service] [NotReplicated]
 	Property bool GuiService.IsModalDialog  [ReadOnly] [NotReplicated] [Deprecated]
 	Property bool GuiService.IsWindows  [ReadOnly] [NotReplicated] [Deprecated]
 	Property bool GuiService.MenuIsOpen [<💾> SaveOnly] [ReadOnly] [NotReplicated]
+	Property bool GuiService.RenderHumanoidBillboards {RobloxScriptSecurity} [Hidden] [NotReplicated]
 	Property Class<GuiObject> GuiService.SelectedCoreObject {RobloxScriptSecurity} [<📁> LoadOnly] [NotReplicated]
 	Property Class<GuiObject> GuiService.SelectedObject
 	Function void GuiService:AddCenterDialog(Instance dialog, Enum<CenterDialogType> centerDialogType, Function showFunction, Function hideFunction) {RobloxScriptSecurity}

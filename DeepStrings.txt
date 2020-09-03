@@ -436,6 +436,7 @@ AHPEAU_iobuf
 AHPEAX1PEAPEAX
 AHW4DataStoreRequestType
 AHW4UserInputType
+Aj13O8SmDkKhyfgJ1I0eIRrnWCgAh2ZP
 Algorithms
 AliasRequestResult
 ALIGN_TYPE
@@ -1011,6 +1012,7 @@ AtlThunk_InitData
 Atmosphere
 AtObjectAction
 AtStartSimulator
+ATSZoLOqVR8riOUbAkbrge
 AttachConsole
 Attachment
 Attachment0
@@ -1054,7 +1056,6 @@ AUambiguous_result
 AUArcCollector
 AUAssignmentVisitor
 AUAutocompleteResultRoot
-AuaXb9ucBo
 AUbad_adjustment
 AUbad_alloc_
 AUbad_day_of_month
@@ -4480,6 +4481,7 @@ BN_rand_range
 BN_RECP_CTX_new
 BN_STACK_push
 BN_to_felem
+BnehMHIAhv
 BodyAngularVelocity
 BodyBack_Att
 BodyBackAttachment
@@ -4740,7 +4742,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.447.0.410886
+ByVersion_0.447.0.410897
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -5275,7 +5277,6 @@ Ciphersuites
 CircularList
 Circumflexsmall
 CityBackground.png
-CKk8Aq4tUz
 ClampColor
 ClampOVLengthAtFirstParsingError
 ClassCategory
@@ -8267,6 +8268,7 @@ DistanceWeightTuneInMixedPriorityHundredths
 Distortion
 DistortionSoundEffect
 Distributed
+Distributed_Physics_Ownership
 DistributedGameTime
 DistributeSoundLoadingAcrossAsyncThreads
 Distribution
@@ -8557,7 +8559,7 @@ DynamicReloaderFileFailureInfluxHundrethsPercentage
 DynamicRotate
 DynamicThumbstick
 DynamicTToolReplacement
-Dzcf1rB8j36WHcjp
+DyqlFDYUNjBgjAjhg1
 E\HTH\HfHrH
 E_disc_bottom_link.png
 E_modified.png
@@ -8592,7 +8594,6 @@ EAB0886F11E18561866242201959
 Eacutesmall
 EAEIESEUEaEwE
 EagerBulkExecution
-EAnBUyelV542zfWdE0OO
 EarAccessory
 EARLY_EXPORTER_SECRET
 EarlyOutOnHttpRequestSendDuringShutdown
@@ -8854,6 +8855,7 @@ EHcUgHc]oL
 EHERE\EfEpEzE
 EJJJJJJJJJJJJJJJJJJJJ
 EJTU\^bcfguw
+EkpTsByv0ZjJtlpBgdVW8YA6wU
 ElapsedSeconds
 ElapsedTime
 ElasticBehavior
@@ -8997,6 +8999,7 @@ EnableGetAvailableForExperimentAPI
 EnableGLScissor
 EnableGranularMemoryTabStats
 EnableHttpProxy
+EnableHumanoidBillboardRenderSwitch
 EnableHumanoidControllerSubstepping
 EnableInfluxTestInProductionTag
 EnableInternalPermissionBlockList2
@@ -9024,6 +9027,7 @@ EnableNewPreciseConvexDecompositionCollisionFidelity
 EnableOutputTableViewBeta
 EnablePerfAudioCollection
 EnablePerfDataCollection
+EnablePerfDataCoreCategoryTimersCollection
 EnablePerfDataCoreTimersCollection
 EnablePerfDataExtendedMemoryCollection
 EnablePerfDataGatherTelemetry
@@ -9630,7 +9634,6 @@ FetchUniverse
 FetchUserId
 FetchUsername
 FF65B11E38470F846885BB6FB
-FFbGuZvo8t0RTt6xV6742HvGFSAgZhjkh3fuoXOyMTebXp
 FFFFFFFFFFFFFFF
 FFFFFFFFFFFFFFFFFFFFFFFF
 FFFIIIIIIIIIIIIIIII
@@ -10215,6 +10218,7 @@ FriendshipBroken
 FriendshipEndpointMigrationRolloutPercentageV2
 FriendshipStatus
 FriendsListCacheExpirationInSeconds
+FriendsListCacheOptimizationRolloutPercentage
 FriendsListFailureExpirationInSeconds
 FriendsOnlineUrl
 FriendStatus
@@ -11762,6 +11766,7 @@ HPEBVQMimeData
 HQEAPEAVQGraphicsItem
 HQFSShadowed
 HQFSShadowedFSM
+HqtNryDjMlPBlYgoE0LP5pruP2BmEZhpnuWpv
 HQVSShadowed
 HQVSShadowedFSM
 HtmlEscaped
@@ -12017,17 +12022,14 @@ HW4Initialization
 HW4MatchType
 HW4Orientation
 HW4PacketPriority
-HWn1jjNCe1tYE
 HwngSmldAskhBcraMaweNegsOgnaT
 HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdnaNpnmHohcWsrhCkaiDstiKizeY
 HWYGOTH.ttf
 HybridEvent
 HyIyPyVy]y^yey
-HYzchs1jfZ3cvji
 Iacutesmall
 IAEBVInstanceIdentifier
 IAutocompleter
-Iaz7dQOHMV
 IBusyStateModel
 ICCProfile
 ICharacterSubject
@@ -12137,6 +12139,7 @@ IKCollisionsMode
 IkDragCollisionsMode
 IkDraggerAnchorMode
 IkDraggerSolveIterations
+IkERGGPtLIvSCnBRcgv0IF4VRWasddNdcBVC620eO9FtcgZjz2GQ551hL
 IllegalTeleport
 ILoggedInUser
 ILoginManager
@@ -12209,6 +12212,7 @@ ImportToggleButton
 ImportUnused
 ImportWidget
 ImprovedAutoJump
+ImqcV97tyO7wwORuvJgKi
 Inaccessible
 InAddBuffer
 Inappropriate
@@ -12605,6 +12609,7 @@ InvokePreloadCallbackFromDMJob
 InvokeServer
 InWithTheNew
 IObjectWithSiteImpl
+IOt5cCrSliLYIkOyJdShTTqre92qAs9O6d8rMWw4NKzPbDwBA
 IPAddrBlocks
 IPAddressChoice
 IPAddressFamily
@@ -12786,6 +12791,7 @@ IVRSettings_002
 IVRSystem_017
 IVRTrackedCamera_003
 IWebBrowser2
+IwmjsTL0isUJGeWigzWF5xu1fSdXdvKGy2Wejg4W
 IWorldStage
 IXMLHTTPRequest2
 J_Key_dn.png
@@ -12866,6 +12872,7 @@ JointStepParallelBatchSize
 JointTime_TextureCooldown
 JointToolHelpDialogVerb
 JPEBUSG_INDEX_TRIANGLE
+JQI6G8ofq4r7s0oRBefk2jLsCV
 JSON.parse
 JSON.stringify
 JSON_Parser
@@ -12952,7 +12959,6 @@ KeywordFilterType
 KfaO3j5BbG6ijHHxFy22YNNJwxKTT
 KfE9k0uDfE9k
 KFKPKXK`KhK
-KG5xpdctz1c9j3
 KickByDatacenter_
 KiDszBCYB0gyp03Pc
 KillPtClicked
@@ -13540,7 +13546,6 @@ LSPObservable
 LSPServerTextCache
 LSPWarning
 LSRemoveFilePathUsingRegEx
-LTeKMniq13vozRJcEbgYiYnsH7
 LUA_UNAUTHORIZED_LOG_OUT
 LuaAnalyticsReleasePeriod
 LuaAppABTestGameDetailsPeekView
@@ -14322,7 +14327,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEApslCcypfIFEwn1MWLGb5D0AVlIbmBDNcREq4oRt8iTg3bxosRz1K
+MIICCgKCAgEA2XOhaNE5u
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14777,6 +14782,8 @@ NegateSelection
 NegativePart
 Negotiation
 NeighborSleepThresholdMult
+Net_PacketReceive
+Net_Peer_Send
 NETSCAPE_CERT_SEQUENCE
 NETSCAPE_SPKAC
 NETSCAPE_SPKI
@@ -15272,6 +15279,7 @@ OnTeleportInternal
 OnTopOfCoreBlur
 OnUnhandledScriptErrorsAction
 OnUserABTestLoadingStatusChanged
+OO1AscHTJYZ6TO5CIrRnPeUa9YzuQ80A8P5w6OqKkw
 OOOOOOOOOOOOOOOOOOOOOOOO
 OpacityMask
 OpaqueUseMaterialAndDistanceSort
@@ -16465,6 +16473,7 @@ PGZKl8y6RXadfJMffKMAgK
 PhysicalConfigData
 PhysicalProperties
 PhysicalProperties.new
+Physics_Send_Touches
 PhysicsBulletAlgorithmPoolSize
 PhysicsBulletAlgorithmPoolSizeWorldModel
 PhysicsBulletManifoldPoolSize
@@ -16503,6 +16512,7 @@ PhysicsReceiverS2
 PhysicsReplicationRatio
 PhysicsReprocessStudioSignal
 PhysicsSender
+PhysicsSender_Mega_Job
 PhysicsSenderByteBudget2
 PhysicsSenderByteBudgetMcLabel
 PhysicsSenderBytesScalesWithFrameTime
@@ -16949,8 +16959,6 @@ PluginWidgetRelay
 PluginWidgetRelayForPluginGui
 PluginWriteTemp
 PlusButtonPressed
-Pm3jDX5fSdqouxH9C3VlEbUdEuSWMyNbfcacmfJ7Ej1wM3hl
-Pn1MRP8BJp4jVq2Oc
 POINT_SIZE
 PointBalanceCacheInvalidateTimeMs
 PointDataChanged
@@ -17363,9 +17371,9 @@ PushPixels
 PVAdornment
 PVInstance
 PVK_header
+PwQ1MhlB2ZI9hYJxt3sJMHcCqeG6
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
-PYs6jWATg5E6aSUHZ2UEo8tucTVN3HVygHF8yemfPnimvckdXaZ4ByZwuRhVFgjC
 QAbstractAnimation
 QAbstractButton
 QAbstractConcatenable
@@ -17382,7 +17390,6 @@ QAbstractTableModel
 QActionEvent
 QActionGroup
 QActionTriggered
-QAl1ZRSDm21akOKkHrk
 QAnimationGroup
 QApplication
 QArrayData
@@ -17879,6 +17886,7 @@ QHBoxLayout
 QHeaderView
 QHostAddress
 QHoverEvent
+QHYkJ0EVO6NLqgAxt5h2Hl9kChSQHaT97pG
 QInputDialog
 QInputMethodEvent
 QIntValidator
@@ -18835,6 +18843,7 @@ RenderGrassHeightScaler
 RenderHalfresShadowsGlsles
 RenderHint
 RenderHints
+RenderHumanoidBillboards
 RenderImproveStreaming3
 RenderingTest
 RenderingTestComparisonMethod
@@ -18951,6 +18960,10 @@ ReplicationFocus
 ReplicationPending
 ReplicationVariantLimitHundredthPercent
 Replicator
+Replicator_DataPing
+Replicator_GC_Job
+Replicator_ProcessPackets
+Replicator_SendCluster
 ReplicatorAdded
 ReplicatorAnimationTrackLimitPerAnimator
 ReplicatorCountLimitInfluxHundrethsPercentage
@@ -19384,7 +19397,6 @@ RigidBodyLazyUpdating
 RigidityEnabled
 RiseVelocity
 Rj0isQcnqX
-RkBl8ytPvhDvzJ3VzOv
 Roact.createElement
 ROBLOSECURITY
 Roblox.Hybrid
@@ -19555,6 +19567,7 @@ RowsToRemove
 RowStretch
 RowVisibilityChanged
 RPCServers
+Rq6FnJA1rSEtednxq531fgpRAoMffMzRUy0mGfU
 RRReceiptFail
 RRReceiptTotal
 RRRRRRRRzzzzzzzzzzzzzzzzzz
@@ -19634,6 +19647,7 @@ RVideoInternal
 RVideoMemLogging
 RVideoTrace
 RxRlReport
+RxsPQsvreOfP0cxAFzAiB
 S_Key_dn.png
 SA_KPEAPEBV123
 SA_KPEAPEBVfacet
@@ -20095,6 +20109,7 @@ SendCluster
 SendClusterJob
 SendCommand
 SendCoreUiNotification
+SendData_Mega_Job
 SenderOnTimer
 SendEventDeferred
 SendEventImmediately
@@ -23880,7 +23895,6 @@ TakeDamage
 TakenSignal
 TakeScreenshot
 TakeThumbnail
-TaoPGO3SGJ52BW5o7RCikGnHb51GtIjeZANwa8jsDnO9ZQsK
 TapAvatarTab
 TapChatTab
 TapConversationEntry
@@ -24373,6 +24387,7 @@ TickCountPreciseOverride
 TickCountSampleMethod
 TickPosition
 TighterCylinderBoundingSpheres
+TIj1TDwOH1Qj45dMCAwEAAQ
 Tildesmall
 Time.toFixed
 TIME_FORMAT_BYTE
@@ -25113,6 +25128,7 @@ TxBwStatLog
 TxtArray.length
 TxtArray[j]
 TXtComment
+TYMvR0pckDrD
 TypeArray.length
 TypeArray.push
 TypeArray[glob
@@ -25177,7 +25193,6 @@ UChapterDisplay
 UCharacterAppearanceAssetInfo
 Ucircumflex
 Ucircumflexsmall
-UcNjwyraPnGLxPEXXQDzRAoRiLZj1OWrU4xd3NK0dBpWJ
 UColorBlock
 UContentEncAesSettings
 UContentEncoding
@@ -26445,7 +26460,6 @@ VFunctions
 VFunctionScriptSlot
 Vfuture_already_retrieved
 Vfuture_uninitialized
-VfZSLK7rAJnvC4I9l09QDFi5PFR9IpN8p5DA
 VGameBasicSettings
 VGameConfigurer
 VGamepadService
@@ -26669,6 +26683,7 @@ VKeyboardService
 VKeyframeMarker
 VKeyframeSequence
 VKeyframeSequenceProvider
+VkKk2GglCYvt
 VLanguageService
 VLayoutDefault
 VLayoutGrid
@@ -27805,6 +27820,7 @@ Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
 YffYZefYDNNDCOO
+YHO7myvK5Yp6oL
 YieldEvent
 YieldFuncDesc
 YieldFunction
@@ -27813,7 +27829,6 @@ YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
 Z_KPEIBX_K_KPEIAU1
-ZBgMmAGFrCWHYD
 Zcaronsmall
 Zdotaccent
 ZgnhKhWhci
