@@ -20371,6 +20371,27 @@
                 {
                     "Category": "Data",
                     "MemberType": "Property",
+                    "Name": "RenderHumanoidBillboards",
+                    "Security": {
+                        "Read": "RobloxScriptSecurity",
+                        "Write": "RobloxScriptSecurity"
+                    },
+                    "Serialization": {
+                        "CanLoad": false,
+                        "CanSave": false
+                    },
+                    "Tags": [
+                        "Hidden",
+                        "NotReplicated"
+                    ],
+                    "ValueType": {
+                        "Category": "Primitive",
+                        "Name": "bool"
+                    }
+                },
+                {
+                    "Category": "Data",
+                    "MemberType": "Property",
                     "Name": "SelectedCoreObject",
                     "Security": {
                         "Read": "RobloxScriptSecurity",
@@ -37755,6 +37776,27 @@
                         "CanLoad": true,
                         "CanSave": true
                     },
+                    "ValueType": {
+                        "Category": "Primitive",
+                        "Name": "bool"
+                    }
+                },
+                {
+                    "Category": "Display",
+                    "MemberType": "Property",
+                    "Name": "ForceCSGv2",
+                    "Security": {
+                        "Read": "None",
+                        "Write": "None"
+                    },
+                    "Serialization": {
+                        "CanLoad": true,
+                        "CanSave": true
+                    },
+                    "Tags": [
+                        "Hidden",
+                        "NotReplicated"
+                    ],
                     "ValueType": {
                         "Category": "Primitive",
                         "Name": "bool"
