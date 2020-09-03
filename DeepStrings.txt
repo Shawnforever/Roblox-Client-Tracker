@@ -110,6 +110,7 @@ AbsoluteURL
 AbsoluteWindowSize
 ABTestController
 ABTestControllerListener
+ABTestControllerVerboseInit
 ABTestEnrollmentsRequest
 ABTestFirstInstall
 ABTestLoadingStatus
@@ -119,6 +120,7 @@ ABTestReportLuaAccessToUndefinedTest
 ABTestRequestTimeoutMilliseconds
 ABTestService
 ABTestServiceSkipRedundantInit
+ABTestsUnifyStudio
 ABTestSystemShutoff
 ABTestVariation
 ABTestVerboseInit
@@ -1648,6 +1650,7 @@ AVBrokenAssetResourceController
 AVBrokenAssetWebFactory
 AVBrowserService
 AVBrowserTrackerIdTask
+AVBrowserTrackerUtilities
 AVbtActivatingCollisionAlgorithm
 AVbtBoxBoxCollisionAlgorithm
 AVbtBoxShape
@@ -2448,6 +2451,7 @@ AVIAssetFetcher
 AVIAudioTime
 AVIAutocompleter
 AVIBetaFeaturesModel
+AVIBrowserTrackerUtilities
 AVIBusyStateModel
 AVICameraOwner
 AVICancelableTool
@@ -4397,6 +4401,7 @@ BIO_socket_nbio
 BIO_write_ex
 BitArrayToObject
 BitstreamList
+BJdRNAkPUGdy52ktZvaQcA9Q3
 Bkg_round.png
 Bkg_square.png
 BL17qL9koPpyChCHbWVgSXbfxynzBupojeOEiuqDuGX0BFl
@@ -4627,7 +4632,6 @@ BrowserWindow
 BrowserWindowClosed
 BrowserWindowWillNavigate
 BrushStyle
-Bt3f8h0qO9WnrcqSMJe9k8f27vj0layW60R3lK0tZZ6LdhRZguw1borp
 BtnBackground.png
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
 BU_Simplex1to4
@@ -4739,7 +4743,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.447.0.410969
+ByVersion_0.448.0.410983
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -7132,6 +7136,7 @@ CylinderMesh
 CylinderShapeData
 CylindricalConstraint
 CylindricalConstraintAction
+CzN5aHXtWbZThXs5EE
 D_Key_dn.png
 DA88D6583A11E29A3DBD856014A660
 DA88D7583A11E29A3DBD856014A660
@@ -8846,7 +8851,6 @@ EEEEEEEEEEEEEEEEEEEEEEEEEE
 EEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 EF351327957B
 EF65B11E38470F846885BB6FB
-EF9USm4fwqcoP
 EFAAAF011E38B9D871882A8E559
 EFDAAF011E38B9D871882A8E559
 EFE0AAAEB11E38B9D871882A8E559
@@ -8857,8 +8861,8 @@ EFEPEZEdEnExE
 EffectBoundings
 EffectiveRetryCount
 EFrontVector
+EGeKFXnmppVxqevGTAjoCWSP9cZdFrvI8JAUrs9QHnkh
 Egravesmall
-EgTLV8b5aC9RESyUpeBZtXvhrgPeBfH227cuC1B83PcnQ
 EHcUgHc]oL
 EHERE\EfEpEzE
 EJJJJJJJJJJJJJJJJJJJJ
@@ -8983,7 +8987,6 @@ EnabledBetaFeaturesAsCommaSepString
 EnableDebugging
 EnabledFeatures
 EnableDiscussionsApiService
-EnableDoubleClickSupport
 EnabledSignal
 EnabledState
 EnableDynamicDraggerToolIcons
@@ -9401,6 +9404,7 @@ ExecuteJavaScript
 ExecuteScript
 ExecuteWithStudioRun
 ExecutionLevel
+ExhoY40z7Xbc0i
 ExistingDirectory
 ExitAction
 ExitProcess
@@ -9909,6 +9913,7 @@ FixPluginFileSyncBreakpoints
 FixPointerActionPosition
 FixPreferredSoundDeviceVR
 FixPreloadAsyncCallbackBlocking
+FixPreserveCoverageMipGen
 FixR6AccessoryScaling
 FixR6AppearanceLoadTracking2
 FixRaysInWedges
@@ -9933,6 +9938,7 @@ FixUncaughtModuleContentSetParentException
 FixUpCoCFS
 FixUsingGameIdInsteadOfJobId
 FixWeldConstraintTeamCreateReplication
+FJDVGO4k0CLrKoNJErfcC4MGUM
 FJFTF^FhFrF
 FlagCaptured
 FlagCreated
@@ -10263,6 +10269,7 @@ FrontParamA
 FrontParamB
 FrontSurface
 FrontSurfaceInput
+FrRyOSGlLuKOH1wYwUck2HPP2HhjEBduKrgVJ2ru
 FrustumOrdered
 FrustumRenderQueue
 FStudioProfilerFlushPeriodSec
@@ -11240,6 +11247,7 @@ GL_ARB_pixel_buffer_object
 GL_ARB_texture_storage
 GL_EXT_texture_border_clamp
 GL_EXT_texture_compression_s3tc
+GL8U8vlcIFglrTzpbLDl3CU
 Glass[0]VS
 GlassTintFS
 GlobalAdvancedSettings
@@ -11522,7 +11530,6 @@ HAEBVQString
 HAEBVQVariant
 HairAccessory
 HairAttachment
-HakZgohbEgSGj7cg69
 HalfPixelOffset
 HalloweenAsylum.png
 HalloweenGhost.png
@@ -12112,6 +12119,7 @@ IEBAXPEAVQStyleOptionComboBox
 IEBAXPEAVQStyleOptionSlider
 Ierusalimschy
 IEventTarget
+IeYIksuCRfCqmWqOph3MmHdKK4YjA9PgDe
 IFindListener
 IfLastDocInLastAppInstance
 IfPurchased
@@ -12149,7 +12157,6 @@ IID_IVPObject
 IID_IVPVBIConfig
 IID_IVPVBINotify
 IID_IVPVBIObject
-IIwmj7FZRelHL
 IKCollisionsMode
 IkDragCollisionsMode
 IkDraggerAnchorMode
@@ -12785,7 +12792,6 @@ ItemWasSet
 ItemWidget
 Iterations
 ITRedirect
-ItXaPGwXT8pXoouMBYR5D
 IUniverseController
 IUpdateUIManager
 IUserDataStoreServiceBase
@@ -12969,7 +12975,6 @@ KeywordColor
 KeywordFilterType
 KfaO3j5BbG6ijHHxFy22YNNJwxKTT
 KfE9k0uDfE9k
-KfhvvAcnB7Mig1P9a8i
 KFKPKXK`KhK
 KickByDatacenter_
 KiDszBCYB0gyp03Pc
@@ -13003,7 +13008,6 @@ LanguageClientBase
 LanguageGroup
 LanguagePreference
 LanguageService
-Laon7jUMCAwEAAQ
 LargeScript
 LastEditTool
 LastEmulatedDeviceId
@@ -13677,10 +13681,12 @@ LuauEnableAsKeyword
 LuauFasterSub
 LuauFixSelectCrash
 LuauImprovedBinaryOperatorInference
+LuauIncludeStudioSpecificEnums
 LuauNonstrictArgumentCounts2
 LuauRecursionLimit
 LuauReworkDotVsColonWarnings
 LuauScriptTextProvider
+LuauTraceTypesInNonstrictMode
 LuauTypeInferRecursionLimit
 LuauTypeInferTypePackLoopLimit
 LuauWatchdog
@@ -14344,7 +14350,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA4
+MIICCgKCAgEA9yF1wV9
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14636,6 +14642,7 @@ MsgWaitForMultipleObjectsEx
 MsToScreen
 MSVCP140.dll
 MSWSOCK.dll
+MTfRJDpmF8p3dsST2VHA4TAMCAwEAAQ
 MTU_Country_
 MTU_Platform_
 Mtx_current_owns
@@ -14695,6 +14702,7 @@ MultTransposeMatrixf
 MusicalInstruments
 MutexLifetime
 MW4PartMaterial
+MWWhgTxW2hyu9eFs4E4I0hvNNQMQMgiouzAIncNQIA
 MyModelsAction
 MyWatchTreeWidget
 NAEAVHttpResponse
@@ -14788,7 +14796,6 @@ NCONF_load
 NCONF_load_bio
 NCONF_load_fp
 NdnuScpeLkclOiiaVruaSilaKgnjRicyLiraCidyLmahCanaLtvaTtsvApygErmaSusiLumaBavaJietMimrAbraSitrPilhPhkrOihtKktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTzzzZssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
-NdpvILhqFW3QSiWRuClclpXv
 NE9F0uHE9F4uBE9F8u
 NearIntensity
 NearPlaneZ
@@ -14956,6 +14963,8 @@ NextTabPage
 NfXf`fhfzf
 NHVVariant
 NinjaMask.mesh
+NK9nDKBVgE6wJgZwyj5veTlad2jpWOuxHCOs
+NmaowS88Bcgf9h34WG
 NNNNNNNNNNNNNNNNNNNNNN
 NNNNNNNSSSSSSSSSSSSSSSSSSSSSS
 NNW4SizeMode
@@ -15187,6 +15196,7 @@ OCSPResponse
 OCSPSigning
 OCTETSTRING
 Odieresissmall
+OEFYVsOjkdyoA6znm
 OfA9HPuHfA9H`uAfA9Hpu
 OfAdmissions
 OfApproval
@@ -15263,7 +15273,6 @@ OneToOneConversation
 OnGotPacket
 OnHttpResultApproved
 OnImportFromRoblox
-ONJCS304iq3TzvSi3AmpLZm0mXbmDIscwEYxxOobCMNf54RqiWgFQn
 OnlineGame
 OnlineStatus
 OnLinkedScriptsUpdated
@@ -16457,6 +16466,7 @@ PersistentEditor
 PersistentFifoComboBox
 PerThreadTimer
 PerThreadTimerTotal
+PfabDbjHdgDVdXwLa
 PGSAlign2AxesCorrectionDamping
 PGSAlign2AxesPStageFrictionConstant
 PGSAlign2AxesVStageFrictionConstant
@@ -17917,6 +17927,7 @@ QGraphicsScene
 QGraphicsView
 QGridLayout
 QGuiApplication
+QH2r6gGpWX
 QHBoxLayout
 QHeaderView
 QHostAddress
@@ -18129,7 +18140,6 @@ QualityLevel8
 QualityLevel9
 Quantization
 Quantizing
-QuBSpKuxI1KeNmM99XqSNC56o9r2Hkq2SkZef7PjpKve0ga7qLAiJLNPiGZtfZte
 Query_perf_counter
 Query_perf_frequency
 QueryControl
@@ -18857,6 +18867,7 @@ RenderDebugCheckThreading
 RenderDecal
 RenderDepthPrepass
 RenderDisplayTechnologyStats
+RenderDitherMode
 RENDERDOC_HOOK_EGL
 RenderdocTriggerCapture
 RenderDXT_KTX
@@ -19432,8 +19443,10 @@ RightWrist
 RightWristRigAttachment
 RigidBodyLazyUpdating
 RigidityEnabled
+RIR9IdF29j7Tw5e3dEILNn6ycfOn
 RiseVelocity
 Rj0isQcnqX
+RLZigmu3hdfhT5onGZtsXFITtWBVCmOyDDuSM2agXENE
 Roact.createElement
 ROBLOSECURITY
 Roblox.Hybrid
@@ -23186,6 +23199,7 @@ StudioBreakOnInfiniteLoopsRunFixEnabled
 StudioBreakpointInitializeEdgeCase
 StudioBRolesetPhysicsNewConvexDecompositionEnabled
 StudioBrowserSandboxing
+StudioBTID
 StudioBulkImportButtonClicked
 StudioBulkImportCanceled
 StudioBulkImporterMockUploadTimeInMs
@@ -23368,7 +23382,6 @@ StudioJobActive
 StudioKeyWorkflowCrash
 StudioLanguageServerGetLatestLocalScript
 StudioLastActions
-StudioLintingAlwaysOnTimer
 StudioLoadABTestsForUserId
 StudioLocaleId
 StudioLocalizeCategories
@@ -23872,7 +23885,7 @@ SwimAnimation
 SwipeDirection
 SWITCH3.mp3
 SWITCH3.wav
-SwitchFormatRequestHeader
+SwitchFormatRequestHeader2
 SwitchFromRunningNoPhysToRunningThresholdInHundredths
 SwitchToFiber
 SwitchWindow
@@ -24410,6 +24423,7 @@ Throw_C_error
 Throw_Cpp_error
 Throw_future_error
 ThrowErrorWhenRequestedURLFailed
+THTCT7QixBMdDpvvk0Bn
 ThumbnailDataLoaded
 ThumbnailFetchJob
 ThumbnailFocusOnPartZoomOut
@@ -24981,7 +24995,6 @@ TouchTransmitter
 ToUniversalTime
 TownAndCity
 ToWorldSpace
-TQXK3xnwW6gBTXagt94GAx
 TraceMessage
 Track2Data
 TrackAudioDriverUpdatesPerFmodSystem
@@ -25332,6 +25345,7 @@ UGCUpdateErrors
 UGCValidationService
 UGeneralResponse
 UGeometryBatch
+UghXOQY8YMeHIjrV4dJosW153WRpHYPePv6l9C0gY4
 UGlobalResult
 Ugravesmall
 UGroupRolesResult
@@ -26466,6 +26480,7 @@ Vexception
 VExplosion
 VExpression
 VExtrudedPartInstance
+Vf7V6iUrpRPajv6VyqsCAMr5me
 VFaceInstance
 VFakeAtlExtension
 VFbxClassId
@@ -27264,6 +27279,7 @@ VWorldRoot
 Vwspp_callback_client
 VWSUATAUAVAW
 VWXYZ[\]^_`a
+Vx7dcfKCeBDAGRC0coHBLPnS86K89Gydpicqe79I8DZEZ8APbfMQ22XgVGL3S
 VXmlElement
 VYieldFunctions
 VYieldFunctionStateObject
@@ -27343,12 +27359,10 @@ WaterTransparency
 WaterViscosityDragFudgeFactor
 WaterWaveSize
 WaterWaveSpeed
-WAuEq1BOZofTCHohqifPuNDF6D15VwBKzLSaUWVCBwjMKb7tAWMXduWXjm1mvGZ
 WaypointIdx
 WCharArray
 Wcircumflex
 WDU_Mbstatet
-We2Yx0CBFMvI5rd6uTMnS6Gh9Qqfexr6DvadeMNZhqOi39steV9gdGrPcL2DV2
 WeakFunctionRef
 WeakThreadRef
 WeaponsAction
@@ -27691,14 +27705,12 @@ XboxUseNewValidUsernameCheck2
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XGetLastError
-XgfvG5mTbHjRn2hLabg4gNau38ZJ6ThxfMLRAOz3jeF2etPhWA
 XHW4Status_e
 XInputGetBatteryInformation
 XInputGetCapabilities
 XInputGetState
 XInputSetState
 Xinvalid_argument
-XjeD3oK0wM0lG0A3qL6z0z1G4WDja79XRVNccemNCp98oSiR20vMTSd3Sc9sNfBe
 Xlength_error
 Xout_of_range
 XP6AXAEBUTextFilterResult
