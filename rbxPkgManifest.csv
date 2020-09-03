@@ -1,13 +1,13 @@
 File Name,MD5 Signature,Compressed Size (bytes),Size (bytes)
-BuiltInPlugins.zip,1f2f0f97013acfb23f6c89ed47a0b621,17767514,21468585
-BuiltInStandalonePlugins.zip,a7b5ffc3a2b495cee6f3cd33114c26ac,3831054,4628802
+BuiltInPlugins.zip,c4b3468f2faad595ca2abc562804035f,17770677,21474729
+BuiltInStandalonePlugins.zip,06dde021860f2dfb2dc19d7c8271b17a,3824110,4622007
 Plugins.zip,a21e03dff91ede3102ff4186fd4b6c44,694396,1479168
 Qml.zip,ae16d3bf2dac1345fedded48047f378f,1587037,4422016
-RobloxStudio.zip,d810f7daa09ff5dd95e38fd594002b97,24634843,56483370
+RobloxStudio.zip,b4e288b50ee90bf0d0f9280b606ef05b,24634037,56479786
 Libraries.zip,142cc8d33fc1ac659ddf266d769b489a,9176818,23426624
 LibrariesQt5.zip,5203eedb97fadc4c17cb47991eca3d68,31755327,79163904
 content-avatar.zip,736e1d0362b0cbe9a0dab00cea9a9610,181616,916912
-content-configs.zip,def020376a3c67a03572557bd1a83a2a,12888,39757
+content-configs.zip,cf25867266edb89d6d008f4a2bfd1a28,12887,39757
 content-fonts.zip,fc27cf197c9edfcfefa9fb27eeb22f49,3181534,6545454
 content-models.zip,7a874a687280fde6d0845353a4394179,164925,697120
 content-qt_translations.zip,83e226e24d2a3368323959437ee4293e,247879,815789

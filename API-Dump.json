@@ -37784,6 +37784,27 @@
                 {
                     "Category": "Display",
                     "MemberType": "Property",
+                    "Name": "ForceCSGv2",
+                    "Security": {
+                        "Read": "None",
+                        "Write": "None"
+                    },
+                    "Serialization": {
+                        "CanLoad": true,
+                        "CanSave": true
+                    },
+                    "Tags": [
+                        "Hidden",
+                        "NotReplicated"
+                    ],
+                    "ValueType": {
+                        "Category": "Primitive",
+                        "Name": "bool"
+                    }
+                },
+                {
+                    "Category": "Display",
+                    "MemberType": "Property",
                     "Name": "IsReceiveAgeShown",
                     "Security": {
                         "Read": "None",

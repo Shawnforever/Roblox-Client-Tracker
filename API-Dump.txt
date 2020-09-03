@@ -2110,6 +2110,7 @@ Class PhysicsSettings : Instance [NotCreatable] [Settings]
 	Property bool PhysicsSettings.AreUnalignedPartsShown
 	Property bool PhysicsSettings.AreWorldCoordsShown
 	Property bool PhysicsSettings.DisableCSGv2
+	Property bool PhysicsSettings.ForceCSGv2  [Hidden] [NotReplicated]
 	Property bool PhysicsSettings.IsReceiveAgeShown
 	Property bool PhysicsSettings.IsTreeShown
 	Property bool PhysicsSettings.ShowDecompositionGeometry
