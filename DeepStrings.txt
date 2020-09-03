@@ -499,6 +499,7 @@ AllowWorldModelCreationV2
 AllPackagesInternal
 AllPackets
 AllPlaceItems
+AllPluginScriptsHelper
 AllScriptsAction
 AllTemplates
 AllThreads
@@ -737,7 +738,6 @@ AntiAddictionReport401ToLua
 AntiReplay
 AntiSpamSpamLimit
 AnyWayYouHashItOut4
-AoUxoIfq8RtFXsnH7JKOsFB8MXrFIbgcpAKaWpZCywJw
 APEAU_iobuf
 ApiGamesChanged
 ApiKeyResult
@@ -4627,6 +4627,7 @@ BrowserWindow
 BrowserWindowClosed
 BrowserWindowWillNavigate
 BrushStyle
+Bt3f8h0qO9WnrcqSMJe9k8f27vj0layW60R3lK0tZZ6LdhRZguw1borp
 BtnBackground.png
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
 BU_Simplex1to4
@@ -4738,7 +4739,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.447.0.410923
+ByVersion_0.447.0.410969
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -5088,8 +5089,10 @@ CFF056DD11E2898E9FB8E4A9E79B
 CFF156DD11E2898E9FB8E4A9E79B
 CFF456DD11E2898E9FB8E4A9E79B
 CFF556DD11E2898E9FB8E4A9E79B
+CFrame.lookAt
 CFrame.new
 CFrameDecal
+CFrameLookAt
 CFrameOnly
 CFrameValue
 ChainCAFile
@@ -5844,7 +5847,6 @@ CmdUpdateBuffer
 CmdWaitEvents
 CmdWriteBufferMarkerAMD
 CmdWriteTimestamp
-CmgAKZOf0jOjvs80wSsEQco0LP4axsSoAGalt2X7kjrio2PDiyMTo7ShAUMH37J
 CMS_add0_cert
 CMS_add0_recipient_key
 CMS_add0_recipient_password
@@ -7302,7 +7304,6 @@ DB33D6AAF011E38B9D871882A8E559
 DB33D7AAF011E38B9D871882A8E559
 DBD856014A660
 DBSAES_ASM
-DcHNNqGvleSyk9nfX9qT9Q1AU15kkb4t6DIXFAiqV7XuTTLSqF2sVL3
 Dconst_iterator
 DD11E2898E9FB8E4A9E79B
 DD4669DB402E11E3A29DA4266180AE0C
@@ -7415,6 +7416,7 @@ DebuggerErrorLine
 DebuggerListPopupShow
 DebuggerManager
 DebuggerRemoved
+Debuggers_Reflection
 DebuggersList
 DebuggerToolTipView
 DebuggerTreeWidget
@@ -7845,6 +7847,7 @@ DeregisterEventSource
 DerivationAlgorithm
 DerivedFrom
 DescendantAdded
+DescendantAddedSignal
 DescendantOf
 DescendantRemoving
 Descendants
@@ -8843,6 +8846,7 @@ EEEEEEEEEEEEEEEEEEEEEEEEEE
 EEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 EF351327957B
 EF65B11E38470F846885BB6FB
+EF9USm4fwqcoP
 EFAAAF011E38B9D871882A8E559
 EFDAAF011E38B9D871882A8E559
 EFE0AAAEB11E38B9D871882A8E559
@@ -8854,6 +8858,7 @@ EffectBoundings
 EffectiveRetryCount
 EFrontVector
 Egravesmall
+EgTLV8b5aC9RESyUpeBZtXvhrgPeBfH227cuC1B83PcnQ
 EHcUgHc]oL
 EHERE\EfEpEzE
 EJJJJJJJJJJJJJJJJJJJJ
@@ -8987,6 +8992,7 @@ EnableExtension
 EnableFastFlagEditorWithInternalPermission
 EnableFillCylinder
 EnableFillWedge
+EnableFontFaceParsing
 EnableFrameLockI3D
 EnableFriendFooterOnHomePageV369
 EnableGamepad8DirectionalInput
@@ -9624,7 +9630,6 @@ FeatureLevel
 FeaturesAction
 FeaturesMap
 FeaturesWindow
-FesEotdEbYmbiwOdn8W
 FetchAndLoadSettingsFromCdn
 FetchAssetFailure_
 FetchCachedKeys
@@ -11013,6 +11018,7 @@ GetScaleFactor
 GetScheduledNotifications
 GetScreenPositionOffsetCamPtrGuard
 GetScreenResolution
+GetScriptDebuggersFromMap
 GetScriptFilePath
 GetSecondaryAxis
 GetSecondDouble
@@ -11221,7 +11227,6 @@ GFp_simple_set_compressed_coordinates
 GfxClusters
 GfxClustersFull
 GfxPartInvalidationBudgetMs
-GGdyMaCP78YRbrOvq6PQkVej6WWDVxWN
 GGGGGGGGGG
 GGGGGGGGGGGGGGGGGGGGGGGGGG
 GGGGGGGGGGGGGGGGGGGGGGGGGGGGG
@@ -11517,6 +11522,7 @@ HAEBVQString
 HAEBVQVariant
 HairAccessory
 HairAttachment
+HakZgohbEgSGj7cg69
 HalfPixelOffset
 HalloweenAsylum.png
 HalloweenGhost.png
@@ -12033,7 +12039,6 @@ HW4PacketPriority
 HwngSmldAskhBcraMaweNegsOgnaT
 HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdnaNpnmHohcWsrhCkaiDstiKizeY
 HWYGOTH.ttf
-HXjfI3jIVdEuH3MCAwEAAQ
 HybridEvent
 HyIyPyVy]y^yey
 Iacutesmall
@@ -12144,6 +12149,7 @@ IID_IVPObject
 IID_IVPVBIConfig
 IID_IVPVBINotify
 IID_IVPVBIObject
+IIwmj7FZRelHL
 IKCollisionsMode
 IkDragCollisionsMode
 IkDraggerAnchorMode
@@ -12728,7 +12734,6 @@ IStudioPluginHost
 IStudioServiceHost
 IStudioUserPreferences
 IsUnknownOrUnder13
-IsUQNjpoGs1cyZwiA3SLDY2yjb44xy2B5rPLnOWmDbuf
 IsUserAvailableForExperiment
 IsUserAvailableForFilteringExperiment
 IsUserFeatureEnabled
@@ -12780,6 +12785,7 @@ ItemWasSet
 ItemWidget
 Iterations
 ITRedirect
+ItXaPGwXT8pXoouMBYR5D
 IUniverseController
 IUpdateUIManager
 IUserDataStoreServiceBase
@@ -12806,7 +12812,6 @@ JasmineUPC
 JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
-JcAQRPhZtn0ZmozOY
 Jcircumflex
 JDJNJXJbJlJvJ
 JHJRJ\JfJpJxJ
@@ -12908,7 +12913,6 @@ JW4InfoType
 JW4ItemType
 JW4TextFilterContext
 JW4ThumbnailType
-Jxyhega4Tg7Vhd
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -12965,6 +12969,7 @@ KeywordColor
 KeywordFilterType
 KfaO3j5BbG6ijHHxFy22YNNJwxKTT
 KfE9k0uDfE9k
+KfhvvAcnB7Mig1P9a8i
 KFKPKXK`KhK
 KickByDatacenter_
 KiDszBCYB0gyp03Pc
@@ -12998,6 +13003,7 @@ LanguageClientBase
 LanguageGroup
 LanguagePreference
 LanguageService
+Laon7jUMCAwEAAQ
 LargeScript
 LastEditTool
 LastEmulatedDeviceId
@@ -13705,6 +13711,7 @@ MakeContextCurrentEXT
 MakeCounter
 MakeCurrent
 MakeJoints
+MakeMutedSoundChannelsVirtual
 MakeTimesExtra
 Malformatted
 ManageEmulationDeviceDialog
@@ -13785,7 +13792,9 @@ MaxActiveAnimationTracks
 MaxAltitudePDHipHeightPercent
 MaxAltitudePDStickHipHeightPercent
 MaxAngularVelocity
+MaxAudible
 MaxAudibleBehavior
+MaxAudibleSoundChannels
 MaxAverageFrameDelayExceedFactor
 MaxAwardPointsHttpCallsPerMinute
 MaxBucketSize
@@ -14335,7 +14344,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA7D5Vgog4OBImY2Di4iVXYXuGLaHHWEgHLe5WEAyjYA0Y9b1Et0uJ
+MIICCgKCAgEA4
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14427,7 +14436,9 @@ ModelMeshComputerBetaFeature
 ModelMeshData
 ModelMeshDependencies
 ModelMeshJob
+ModelMeshPackageFix
 ModelMeshSize
+ModelPluginScriptById
 ModelSession
 ModeratedDialog
 ModeratedMessage
@@ -14777,6 +14788,7 @@ NCONF_load
 NCONF_load_bio
 NCONF_load_fp
 NdnuScpeLkclOiiaVruaSilaKgnjRicyLiraCidyLmahCanaLtvaTtsvApygErmaSusiLumaBavaJietMimrAbraSitrPilhPhkrOihtKktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTzzzZssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
+NdpvILhqFW3QSiWRuClclpXv
 NE9F0uHE9F4uBE9F8u
 NearIntensity
 NearPlaneZ
@@ -15093,7 +15105,6 @@ NVWorkspace
 NW4FileSystemDir
 NW4PenStyle
 NW4UserInputType
-NZylGf52ql
 Oacutesmall
 OAEPEncryptionSET
 OAUTHBEARER
@@ -15252,6 +15263,7 @@ OneToOneConversation
 OnGotPacket
 OnHttpResultApproved
 OnImportFromRoblox
+ONJCS304iq3TzvSi3AmpLZm0mXbmDIscwEYxxOobCMNf54RqiWgFQn
 OnlineGame
 OnlineStatus
 OnLinkedScriptsUpdated
@@ -15405,6 +15417,7 @@ OriginalDocumentID
 OriginalPosition
 OriginalSize
 OrIncrementCounterForOutputText
+OrMakeScriptDebuggerForScriptInstance
 OrProvinceName
 OS.Authentication.LuaLoginAndSignup4
 OscillateMotor
@@ -16854,7 +16867,6 @@ PlayerMembershipChanged
 PlayerMouse
 PlayerName
 PlayerNameLoaded
-PlayerNoAccessRadius
 PlayerOwnsAsset
 PlayerPolicyHttpRequestReportThrottleHundredthPct
 PlayerPolicyHttpRequestRetryTimes
@@ -16917,6 +16929,7 @@ PLC_PITCH_LAG_MIN
 Plugin.rbxm
 PluginAction
 PluginByFilePath
+PluginCoroutineFromSource
 PluginDebuggingEnabled
 PluginDebugService
 PluginDockWidgetRelay
@@ -16936,8 +16949,10 @@ PluginIdentityFix
 PluginInstall
 PluginInstallComplete
 PluginInstallFailed
+PluginInstancesSourceFile
 PluginInternal
 PluginLoader
+PluginLoadUtils
 PluginManagement.rbxm
 PluginManagement.rbxm_luaManagePluginsToolbar
 PluginManagement.rbxm_luaManagePluginsToolbar_luaManagePluginsButton
@@ -16974,6 +16989,7 @@ PluginUIElementRelay
 PluginUIElementWithActionRelayHelper
 PluginWidgetRelay
 PluginWidgetRelayForPluginGui
+PluginWithInstancesAsChildren
 PluginWriteTemp
 PlusButtonPressed
 POINT_SIZE
@@ -18113,6 +18129,7 @@ QualityLevel8
 QualityLevel9
 Quantization
 Quantizing
+QuBSpKuxI1KeNmM99XqSNC56o9r2Hkq2SkZef7PjpKve0ga7qLAiJLNPiGZtfZte
 Query_perf_counter
 Query_perf_frequency
 QueryControl
@@ -18201,7 +18218,6 @@ QWheelEvent
 QWidgetAction
 QWidgetPluginGui
 QWidgetWindow
-QYcfjzeXsAh0RYu3Wt
 RadialBlurFS
 RagdollBallSocketConstraint
 RagdollDefaultTimerTenthSecond
@@ -18562,6 +18578,7 @@ RecursivelyReleased
 RecursivelySearchSubsoundsForUserData
 RecursiveParser
 RecvFromLoop
+RedirectHasBadgeToAsyncMethod
 Redirection
 RedoAvailable
 RedPermyriad
@@ -18790,6 +18807,7 @@ RemoveRows
 RemoveScript
 RemoveSelectionGroup
 RemoveSession
+RemoveSharedStringMD5
 RemoveSpecialKey
 RemoveStatus
 RemoveSubPose
@@ -19822,7 +19840,9 @@ ScriptContextRemove
 ScriptContextShutdownTimeoutSeconds
 ScriptCreatable
 ScriptDebugger
+ScriptDebuggerByScriptInstance
 ScriptDebuggers
+ScriptDebuggerToMap
 ScriptDeletion
 ScriptDiff
 ScriptDiffDoc
@@ -19869,6 +19889,7 @@ ScriptFunctionFilter
 ScriptFunctionFilterListWidget
 ScriptFunctionsAction
 ScriptGuid
+ScriptGuidsToBeDeterministic
 ScriptHash
 ScriptHashBase
 ScriptHashHead
@@ -21251,7 +21272,7 @@ StatusMessage
 StatusRemoved
 StatusSuccessIcon
 StdWString
-StealLeastAudibleSoundChannelOnMaxSurpassed
+StealLeastAudibleSoundChannelOnMaxSurpassed2
 SteerFloat
 StencilFunc
 StencilFuncSeparate
@@ -23288,6 +23309,7 @@ StudioFixPluginUninstall
 StudioFixPluginWidgetEnabledSignal
 StudioFixProcessInstallPluginFromWebsite
 StudioFixPropertyWidgetEnumCrash
+StudioFixResumeOnSingleStep
 StudioFixRibbonThemeHelperParent
 StudioFixScriptDatamodelMismatch
 StudioFixSetTitleMacCrash
@@ -24959,6 +24981,7 @@ TouchTransmitter
 ToUniversalTime
 TownAndCity
 ToWorldSpace
+TQXK3xnwW6gBTXagt94GAx
 TraceMessage
 Track2Data
 TrackAudioDriverUpdatesPerFmodSystem
@@ -25638,6 +25661,7 @@ UpdatePrepare
 UpdatePromptSpammer
 UpdateRichTextFits
 UpdateScaleBeforeBuildRig
+UpdateScriptGuidsInternal
 UpdateSelectedPlaceItems
 UpdateSelectedPlacesButtonClicked
 UpdateSelectMessagesOnly
@@ -26670,6 +26694,8 @@ VirtualAlloc
 VirtualFree
 VirtualInputManager
 VirtualInputMode
+VirtualSoundVolumeThresholdDenominator
+VirtualSoundVolumeThresholdNumerator
 VirtualThumbstick
 VirtualUser
 Visibility
@@ -27317,10 +27343,12 @@ WaterTransparency
 WaterViscosityDragFudgeFactor
 WaterWaveSize
 WaterWaveSpeed
+WAuEq1BOZofTCHohqifPuNDF6D15VwBKzLSaUWVCBwjMKb7tAWMXduWXjm1mvGZ
 WaypointIdx
 WCharArray
 Wcircumflex
 WDU_Mbstatet
+We2Yx0CBFMvI5rd6uTMnS6Gh9Qqfexr6DvadeMNZhqOi39steV9gdGrPcL2DV2
 WeakFunctionRef
 WeakThreadRef
 WeaponsAction
@@ -27663,12 +27691,14 @@ XboxUseNewValidUsernameCheck2
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XGetLastError
+XgfvG5mTbHjRn2hLabg4gNau38ZJ6ThxfMLRAOz3jeF2etPhWA
 XHW4Status_e
 XInputGetBatteryInformation
 XInputGetCapabilities
 XInputGetState
 XInputSetState
 Xinvalid_argument
+XjeD3oK0wM0lG0A3qL6z0z1G4WDja79XRVNccemNCp98oSiR20vMTSd3Sc9sNfBe
 Xlength_error
 Xout_of_range
 XP6AXAEBUTextFilterResult
@@ -27840,13 +27870,10 @@ YffYZefYDNNDCOO
 YieldEvent
 YieldFuncDesc
 YieldFunction
-YLvQk2fTTop8AiakdD9xBl7mtm7xuewlqHS66gbDix06Zdw0uHjIm7J9XhI
 YQByteArray
 YResolution
-YvVjVCwjPn9f3S8raQWv4Ia1cIWpOlWT8EfFWQu57372Og6DmuYHeb1Pd8gt1row
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
-YZP5oFCLntOOJMX65m5QZxYz2msy16tihIXGrkhOoJsDtKSB51Zc6Y
 Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
 Zdotaccent
