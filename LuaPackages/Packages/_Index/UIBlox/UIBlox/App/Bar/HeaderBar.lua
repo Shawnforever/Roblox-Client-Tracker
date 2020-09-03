@@ -40,7 +40,7 @@ HeaderBar.validateProps = t.strictInterface({
 	barHeight = t.optional(t.number),
 
 	-- How much spacing between elements to allow on the right side of the bar
-	contentRightPadding = t.optional(t.UDim),
+	contentPaddingRight = t.optional(t.UDim),
 
 	-- A function that returns a Roact Component, used for customizing buttons on the right side of the bar
 	renderRight = t.optional(t.callback),
@@ -51,7 +51,7 @@ HeaderBar.validateProps = t.strictInterface({
 -- default values are taken from Abstract
 HeaderBar.defaultProps = {
 	barHeight = 48,
-	contentRightPadding = UDim.new(0, 12),
+	contentPaddingRight = UDim.new(0, 12),
 	renderRight = function()
 		return nil
 	end,
