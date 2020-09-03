@@ -33,7 +33,6 @@ local createAnalyticsHandlers = require(Plugin.Src.Util.createAnalyticsHandlers)
 
 -- Rodux Store
 local MainReducer = require(Plugin.Src.Reducers.MainReducer)
-local ReportActionAnalytics = require(Plugin.Src.Middlewares.ReportActionAnalytics)
 
 -- Theme
 local PluginTheme = require(Plugin.Src.Resources.PluginTheme)
@@ -60,15 +59,7 @@ local function createTerrainContextItems()
 	local pluginItem = ContextServices.Plugin.new(plugin)
 	local mouse = Mouse.new(plugin:getMouse())
 
-	local analytics = Analytics.new(createAnalyticsHandlers)
-	local actionToAnalyticsMapping = {
-		ChangeTab = "changeTab",
-		ChangeTool = "changeTool",
-	}
-
-	local store = Store.new(Rodux.Store.new(MainReducer, nil, {
-		ReportActionAnalytics(analytics, actionToAnalyticsMapping),
-	}))
+	local store = Store.new(Rodux.Store.new(MainReducer, nil, {}))
 
 	local theme = ContextItems.UILibraryTheme.new(PluginTheme.new())
 	local localization = Localization.new({
@@ -77,6 +68,8 @@ local function createTerrainContextItems()
 		translationResourceTable = TranslationReferenceTable,
 	})
 	local localizationItem = ContextItems.UILibraryLocalization.new(localization)
+
+	local analytics = Analytics.new(createAnalyticsHandlers)
 
 	local terrainInstance = require(Plugin.Src.Util.getTerrain)()
 	local terrainItem = ContextItems.Terrain.new(terrainInstance)

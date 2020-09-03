@@ -19,6 +19,13 @@ local ToolSelectionListener = Roact.PureComponent:extend(script.Name)
 
 if FFlagTerrainToolsUseDevFramework then
 	function ToolSelectionListener:didUpdate(previousProps, previousState)
+		if previousProps.currentTab ~= self.props.currentTab then
+			self.props.Analytics:report("changeTab", self.props.currentTab)
+		end
+		if previousProps.currentTool ~= self.props.currentTool and self.props.currentTool ~= ToolId.None then
+			self.props.Analytics:report("changeTool", self.props.currentTool)
+		end
+
 		if self.props.currentTool == ToolId.None then
 			self.props.PluginActivationController:deselectTool()
 		else
@@ -48,12 +55,14 @@ end
 
 if FFlagTerrainToolsUseDevFramework then
 	ContextServices.mapToProps(ToolSelectionListener, {
+		Analytics = ContextServices.Analytics,
 		PluginActivationController = ContextItems.PluginActivationController,
 	})
 end
 
 local function mapStateToProps(state, props)
 	return {
+		currentTab = state.Tools.currentTab,
 		currentTool = state.Tools.currentTool,
 	}
 end

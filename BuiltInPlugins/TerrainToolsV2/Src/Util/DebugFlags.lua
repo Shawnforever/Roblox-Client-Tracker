@@ -19,4 +19,5 @@ DebugFlags.RunningUnderCLI = defineFlag("RunningUnderCLI")
 DebugFlags.RunTests = defineFlag("RunTests")
 DebugFlags.LogTestsQuiet = defineFlag("LogTestsQuiet")
 DebugFlags.RunDeveloperFrameworkTests = defineFlag("RunDeveloperFrameworkTests")
+DebugFlags.LogAnalytics = defineFlag("LogAnalytics")
 return DebugFlags
