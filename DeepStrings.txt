@@ -9206,6 +9206,7 @@ EphemeralCounterInfluxReportingThrottleHundredthsPercent
 EphemeralStatsInfluxReportingEnabled
 EphemeralStatsInfluxReportingPriorityHundredthsPercent
 EphemeralStatsInfluxReportingThrottleHundredthsPercent
+EQP0psIWXqEs27tf
 EqualizerSoundEffect
 EquippedEmotes
 EquippedEmotesChanged
@@ -9909,6 +9910,7 @@ FixPluginFileSyncBreakpoints
 FixPointerActionPosition
 FixPreferredSoundDeviceVR
 FixPreloadAsyncCallbackBlocking
+FixPreserveCoverageMipGen
 FixR6AccessoryScaling
 FixR6AppearanceLoadTracking2
 FixRaysInWedges
@@ -11718,6 +11720,7 @@ HistoryViewMouseX
 HistoryViewMouseY
 HitLocationPartFilterDescendents
 HitsPrecise
+HJhdpHCWDhbme4OVeZ9STbh4xeWZIs9uf0ahj0Jsm6H6hw
 HKEY_CLASSES_ROOT
 HKEY_CURRENT_CONFIG
 HKEY_CURRENT_USER
@@ -11783,6 +11786,7 @@ HQFSShadowed
 HQFSShadowedFSM
 HQVSShadowed
 HQVSShadowedFSM
+HSYnMSoRWa0
 HtmlEscaped
 Http_Failed
 HTTPAccumulatedBytes
@@ -12824,6 +12828,8 @@ JIRA_RIDE_785
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
+JLEBcycxr88Oxgbe3o
+JmwjG1YedjoEBGDpZkHBfX2rhRE8n7bs
 JoinBlobInvalidateCountThresholdPercent
 JoinBlobInvalidateThresholdPercent
 JoinCommand
@@ -12913,6 +12919,7 @@ JW4InfoType
 JW4ItemType
 JW4TextFilterContext
 JW4ThumbnailType
+JZX5tMtOwZTXYCYQ
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -12971,9 +12978,11 @@ KfaO3j5BbG6ijHHxFy22YNNJwxKTT
 KfE9k0uDfE9k
 KfhvvAcnB7Mig1P9a8i
 KFKPKXK`KhK
+Ki4jCVjt9mpLR
 KickByDatacenter_
 KiDszBCYB0gyp03Pc
 KillPtClicked
+KjbBkjPphzsAgXyPix20b9AbtOSPsbzI
 KKKKKKKKKK
 KKKKKKKKKKKK
 KKKKKKKKKKKKKKKKKKKKKK
@@ -13677,6 +13686,7 @@ LuauEnableAsKeyword
 LuauFasterSub
 LuauFixSelectCrash
 LuauImprovedBinaryOperatorInference
+LuauIncludeStudioSpecificEnums
 LuauNonstrictArgumentCounts2
 LuauRecursionLimit
 LuauReworkDotVsColonWarnings
@@ -14328,6 +14338,7 @@ MethodQuery
 Metrics.width
 MetricsSets
 MetricType
+MGJGZP8IfllxJg25I7rxrqvFfl66eG0m
 MHapV7R8MxA953
 MicroProfile
 MicroProfileFlip
@@ -15212,6 +15223,7 @@ OffsetYDest
 OffsetYOriginal
 OffsetYTarget
 OffTeamCreateMainThread
+OfiKh1YGwgfXEn4QpwGw89ctVTf2umx24tyeV8Vv110P7vQlxB
 OfInstances
 OfNestedPackages
 OfOperation
@@ -15551,6 +15563,7 @@ OverrideStarterScript
 OverrideToMyBranch
 OverwriteMode
 OverwritePublish
+Ovh0f0WOZLl822g17fi8Ad
 OwnProperty
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^]
@@ -17918,6 +17931,7 @@ QGraphicsView
 QGridLayout
 QGuiApplication
 QHBoxLayout
+QhdPeDW5VQy2xSx4Qb9KWIZVnEUG
 QHeaderView
 QHostAddress
 QHoverEvent
@@ -18218,6 +18232,7 @@ QWheelEvent
 QWidgetAction
 QWidgetPluginGui
 QWidgetWindow
+QxN9mSZteEvOlRrPSCqS8XIEwIeoLM5JaG
 RadialBlurFS
 RagdollBallSocketConstraint
 RagdollDefaultTimerTenthSecond
@@ -18857,6 +18872,7 @@ RenderDebugCheckThreading
 RenderDecal
 RenderDepthPrepass
 RenderDisplayTechnologyStats
+RenderDitherMode
 RENDERDOC_HOOK_EGL
 RenderdocTriggerCapture
 RenderDXT_KTX
@@ -20660,6 +20676,7 @@ SHUseNewComputeLevelUsesOBB
 ShutdownClient
 ShutdownClientAndSave
 ShutdownPolicy
+Si9dPicU9pBYIvGFnD0x
 SiblingElement
 SigDigest_add1
 SigEd25519
@@ -23872,7 +23889,7 @@ SwimAnimation
 SwipeDirection
 SWITCH3.mp3
 SWITCH3.wav
-SwitchFormatRequestHeader
+SwitchFormatRequestHeader2
 SwitchFromRunningNoPhysToRunningThresholdInHundredths
 SwitchToFiber
 SwitchWindow
@@ -25419,6 +25436,7 @@ UITransformedLitVS
 UITransformedVS
 UIViewportFrameCollectFrames
 UIViewportFrameWorkspace
+UjrFZ2t90v1x5vRTaQi8
 ULayoutInlineHelper
 ULinkedScriptLoadData
 ULoadedImage
@@ -27001,6 +27019,7 @@ VRobloxReplicatedStorage
 VRodConstraint
 VRomarkPhaseTrackingJob
 VRopeConstraint
+VROVhMEK6GmAlaolqoBGh
 VRRotationIntensity
 VRTouchpad
 VRTouchpadMode
@@ -27867,6 +27886,7 @@ Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
 YffYZefYDNNDCOO
+YGlkFOA9iF0kZDlOyiiXcQOlMunmoqjP3QEmQWT
 YieldEvent
 YieldFuncDesc
 YieldFunction
@@ -27887,9 +27907,11 @@ ZoomActive
 ZoomOutDistance
 ZoomToExtents
 ZoomToHighlight
+ZOUQYrxDWyrZCFfyo67oFk
 ZP6APEAX1PEBX
 ZP6AX1PEAX
 ZPEAVRBXMessageBox
+ZPWwra96CKMkCBW
 ZRZZZbZt[.[
 ZVspecial_equipped_signal
 ZVTouchedSignal
