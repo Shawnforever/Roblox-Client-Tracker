@@ -44,6 +44,14 @@ RBX
 		BallPolyContact
 		BlockBlockContact
 		BlockBlockContact_New
+		BoundChunk
+		BroadPhaseBase
+		BroadPhaseBaseSpatialGrid
+		BroadPhaseColliderBase
+		BroadPhaseColliderBinding
+		BroadPhaseColliderInternalsUpdateCache
+		BroadPhaseColliderPairFoundCallback
+		BroadPhaseSpatialGridHierarchical
 		BulletCellContact
 		BulletCollisionConnector
 		BulletContact
@@ -53,13 +61,27 @@ RBX
 		BuoyancyCornerWedgeContact
 		BuoyancyCylinderContact
 		BuoyancyWedgeContact
+		BvhCollectionBinding
+		BvhNodeBinding
+		BvhParallelMidPhase
+		BvhTreeComponentCollection
+		BvhTreeMidPhaseCollection
+		ChunkBinding
+		ClumpBinding
 		Contact
 		EdgeEdgePair
 		FaceFacePair
 		FeaturePolyCollisionConnector
 		FeaturePolyContact
+		MidPhaseBase
+		MidPhaseCollection
+		MidPhaseCollectionBinding
+		MidPhaseComponentBinding
+		MidPhaseResultPairUpdateCallback
 		PolyPair
 		PolyPolyContact
+		SpatialGridHierarchicalPrimInternalsCache
+		SpatialGridPrimitiveBase
 		SpatialHashHierarchical
 	}
 	Constraints
@@ -727,6 +749,8 @@ RBX
 	ArcHandles
 	ArrowToolBase
 	Assembly
+	AssemblyBroadPhaseBinding
+	AssemblyMidPhaseBinding
 	AssemblyStage
 	AssetFetchMediator
 	AssetService
@@ -1189,6 +1213,8 @@ RBX
 	Pose
 	PostEffect
 	Primitive
+	PrimitiveMidPhaseBinding
+	PrimitiveMovementCallback
 	PVAdornment
 	PVInstance
 	QWidgetPluginGui

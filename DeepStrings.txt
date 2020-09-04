@@ -131,6 +131,7 @@ AC01E30BF65B11E3AFC2CE47415C029D
 AC01E30CF65B11E3AFC2CE47415C029D
 AC01E30DF65B11E3AFC2CE47415C029D
 AccanthisADFStd
+AcceleratedCollisionPipeline
 AccelerateDuplicateCollisionFidelityReprocess
 Acceleration
 Acceleration.
@@ -933,6 +934,8 @@ AsPluginAction
 Assemblies
 AssembliesRecursiveWakePending
 AssembliesWakePending
+AssemblyExtentsExpansionStudHundredth
+AssemblyExtentsUpdateThreshStudHundredth
 AssemblyHistoryBufferSize
 AssemblyHistoryDeviationTolerance
 AssemblyHistorySkipSize
@@ -1441,6 +1444,8 @@ AVArchiveGameRequest
 AVArguments
 AVArrowToolBase
 AVAssembly
+AVAssemblyBroadPhaseBinding
+AVAssemblyMidPhaseBinding
 AVAssemblyStage
 AVAssetFetcher
 AVAssetFetchMediator
@@ -1634,6 +1639,7 @@ AVBoneInstance
 AVBoolParser
 AVBoolPropertyItem
 AVBoolPropertyVerb
+AVBoundChunk
 AVBoundVerb
 AVBoxHandleAdornment
 AVBoxSelectCommand
@@ -1645,6 +1651,13 @@ AVBreakpointsTreeWidget
 AVBreakpointsWidget
 AVBrickColor
 AVBrickColorPropertyItem
+AVBroadPhaseBase
+AVBroadPhaseBaseSpatialGrid
+AVBroadPhaseColliderBase
+AVBroadPhaseColliderBinding
+AVBroadPhaseColliderInternalsUpdateCache
+AVBroadPhaseColliderPairFoundCallback
+AVBroadPhaseSpatialGridHierarchical
 AVbroken_promise
 AVBrokenAssetResourceController
 AVBrokenAssetWebFactory
@@ -1728,6 +1741,11 @@ AVBuoyancyCornerWedgeContact
 AVBuoyancyCylinderContact
 AVBuoyancyWedgeContact
 AVBusyStateModel
+AVBvhCollectionBinding
+AVBvhNodeBinding
+AVBvhParallelMidPhase
+AVBvhTreeComponentCollection
+AVBvhTreeMidPhaseCollection
 AVCacheableContentProvider
 AVCalibrateDeviceScalingDialog
 AVCalibrateDeviceScalingVerb
@@ -1813,6 +1831,7 @@ AVChildProcessHandler
 AVChildRemovedSignalData
 AVChildShapeRetriever
 AVChorusSoundEffect
+AVChunkBinding
 AVChunkMeshShape
 AVChunkRenderEntity
 AVChunkRenderNode
@@ -1844,6 +1863,7 @@ AVCloudEditAdornable
 AVCloudEditConnectionModel
 AVCloudEditController
 AVCloudEditModel
+AVClumpBinding
 AVClusterFit
 AVClustering
 AVClusterPacketCache
@@ -2758,6 +2778,11 @@ AVMessageStreamDecorator
 AVMessageTypeTableUserData
 AVMessagingService
 AVMessagingServiceAnalysisJob
+AVMidPhaseBase
+AVMidPhaseCollection
+AVMidPhaseCollectionBinding
+AVMidPhaseComponentBinding
+AVMidPhaseResultPairUpdateCallback
 AVmisc_category
 AVMitchellFilter
 AVMockGestureGenerator
@@ -2979,6 +3004,8 @@ AVPooledItem
 AVPopupLaunchEditor
 AVPostEffect
 AVPrimitive
+AVPrimitiveMidPhaseBinding
+AVPrimitiveMovementCallback
 AVPrismaticConstraint
 AVprocessor_category
 AVProcessPacketsJob
@@ -3537,6 +3564,8 @@ AVSpanningNode
 AVSpanningTree
 AVSparkles
 AVSpatialFilter
+AVSpatialGridHierarchicalPrimInternalsCache
+AVSpatialGridPrimitiveBase
 AVSpatialHashBase
 AVSpatialHashHierarchical
 AVSpawnerService
@@ -4329,6 +4358,7 @@ BgUpdateRedirectsHttpErrInfluxHundredthsPercentage
 BgUpdateRedirectsRejectInfluxHundredthsPercentage
 BHHHHHHHHHHHHHHHHHHHHHHHHHH
 BhHlLjJTiIfdnczsxX
+BIgyBtbxjB
 BillboardGui
 BillboardGuiDistanceStepping2
 BinaryData
@@ -4596,12 +4626,14 @@ Brightness
 BrightText
 BroadcastNotification
 Broadphase
+BroadPhase
 BroadPhaseIslandAlwaysSimulateDepth
 BroadPhaseIslandAssemblyFilter
 BroadPhaseIslandBufferZoneMinPartLimit
 BroadPhaseIslandMaxPartLinearFactorTenth
 BroadPhaseIslandMaxSortDepth
 BroadPhaseIslandReprocess
+BroadPhaseParallel
 BroadphaseReportOnlyUnthrottled
 BrokenAssetsResourceMenu
 BrokenResource
@@ -4742,7 +4774,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.448.0.410988
+ByVersion_0.448.0.410998
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -5326,7 +5358,6 @@ ClearTouchMovementModes
 ClearUnusedLuaRefsJob
 ClearUserVariations
 CLI20390_2
-ClI8Zzv4Fi
 CLIAPPBRIDGE414
 ClickableWhenViewportHidden
 ClickButton1
@@ -5965,6 +5996,7 @@ CollectAnalyticsForSystemMenu
 CollectIncremental
 Collecting
 Collection
+Collections
 CollectionService
 CollectPerServerFpsStats2
 CollideInnerBox
@@ -7143,7 +7175,6 @@ DA88D8583A11E29A3DBD856014A660
 DA88D9583A11E29A3DBD856014A660
 DAA8593206811871F972B2A9311C9
 DAAEB11E38B9D871882A8E559
-DaB2eHjjQMg
 DADE9A44A91111E2B410EF351327957B
 DADE9A45A91111E2B410EF351327957B
 DaHaLaNa`ahaza
@@ -7489,6 +7520,7 @@ DebugPlayerDisplayNameMock
 DebugPlayerHttpProxyUrl
 DebugPrintGuiStateTransitions
 DebugPrintLagServer
+DebugPrintMidPhaseStats
 DebugProfilerCaptureTime
 DebugProfilerFramesToCapture
 DebugRakNetNoTimestampInUdt
@@ -8565,6 +8597,7 @@ DXUnlockObjectsNV
 DXUnregisterObjectNV
 DXVideoMemory
 DynamicFastVariableReloaderTimeoutMs
+DynamicGeometryClumps
 DynamicLocalizationTablesDataTimeout
 DynamicLocalizationTablesRetryCount
 DynamicParts
@@ -9907,7 +9940,6 @@ FixMixedSlashPathInSandbox
 FixModelPreviewSelection
 FixNoTimeHudOnTeleport
 FixOutBoundAccessInBoxMappedMesh
-FixPerSecDivideStats
 FixPlayFabDuplicateEvents
 FixPlayFabTooManyRetries
 FixPluginFileSyncBreakpoints
@@ -10451,6 +10483,7 @@ GameThumbnail
 GameViewItemCap
 GameWidget
 GameWidgetHeight
+GatherAssemblies
 GatherHoverLabels
 GatherHoverMetaCounters
 GAThrottlingEventThresholdHundredthCat1
@@ -11461,6 +11494,7 @@ GroupTime.Sum.toFixed
 GSSolverActive
 GSSS466FSSS455
 GTInfluxDB
+GTjjSfy92EAvmwAQ7b6zwO8vsL8eQ8xFu2DDNZij6tHJAhLJAnVT
 Guaranteed
 GuestFriendCheckFailImmediate
 GuiApplyInsertionOrderSort2
@@ -11493,7 +11527,6 @@ GunCursor.png
 GunWaitCursor.png
 GvEphfEUiHHoD6hYFI4xWGpAnIHcklKQCxrf46kAhDGeZnqIgeGszlGdWafunGE8
 GVKUTS[BXIWH\KbHi
-Gwx3oU8RdfOMywLt5ib6t5iei5PGHZfvSDCOLb6R783V30BlOYp1gT2
 GXGfGkGpGuG
 GxI9Gpu2E2
 GyroscopeEnabled
@@ -11654,6 +11687,7 @@ HelpPageLink
 HelpWindow
 HelpWindow.style[
 HHAEBVQModelIndex
+HHAZESB9OS7FbOulz242hdoceIkdrZ0Lt6Y4JJuLZMTIt
 HHHHHAEBVQString
 HHPEAVQObject
 HHTT\AKKKKTYWAH
@@ -11668,7 +11702,6 @@ HideFromPlayer
 HideOneChildTreeviewButton
 HidePartSurfaceProperties
 HideProxySettings
-HideStreamingPropsWhenNotStreaming
 HideThirdPartyTeleportErrorDialog
 HideToolTip
 HIGH_PRIORITY
@@ -11735,6 +11768,7 @@ HKEY_PERFORMANCE_DATA
 HKEY_PERFORMANCE_NLSTEXT
 HKEY_PERFORMANCE_TEXT
 HMACGostR3411
+HNO2tDse86jZCpIVnHNFhZOHVK
 HomePageLoaded
 HopperPanel.png
 Horizontal
@@ -11789,7 +11823,6 @@ HQFSShadowed
 HQFSShadowedFSM
 HQVSShadowed
 HQVSShadowedFSM
-HSzIr0caDg4wX1V2z1az3o2Snl05QalQYUzwPd5ZnV1NWW98CAwEAAQ
 HtmlEscaped
 Http_Failed
 HTTPAccumulatedBytes
@@ -12046,8 +12079,6 @@ HW4PacketPriority
 HwngSmldAskhBcraMaweNegsOgnaT
 HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdnaNpnmHohcWsrhCkaiDstiKizeY
 HWYGOTH.ttf
-HXaj44iYxvHHV0ScJeChIPik99KUrzdzT8TMQTsUorWpCXVvDqXG
-HXiN8mkLYnF4a
 HybridEvent
 HyIyPyVy]y^yey
 Iacutesmall
@@ -12820,7 +12851,6 @@ JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
 Jcircumflex
-JCLIjKaTkSNYAg3KTlPl6o
 JDJNJXJbJlJvJ
 JHJRJ\JfJpJxJ
 JHW4MembershipType
@@ -12892,6 +12922,7 @@ JointStepParallelBatchSize
 JointTime_TextureCooldown
 JointToolHelpDialogVerb
 JPEBUSG_INDEX_TRIANGLE
+JqfyLBdzFW5apCDcoDAGCeZABc9O4H8OE7V
 JSON.parse
 JSON.stringify
 JSON_Parser
@@ -12981,7 +13012,6 @@ KFKPKXK`KhK
 KickByDatacenter_
 KiDszBCYB0gyp03Pc
 KillPtClicked
-KIpOTQbvZcADCzJcdrtzopiQUH51LgEKrx8vhzatce4qNl6TIzxq8KIH
 KKKKKKKKKK
 KKKKKKKKKKKK
 KKKKKKKKKKKKKKKKKKKKKK
@@ -13323,6 +13353,7 @@ LiveCoding
 LiveScript
 LiveThreadRef
 LivingRoom
+LIYVWxxZT5qtfemIptQc
 LLEo6Soxvx2
 LLLLLLLLLLLLLLLL]]]]]]]]]]]]]]]]]]]]
 LOAD_CERT_CTRL
@@ -13689,6 +13720,7 @@ LuauNonstrictArgumentCounts2
 LuauRecursionLimit
 LuauReworkDotVsColonWarnings
 LuauScriptTextProvider
+LuauSlightlyBetterRefinements
 LuauTraceTypesInNonstrictMode
 LuauTypeInferRecursionLimit
 LuauTypeInferTypePackLoopLimit
@@ -14347,13 +14379,16 @@ MicroProfilerWebServerEnabled
 MicroProfilerWebServerIP
 MicroProfilerWebServerPort
 MiddleboxCompat
+MidPhaseMaxParallelThreads
+MidPhaseParallelPairsBatchSize
+MidPhaseParallelPairsSerialCutoff
 MigrateTriangleMeshData_COUNT_
 MigrateTriangleMeshData_PLACE
 MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA6tdmPNFhGwHu76
+MIICCgKCAgEArxQeIUXbdPC59tyqXIMEwzuXYoXsPhlQJLjHLzYQqSRGy0N9UA4W
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14962,10 +14997,8 @@ NextSelectionUp
 NextSpawnLocation
 NextTabPage
 NfXf`fhfzf
-NhddaM5oMZii5lXx821WyVeSJ3XvZMgvEs5uaT
 NHVVariant
 NinjaMask.mesh
-NldLQhvLgXUgbzZCPzgcX
 NNNNNNNNNNNNNNNNNNNNNN
 NNNNNNNSSSSSSSSSSSSSSSSSSSSSS
 NNW4SizeMode
@@ -15433,6 +15466,7 @@ OscillateMotor
 Oscillator
 Oslashsmall
 OsPlatform
+OsQUxVVqg3t2uDbqf8UVRdOJuR5sPkCJieiqKTaA6ZvXSqvUTys3D12JsoI2vo
 OSSL_STORE_expect
 OSSL_STORE_find
 OSSL_STORE_INFO_get1_CERT
@@ -15560,6 +15594,7 @@ OverrideStarterScript
 OverrideToMyBranch
 OverwriteMode
 OverwritePublish
+OVgQLTAYsHB2R3WcQGpgQNGO5L5SGOtgnqzI4hFx7mVBoXg4nC3pT7CBUtTKK6Lz
 OwnProperty
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^]
@@ -15674,6 +15709,8 @@ Pants.rbxm
 PantsTemplate
 ParabolaAdornment
 ParallelBroadPhaseBatchSize
+ParallelBroadPhaseNewBatchCount
+ParallelBroadPhaseNewSerialCutoff
 ParallelBroadPhaseSerialCutoff
 ParallelBroadPhaseWithoutTerrain
 ParallelNarrowPhaseBatchSize
@@ -16508,6 +16545,7 @@ PGSWakeOtherIfOneAssemblyIsAwake
 PGWYcapabilities
 PgYlhgtIfaRB
 PGZKl8y6RXadfJMffKMAgK
+PhaseBroadPhase
 PhysicalConfigData
 PhysicalProperties
 PhysicalProperties.new
@@ -17105,7 +17143,6 @@ PpjEtrFill
 PpjEtrThreshold
 PpjPmThreshold
 PPLTaskHandle
-PpNhKWINFkyHm0L1vcsNzAbyKQXz7lFxeCbq09PQVX9kI5456fywV1GuXhtCnX
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 Prc.length
 Prc[MouseGraphX]
@@ -17177,7 +17214,9 @@ PrimaryButtonClicked
 PrimaryPart
 PrimaryPart.png
 Primitive2
+PrimitiveContacts
 PrimitiveLifetime
+PrimitiveMovementCallbacks
 PrimitiveRestartIndex
 Primitives
 PrimitivesCount
@@ -17944,7 +17983,6 @@ QJsonObject
 QJsonValue
 QJsonValueRef
 QKeySequence
-Qkkz9YkOgdk
 QLayoutItem
 QLinearGradient
 QListWidget
@@ -20962,6 +21000,7 @@ SpanningEdgeCacheIsInTree
 SparkleColor
 SpatialFilter
 SpatialFilterSanity
+SpatialGridPrimitiveBase
 SpatialHash
 SpatialHashBase
 SpawnCursor.png
@@ -21401,7 +21440,6 @@ StreamingPrefetchInterface
 StreamingPrefetchWorkMaxPercent
 StreamingRequestedInstanceAvg
 StreamingSafeMemWatermarkMB
-StreamingScaleBufByQuota
 StreamingSounds
 StreamingTargetRadius
 StreamJobLimits
@@ -21416,7 +21454,6 @@ StreamPauseVelBufFactorHundredths
 StreamPercentRanGarbageCollect
 StreamPercentSmallerThanMin
 StreamPrepareHeader
-StreamQuotaRoundUp
 StreamSize
 StreamTitle
 StreamUnprepareHeader
@@ -24160,6 +24197,7 @@ TerrainCellListener
 TerrainChunkAnalyticsOnPublish
 TerrainChunks
 TerrainContact
+TerrainContacts
 TerrainGrid
 TerrainInvertMaterialDetiling
 TerrainMesh
@@ -25230,7 +25268,6 @@ UBlockGroup
 UBlockMore
 UBulkImporterJob
 UBulkIngestionInfo
-UC29npoM6MYMLcAIP1J61cw4Jhe5iMIyzS
 UCachedBitstream
 UCachedContent
 UCachedLuaWebServiceInfo
@@ -25341,7 +25378,6 @@ UGCUpdateErrors
 UGCValidationService
 UGeneralResponse
 UGeometryBatch
-UGghU3r7S7REXwhWv46f98VLt6IUZd9RDhcw6oGIUIKhQkZKxpy9djw4eRZt68d
 UGlobalResult
 Ugravesmall
 UGroupRolesResult
@@ -25429,7 +25465,6 @@ UITransformedLitVS
 UITransformedVS
 UIViewportFrameCollectFrames
 UIViewportFrameWorkspace
-UjCW58wSrtzR49SZZV
 ULayoutInlineHelper
 ULinkedScriptLoadData
 ULoadedImage
@@ -25779,6 +25814,7 @@ UseDistanceThinning
 UsedMemory
 UsedMemoryKB
 UseEngineFeature
+UseHashLookupNotWeakPtr
 UseHipHeightInKeyframeSequences2
 UseHomePageWithAvatarAndPanel
 UseHttpDefaultUrlSchema
@@ -26825,7 +26861,6 @@ VNavigationDebugDraw
 VNavigationPath
 VNavigationService
 VNavigationTile
-VNe5nOxYSa9oUj7gBRvlVk2NUzdWOW0DFRUR5ku2i91jfmhOKduCstlp5SHTH
 VNegateOperation
 VNetworkOwnerJob
 VNetworkPhysicsMegaJob
@@ -27022,6 +27057,7 @@ VRunService
 VRunStateVerb
 Vruntime_error
 VRuntimeScriptService
+VS8CAwEAAQ
 Vscoped_connection
 VScopedToken
 VScraperJob
@@ -27276,7 +27312,9 @@ VWorldRoot
 Vwspp_callback_client
 VWSUATAUAVAW
 VWXYZ[\]^_`a
+VXI3gMahnNshEggIYtgM8lwnfucvWkh4b5F
 VXmlElement
+Vy2hWb7Zag2In5J8A2mew
 VYieldFunctions
 VYieldFunctionStateObject
 W_Key_dn.png
@@ -27643,6 +27681,7 @@ WSAStartup
 WSAStringToAddressW
 WTHelperGetProvSignerFromChain
 WTHelperProvDataFromStateData
+WtpoTgwiVZfi6BiZerU6KRZIvRvHzTzTmYwlepYDgcK9o2hGPRPacI2tUQPFMr
 WWWWWWWWWW
 WWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWW
@@ -27726,6 +27765,7 @@ XP6AXVVariant
 XP6AXVWeakFunctionRef
 XP6AXW4HttpRequestResult
 XP6AXXZVlist0
+XPEAUChunkClumpCollectionPair
 XPEAVFileSyncItem
 XPEAVICHull
 XPEAVILanguageClient
@@ -27871,6 +27911,7 @@ YAXPEAXPEBX1
 YAXPEBVQObject
 YAXVexception_ptr
 YAXW4error_type
+YbHmp5GkNi2nXa
 Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
@@ -27880,6 +27921,7 @@ YieldFuncDesc
 YieldFunction
 YQByteArray
 YResolution
+Yu7hVtEyItSxzKxVZ5k8KuLZwrfy5C48RRn7ZrKQhq8xRIUfTOcC0
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
 Z_KPEIBX_K_KPEIAU1
