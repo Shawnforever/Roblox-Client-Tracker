@@ -4401,7 +4401,6 @@ BIO_socket_nbio
 BIO_write_ex
 BitArrayToObject
 BitstreamList
-BJdRNAkPUGdy52ktZvaQcA9Q3
 Bkg_round.png
 Bkg_square.png
 BL17qL9koPpyChCHbWVgSXbfxynzBupojeOEiuqDuGX0BFl
@@ -4743,7 +4742,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.448.0.410983
+ByVersion_0.448.0.410988
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -5327,6 +5326,7 @@ ClearTouchMovementModes
 ClearUnusedLuaRefsJob
 ClearUserVariations
 CLI20390_2
+ClI8Zzv4Fi
 CLIAPPBRIDGE414
 ClickableWhenViewportHidden
 ClickButton1
@@ -7136,7 +7136,6 @@ CylinderMesh
 CylinderShapeData
 CylindricalConstraint
 CylindricalConstraintAction
-CzN5aHXtWbZThXs5EE
 D_Key_dn.png
 DA88D6583A11E29A3DBD856014A660
 DA88D7583A11E29A3DBD856014A660
@@ -7144,6 +7143,7 @@ DA88D8583A11E29A3DBD856014A660
 DA88D9583A11E29A3DBD856014A660
 DAA8593206811871F972B2A9311C9
 DAAEB11E38B9D871882A8E559
+DaB2eHjjQMg
 DADE9A44A91111E2B410EF351327957B
 DADE9A45A91111E2B410EF351327957B
 DaHaLaNa`ahaza
@@ -7815,7 +7815,10 @@ DEPRECATED_onFileChanged
 DEPRECATED_onLoggedOut
 DEPRECATED_onMessageMenuOptionClicked
 DEPRECATED_OnPublishPlaceToRoblox
+DEPRECATED_onRequestHideToolTip
+DEPRECATED_onRequestShowToolTip
 DEPRECATED_onShowGameNotPublishedDialog
+DEPRECATED_onTableHeadersUpdated
 DEPRECATED_onUserAccountInfoAcquired
 DEPRECATED_onVerticalFilterMenuOptionClicked
 DEPRECATED_OutputRibbonDropdown
@@ -8861,7 +8864,6 @@ EFEPEZEdEnExE
 EffectBoundings
 EffectiveRetryCount
 EFrontVector
-EGeKFXnmppVxqevGTAjoCWSP9cZdFrvI8JAUrs9QHnkh
 Egravesmall
 EHcUgHc]oL
 EHERE\EfEpEzE
@@ -9404,7 +9406,6 @@ ExecuteJavaScript
 ExecuteScript
 ExecuteWithStudioRun
 ExecutionLevel
-ExhoY40z7Xbc0i
 ExistingDirectory
 ExitAction
 ExitProcess
@@ -9938,7 +9939,6 @@ FixUncaughtModuleContentSetParentException
 FixUpCoCFS
 FixUsingGameIdInsteadOfJobId
 FixWeldConstraintTeamCreateReplication
-FJDVGO4k0CLrKoNJErfcC4MGUM
 FJFTF^FhFrF
 FlagCaptured
 FlagCreated
@@ -10269,7 +10269,6 @@ FrontParamA
 FrontParamB
 FrontSurface
 FrontSurfaceInput
-FrRyOSGlLuKOH1wYwUck2HPP2HhjEBduKrgVJ2ru
 FrustumOrdered
 FrustumRenderQueue
 FStudioProfilerFlushPeriodSec
@@ -11247,7 +11246,6 @@ GL_ARB_pixel_buffer_object
 GL_ARB_texture_storage
 GL_EXT_texture_border_clamp
 GL_EXT_texture_compression_s3tc
-GL8U8vlcIFglrTzpbLDl3CU
 Glass[0]VS
 GlassTintFS
 GlobalAdvancedSettings
@@ -11495,6 +11493,7 @@ GunCursor.png
 GunWaitCursor.png
 GvEphfEUiHHoD6hYFI4xWGpAnIHcklKQCxrf46kAhDGeZnqIgeGszlGdWafunGE8
 GVKUTS[BXIWH\KbHi
+Gwx3oU8RdfOMywLt5ib6t5iei5PGHZfvSDCOLb6R783V30BlOYp1gT2
 GXGfGkGpGuG
 GxI9Gpu2E2
 GyroscopeEnabled
@@ -11790,6 +11789,7 @@ HQFSShadowed
 HQFSShadowedFSM
 HQVSShadowed
 HQVSShadowedFSM
+HSzIr0caDg4wX1V2z1az3o2Snl05QalQYUzwPd5ZnV1NWW98CAwEAAQ
 HtmlEscaped
 Http_Failed
 HTTPAccumulatedBytes
@@ -12046,6 +12046,8 @@ HW4PacketPriority
 HwngSmldAskhBcraMaweNegsOgnaT
 HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdnaNpnmHohcWsrhCkaiDstiKizeY
 HWYGOTH.ttf
+HXaj44iYxvHHV0ScJeChIPik99KUrzdzT8TMQTsUorWpCXVvDqXG
+HXiN8mkLYnF4a
 HybridEvent
 HyIyPyVy]y^yey
 Iacutesmall
@@ -12119,7 +12121,6 @@ IEBAXPEAVQStyleOptionComboBox
 IEBAXPEAVQStyleOptionSlider
 Ierusalimschy
 IEventTarget
-IeYIksuCRfCqmWqOph3MmHdKK4YjA9PgDe
 IFindListener
 IfLastDocInLastAppInstance
 IfPurchased
@@ -12819,6 +12820,7 @@ JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
 Jcircumflex
+JCLIjKaTkSNYAg3KTlPl6o
 JDJNJXJbJlJvJ
 JHJRJ\JfJpJxJ
 JHW4MembershipType
@@ -12979,6 +12981,7 @@ KFKPKXK`KhK
 KickByDatacenter_
 KiDszBCYB0gyp03Pc
 KillPtClicked
+KIpOTQbvZcADCzJcdrtzopiQUH51LgEKrx8vhzatce4qNl6TIzxq8KIH
 KKKKKKKKKK
 KKKKKKKKKKKK
 KKKKKKKKKKKKKKKKKKKKKK
@@ -14350,7 +14353,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA9yF1wV9
+MIICCgKCAgEA6tdmPNFhGwHu76
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14642,7 +14645,6 @@ MsgWaitForMultipleObjectsEx
 MsToScreen
 MSVCP140.dll
 MSWSOCK.dll
-MTfRJDpmF8p3dsST2VHA4TAMCAwEAAQ
 MTU_Country_
 MTU_Platform_
 Mtx_current_owns
@@ -14702,7 +14704,6 @@ MultTransposeMatrixf
 MusicalInstruments
 MutexLifetime
 MW4PartMaterial
-MWWhgTxW2hyu9eFs4E4I0hvNNQMQMgiouzAIncNQIA
 MyModelsAction
 MyWatchTreeWidget
 NAEAVHttpResponse
@@ -14961,10 +14962,10 @@ NextSelectionUp
 NextSpawnLocation
 NextTabPage
 NfXf`fhfzf
+NhddaM5oMZii5lXx821WyVeSJ3XvZMgvEs5uaT
 NHVVariant
 NinjaMask.mesh
-NK9nDKBVgE6wJgZwyj5veTlad2jpWOuxHCOs
-NmaowS88Bcgf9h34WG
+NldLQhvLgXUgbzZCPzgcX
 NNNNNNNNNNNNNNNNNNNNNN
 NNNNNNNSSSSSSSSSSSSSSSSSSSSSS
 NNW4SizeMode
@@ -15196,7 +15197,6 @@ OCSPResponse
 OCSPSigning
 OCTETSTRING
 Odieresissmall
-OEFYVsOjkdyoA6znm
 OfA9HPuHfA9H`uAfA9Hpu
 OfAdmissions
 OfApproval
@@ -16466,7 +16466,6 @@ PersistentEditor
 PersistentFifoComboBox
 PerThreadTimer
 PerThreadTimerTotal
-PfabDbjHdgDVdXwLa
 PGSAlign2AxesCorrectionDamping
 PGSAlign2AxesPStageFrictionConstant
 PGSAlign2AxesVStageFrictionConstant
@@ -17106,6 +17105,7 @@ PpjEtrFill
 PpjEtrThreshold
 PpjPmThreshold
 PPLTaskHandle
+PpNhKWINFkyHm0L1vcsNzAbyKQXz7lFxeCbq09PQVX9kI5456fywV1GuXhtCnX
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 Prc.length
 Prc[MouseGraphX]
@@ -17927,7 +17927,6 @@ QGraphicsScene
 QGraphicsView
 QGridLayout
 QGuiApplication
-QH2r6gGpWX
 QHBoxLayout
 QHeaderView
 QHostAddress
@@ -17945,6 +17944,7 @@ QJsonObject
 QJsonValue
 QJsonValueRef
 QKeySequence
+Qkkz9YkOgdk
 QLayoutItem
 QLinearGradient
 QListWidget
@@ -19168,7 +19168,6 @@ RequestGame
 RequestGameJob
 RequestGetImpl
 RequestGracefulClose
-RequestHideToolTip
 RequestHttpResultApproved
 RequestHttpResultApprovedSignal
 Requesting
@@ -19195,7 +19194,6 @@ RequestServerHttpResultSignal
 RequestServerOutput
 RequestServerOutputSignal
 RequestServerStats
-RequestShowToolTip
 RequestStartPlayer_
 RequestStartTime
 RequestStreamAroundAsync
@@ -19443,10 +19441,8 @@ RightWrist
 RightWristRigAttachment
 RigidBodyLazyUpdating
 RigidityEnabled
-RIR9IdF29j7Tw5e3dEILNn6ycfOn
 RiseVelocity
 Rj0isQcnqX
-RLZigmu3hdfhT5onGZtsXFITtWBVCmOyDDuSM2agXENE
 Roact.createElement
 ROBLOSECURITY
 Roblox.Hybrid
@@ -23488,6 +23484,7 @@ StudioOpenScriptDocBasedOnPrintedGST
 StudioOptimizeExternalLoginFlow
 StudioOutOfDate
 StudioOutOfDateToast
+StudioOutputExpressiveTextView
 StudioOutputViewDropdownRefactor
 StudioPackageConvert
 StudioPackageConvert_Failure
@@ -23931,7 +23928,6 @@ TabCloseButton
 TabCloseRequested
 TabElementId
 TableCells
-TableHeadersUpdated
 TableItemClicked
 TableLiteral
 TableLoadCsvAction
@@ -24423,7 +24419,6 @@ Throw_C_error
 Throw_Cpp_error
 Throw_future_error
 ThrowErrorWhenRequestedURLFailed
-THTCT7QixBMdDpvvk0Bn
 ThumbnailDataLoaded
 ThumbnailFetchJob
 ThumbnailFocusOnPartZoomOut
@@ -25235,6 +25230,7 @@ UBlockGroup
 UBlockMore
 UBulkImporterJob
 UBulkIngestionInfo
+UC29npoM6MYMLcAIP1J61cw4Jhe5iMIyzS
 UCachedBitstream
 UCachedContent
 UCachedLuaWebServiceInfo
@@ -25345,7 +25341,7 @@ UGCUpdateErrors
 UGCValidationService
 UGeneralResponse
 UGeometryBatch
-UghXOQY8YMeHIjrV4dJosW153WRpHYPePv6l9C0gY4
+UGghU3r7S7REXwhWv46f98VLt6IUZd9RDhcw6oGIUIKhQkZKxpy9djw4eRZt68d
 UGlobalResult
 Ugravesmall
 UGroupRolesResult
@@ -25433,6 +25429,7 @@ UITransformedLitVS
 UITransformedVS
 UIViewportFrameCollectFrames
 UIViewportFrameWorkspace
+UjCW58wSrtzR49SZZV
 ULayoutInlineHelper
 ULinkedScriptLoadData
 ULoadedImage
@@ -26480,7 +26477,6 @@ Vexception
 VExplosion
 VExpression
 VExtrudedPartInstance
-Vf7V6iUrpRPajv6VyqsCAMr5me
 VFaceInstance
 VFakeAtlExtension
 VFbxClassId
@@ -26829,6 +26825,7 @@ VNavigationDebugDraw
 VNavigationPath
 VNavigationService
 VNavigationTile
+VNe5nOxYSa9oUj7gBRvlVk2NUzdWOW0DFRUR5ku2i91jfmhOKduCstlp5SHTH
 VNegateOperation
 VNetworkOwnerJob
 VNetworkPhysicsMegaJob
@@ -27279,7 +27276,6 @@ VWorldRoot
 Vwspp_callback_client
 VWSUATAUAVAW
 VWXYZ[\]^_`a
-Vx7dcfKCeBDAGRC0coHBLPnS86K89Gydpicqe79I8DZEZ8APbfMQ22XgVGL3S
 VXmlElement
 VYieldFunctions
 VYieldFunctionStateObject
