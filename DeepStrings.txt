@@ -329,7 +329,6 @@ AEBHP6AAEBHPEBH
 AEBIP6AAEBIPEBI
 AEBMP6AAEBMPEBM
 AEBNP6AAEBNPEBN
-AEBPaNXpQJgIs8aiO
 AEBUbtDispatcherInfo
 AEBUClassInfo
 AEBUConnectionStats
@@ -4663,6 +4662,7 @@ BrowserWindow
 BrowserWindowClosed
 BrowserWindowWillNavigate
 BrushStyle
+BsyOwMIZvulxQAxGagHmT93mAov1LNnwmi2x3ap5n
 BtnBackground.png
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
 BU_Simplex1to4
@@ -4774,7 +4774,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.448.0.411013
+ByVersion_0.448.0.411024
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -8168,7 +8168,6 @@ DigitalSignature
 DilleniaUPC
 Dimensions
 DimmedText
-DIOBSCNyvWCrvtFglSG32MEfcZ6DYiTxCdKQ
 DiqLimitAct
 DiqLimitEn
 DiqLimitMax
@@ -8555,6 +8554,7 @@ DSO_up_ref
 Dst.Thread
 Dst.YBegin
 DSVideoCaptureEngine
+DTcj8B7g2yIsEbocv
 DTLS_RECORD_LAYER_new
 DTLSv1_listen
 DumpAction
@@ -9484,6 +9484,7 @@ ExportSelectionVerb
 ExposeAttributesEarly
 ExposureCompensation
 Expression
+EXS5DAmcxUlYMB
 EXT_add_alias
 ExtAdmission
 EXtComment
@@ -9644,6 +9645,7 @@ FbxVectorTemplate3
 FC7F11740720681192B0FA7C02778D61
 FC822localPart
 FCA877B34569
+FcBNZ2PFbH
 FCCAAED11E38B9D871882A8E559
 FCCBB6FB0BF11E395B6E5DB6211F344
 FCCBB70B0BF11E395B6E5DB6211F344
@@ -9921,7 +9923,6 @@ FixFreefallFrictionResetAfterBodyPartChange
 FixG3DFpChecks
 FixGamepadCursorIdlePosition
 FixGamepadR3LastInputType
-FixGetPropertyChangedSignalMemoryLeak
 FixHACDHullPointLoss
 FixHumanoidOwnershipRoot
 FixIAdornableCollectorCrash3
@@ -10055,7 +10056,6 @@ FontMatrix
 FONTNAME_REGISTRY
 FontSizePadding
 FontWeight
-FOo9ijjgRmCrsyjkrUCIiwi
 FootAutomaticToes
 FootBackToAnkle
 FootBottomToAnkle
@@ -11526,10 +11526,12 @@ GuiTrackInsertionOrder
 GuiVertices
 GunCursor.png
 GunWaitCursor.png
+GV3UFi0FxOuvMxNvaOMZXSfdNve8W29OhXyninVmeDdWg
 GvEphfEUiHHoD6hYFI4xWGpAnIHcklKQCxrf46kAhDGeZnqIgeGszlGdWafunGE8
 GVKUTS[BXIWH\KbHi
 GXGfGkGpGuG
 GxI9Gpu2E2
+GXkccqCvuMLQx6IY9uggp60XBvScEG
 GyroscopeEnabled
 H_Key_dn.png
 H_NAEBVQString
@@ -11639,6 +11641,7 @@ HB_SHAPER_LIST
 Hbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaa
 Hcircumflex
 HDCacheLock
+HDqqq2QiMOIngJpSsSts48QWf1bWSXa6RrtKNb5O2Q0Xd8lyhHd9zKnd7wQj
 HeadColor3
 HeaderCheckBoxClicked
 HeaderColumnWidths
@@ -12026,6 +12029,7 @@ HuaTianKaiTi
 HuaTianSongTi
 HubCallback
 HubMethodCalled
+HUg9865X4hNyCAFaATznmLaYWgZZENBT9bS
 HumanoidAdornRaycasts
 HumanoidAnimationScripts
 HumanoidBetterFindLadder2
@@ -12844,6 +12848,7 @@ IWorldStage
 IXMLHTTPRequest2
 J_Key_dn.png
 J_NW4CurrencyType
+Jal0xvpIkWCQzEdw7SgS3oeTj
 JasmineUPC
 JavaScript
 JavaScriptCallback
@@ -13005,7 +13010,6 @@ KeywordColor
 KeywordFilterType
 KfaO3j5BbG6ijHHxFy22YNNJwxKTT
 KfE9k0uDfE9k
-KFKeZoLz8EoLk2v5GSM
 KFKPKXK`KhK
 KickByDatacenter_
 KiDszBCYB0gyp03Pc
@@ -13353,6 +13357,7 @@ LiveThreadRef
 LivingRoom
 LLEo6Soxvx2
 LLLLLLLLLLLLLLLL]]]]]]]]]]]]]]]]]]]]
+Lnw5xPO7NpPx5fKhbEW3YkAwsL9XK9aw6z
 LOAD_CERT_CTRL
 Load_Package
 LoadAnimation
@@ -13716,13 +13721,13 @@ LuauRecursionLimit
 LuauReworkDotVsColonWarnings
 LuauScriptTextProvider
 LuauSlightlyBetterRefinements
+LuauTableTypeMaximumStringifierLength
 LuauTraceTypesInNonstrictMode
 LuauTypeInferRecursionLimit
 LuauTypeInferTypePackLoopLimit
 LuauWatchdog
 LuaVersion
 LuaWebService
-LuVdfk7rQHLdkHjuw4YGpjR7OPtliKStPs2YeW2iF7TZFhHNTs68iGfZrTIpOSRB
 LVvuOx39]O
 M_NVWeakFunctionRef
 MacGamepadUseGCController
@@ -13905,7 +13910,7 @@ MaxViscousForceGravityTimesMult
 MaxVisibleItems
 MaxWaitTimeBeforeForcePacketProcessMS
 MayBeLinkedSourceModified
-MB0flx5JOgniGedCD1M41N
+MDhUeBpqPkWHKcZE
 MdiControls
 MDIManagerHost
 MEAA_JPEA_W_J
@@ -14385,7 +14390,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA0t0e1OzpKKExqFa0q3Hbprt2jq5isxn3TeMj4HTqnXKPTSpfgrTK
+MIICCgKCAgEAwzMzP
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -15091,7 +15096,6 @@ NSNNNNNWNa
 NSNNNNNWNSNN_NSNSNSNNNNSNWN`N^^N
 NSNNNNNWNWNNN^^N
 NSNNNNNWNZP[\
-NsuqUbp0ElJDKMrjmJQP
 Ntildesmall
 NullPassword
 NUMBER_OF_ORDERED_STREAMS
@@ -15199,7 +15203,6 @@ OccludeAll
 OccupancyDebugFS
 Ocircumflex
 Ocircumflexsmall
-OcKyTMvpjTJz2a4
 OCSP_basic_add1_status
 OCSP_basic_sign
 OCSP_basic_sign_ctx
@@ -15458,6 +15461,7 @@ OriginalDocumentID
 OriginalPosition
 OriginalSize
 OrIncrementCounterForOutputText
+ORKCS4v5snfwx7GmZWFtSte6REXJ2J9vD8VDmOdoqVc
 OrMakeScriptDebuggerForScriptInstance
 OrProvinceName
 OS.Authentication.LuaLoginAndSignup4
@@ -15594,7 +15598,6 @@ OverwriteMode
 OverwritePublish
 OwnProperty
 Ozs8xYCf2Q05p4gHyX
-OZYThFH8Wz
 PA^A]A\_^]
 PA^A]A\_^][
 PA_A^A\_^[]
@@ -17454,8 +17457,8 @@ PVAdornment
 PVInstance
 PVK_header
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
+PxNxiecWK9ccpI
 PyJlf7IHZQpFHohBe
-Pz4wB4RE4By4s7RPaPhgEBtrITTdFOtAUApI2xF
 QAbstractAnimation
 QAbstractButton
 QAbstractConcatenable
@@ -18207,6 +18210,7 @@ QueuePresentKHR
 QueueSubmit
 QueueUserAPC
 QueueWaitIdle
+QUGJ5QQEtHsjWl5Xz5HdL2lUVCEAsuTjYoPvQ4fBwmHY2Q23JDMlUc0D0
 Quick_Access_Button
 QuickAccess
 QuickAccess_
@@ -18264,7 +18268,6 @@ QWheelEvent
 QWidgetAction
 QWidgetPluginGui
 QWidgetWindow
-QYHWqGydIxU90y8ysLUi7y0pkjpyLSQ7bJ9LgLK5NjULsVTUCAwEAAQ
 RadialBlurFS
 RagdollBallSocketConstraint
 RagdollDefaultTimerTenthSecond
@@ -18517,7 +18520,6 @@ RCCUpdateBroadphaseDtAverage
 RCCUpdateBroadphaseDtAverage_Datacenter_
 RccUse64BitAppearanceId
 RcpReferenceTime
-Rd6dwRM7Pox
 ReachActorChest
 ReachActorChestRotation
 ReachActorHead
@@ -19481,6 +19483,7 @@ RigidBodyLazyUpdating
 RigidityEnabled
 RiseVelocity
 Rj0isQcnqX
+RnwkXb99ZECNH4vbKu8R5gcf5CByQ9PEkc10LsMQzztpE4npRio
 Roact.createElement
 ROBLOSECURITY
 Roblox.Hybrid
@@ -19651,6 +19654,7 @@ RowsToRemove
 RowStretch
 RowVisibilityChanged
 RPCServers
+RqKsqGW8n9lSyc0xuPX
 RRReceiptFail
 RRReceiptTotal
 RRRRRRRRzzzzzzzzzzzzzzzzzz
@@ -19690,7 +19694,6 @@ RSA_verify_PKCS1_PSS_mgf1
 RSAPrivateKey
 RSAPublicKey
 RTDynamicCast
-RtfXl1905T2A9OTRXYh1E43bwVCc5McFxkk5ttKtzui
 RtlCaptureContext
 RtlLookupFunctionEntry
 RtlVirtualUnwind
@@ -21058,7 +21061,6 @@ SplittingCanceled
 SpreadAngle
 SpringConstraint
 SpringConstraintAction
-SqHc1GwYDnQdAXhVHNPZR8L9hkpwod
 SquishCheckState
 SquishRelay
 SQUIshRobloxReflectionExtensionLibrary
@@ -21071,7 +21073,6 @@ SRTP_AEAD_AES_128_GCM
 SRTP_AEAD_AES_256_GCM
 SRTP_AES128_CM_SHA1_32
 SRTP_AES128_CM_SHA1_80
-Ss2xljCqf2nax92oWs80alFjcvuGLQagzcQVday0
 SSAOBlurXFS
 SSAOBlurYFS
 SSAOCompositFS
@@ -23763,6 +23764,7 @@ StudioUserNotificationReconnectTimerIncrementMs
 StudioUserNotificationTopSubdomain
 StudioUserPreferences
 StudioUseStudioAssert
+StudioUseStudioHttpRequestInTemplatePageModel
 StudioUseStudioHttpRequestInUserDataStoreService
 StudioUtilities
 StudioUXImprovementsAddDialogOnTCClose
@@ -23986,7 +23988,6 @@ TakeDamage
 TakenSignal
 TakeScreenshot
 TakeThumbnail
-TAl9lRSdLk8vgqN
 TapAvatarTab
 TapChatTab
 TapConversationEntry
@@ -26064,7 +26065,6 @@ UWindowShowMessageRequest
 UWindowShowMessageResponse
 UXImprovementAddSearchBar
 UXImprovementsFixEscKeyClosing
-UYNR8ZxRvQZaO2dTrJiuUcRAD
 V_http_request
 V_http_response
 VABTestEnrollmentsRequest
@@ -26881,6 +26881,7 @@ VNotificationService
 VNumberRange
 VNumberSequence
 VNumberSequenceKeypoint
+VO8VvppcN1W
 Voauth2_handler
 VObjectValue
 VogpHgQ70F57MdFiBApyJwNSBk
@@ -27123,6 +27124,7 @@ VSingleLocaleTableTranslatorInstance
 VSJitDebugger.exe
 VSkateboardController
 VSkateboardPlatform
+VsKNRECAwEAAQ
 VSlicesParser
 VSlidingBallConstraint
 VSmoothNoOutlinesTool
@@ -27267,7 +27269,6 @@ VValueBase
 Vvariable_value
 VVariablesItem
 VVariantRowData
-VvbjHm8XaxaLLISF7UsVdrzeY
 VVector2int16
 VVector3int16
 VVectorForce
@@ -27676,13 +27677,13 @@ WritePluginSettingsFile
 WriteReference
 WriteSelection
 WriteVoxels
+WrjJ92nEsv9yhzw
 WS2_32.dll
 WSAAddressToStringW
 WSASocketW
 WSAstartup
 WSAStartup
 WSAStringToAddressW
-WSRa5ihEXzDqTAGanl
 WTHelperGetProvSignerFromChain
 WTHelperProvDataFromStateData
 WWWWWWWWWW
@@ -27921,6 +27922,7 @@ YffYZefYDNNDCOO
 YieldEvent
 YieldFuncDesc
 YieldFunction
+YPLbYU8kjKLo6zT90DOg9oWBF
 YQByteArray
 YResolution
 YwBBvY55YvBBwY5
