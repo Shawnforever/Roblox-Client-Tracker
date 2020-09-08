@@ -1193,6 +1193,8 @@ AURequireFinder
 AURequireTracer
 AUResponse
 AUResponseError
+AURobloxFindColor3ConstructorRequest
+AURobloxFindColor3ConstructorResponse
 AURobloxFindExecutablePositionRequest
 AURobloxFindExecutablePositionResponse
 AURobloxRegisterSyntaxCategoriesRequest
@@ -2076,6 +2078,7 @@ AVDefaultHttpRequestExecutionPolicy
 AVDeleteBase
 AVDeleteInstanceItem
 AVDeleteSelectionVerb
+AVDEPRECATED_ColorPreviewWidget
 AVDEPRECATED_ConnectionIndicator
 AVDEPRECATED_LinkEnabledPlainTextEdit
 AVDEPRECATED_OutputRibbonDropdown
@@ -4662,7 +4665,6 @@ BrowserWindow
 BrowserWindowClosed
 BrowserWindowWillNavigate
 BrushStyle
-BsyOwMIZvulxQAxGagHmT93mAov1LNnwmi2x3ap5n
 BtnBackground.png
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
 BU_Simplex1to4
@@ -4774,7 +4776,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.448.0.411024
+ByVersion_0.448.0.411034
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -5187,6 +5189,7 @@ CharacterScale
 CharacterScripts
 CharacterSet
 CharacterShadow.png
+CharacterSpan
 CharacterUseJumpPower
 CharacterWalkSpeed
 CharacterWithAvatarFetch_end
@@ -7141,6 +7144,7 @@ CustomSort
 CustomStatusAdded
 CustomStatusRemoved
 CustomToolButton
+CWhazYIhND5P3
 CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
@@ -7831,6 +7835,7 @@ DependentBreakpointInsert
 DependentInsert
 DeprecatableBroadcasts
 Deprecated
+DEPRECATED_ColorPreviewWidget
 DEPRECATED_createAndShowIDEDocProxy
 DEPRECATED_doCheck
 DEPRECATED_isActive
@@ -8165,6 +8170,7 @@ DigestAlgorithm_find_ctx
 DigestAlgorithm_init_bio
 DigestedData_do_final
 DigitalSignature
+DIJA2SFcJDQIlrAMSIulVsoik1b1PC8HEvdfl2Sk1tC4XwU0Dt1
 DilleniaUPC
 Dimensions
 DimmedText
@@ -8554,7 +8560,6 @@ DSO_up_ref
 Dst.Thread
 Dst.YBegin
 DSVideoCaptureEngine
-DTcj8B7g2yIsEbocv
 DTLS_RECORD_LAYER_new
 DTLSv1_listen
 DumpAction
@@ -9237,6 +9242,7 @@ Environment
 EnvironmentDiffuseScale
 EnvironmentSpecularScale
 EnviroSpeed
+EOEjF1kfydFcrT3GADnMsgGKLUiL9fD
 EoOoZoaozo
 EphemeralCounter
 EphemeralCounterInfluxReportingEnabled
@@ -9484,7 +9490,6 @@ ExportSelectionVerb
 ExposeAttributesEarly
 ExposureCompensation
 Expression
-EXS5DAmcxUlYMB
 EXT_add_alias
 ExtAdmission
 EXtComment
@@ -9645,7 +9650,6 @@ FbxVectorTemplate3
 FC7F11740720681192B0FA7C02778D61
 FC822localPart
 FCA877B34569
-FcBNZ2PFbH
 FCCAAED11E38B9D871882A8E559
 FCCBB6FB0BF11E395B6E5DB6211F344
 FCCBB70B0BF11E395B6E5DB6211F344
@@ -11277,6 +11281,7 @@ GImpactCompound
 GImpactCompoundShape
 GiveFocusBackAfterClickingTextbox
 GizmoRaycast
+GjM8Zihx2IpQpiyV8HNO
 GL_ARB_pixel_buffer_object
 GL_ARB_texture_storage
 GL_EXT_texture_border_clamp
@@ -11526,12 +11531,10 @@ GuiTrackInsertionOrder
 GuiVertices
 GunCursor.png
 GunWaitCursor.png
-GV3UFi0FxOuvMxNvaOMZXSfdNve8W29OhXyninVmeDdWg
 GvEphfEUiHHoD6hYFI4xWGpAnIHcklKQCxrf46kAhDGeZnqIgeGszlGdWafunGE8
 GVKUTS[BXIWH\KbHi
 GXGfGkGpGuG
 GxI9Gpu2E2
-GXkccqCvuMLQx6IY9uggp60XBvScEG
 GyroscopeEnabled
 H_Key_dn.png
 H_NAEBVQString
@@ -11641,7 +11644,6 @@ HB_SHAPER_LIST
 Hbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaa
 Hcircumflex
 HDCacheLock
-HDqqq2QiMOIngJpSsSts48QWf1bWSXa6RrtKNb5O2Q0Xd8lyhHd9zKnd7wQj
 HeadColor3
 HeaderCheckBoxClicked
 HeaderColumnWidths
@@ -11825,6 +11827,7 @@ HQFSShadowed
 HQFSShadowedFSM
 HQVSShadowed
 HQVSShadowedFSM
+HtMelGmPRcQDH3YQ
 HtmlEscaped
 Http_Failed
 HTTPAccumulatedBytes
@@ -12029,7 +12032,6 @@ HuaTianKaiTi
 HuaTianSongTi
 HubCallback
 HubMethodCalled
-HUg9865X4hNyCAFaATznmLaYWgZZENBT9bS
 HumanoidAdornRaycasts
 HumanoidAnimationScripts
 HumanoidBetterFindLadder2
@@ -12192,6 +12194,7 @@ IID_IVPObject
 IID_IVPVBIConfig
 IID_IVPVBINotify
 IID_IVPVBIObject
+IJDnnYLvNAm87320
 IKCollisionsMode
 IkDragCollisionsMode
 IkDraggerAnchorMode
@@ -12848,7 +12851,6 @@ IWorldStage
 IXMLHTTPRequest2
 J_Key_dn.png
 J_NW4CurrencyType
-Jal0xvpIkWCQzEdw7SgS3oeTj
 JasmineUPC
 JavaScript
 JavaScriptCallback
@@ -12865,6 +12867,7 @@ JIRA_RIDE_785
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
+JMLBKCsJiO
 JoinBlobInvalidateCountThresholdPercent
 JoinBlobInvalidateThresholdPercent
 JoinCommand
@@ -13017,6 +13020,7 @@ KillPtClicked
 KKKKKKKKKK
 KKKKKKKKKKKK
 KKKKKKKKKKKKKKKKKKKKKK
+KKKWMmN65l3CJu2RVNpfR2XFsYKzELPLL4SUopkbd82YwF31yUOsK1H4DZ6
 KnownHeaders
 KnownPrefixIndex
 KodchiangUPC
@@ -13357,7 +13361,6 @@ LiveThreadRef
 LivingRoom
 LLEo6Soxvx2
 LLLLLLLLLLLLLLLL]]]]]]]]]]]]]]]]]]]]
-Lnw5xPO7NpPx5fKhbEW3YkAwsL9XK9aw6z
 LOAD_CERT_CTRL
 Load_Package
 LoadAnimation
@@ -13594,6 +13597,7 @@ LowQMaterialWangFallbackFS
 LowQMaterialWangFS
 LowResolution
 Lslashsmall
+LSPColor3Picker
 LSPManager
 LSPObservable
 LSPServerTextCache
@@ -13898,6 +13902,7 @@ MaxRegionExpansionTimerLimitMS
 MaxServerStreamRegionRadius
 MaxSimulationRadius
 MaxSlopeAngle
+MaxSoundCpuUsageThresholdPercent
 MaxSpeedDeltaMillis
 MaxStack[nLog]
 MaxStreamPacketsPerStep
@@ -13910,7 +13915,6 @@ MaxViscousForceGravityTimesMult
 MaxVisibleItems
 MaxWaitTimeBeforeForcePacketProcessMS
 MayBeLinkedSourceModified
-MDhUeBpqPkWHKcZE
 MdiControls
 MDIManagerHost
 MEAA_JPEA_W_J
@@ -14390,7 +14394,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAwzMzP
+MIICCgKCAgEAzBu96Y1XI2I7YW0n7zsoITO51DqVw3Q7f6Sb5cjlfISte9BRqdlk
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14998,7 +15002,9 @@ NextSelectionRight
 NextSelectionUp
 NextSpawnLocation
 NextTabPage
+NfQR2hO45bA51jh7Pgkd1CHkCau1d0DJ
 NfXf`fhfzf
+NHDHVQChar
 NHVVariant
 NinjaMask.mesh
 NNNNNNNNNNNNNNNNNNNNNN
@@ -15150,6 +15156,7 @@ NVWorkspace
 NW4FileSystemDir
 NW4PenStyle
 NW4UserInputType
+NxeYePYiAQUL0UQ5vUz5vxjkHEC
 Oacutesmall
 OAEPEncryptionSET
 OAUTHBEARER
@@ -15232,6 +15239,7 @@ OCSPResponse
 OCSPSigning
 OCTETSTRING
 Odieresissmall
+OeMCHa300kTn
 OfA9HPuHfA9H`uAfA9Hpu
 OfAdmissions
 OfApproval
@@ -15267,6 +15275,7 @@ OfResidence
 OfTimesLooped
 OfTopLevelItem
 OfTruthItemFound
+OgkFaak7Y1rDXsUm7ReB3
 Ogoneksmall
 Ogravesmall
 OGRE_VIEW_UPDATE
@@ -15461,7 +15470,6 @@ OriginalDocumentID
 OriginalPosition
 OriginalSize
 OrIncrementCounterForOutputText
-ORKCS4v5snfwx7GmZWFtSte6REXJ2J9vD8VDmOdoqVc
 OrMakeScriptDebuggerForScriptInstance
 OrProvinceName
 OS.Authentication.LuaLoginAndSignup4
@@ -16616,6 +16624,7 @@ PhysicsStepsPerSecond
 PhysicsStepTimeMs
 PhysicsTouchQueue
 PhysicsWorld
+PickerArgValidityWarning
 PickerFrame
 PickerFrameChanged
 PickerFrameDestroyed
@@ -17457,7 +17466,6 @@ PVAdornment
 PVInstance
 PVK_header
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
-PxNxiecWK9ccpI
 PyJlf7IHZQpFHohBe
 QAbstractAnimation
 QAbstractButton
@@ -18210,7 +18218,6 @@ QueuePresentKHR
 QueueSubmit
 QueueUserAPC
 QueueWaitIdle
-QUGJ5QQEtHsjWl5Xz5HdL2lUVCEAsuTjYoPvQ4fBwmHY2Q23JDMlUc0D0
 Quick_Access_Button
 QuickAccess
 QuickAccess_
@@ -19024,6 +19031,7 @@ ReplaceBodyPartR15
 ReplaceGetCurrentUserashx
 ReplaceIcon
 ReplaceMaterial
+ReplacementRequested
 ReplaceMenu
 ReplaceSession
 ReplaceVisible
@@ -19483,7 +19491,6 @@ RigidBodyLazyUpdating
 RigidityEnabled
 RiseVelocity
 Rj0isQcnqX
-RnwkXb99ZECNH4vbKu8R5gcf5CByQ9PEkc10LsMQzztpE4npRio
 Roact.createElement
 ROBLOSECURITY
 Roblox.Hybrid
@@ -19654,7 +19661,7 @@ RowsToRemove
 RowStretch
 RowVisibilityChanged
 RPCServers
-RqKsqGW8n9lSyc0xuPX
+RrlRGoamYhryG1E5SDNWq
 RRReceiptFail
 RRReceiptTotal
 RRRRRRRRzzzzzzzzzzzzzzzzzz
@@ -19769,6 +19776,7 @@ SAShowWarnings
 SATAUAVAWH
 Satisfiable
 Saturation
+SaturationF
 SaveAction
 SaveAndReloadAllDebuggablePluginsVerb
 SaveAndReloadDebuggablePluginVerb
@@ -19830,6 +19838,7 @@ ScaleDragger.rbxm
 ScaleDragger.rbxm_Home
 ScaleDragger.rbxm_Home_Scale
 ScaledSize
+ScaleMaxAudibleSoundChannelsWithCpuUsage
 ScaleStarterCharacter
 ScaleWithParentSize
 ScalingChanged
@@ -21651,6 +21660,7 @@ Studio.App.CloudEditController.JoinTeamTestServer
 Studio.App.CloudEditController.ShutdownServer
 Studio.App.CloudEditController.StartServerAndPlayers
 Studio.App.CloudEditUserData.FailToRestoreCameraPosition
+Studio.App.ColorPreviewWidget.InvalidArgumentsTooltip
 Studio.App.CommandLine.InvalidArgument2
 Studio.App.CommitScriptsDialog.CommitButtonText
 Studio.App.CommitScriptsDialog.CommitMessagePlaceHolderText
@@ -23764,6 +23774,8 @@ StudioUserNotificationReconnectTimerIncrementMs
 StudioUserNotificationTopSubdomain
 StudioUserPreferences
 StudioUseStudioAssert
+StudioUseStudioHttpRequestInAPIUtilities
+StudioUseStudioHttpRequestInPublishedGamesStore
 StudioUseStudioHttpRequestInTemplatePageModel
 StudioUseStudioHttpRequestInUserDataStoreService
 StudioUtilities
@@ -23960,6 +23972,7 @@ SystemOutputView
 SystemPopup
 SystemTimeToFileTime
 SystemUtil
+SYygyR959NSq78
 TabBarModel
 TabBarModel.append
 TabBarTabLabel
@@ -24251,6 +24264,7 @@ TestThrottleFirstBackoffMilliseconds
 TestThrottleMaxBackoffMilliseconds
 TestThrottleThreshold
 TexAtlasUpdateLineHeight
+TEXB9mraYFaF7gq
 TexCompPMAFS
 TexImage2D
 TexImage2DMultisample
@@ -25188,6 +25202,7 @@ TutorialId
 TutorialsDockAction
 TutorialWidgetBackground.png
 TVijpW8m8aLsreZebWfEl5y9RFS7x6WZ555Z6MtZy
+TvlNM6BZIIczd8
 TweenEasingDirection
 TweenEasingStyle
 TweenInfo.new
@@ -25782,6 +25797,8 @@ UrlFormattingOption
 URLHasChineseHost
 UrlMkSetSessionOption
 URobloxApiGame
+URobloxFindColor3ConstructorRequest
+URobloxFindColor3ConstructorResponse
 URobloxFindExecutablePositionRequest
 URobloxFindExecutablePositionResponse
 URobloxRegisterSyntaxCategoriesRequest
@@ -26600,6 +26617,7 @@ VHighlightFormats
 VHingeConstraint
 VHingeTool
 VHopperBin
+VHPddmcfBRYuCapHj5zdAQJiuvqufGh1hlyo1fy
 Vhttp_network_handler
 Vhttp_pipeline
 Vhttp_pipeline_stage
@@ -26881,7 +26899,6 @@ VNotificationService
 VNumberRange
 VNumberSequence
 VNumberSequenceKeypoint
-VO8VvppcN1W
 Voauth2_handler
 VObjectValue
 VogpHgQ70F57MdFiBApyJwNSBk
@@ -27054,6 +27071,7 @@ VRobloxReplicatedStorage
 VRodConstraint
 VRomarkPhaseTrackingJob
 VRopeConstraint
+VrppnuAr1oe4w
 VRRotationIntensity
 VRTouchpad
 VRTouchpadMode
@@ -27124,7 +27142,6 @@ VSingleLocaleTableTranslatorInstance
 VSJitDebugger.exe
 VSkateboardController
 VSkateboardPlatform
-VsKNRECAwEAAQ
 VSlicesParser
 VSlidingBallConstraint
 VSmoothNoOutlinesTool
@@ -27529,6 +27546,7 @@ WidgetFinished
 WidgetHeight
 WidgetItem
 WidgetPluginGuiInfo
+WidgetReplacementSuggested
 WidgetResizable
 WidgetScaleAction
 WidgetToExpandedState
@@ -27620,6 +27638,7 @@ WithSHA224
 WithSHA256
 WithSHA384
 WithSHA512
+WJQndYztxV9jrVYX5sAeNyLn
 WM_ATLGETCONTROL
 WM_ATLGETHOST
 WMCreateProfileManager
@@ -27677,7 +27696,6 @@ WritePluginSettingsFile
 WriteReference
 WriteSelection
 WriteVoxels
-WrjJ92nEsv9yhzw
 WS2_32.dll
 WSAAddressToStringW
 WSASocketW
@@ -27686,6 +27704,7 @@ WSAStartup
 WSAStringToAddressW
 WTHelperGetProvSignerFromChain
 WTHelperProvDataFromStateData
+WwwAfBJ4mnvtrPoiqKQmcD3MekCAwEAAQ
 WWWWWWWWWW
 WWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWW
@@ -27710,6 +27729,8 @@ XAEAVNetworkStream
 XAEAW4AssetType
 XAEBUHttpResponseProxy
 XAEBUPlaceLauncherRequestInfo
+XAEBURobloxFindColor3ConstructorRequest
+XAEBURobloxFindColor3ConstructorResponse
 XAEBURobloxFindExecutablePositionRequest
 XAEBURobloxFindExecutablePositionResponse
 XAEBURobloxSuggestExtraSelectionsRequest
@@ -27875,6 +27896,7 @@ XW4ResultCode
 XW4websocket_close_status
 XW4WebSocketEventType
 XwhvcEikuIaqb7nHhEJ
+XWSXFNgiY7oFBQFOh
 XXXXXXXXXXXXXXXXuuuuuuuuuuuuuuuuppppppppppppppppppppppp
 XZP8CoreGuiService
 XZP8CRenderSettingsItem
@@ -27919,10 +27941,10 @@ Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
 YffYZefYDNNDCOO
+YHMZ1zmb2rXpEEYsDoYagT4UZwzu
 YieldEvent
 YieldFuncDesc
 YieldFunction
-YPLbYU8kjKLo6zT90DOg9oWBF
 YQByteArray
 YResolution
 YwBBvY55YvBBwY5

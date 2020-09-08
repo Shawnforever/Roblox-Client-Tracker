@@ -589,6 +589,7 @@ RBX
 		CmdToggleComment
 		CmdUnfoldAll
 		CmdUnindentSelection
+		ColorPreviewWidget
 		GotoLineDialog
 		HighlightFormatProvider
 		HighlightProvider

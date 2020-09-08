@@ -231,6 +231,7 @@ Studio.App.CloudEditController.JoinTeamTestServer,,Join Team Test Server,Join Te
 Studio.App.CloudEditController.ShutdownServer,,Shutdown Server,Shutdown Server
 Studio.App.CloudEditController.StartServerAndPlayers,,Start Server and Players,Start Server and Players
 Studio.App.CloudEditUserData.FailToRestoreCameraPosition,,Failed to restore camera position: %s,Failed to restore camera position: %s
+Studio.App.ColorPreviewWidget.InvalidArgumentsTooltip,,Invalid arguments to Color3 constructor,Invalid arguments to Color3 constructor
 Studio.App.CommandLine.InvalidArgument2,,Launch Task %1 requires valid %2,Launch Task %1 requires valid %2
 Studio.App.CommitScriptsDialog.CommitButtonText,,Commit,Commit
 Studio.App.CommitScriptsDialog.CommitMessagePlaceHolderText,,Add a comment to describe what changed,Add a comment to describe what changed
