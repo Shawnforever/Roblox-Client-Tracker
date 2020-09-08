@@ -329,6 +329,7 @@ AEBHP6AAEBHPEBH
 AEBIP6AAEBIPEBI
 AEBMP6AAEBMPEBM
 AEBNP6AAEBNPEBN
+AEBPaNXpQJgIs8aiO
 AEBUbtDispatcherInfo
 AEBUClassInfo
 AEBUConnectionStats
@@ -4773,7 +4774,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.448.0.411010
+ByVersion_0.448.0.411013
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -8167,6 +8168,7 @@ DigitalSignature
 DilleniaUPC
 Dimensions
 DimmedText
+DIOBSCNyvWCrvtFglSG32MEfcZ6DYiTxCdKQ
 DiqLimitAct
 DiqLimitEn
 DiqLimitMax
@@ -8323,7 +8325,6 @@ DistributionPoint
 DistributionPoints
 DistToShowBufferCountSqr
 DKECCAK1600_ASM
-DkvHJKsVHpKJ1eSg4WEv4WDVC9x0NXOBFGHQqEJ3bzomzBjKJ47
 DlcVersion
 DListenerAttributes
 DMinMaxDistance
@@ -9249,7 +9250,6 @@ EquippedEmotes
 EquippedEmotesChanged
 EquippedEmotesDataInternal
 ERaknetDeferredQueue
-EREg34D3gljOIjE9Z7bJIyCV28Vp4znREimO6bEV5LMhjJiNMykRf
 ErrDontRetry
 ErrMessage
 Error_AlreadyConnected
@@ -9412,7 +9412,6 @@ EVRConfig_ForceBob
 EVRConfig_ForceHalfInterlace
 EVRConfig_ForceScaling
 EVRConfig_ForceThrottle
-EWrxeuMxuX9PiC7HweCFTGSMKSTbJIz49mHMM6ED37JR
 ExactMatch
 ExceptionAddress
 ExceptionCode
@@ -10056,6 +10055,7 @@ FontMatrix
 FONTNAME_REGISTRY
 FontSizePadding
 FontWeight
+FOo9ijjgRmCrsyjkrUCIiwi
 FootAutomaticToes
 FootBackToAnkle
 FootBottomToAnkle
@@ -11349,7 +11349,6 @@ GoToPreviousScriptLocation
 GoToSourceCodeTB
 GoToVersionFailed
 GpuVariance
-GQetwr4Yh72IEuIYfDn9g2vNmNiwq
 GrabCursor.png
 GrabRotateCursor
 GrabRotateCursor.png
@@ -11688,7 +11687,6 @@ HelpForSelectionAction
 HelpPageLink
 HelpWindow
 HelpWindow.style[
-HH69b2MuliRRmeye5K6O
 HHAEBVQModelIndex
 HHHHHAEBVQString
 HHPEAVQObject
@@ -12658,7 +12656,6 @@ InvokeCallback
 InvokeChatCallback
 InvokeClient
 InvokeGameInvitePromptClosed
-InvokePreloadCallbackFromDMJob
 InvokeServer
 InWithTheNew
 IObjectWithSiteImpl
@@ -12943,7 +12940,6 @@ JumpRequest
 JumpScares
 JumpScaresP2
 JumpToIndex
-JuoA6Gyp3N57dy8Jj
 JustEndedBusy
 JUUserNameResponseHandler
 JW4AppInstallType
@@ -13009,6 +13005,7 @@ KeywordColor
 KeywordFilterType
 KfaO3j5BbG6ijHHxFy22YNNJwxKTT
 KfE9k0uDfE9k
+KFKeZoLz8EoLk2v5GSM
 KFKPKXK`KhK
 KickByDatacenter_
 KiDszBCYB0gyp03Pc
@@ -13093,7 +13090,6 @@ LayoutInfo
 LayoutNode
 LayoutOrder
 LazySubmitTask
-Lb6BlECrHD5wDG0wKIYKoEB8r8yrpXHm3hbjaSiWBcpJECAwEAAQ
 LC_MESSAGES
 LCMapStringW
 LDLBuildProgramTimeReportRate
@@ -13310,7 +13306,6 @@ LightRegular1.033
 LightSource
 LightTheme.json
 LightUserdata
-LIiyLOPpTYNNgZAQm
 LimitedByCongestionControl
 LimitedByOutgoingBandwidthLimit
 LimitReplicatorState
@@ -13607,7 +13602,6 @@ LuaAppConvertUniverseIdToStringV364
 LuaAppDefaultPageOverride
 LuaAppDevSubsEnabled
 LuaAppEnableErrorReporterRateLimit
-LuaAppEnableLuaCatalogPage3
 LuaAppEnableStopWatchReporter
 LuaAppErrorReporterRateLimitIntervalInSec
 LuaAppErrorReporterRateLimitThreshold
@@ -13654,7 +13648,6 @@ LuaAppTopBarFixedAbleToRotateAvatar
 LuaAppUseGameSetTargetId
 LuaAppUseNewNavBar
 LuaBufferText
-LuaCatalogPageDisable3DView
 LuaChatBoldUnreadMessageText
 LuaChatCenterAndroidHeader
 LuaChatFixConversationHubHeaders369
@@ -13729,6 +13722,7 @@ LuauTypeInferTypePackLoopLimit
 LuauWatchdog
 LuaVersion
 LuaWebService
+LuVdfk7rQHLdkHjuw4YGpjR7OPtliKStPs2YeW2iF7TZFhHNTs68iGfZrTIpOSRB
 LVvuOx39]O
 M_NVWeakFunctionRef
 MacGamepadUseGCController
@@ -13911,6 +13905,7 @@ MaxViscousForceGravityTimesMult
 MaxVisibleItems
 MaxWaitTimeBeforeForcePacketProcessMS
 MayBeLinkedSourceModified
+MB0flx5JOgniGedCD1M41N
 MdiControls
 MDIManagerHost
 MEAA_JPEA_W_J
@@ -14390,7 +14385,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAxYhYNamdOEQlvGPQ3qurm5ekJ92KuFGuJmoSxOKm5nX2AAkQPTlk
+MIICCgKCAgEA0t0e1OzpKKExqFa0q3Hbprt2jq5isxn3TeMj4HTqnXKPTSpfgrTK
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -15096,6 +15091,7 @@ NSNNNNNWNa
 NSNNNNNWNSNN_NSNSNSNNNNSNWN`N^^N
 NSNNNNNWNWNNN^^N
 NSNNNNNWNZP[\
+NsuqUbp0ElJDKMrjmJQP
 Ntildesmall
 NullPassword
 NUMBER_OF_ORDERED_STREAMS
@@ -15203,6 +15199,7 @@ OccludeAll
 OccupancyDebugFS
 Ocircumflex
 Ocircumflexsmall
+OcKyTMvpjTJz2a4
 OCSP_basic_add1_status
 OCSP_basic_sign
 OCSP_basic_sign_ctx
@@ -15597,6 +15594,7 @@ OverwriteMode
 OverwritePublish
 OwnProperty
 Ozs8xYCf2Q05p4gHyX
+OZYThFH8Wz
 PA^A]A\_^]
 PA^A]A\_^][
 PA_A^A\_^[]
@@ -16479,7 +16477,6 @@ PerformanceStatsVisibleChanged
 PerformAssetDecryptionOnAnAsyncTask
 PerformAverage
 PerformPurchase
-PerformPurchaseNewBundleInfoTypeEnabled
 PerformRendererTextShearing
 PerformVariance
 PerfPlaytestId
@@ -17458,6 +17455,7 @@ PVInstance
 PVK_header
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
+Pz4wB4RE4By4s7RPaPhgEBtrITTdFOtAUApI2xF
 QAbstractAnimation
 QAbstractButton
 QAbstractConcatenable
@@ -18028,7 +18026,6 @@ QPropertyAnimation
 QProxyStyle
 QPushButton
 QPushButton[default
-QPV8n9IwZhPT
 QQmlContext
 QQmlEngine
 QQmlImageProviderBase
@@ -18267,6 +18264,7 @@ QWheelEvent
 QWidgetAction
 QWidgetPluginGui
 QWidgetWindow
+QYHWqGydIxU90y8ysLUi7y0pkjpyLSQ7bJ9LgLK5NjULsVTUCAwEAAQ
 RadialBlurFS
 RagdollBallSocketConstraint
 RagdollDefaultTimerTenthSecond
@@ -18519,6 +18517,7 @@ RCCUpdateBroadphaseDtAverage
 RCCUpdateBroadphaseDtAverage_Datacenter_
 RccUse64BitAppearanceId
 RcpReferenceTime
+Rd6dwRM7Pox
 ReachActorChest
 ReachActorChestRotation
 ReachActorHead
@@ -19652,7 +19651,6 @@ RowsToRemove
 RowStretch
 RowVisibilityChanged
 RPCServers
-Rr672sUzVMaeonEF2jIhGRI7k4DBMzc0Q2TGgt4JS4HaOfxD
 RRReceiptFail
 RRReceiptTotal
 RRRRRRRRzzzzzzzzzzzzzzzzzz
@@ -19692,6 +19690,7 @@ RSA_verify_PKCS1_PSS_mgf1
 RSAPrivateKey
 RSAPublicKey
 RTDynamicCast
+RtfXl1905T2A9OTRXYh1E43bwVCc5McFxkk5ttKtzui
 RtlCaptureContext
 RtlLookupFunctionEntry
 RtlVirtualUnwind
@@ -21059,6 +21058,7 @@ SplittingCanceled
 SpreadAngle
 SpringConstraint
 SpringConstraintAction
+SqHc1GwYDnQdAXhVHNPZR8L9hkpwod
 SquishCheckState
 SquishRelay
 SQUIshRobloxReflectionExtensionLibrary
@@ -21071,6 +21071,7 @@ SRTP_AEAD_AES_128_GCM
 SRTP_AEAD_AES_256_GCM
 SRTP_AES128_CM_SHA1_32
 SRTP_AES128_CM_SHA1_80
+Ss2xljCqf2nax92oWs80alFjcvuGLQagzcQVday0
 SSAOBlurXFS
 SSAOBlurYFS
 SSAOCompositFS
@@ -23985,6 +23986,7 @@ TakeDamage
 TakenSignal
 TakeScreenshot
 TakeThumbnail
+TAl9lRSdLk8vgqN
 TapAvatarTab
 TapChatTab
 TapConversationEntry
@@ -25375,7 +25377,6 @@ UFileMetadata
 UFMODSystemRelease
 Uforward_traversal_tag
 Uforwarding_posix_time_traits
-UfpgBGQxT2CCpea95LhB2gQpzg8YOhgWcrGy
 UGameIconDescription
 UGCUpdateErrors
 UGCValidationService
@@ -26063,6 +26064,7 @@ UWindowShowMessageRequest
 UWindowShowMessageResponse
 UXImprovementAddSearchBar
 UXImprovementsFixEscKeyClosing
+UYNR8ZxRvQZaO2dTrJiuUcRAD
 V_http_request
 V_http_response
 VABTestEnrollmentsRequest
@@ -26739,7 +26741,6 @@ VInventoryPages
 VIPluginInstancesSource
 VIPServerId
 VIPServerOwnerId
-ViqSYNJqrd
 VIRobloxNetworkReply
 VirtualAlloc
 VirtualFree
@@ -27266,6 +27267,7 @@ VValueBase
 Vvariable_value
 VVariablesItem
 VVariantRowData
+VvbjHm8XaxaLLISF7UsVdrzeY
 VVector2int16
 VVector3int16
 VVectorForce
@@ -27437,7 +27439,6 @@ WeldConstraintRelativeCFrame2
 WeldConstraintTool
 WeldCursor
 WeldsAction
-WELfkUgaokHjA7UEk5YimDZ8GPd8y
 WGL_3DFX_multisample
 WGL_3DL_stereo_control
 WGL_AMD_gpu_association
@@ -27660,7 +27661,6 @@ WorldToScreenPoint
 WorldToViewportPoint
 WP1Lk7UmX3No0NAVVrlNv8vM1TKYodC60fXpXkwOnxGMHelMkfu58xsxIB9tXB4U
 WPACKET_start_sub_packet_len__
-WpZuCBoZgo
 WrappedDevFrameworkLinkText
 WristDisplacementDamping
 WristDisplacementDampingMode
@@ -27682,7 +27682,7 @@ WSASocketW
 WSAstartup
 WSAStartup
 WSAStringToAddressW
-WSKx39ROJfzfLp8Fmqbaka
+WSRa5ihEXzDqTAGanl
 WTHelperGetProvSignerFromChain
 WTHelperProvDataFromStateData
 WWWWWWWWWW
@@ -27880,7 +27880,6 @@ XZP8CRenderSettingsItem
 XZP8GuiObject
 XZP8PlayerGui
 XZP8ScrollingFrame
-XzWBaSLuIo6E6lLzdh
 XZZyexQCL071UIVBQhYMgNB2TrXKT9o9bq8IpYJ
 YA_NAEBVQString
 YA_NHPEBE00
@@ -27924,7 +27923,6 @@ YieldFuncDesc
 YieldFunction
 YQByteArray
 YResolution
-YUDKkp6x6KxaB5tsQkx2RThSv37Q6o
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
 Z_KPEIBX_K_KPEIAU1
@@ -27936,7 +27934,6 @@ ZIndexBehavior
 ZLcJhLcGhM
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
-ZOnD6qrJX4Ii7pO
 ZoomActive
 ZoomOutDistance
 ZoomToExtents
