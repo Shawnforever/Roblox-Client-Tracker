@@ -18,6 +18,9 @@ local RunService = game:GetService("RunService")
 local StarterGui = game:GetService("StarterGui")
 local UserInputService = game:GetService("UserInputService")
 local Workspace = game:GetService("Workspace")
+local GuiService = game:GetService("GuiService")
+
+local FFlagFreecamCanToggleNameplates = game:DefineFastFlag("FreecamCanToggleNameplates", false)
 
 local LocalPlayer = Players.LocalPlayer
 if not LocalPlayer then
@@ -230,6 +233,12 @@ local Input = {} do
 			return Enum.ContextActionResult.Sink
 		end
 
+		local function ToggleHumanoidBillboards(action, state, input)
+			if state == Enum.UserInputState.Begin then
+				GuiService.RenderHumanoidBillboards = not GuiService.RenderHumanoidBillboards
+			end
+		end
+
 		local function Zero(t)
 			for k, v in pairs(t) do
 				t[k] = v*0
@@ -251,6 +260,9 @@ local Input = {} do
 			ContextActionService:BindActionAtPriority("FreecamGamepadButton",     GpButton,   false, INPUT_PRIORITY, Enum.KeyCode.ButtonX, Enum.KeyCode.ButtonY)
 			ContextActionService:BindActionAtPriority("FreecamGamepadTrigger",    Trigger,    false, INPUT_PRIORITY, Enum.KeyCode.ButtonR2, Enum.KeyCode.ButtonL2)
 			ContextActionService:BindActionAtPriority("FreecamGamepadThumbstick", Thumb,      false, INPUT_PRIORITY, Enum.KeyCode.Thumbstick1, Enum.KeyCode.Thumbstick2)
+			if FFlagFreecamCanToggleNameplates then
+				ContextActionService:BindActionAtPriority("FreecamToggleHumanoidBillboards", ToggleHumanoidBillboards, false, INPUT_PRIORITY, Enum.KeyCode.B, Enum.KeyCode.ButtonL1)
+			end
 		end
 
 		function Input.StopCapture()
