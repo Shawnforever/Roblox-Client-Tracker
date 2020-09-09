@@ -4776,7 +4776,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.448.0.411034
+ByVersion_0.448.0.411046
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -7144,7 +7144,6 @@ CustomSort
 CustomStatusAdded
 CustomStatusRemoved
 CustomToolButton
-CWhazYIhND5P3
 CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
@@ -7656,14 +7655,6 @@ DECP_NISTZ256_ASM
 DedicatedSysMem
 DedicatedVidMem
 DEDKDQDSDYDeDoD
-Default[0]ForceFieldHQVS[1]
-Default[0]ForceFieldVS
-Default[0]HQVS
-Default[0]HQVS[1]
-Default[0]ReflectionVS
-Default[0]ReflectionVS[1]
-Default[0]SurfaceHQVS[1]
-Default[0]VS
 DEFAULT_CHAR
 DefaultAlignment
 DefaultArrowTool
@@ -7676,7 +7667,6 @@ DefaultConversionOptions
 DefaultCPercentTenths
 DefaultCustomAnimationType
 DefaultDepth
-DefaultDepth[0]VS
 DefaultDepthFS
 DefaultDepthVS_
 DefaultEditorCloseDialogButton
@@ -7684,15 +7674,11 @@ DefaultEditorDialog
 DefaultFont
 DefaultFontLoadError
 DefaultForceFieldFS
-DefaultForceFieldHQFS[1]
 DefaultForceFieldHQFS_
 DefaultForceFieldHQVS_
-DefaultForceFieldSHQFS[1]
 DefaultForceFieldSHQFS_
 DefaultForceFieldVS_
-DefaultGlassHQFS[1]
 DefaultGlassHQFS_
-DefaultGlassSuperHQFS[1]
 DefaultGlassSuperHQFS_
 DefaultHQVS_
 DefaultInstanceProperties
@@ -7700,22 +7686,15 @@ DefaultLoadingGuiRemoved
 DefaultModelLodFS
 DefaultModelLodVS
 DefaultNeonFS
-DefaultNeonHQFS[1]
 DefaultNeonHQFS_
 DefaultNeonHQInGuiFS
 DefaultNeonInGuiFS
-DefaultNewShadow[0][1]PancakingFallbackVS
-DefaultNewShadow[0][1]VS
-DefaultNewShadow[0][2]FS
-DefaultNewShadow[0][2]PancakingFallbackFS
 DefaultNewShadowFS_
 DefaultNewShadowVS_
 DefaultOpaqueFS
-DefaultOpaqueHQFS[1]
 DefaultOpaqueHQFS_
 DefaultPackageInfo
 DefaultPlasticFS
-DefaultPlasticHQFS[1]
 DefaultPlasticHQFS_
 DefaultPlasticReflectionFS
 DefaultPPercentTenths
@@ -7726,38 +7705,28 @@ DefaultScreenOrientationToPhoneSensor
 DefaultScriptFileDir
 DefaultSectionSize
 DefaultShadowFS
-DefaultShadowGeom[0]VS
 DefaultShadowGeomVS_
 DefaultShortcut
 DefaultsRestored
-DefaultStaticVS
 DefaultStyleSheet
-DefaultSurfaceAppearanceDitheredDepth[0]VS
 DefaultSurfaceAppearanceDitheredDepthFS
 DefaultSurfaceAppearanceDitheredDepthVS_
 DefaultSurfaceAppearanceDitheredFS
-DefaultSurfaceAppearanceDitheredHQFS[1]
 DefaultSurfaceAppearanceDitheredHQFS_
 DefaultSurfaceAppearanceFS
-DefaultSurfaceAppearanceHQFS[1]
 DefaultSurfaceAppearanceHQFS_
 DefaultSurfaceHQVS_
 DefaultsView
 DefaultTextOption
-DefaultTiledHideAllRepHQFS[1]
 DefaultTiledHideAllRepHQFS_
-DefaultTiledHideDiffuseRepHQFS[1]
 DefaultTiledHideDiffuseRepHQFS_
-DefaultTiledHQFS[1]
 DefaultTiledHQFS_
 DefaultTimeoutTimeMs
 DefaultTitle
 DefaultTransparentFS
-DefaultTransparentHQFS[1]
 DefaultTransparentHQFS_
 DefaultVS_
 DefaultWaitTime
-DefaultWangHQFS[1]
 DefaultWangHQFS_
 DefaultWidget
 DeferedChunks
@@ -8170,7 +8139,6 @@ DigestAlgorithm_find_ctx
 DigestAlgorithm_init_bio
 DigestedData_do_final
 DigitalSignature
-DIJA2SFcJDQIlrAMSIulVsoik1b1PC8HEvdfl2Sk1tC4XwU0Dt1
 DilleniaUPC
 Dimensions
 DimmedText
@@ -9242,7 +9210,6 @@ Environment
 EnvironmentDiffuseScale
 EnvironmentSpecularScale
 EnviroSpeed
-EOEjF1kfydFcrT3GADnMsgGKLUiL9fD
 EoOoZoaozo
 EphemeralCounter
 EphemeralCounterInfluxReportingEnabled
@@ -11281,12 +11248,10 @@ GImpactCompound
 GImpactCompoundShape
 GiveFocusBackAfterClickingTextbox
 GizmoRaycast
-GjM8Zihx2IpQpiyV8HNO
 GL_ARB_pixel_buffer_object
 GL_ARB_texture_storage
 GL_EXT_texture_border_clamp
 GL_EXT_texture_compression_s3tc
-Glass[0]VS
 GlassTintFS
 GlobalAdvancedSettings
 GlobalAdvancedSettingsItem
@@ -11827,7 +11792,6 @@ HQFSShadowed
 HQFSShadowedFSM
 HQVSShadowed
 HQVSShadowedFSM
-HtMelGmPRcQDH3YQ
 HtmlEscaped
 Http_Failed
 HTTPAccumulatedBytes
@@ -12194,7 +12158,6 @@ IID_IVPObject
 IID_IVPVBIConfig
 IID_IVPVBINotify
 IID_IVPVBIObject
-IJDnnYLvNAm87320
 IKCollisionsMode
 IkDragCollisionsMode
 IkDraggerAnchorMode
@@ -12310,6 +12273,7 @@ InDataPing
 InDataState
 InDataTeam
 InDataVideo
+IndentActionInContextMenu
 Indentation
 Independent
 InDestructor
@@ -12867,7 +12831,6 @@ JIRA_RIDE_785
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
-JMLBKCsJiO
 JoinBlobInvalidateCountThresholdPercent
 JoinBlobInvalidateThresholdPercent
 JoinCommand
@@ -13020,7 +12983,6 @@ KillPtClicked
 KKKKKKKKKK
 KKKKKKKKKKKK
 KKKKKKKKKKKKKKKKKKKKKK
-KKKWMmN65l3CJu2RVNpfR2XFsYKzELPLL4SUopkbd82YwF31yUOsK1H4DZ6
 KnownHeaders
 KnownPrefixIndex
 KodchiangUPC
@@ -13600,7 +13562,6 @@ Lslashsmall
 LSPColor3Picker
 LSPManager
 LSPObservable
-LSPServerTextCache
 LSPWarning
 LSRemoveFilePathUsingRegEx
 LUA_UNAUTHORIZED_LOG_OUT
@@ -13816,7 +13777,6 @@ MaterialChanges
 MaterialColors
 MaterialCursor
 MaterialGenerator
-MaterialGeneratorRefactorStep2
 MaterialMenu.png
 MaterialPicker
 MaterialPickerForSelection
@@ -13915,6 +13875,7 @@ MaxViscousForceGravityTimesMult
 MaxVisibleItems
 MaxWaitTimeBeforeForcePacketProcessMS
 MayBeLinkedSourceModified
+Mb0mxhIKGWDcUKqZvzZ5Do2H3SXUYuO2MWFDESXAos67Fdh88H5qJD7BAeGwBp
 MdiControls
 MDIManagerHost
 MEAA_JPEA_W_J
@@ -14375,6 +14336,7 @@ MethodQuery
 Metrics.width
 MetricsSets
 MetricType
+MFc1vIHTt7qdcfnjUKg0ME6YeH4ME
 MHapV7R8MxA953
 MicroProfile
 MicroProfileFlip
@@ -14394,7 +14356,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAzBu96Y1XI2I7YW0n7zsoITO51DqVw3Q7f6Sb5cjlfISte9BRqdlk
+MIICCgKCAgEA4ha1fkQMLEc79FtleMMrMOMtp4o5NjuVn58HaH40Wht0hQzqaFMp
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -14430,6 +14392,7 @@ MinutesAfterMidnight
 MinuteTimer
 MinWidthPan
 MirrorMode
+MiRVrUVKiFaUT4zrSYA2itN2p97546RKQET6ZalnR0rIPhS5Q8A
 Miscellaneous
 Mismatched
 MissingCoreScript
@@ -15002,11 +14965,11 @@ NextSelectionRight
 NextSelectionUp
 NextSpawnLocation
 NextTabPage
-NfQR2hO45bA51jh7Pgkd1CHkCau1d0DJ
 NfXf`fhfzf
 NHDHVQChar
 NHVVariant
 NinjaMask.mesh
+NkXC5yrpMZJVGIM
 NNNNNNNNNNNNNNNNNNNNNN
 NNNNNNNSSSSSSSSSSSSSSSSSSSSSS
 NNW4SizeMode
@@ -15156,7 +15119,6 @@ NVWorkspace
 NW4FileSystemDir
 NW4PenStyle
 NW4UserInputType
-NxeYePYiAQUL0UQ5vUz5vxjkHEC
 Oacutesmall
 OAEPEncryptionSET
 OAUTHBEARER
@@ -15239,7 +15201,6 @@ OCSPResponse
 OCSPSigning
 OCTETSTRING
 Odieresissmall
-OeMCHa300kTn
 OfA9HPuHfA9H`uAfA9Hpu
 OfAdmissions
 OfApproval
@@ -15275,7 +15236,6 @@ OfResidence
 OfTimesLooped
 OfTopLevelItem
 OfTruthItemFound
-OgkFaak7Y1rDXsUm7ReB3
 Ogoneksmall
 Ogravesmall
 OGRE_VIEW_UPDATE
@@ -15283,6 +15243,7 @@ OgreWidget
 OgreWidgetForGameState
 OgreWidgetShowEvent
 Oh44\h44\Q
+OhNhh9ZAvsebGNFJ8BepZX
 Ohungarumlaut
 OiCCPPhotoshop
 OldActiveElement
@@ -15294,6 +15255,7 @@ OLEAUT32.dll
 OleInitialize
 OleLockRunning
 OleUninitialize
+OmrS5pid8tF9OkoitPjR0UbGyR4wnXIwY02l39tiea4yD9ocqbLMnbzXpbmlZb3D
 OnAllScriptErrorsAction
 OnBadgeAwarded
 OnboardingsCompleted
@@ -15606,6 +15568,7 @@ OverwriteMode
 OverwritePublish
 OwnProperty
 Ozs8xYCf2Q05p4gHyX
+OztNM9Vll09aH5qLocl
 PA^A]A\_^]
 PA^A]A\_^][
 PA_A^A\_^[]
@@ -17991,6 +17954,7 @@ QJsonDocument
 QJsonObject
 QJsonValue
 QJsonValueRef
+QKD4gFfbkDvrkkDnR2avfEsJH50HDMX6qQB1ZFpQrfjZ35m9coON
 QKeySequence
 QLayoutItem
 QLinearGradient
@@ -18264,6 +18228,7 @@ QUrlTwoFlags
 QValidator
 QVariantAnimation
 QVBoxLayout
+QvdvY3DkuR4IGaI8tmwVBE
 QVersionNumber
 QWebElement
 QWebSocket
@@ -19491,6 +19456,7 @@ RigidBodyLazyUpdating
 RigidityEnabled
 RiseVelocity
 Rj0isQcnqX
+RmU3hOHuowes4LVuSkoIuzKNbELhqsJ3NTehqIuAak
 Roact.createElement
 ROBLOSECURITY
 Roblox.Hybrid
@@ -19661,7 +19627,6 @@ RowsToRemove
 RowStretch
 RowVisibilityChanged
 RPCServers
-RrlRGoamYhryG1E5SDNWq
 RRReceiptFail
 RRReceiptTotal
 RRRRRRRRzzzzzzzzzzzzzzzzzz
@@ -20569,7 +20534,6 @@ ShadowBlurFS
 ShadowBlurMarkFS
 ShadowBlurMarkVS
 ShadowColor
-ShadowedFSM
 ShadowEvsmClearFS
 ShadowEvsmClearVS
 ShadowEvsmCopyFS
@@ -23265,7 +23229,6 @@ StudioBulkImportUploadRetry
 StudioBulkImportUploadSuccess
 StudioBulkImportUploadTrustLimitHIt
 StudioBulkImportUploadWarning
-StudioCallLoadAndRunPluginDirectly
 StudioCameraFocusPartCheckForChange
 StudioCharacterLoadTime
 StudioChat
@@ -23296,6 +23259,7 @@ StudioConsolidateFindScriptFunctions
 StudioCookieConstraintUrlFragment
 StudioCoreScriptBreakpointsNotHitting
 StudioCorrectlyDeprecateProp_UITheme
+StudioCorrectMergeDialogLineNumbers
 StudioCrashLocation
 StudioCrashWhenCharWrappingComplexText
 StudioData
@@ -23972,7 +23936,6 @@ SystemOutputView
 SystemPopup
 SystemTimeToFileTime
 SystemUtil
-SYygyR959NSq78
 TabBarModel
 TabBarModel.append
 TabBarTabLabel
@@ -24264,7 +24227,6 @@ TestThrottleFirstBackoffMilliseconds
 TestThrottleMaxBackoffMilliseconds
 TestThrottleThreshold
 TexAtlasUpdateLineHeight
-TEXB9mraYFaF7gq
 TexCompPMAFS
 TexImage2D
 TexImage2DMultisample
@@ -25202,7 +25164,6 @@ TutorialId
 TutorialsDockAction
 TutorialWidgetBackground.png
 TVijpW8m8aLsreZebWfEl5y9RFS7x6WZ555Z6MtZy
-TvlNM6BZIIczd8
 TweenEasingDirection
 TweenEasingStyle
 TweenInfo.new
@@ -26617,7 +26578,6 @@ VHighlightFormats
 VHingeConstraint
 VHingeTool
 VHopperBin
-VHPddmcfBRYuCapHj5zdAQJiuvqufGh1hlyo1fy
 Vhttp_network_handler
 Vhttp_pipeline
 Vhttp_pipeline_stage
@@ -27071,7 +27031,6 @@ VRobloxReplicatedStorage
 VRodConstraint
 VRomarkPhaseTrackingJob
 VRopeConstraint
-VrppnuAr1oe4w
 VRRotationIntensity
 VRTouchpad
 VRTouchpadMode
@@ -27300,6 +27259,7 @@ VVertexLayoutD3D11
 VVertexLayoutD3D9
 VVertexLayoutGL
 VVertexLayoutVulkan
+VVheu8Ln5M4oEwxeqSMsCAwEAAQ
 VVideoClock
 VVideoFrame
 VVideoParser
@@ -27638,7 +27598,6 @@ WithSHA224
 WithSHA256
 WithSHA384
 WithSHA512
-WJQndYztxV9jrVYX5sAeNyLn
 WM_ATLGETCONTROL
 WM_ATLGETHOST
 WMCreateProfileManager
@@ -27704,7 +27663,6 @@ WSAStartup
 WSAStringToAddressW
 WTHelperGetProvSignerFromChain
 WTHelperProvDataFromStateData
-WwwAfBJ4mnvtrPoiqKQmcD3MekCAwEAAQ
 WWWWWWWWWW
 WWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWW
@@ -27762,6 +27720,7 @@ XboxPresencePolling
 XboxSaleAvatarPackageIds
 XboxUseCuratedGameSort2
 XboxUseNewValidUsernameCheck2
+Xcb5wflVK7769YhVnJMtmnjwbohE5VDJDp1M1GCwoJCQdL3gHbDS9mEgoD3QOqj
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XGetLastError
@@ -27896,8 +27855,8 @@ XW4ResultCode
 XW4websocket_close_status
 XW4WebSocketEventType
 XwhvcEikuIaqb7nHhEJ
-XWSXFNgiY7oFBQFOh
 XXXXXXXXXXXXXXXXuuuuuuuuuuuuuuuuppppppppppppppppppppppp
+XyuLXSbKIfuhLlzu6cbkfXnrbYHdYuePjsRMBHW0eXpbhO7KIpi4fHBzFKIQV
 XZP8CoreGuiService
 XZP8CRenderSettingsItem
 XZP8GuiObject
@@ -27941,7 +27900,6 @@ Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
 YffYZefYDNNDCOO
-YHMZ1zmb2rXpEEYsDoYagT4UZwzu
 YieldEvent
 YieldFuncDesc
 YieldFunction
@@ -27955,6 +27913,7 @@ Zdotaccent
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
+ZJkdwy8XV60vvKm2b
 ZLcJhLcGhM
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
